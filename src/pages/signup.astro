@@ -1,0 +1,48 @@
+---
+import Divider from '../components/AuthenticationFlow/Divider.astro';
+import { EmailSignupForm } from '../components/AuthenticationFlow/EmailSignupForm';
+import { GitHubButton } from '../components/AuthenticationFlow/GitHubButton';
+import { GoogleButton } from '../components/AuthenticationFlow/GoogleButton';
+import { LinkedInButton } from '../components/AuthenticationFlow/LinkedInButton';
+import AccountLayout from '../layouts/AccountLayout.astro';
+---
+
+<AccountLayout
+  title='Agza bolmak'
+  description='Täze hasap dörediň!'
+  permalink={'/signup'}
+  noIndex={true}
+>
+  <div class='container'>
+    <div
+      class='mx-auto flex flex-col items-start justify-start pb-28 pt-10 sm:max-w-[400px] sm:items-center sm:justify-center sm:pt-20'
+    >
+      <div class='mb-2 text-left sm:mb-5 sm:text-center'>
+        <h1 class='mb-2 text-3xl font-semibold sm:mb-5 sm:text-5xl'>Agza bolmak</h1>
+        <p class='mb-3 hidden text-base leading-6 text-gray-600 sm:block'>
+          Täze hasap döretmek
+        </p>
+        <p class='mb-3 block text-sm text-gray-600 sm:hidden'>
+          Täze hasap döretmek
+        </p>
+      </div>
+
+      <div class='flex w-full flex-col items-stretch gap-2'>
+        <GitHubButton client:load />
+        <GoogleButton client:load />
+        <LinkedInButton client:load />
+      </div>
+
+      <Divider />
+
+      <EmailSignupForm client:load />
+
+      <div class='mt-6 text-center text-sm text-slate-600'>
+        Öň hasabyň barmy? <a
+          href='/login'
+          class='font-medium text-blue-700 hover:text-blue-600'>Içeri girmek</a
+        >
+      </div>
+    </div>
+  </div>
+</AccountLayout>

@@ -1,0 +1,35 @@
+---
+import {
+  getRoadmapTopicFiles,
+  type RoadmapTopicFileType,
+} from '../../lib/roadmap-topic';
+
+export async function getStaticPaths() {
+  const topicPathMapping = await getRoadmapTopicFiles();
+
+  return Object.keys(topicPathMapping).map((topicSlug) => {
+    const topicDetails = topicPathMapping[topicSlug];
+    const roadmapId = topicDetails.roadmapId;
+    const topicId = topicSlug.replace(`/${roadmapId}/`, '');
+
+    return {
+      params: {
+        topicId,
+        roadmapId,
+      },
+      props: topicDetails,
+    };
+  });
+}
+
+export const partial = true;
+
+const { file } =
+  Astro.props as RoadmapTopicFileType;
+
+const gitHubUrl = `#`;
+---
+
+<div data-github-url={gitHubUrl}></div>
+
+<file.Content />

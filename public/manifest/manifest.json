@@ -1,0 +1,27 @@
+{
+  "dir": "ltr",
+  "lang": "tm",
+  "name": "SanlyÝörelge",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "#",
+  "short_name": "SanlyÝörelge",
+  "theme_color": "#808080",
+  "description": "Ýaş hünärmenlere IT ulgamynda ugrukdyryjy ýol bu – SanlyÝörelge",
+  "orientation": "any",
+  "background_color": "#fceaea",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/manifest/icon152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/manifest/icon196.png",
+      "sizes": "196x196",
+      "type": "image/png"
+    }
+  ]
+}

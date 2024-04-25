@@ -1,0 +1,24 @@
+---
+import GuideHeader from '../../components/GuideHeader.astro';
+import MarkdownFile from '../../components/MarkdownFile.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getGuideById, type GuideFileType } from '../../lib/guide';
+
+const guideId = 'backend-languages';
+const guide = await getGuideById('backend-languages');
+
+// Check if guide is undefined before accessing its properties
+const guideData = guide?.frontmatter;
+
+<BaseLayout
+  title={guideData?.seo.title ?? ''}
+  description={guideData?.seo.description ?? ''}
+  permalink={`/guides/${guideId}`}
+  canonicalUrl={guideData?.canonicalUrl ?? ''}
+>
+  <GuideHeader guide={guide as GuideFileType} />
+
+  <div class='mx-auto max-w-[700px] py-5 sm:py-10'>
+    {guideData && <MarkdownFile>{<guide.Content />}</MarkdownFile>}
+  </div>
+</BaseLayout>

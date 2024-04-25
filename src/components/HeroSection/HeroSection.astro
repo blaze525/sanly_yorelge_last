@@ -1,0 +1,33 @@
+---
+import { FavoriteRoadmaps } from './FavoriteRoadmaps';
+import {TeamAnnouncement} from "../TeamAnnouncement";
+---
+
+<div
+  class='min-h-auto relative min-h-[192px] border-b border-b-[#1e293c] sm:min-h-[281px] transition-all'
+>
+  <div
+    class='container px-5 py-6 pb-14 text-left transition-opacity duration-300 sm:px-0 sm:py-20 sm:text-center'
+    id='hero-text'
+  >
+    <p class='-mt-4 sm:-mt-10 mb-7'>
+      <TeamAnnouncement />
+    </p>
+
+    <h1
+      class='mb-2 bg-gradient-to-b from-amber-50 to-purple-500 bg-clip-text text-2xl font-bold text-transparent sm:mb-4 sm:text-5xl'
+    >
+      Sanly Ýörelge
+    </h1>
+
+    <p class='hidden px-4 text-lg text-gray-400 sm:block'>
+      <span class='font-medium text-gray-400'>bu ulgam - IT - </span>ulgamynda ýaşlara döredijilikde ýol saýlamaga we okuwlaryna ugrukdyrmaga 
+      kömek etmek üçin ýol ýörelge, gollanma hökmünde we ylymly, bilimli bolup ýetişmekleri üçin niýetlenen.
+    </p>
+
+    <p class='text-md block px-0 text-gray-400 sm:hidden'>
+      Köpçülikleýin paýlaşma.
+    </p>
+  </div>
+  <FavoriteRoadmaps client:only='react' />
+</div>
