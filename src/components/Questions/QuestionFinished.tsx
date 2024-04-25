@@ -57,29 +57,29 @@ export function QuestionFinished(props: QuestionFinishedProps) {
         Soragnama tamamlandy
       </h1>
       <p className="mt-0 text-sm text-gray-500 sm:mt-2 sm:text-base">
-        Click below revisit{' '}
-        <span className="hidden sm:inline">bellen ýa-da ähli soraglar</span>{' '}
+        Netijeleri görmek üçin basyň,{' '}
+        <span className="hidden sm:inline">bellenenler ýa-da ähli soraglar barada</span>{' '}
         <span className="inline sm:hidden">soraglar</span>
       </p>
 
       <div className="mb-5 mt-5 flex w-full flex-col gap-1.5 px-2 sm:flex-row sm:gap-3 sm:px-16">
         <ProgressStatButton
           icon={<ThumbsUp className="mr-1 h-4" />}
-          label="Knew"
+          label="Dogry jogap"
           count={knowCount}
           isDisabled={knowCount === 0}
           onClick={() => onReset('know')}
         />
         <ProgressStatButton
           icon={<Sparkles className="mr-1 h-4" />}
-          label="Learned"
+          label="Öwrenmeli"
           count={didNotKnowCount}
           isDisabled={didNotKnowCount === 0}
           onClick={() => onReset('dontKnow')}
         />
         <ProgressStatButton
           icon={<SkipForward className="mr-1 h-4" />}
-          label="Skipped"
+          label="Geçilenler"
           count={skippedCount}
           isDisabled={skippedCount === 0}
           onClick={() => onReset('skip')}

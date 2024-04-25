@@ -255,7 +255,7 @@ export function QuestionsList(props: QuestionsListProps) {
           className="flex flex-1 items-center rounded-md border border-gray-300 bg-white px-2 py-2 text-sm text-black transition-colors hover:border-black hover:bg-black hover:text-white disabled:pointer-events-none disabled:opacity-50 sm:rounded-lg sm:px-4 sm:py-3 sm:text-base"
         >
           <CheckCircle className="mr-1 h-4 text-current" />
-          Eýýäm bellenilen
+          Bellemek
         </button>
         <button
           onClick={() => {

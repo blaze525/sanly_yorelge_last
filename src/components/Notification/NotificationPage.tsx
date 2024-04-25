@@ -72,8 +72,8 @@ export function NotificationPage() {
   return (
     <div>
       <div className="mb-8 hidden md:block">
-        <h2 className="text-3xl font-bold sm:text-4xl">Notification</h2>
-        <p className="mt-2 text-gray-400">Manage your notifications</p>
+        <h2 className="text-3xl font-bold sm:text-4xl">Duýduryş</h2>
+        <p className="mt-2 text-gray-400">Öz şahsy Duýduryşlaryňyzy dörediň</p>
       </div>
       {notifications.length === 0 && (
         <div className="mt-6 flex items-center justify-center">

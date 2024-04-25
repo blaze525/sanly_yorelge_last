@@ -44,7 +44,7 @@ export function QuestionsProgress(props: QuestionsProgressProps) {
       <div className="relative -left-1 flex flex-col gap-2 text-sm text-black sm:flex-row sm:gap-3">
         <span className="flex items-center">
           <CheckCircle className="mr-1 h-4" />
-          <span>Bilinenler</span>
+          <span>Bellenenler</span>
           <span className="ml-2 rounded-md bg-gray-200/80 px-1.5 font-medium text-black">
             <span className="tabular-nums">{knowCount}</span>{' '}
             <span className="hidden lg:inline">Soraglar</span>
@@ -54,7 +54,7 @@ export function QuestionsProgress(props: QuestionsProgressProps) {
 
         <span className="flex items-center">
           <Sparkles className="mr-1 h-4" />
-          <span>Bellenilen</span>
+          <span>Bellenilmedik</span>
           <span className="ml-2 rounded-md bg-gray-200/80 px-1.5 font-medium text-black">
             <span className="tabular-nums">{didNotKnowCount}</span>{' '}
             <span className="hidden lg:inline">Soraglar</span>
