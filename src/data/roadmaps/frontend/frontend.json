@@ -70,7 +70,7 @@
                   "x": "18",
                   "y": "19",
                   "properties": {
-                    "text": "For resources and other roadmaps",
+                    "text": "Giňişleýin maglumat üçin şu salga",
                     "size": "18"
                   }
                 },
@@ -85,7 +85,7 @@
                   "x": "18",
                   "y": "52",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:localhost:3000"
                   },
                   "children": {
                     "controls": {
@@ -100,7 +100,7 @@
                           "x": "0",
                           "y": "0",
                           "properties": {
-                            "text": "https://roadmap.sh",
+                            "text": "https://sanlyyorelge.tm",
                             "color": "10027263",
                             "size": "20"
                           }
@@ -151,7 +151,7 @@
                           "y": "11",
                           "properties": {
                             "color": "16777215",
-                            "text": "Visit the Beginner Version",
+                            "text": "Giňişleýin maglumat al",
                             "size": "18"
                           }
                         }
@@ -170,7 +170,7 @@
                   "y": "92",
                   "properties": {
                     "color": "4985136",
-                    "text": "Are you just getting started?",
+                    "text": "ýüzlenip bilersiňiz.",
                     "size": "18"
                   }
                 }
@@ -244,7 +244,7 @@
                   "y": "21",
                   "properties": {
                     "size": "16",
-                    "text": "Personal Recommendation / Opinion"
+                    "text": "Maslahat berilýär"
                   }
                 },
                 {
@@ -257,7 +257,7 @@
                   "y": "118",
                   "properties": {
                     "size": "16",
-                    "text": "I wouldn't recommend"
+                    "text": "Maslahat berilmeýär"
                   }
                 },
                 {
@@ -287,7 +287,7 @@
                   "y": "86",
                   "properties": {
                     "size": "16",
-                    "text": "Order in roadmap not strict (Learn anytime)"
+                    "text": "Goşmaça öwrenmek maslahat berilýär"
                   }
                 },
                 {
@@ -332,7 +332,7 @@
                   "y": "54",
                   "properties": {
                     "size": "16",
-                    "text": "Alternative Option - Pick this or purple"
+                    "text": "Alternatiw görnüş maslahat berilýär"
                   }
                 },
                 {
@@ -536,7 +536,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "How does the internet work?"
+                    "text": "Internet nähili işleýär?"
                   }
                 },
                 {
@@ -616,7 +616,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "What is HTTP?"
+                    "text": "HTTP bu näme?"
                   }
                 },
                 {
@@ -696,7 +696,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Browsers and how they work?"
+                    "text": "Browser bu nähili işleýär?"
                   }
                 },
                 {
@@ -776,7 +776,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "DNS and how it works?"
+                    "text": "DNS nähili işleýär?"
                   }
                 },
                 {
@@ -856,7 +856,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "What is Domain Name?"
+                    "text": "Domain ady bu näme?"
                   }
                 },
                 {
@@ -936,7 +936,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "What is hosting?"
+                    "text": "Hosting bu näme?"
                   }
                 },
                 {
@@ -1309,7 +1309,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Learn the basics"
+                    "text": "Struktura öwrenmek"
                   }
                 },
                 {
@@ -1389,7 +1389,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Writing Semantic HTML"
+                    "text": "Semantiki HTML öwrenmek"
                   }
                 },
                 {
@@ -1469,7 +1469,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Forms and Validations"
+                    "text": "Form-lar we Walidatorlar"
                   }
                 },
                 {
@@ -1549,7 +1549,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Accessibility"
+                    "text": "Elýeterlilik"
                   }
                 },
                 {
@@ -1629,7 +1629,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "SEO Basics"
+                    "text": "SEO struktura"
                   }
                 },
                 {
@@ -1911,7 +1911,7 @@
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Making Layouts"
+                    "text": "Tertibini düzmek"
                   }
                 },
                 {
@@ -1989,7 +1989,7 @@
                   "x": "37",
                   "y": "12",
                   "properties": {
-                    "text": "Learn the basics",
+                    "text": "Struktura öwrenmek",
                     "size": "17"
                   }
                 },
@@ -2069,7 +2069,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Responsive Design"
+                    "text": "Responsiw dizaýn"
                   }
                 },
                 {
@@ -2318,7 +2318,7 @@
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Learn the Basics"
+                    "text": "Struktura öwrenmek"
                   }
                 },
                 {
@@ -2398,7 +2398,7 @@
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Learn DOM Manipulation"
+                    "text": "DOM Manipulýasiýa öwren"
                   }
                 },
                 {
@@ -2586,7 +2586,7 @@
                   "x": "28",
                   "y": "12",
                   "properties": {
-                    "text": "Version Control Systems",
+                    "text": "Taslama dolandyryş ulgamlar",
                     "size": "17"
                   }
                 }
@@ -3154,7 +3154,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Web Security Basics"
+                    "text": "Web goraglylyk öwren"
                   }
                 },
                 {
@@ -3441,7 +3441,7 @@
                   "x": "41",
                   "y": "12",
                   "properties": {
-                    "text": "Content Security Policy",
+                    "text": "Mazmun goraglylyk",
                     "size": "17"
                   }
                 },
@@ -3537,7 +3537,7 @@
                   "x": "44",
                   "y": "12",
                   "properties": {
-                    "text": "OWASP Security Risks",
+                    "text": "OWASP goraglylyk",
                     "size": "17"
                   }
                 },
@@ -3694,7 +3694,7 @@
                   "x": "31",
                   "y": "14",
                   "properties": {
-                    "text": "Package Managers",
+                    "text": "Paket dolandyryjylary",
                     "size": "17"
                   }
                 }
@@ -4010,7 +4010,7 @@
                   "x": "33",
                   "y": "12",
                   "properties": {
-                    "text": "CSS Preprocessors",
+                    "text": "CSS öňünden dörediji",
                     "size": "17"
                   }
                 }
@@ -4247,7 +4247,7 @@
                   "x": "22",
                   "y": "12",
                   "properties": {
-                    "text": "CSS Architecture",
+                    "text": "CSS Arhitektura",
                     "size": "17"
                   }
                 }
@@ -4405,7 +4405,7 @@
                   "y": "14",
                   "properties": {
                     "size": "17",
-                    "text": "Pick a Framework"
+                    "text": "Framework saýlamak"
                   }
                 }
               ]
@@ -4972,7 +4972,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Writing CSS"
+                    "text": "CSS döretmek"
                   }
                 }
               ]
@@ -5327,7 +5327,7 @@
                   "y": "22",
                   "properties": {
                     "size": "18",
-                    "text": "We have trimmed down the CSS part for the sake of brevity."
+                    "text": "{color:purple}CSS in JS{color} öwrenmek we has-da kämilleşmeklik üçin"
                   }
                 },
                 {
@@ -5340,7 +5340,7 @@
                   "y": "53",
                   "properties": {
                     "size": "18",
-                    "text": "However, I would recommend reading about {color:purple}CSS in JS{color}, "
+                    "text": " köp okamak maslahat berilýär, mundan başga-da  "
                   }
                 },
                 {
@@ -5366,7 +5366,7 @@
                   "y": "115",
                   "properties": {
                     "size": "18",
-                    "text": "and look into different frameworks with pre-built components"
+                    "text": ""
                   }
                 },
                 {
@@ -5379,7 +5379,7 @@
                   "y": "146",
                   "properties": {
                     "size": "18",
-                    "text": "such as {color:blue}MUI{color}, {color:purple}daisyUI{color}, {color:purple}Chakra UI{color} and {color:purple}Mantine{color}."
+                    "text": "şeýle-de {color:blue}MUI{color}, {color:purple}daisyUI{color}, {color:purple}Chakra UI{color} we {color:purple}Mantine{color}."
                   }
                 }
               ]
@@ -5632,7 +5632,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Linters and Formatters"
+                    "text": "Linterler we Formatter-lar"
                   }
                 }
               ]
@@ -5868,7 +5868,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Build Tools"
+                    "text": "Gurujy gurallar"
                   }
                 }
               ]
@@ -5915,7 +5915,7 @@
                   "y": "14",
                   "properties": {
                     "size": "17",
-                    "text": "Task Runners"
+                    "text": "Işe göýberiji gurallar"
                   }
                 }
               ]
@@ -5962,7 +5962,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "npm scripts"
+                    "text": "npm script-ler"
                   }
                 },
                 {
@@ -6901,7 +6901,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Testing your Apps"
+                    "text": "Programma TEST"
                   }
                 }
               ]
@@ -7028,7 +7028,7 @@
           "y": "2051",
           "properties": {
             "size": "17",
-            "text": "and {color:purple}Functional{color} tests and learn how to write"
+            "text": "we {color:purple}Functional{color} TEST etmekligiň arasynda "
           }
         },
         {
@@ -7042,7 +7042,7 @@
           "y": "2080",
           "properties": {
             "size": "17",
-            "text": "them with the tools listed on the right."
+            "text": "näme tapawutlar bar öwreniň."
           }
         },
         {
@@ -7056,7 +7056,7 @@
           "y": "2021",
           "properties": {
             "size": "17",
-            "text": "Learn the difference between {color:purple}Unit{color}, {color:purple}Integration{color}, "
+            "text": " {color:purple}Unit{color}, {color:purple}Integration{color}, "
           }
         },
         {
@@ -7403,7 +7403,7 @@
                   "y": "16",
                   "properties": {
                     "size": "20",
-                    "text": "Authentication Strategies"
+                    "text": "Autentifikasiýa Strategiýalar"
                   }
                 },
                 {
@@ -7416,7 +7416,7 @@
                   "y": "46",
                   "properties": {
                     "size": "17",
-                    "text": "JWT, OAuth, SSO, Basic Auth, Session Auth etc"
+                    "text": "JWT, OAuth, SSO, Basic Auth, Session Auth"
                   }
                 }
               ]
@@ -7772,7 +7772,7 @@
                   "y": "23",
                   "properties": {
                     "size": "17",
-                    "text": "Web Components"
+                    "text": "Web Component-lar"
                   }
                 },
                 {
@@ -7852,7 +7852,7 @@
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "HTML Templates"
+                    "text": "HTML Template-lar"
                   }
                 },
                 {
@@ -7932,7 +7932,7 @@
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Custom Elements"
+                    "text": "Hususy Element-lar"
                   }
                 },
                 {
@@ -8181,7 +8181,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Type Checkers"
+                    "text": "Type barlaýjylar"
                   }
                 },
                 {
@@ -9881,7 +9881,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Progressive Web Apps"
+                    "text": "Täze web sahypalar"
                   }
                 },
                 {
@@ -9959,7 +9959,7 @@
                   "properties": {
                     "align": "center",
                     "color": "16776960",
-                    "text": "Service Workers",
+                    "text": "Service işledijiler",
                     "size": "18"
                   }
                 }
@@ -9995,7 +9995,7 @@
                   "properties": {
                     "align": "center",
                     "color": "16776960",
-                    "text": "Storage",
+                    "text": "Ýat ýeri",
                     "size": "18"
                   }
                 }
@@ -10067,7 +10067,7 @@
                   "properties": {
                     "align": "center",
                     "color": "16770457",
-                    "text": "Notifications",
+                    "text": "Duýduryşlar",
                     "size": "18"
                   }
                 }
@@ -10103,7 +10103,7 @@
                   "properties": {
                     "align": "center",
                     "color": "16770457",
-                    "text": "Device Orientation",
+                    "text": "Enjam Oriýentasiýa",
                     "size": "18"
                   }
                 }
@@ -10139,7 +10139,7 @@
                   "properties": {
                     "align": "center",
                     "color": "16770457",
-                    "text": "Payments",
+                    "text": "Töleg proseslar",
                     "size": "18"
                   }
                 }
@@ -10175,7 +10175,7 @@
                   "properties": {
                     "align": "center",
                     "color": "16770457",
-                    "text": "Credentials",
+                    "text": "Şahsyýetnamalar",
                     "size": "18"
                   }
                 }
@@ -10211,7 +10211,7 @@
                   "properties": {
                     "align": "center",
                     "color": "16776960",
-                    "text": "Web Sockets",
+                    "text": "Web Socket-lar",
                     "size": "18"
                   }
                 }
@@ -10230,7 +10230,7 @@
           "y": "2862",
           "properties": {
             "size": "17",
-            "text": "Learn different Web"
+            "text": "Başgada şulary öwreniň"
           }
         },
         {
@@ -10244,7 +10244,7 @@
           "y": "2888",
           "properties": {
             "size": "17",
-            "text": "APIs used in PWAs"
+            "text": "'API' 'PWA'-da ulanylyşy"
           }
         },
         {
@@ -10307,7 +10307,7 @@
                   "properties": {
                     "align": "center",
                     "color": "16776960",
-                    "text": "Server Sent Events",
+                    "text": "Loglary Servere ugradyjy",
                     "size": "18"
                   }
                 }
@@ -10355,7 +10355,7 @@
                     "align": "center",
                     "color": "16776960",
                     "size": "18",
-                    "text": "PRPL Pattern"
+                    "text": "PRPL çyzgy"
                   }
                 }
               ]
@@ -10427,7 +10427,7 @@
                     "align": "center",
                     "color": "16776960",
                     "size": "18",
-                    "text": "Performance Metrics"
+                    "text": "Öndürijilik ölçegleri"
                   }
                 }
               ]
@@ -10463,7 +10463,7 @@
                     "align": "center",
                     "color": "16776960",
                     "size": "18",
-                    "text": "Using Lighthouse"
+                    "text": "Lighthouse ulanylyşy"
                   }
                 }
               ]
@@ -10499,7 +10499,7 @@
                     "align": "center",
                     "color": "16776960",
                     "size": "18",
-                    "text": "Using DevTools"
+                    "text": "DevTools ulanylyşy"
                   }
                 }
               ]
@@ -10517,7 +10517,7 @@
           "y": "2714",
           "properties": {
             "size": "17",
-            "text": "Calculating, Measuring"
+            "text": "Hasaplamak, Ölçemek"
           }
         },
         {
@@ -10531,7 +10531,7 @@
           "y": "2741",
           "properties": {
             "size": "17",
-            "text": "and improving performance"
+            "text": "we öndürijiligini ýokarlandyrmak"
           }
         },
         {
@@ -10577,7 +10577,7 @@
           "x": "409",
           "y": "2785",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/best-practices/frontend-performance"
+            "controlName": "ext_link:loсalhost:3000/best-practices/frontend-performance"
           },
           "children": {
             "controls": {
@@ -10607,7 +10607,7 @@
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Performance Best Practices",
+                    "text": "Goşmaça maglumatlar üçin",
                     "color": "16777215"
                   }
                 }
@@ -10655,7 +10655,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Static Site Generators"
+                    "text": "Statiki Saýt Generatorlar"
                   }
                 },
                 {
@@ -11558,7 +11558,7 @@
                   "x": "30",
                   "y": "12",
                   "properties": {
-                    "text": "Mobile Applications",
+                    "text": "Mobil Programmalar",
                     "size": "17"
                   }
                 },
@@ -11957,7 +11957,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Desktop Applications"
+                    "text": "Desktop Programmalar"
                   }
                 },
                 {
@@ -12485,7 +12485,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Bonus Content"
+                    "text": "Bonus Kontent"
                   }
                 },
                 {
@@ -12545,7 +12545,7 @@
           "y": "3281",
           "properties": {
             "size": "17",
-            "text": "Continue Learning with following relevant tracks"
+            "text": "Şulary öwrenmegi dowam etdiriň we netije gazanyň"
           }
         },
         {
@@ -12559,7 +12559,7 @@
           "x": "873",
           "y": "3318",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/nodejs"
+            "controlName": "ext_link:https://localhost:3000/nodejs"
           },
           "children": {
             "controls": {
@@ -12588,7 +12588,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Node.js Roadmap"
+                    "text": "Node.js"
                   }
                 }
               ]
@@ -12606,7 +12606,7 @@
           "x": "665",
           "y": "3318",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/typescript"
+            "controlName": "ext_link:http://localhost:3000/typescript"
           },
           "children": {
             "controls": {
@@ -12635,7 +12635,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "TypeScript Roadmap"
+                    "text": "TypeScript"
                   }
                 }
               ]

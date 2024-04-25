@@ -15,13 +15,13 @@ import { AccountDropdown } from './AccountDropdown';
     <!-- Desktop navigation items -->
     <ul class='hidden space-x-4 sm:flex sm:items-center'>
       <li>
-        <a href='/roadmaps' class='text-gray-400 hover:text-white'>Ýörelge</a>
+        <a href='/roadmaps' class='text-gray-400 hover:text-white'>Sanly Ýörelge</a>
       </li>
-      <li>
+      <!-- <li>
         <a href='/best-practices' class='text-gray-400 hover:text-white'
           >Tejribelik</a
         >
-      </li>
+      </li> -->
       <li class='hidden xl:inline'>
         <a href='/questions' class='text-gray-400 hover:text-white'>Özüňi syna</a
         >
@@ -56,7 +56,7 @@ import { AccountDropdown } from './AccountDropdown';
     </ul>
     <ul class='hidden h-8 w-[172px] items-center justify-end gap-5 sm:flex'>
       <li data-guest-required class='hidden'>
-        <a href='/login' class='text-gray-400 hover:text-white'>Girmek</a>
+        <a href='/login' class='text-gray-400 hover:text-white'>Içeri gir</a>
       </li>
       <li>
         <AccountDropdown client:only='react' />
@@ -95,17 +95,17 @@ import { AccountDropdown } from './AccountDropdown';
       <ul class='flex w-full flex-col items-center gap-2 md:gap-3'>
         <li>
           <a href='/roadmaps' class='text-xl hover:text-blue-300 md:text-lg'>
-            Ýörelge
+            Sanly Ýörelge
           </a>
         </li>
-        <li>
+        <!-- <li>
           <a
             href='/best-practices'
             class='text-xl hover:text-blue-300 md:text-lg'
           >
             Tejribelik
           </a>
-        </li>
+        </li> -->
         <!-- <li>
           <a href='/guides' class='text-xl hover:text-blue-300 md:text-lg'>
             Ýollanma
