@@ -98,10 +98,10 @@
                   "zOrder": "1",
                   "measuredW": "155",
                   "measuredH": "25",
-                  "x": "29",
+                  "x": "19",
                   "y": "9",
                   "properties": {
-                    "text": "Migration Strategies",
+                    "text": "Migrasiýa strategiýalary",
                     "size": "17"
                   }
                 }
@@ -142,11 +142,11 @@
                   "zOrder": "1",
                   "measuredW": "151",
                   "measuredH": "25",
-                  "x": "29",
+                  "x": "24",
                   "y": "156",
                   "properties": {
                     "size": "17",
-                    "text": "Difference + Usage"
+                    "text": "Tapawudy + Ulanylyşy "
                   }
                 },
                 {
@@ -169,11 +169,11 @@
                   "zOrder": "3",
                   "measuredW": "121",
                   "measuredH": "25",
-                  "x": "44",
+                  "x": "74",
                   "y": "22",
                   "properties": {
                     "size": "17",
-                    "text": "Instrumentation"
+                    "text": "Gurallar"
                   }
                 },
                 {
@@ -223,11 +223,11 @@
                   "zOrder": "7",
                   "measuredW": "76",
                   "measuredH": "25",
-                  "x": "67",
+                  "x": "60",
                   "y": "112",
                   "properties": {
                     "size": "17",
-                    "text": "Telemetry"
+                    "text": "Telemetriýa"
                   }
                 }
               ]
@@ -413,11 +413,11 @@
                   "zOrder": "1",
                   "measuredW": "120",
                   "measuredH": "25",
-                  "x": "40",
+                  "x": "10",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Real-Time Data"
+                    "text": "'Real-Time' maglumatlar"
                   }
                 }
               ]
@@ -850,7 +850,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Design and Development Principles"
+                    "text": "Programma we onuň ösüş ýörelgeleri"
                   }
                 }
               ]
@@ -2233,7 +2233,7 @@
                   "x": "17",
                   "y": "13",
                   "properties": {
-                    "text": "Architectural Patterns",
+                    "text": "Arhitektura Çyzgylary",
                     "size": "17"
                   }
                 }
@@ -2278,11 +2278,11 @@
                   "w": "123",
                   "measuredW": "123",
                   "measuredH": "25",
-                  "x": "39",
+                  "x": "09",
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Monolithic Apps"
+                    "text": "Monolitik Programmalar"
                   }
                 },
                 {
@@ -2362,7 +2362,7 @@
                   "y": "6",
                   "properties": {
                     "size": "17",
-                    "text": "Microservices"
+                    "text": "Mikroserwisler"
                   }
                 },
                 {
@@ -2438,7 +2438,7 @@
                   "w": "38",
                   "measuredW": "34",
                   "measuredH": "25",
-                  "x": "103",
+                  "x": "83",
                   "y": "6",
                   "properties": {
                     "size": "17",
@@ -2522,7 +2522,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Message Brokers"
+                    "text": "Message Broker-lar"
                   }
                 }
               ]
@@ -2568,7 +2568,7 @@
                   "x": "28",
                   "y": "13",
                   "properties": {
-                    "text": "Containerization vs Virtualization",
+                    "text": "Konteýnirleme we Wirtuallaşdyrma",
                     "size": "17"
                   }
                 }
@@ -2612,10 +2612,10 @@
                   "zOrder": "1",
                   "measuredW": "98",
                   "measuredH": "25",
-                  "x": "50",
+                  "x": "40",
                   "y": "13",
                   "properties": {
-                    "text": "Web Servers",
+                    "text": "Web Serwerler",
                     "size": "17"
                   }
                 }
@@ -3466,7 +3466,7 @@
                   "x": "33",
                   "y": "13",
                   "properties": {
-                    "text": "Caching",
+                    "text": "Keşleme",
                     "size": "17"
                   }
                 }
@@ -3898,7 +3898,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Relational Databases"
+                    "text": "Relational Databazalar"
                   }
                 }
               ]
@@ -4423,7 +4423,7 @@
                   "x": "35",
                   "y": "12",
                   "properties": {
-                    "text": "NoSQL Databases",
+                    "text": "NoSQL Databazalar",
                     "size": "17"
                   }
                 }
@@ -4547,10 +4547,10 @@
                   "zOrder": "1",
                   "measuredW": "176",
                   "measuredH": "25",
-                  "x": "18",
+                  "x": "30",
                   "y": "13",
                   "properties": {
-                    "text": "More about Databases",
+                    "text": "Databazalar barada",
                     "size": "17"
                   }
                 }
@@ -4832,11 +4832,11 @@
                   "zOrder": "1",
                   "measuredW": "140",
                   "measuredH": "25",
-                  "x": "44",
+                  "x": "25",
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Database Indexes"
+                    "text": "Databaza Indeksirleme"
                   }
                 },
                 {
@@ -4911,10 +4911,10 @@
                   "zOrder": "1",
                   "measuredW": "133",
                   "measuredH": "25",
-                  "x": "39",
+                  "x": "18",
                   "y": "13",
                   "properties": {
-                    "text": "Learn about APIs",
+                    "text": "API-lar barada öwreniň",
                     "size": "17"
                   }
                 }
@@ -5043,7 +5043,7 @@
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "JSON APIs"
+                    "text": "JSON API-lar"
                   }
                 },
                 {
@@ -5282,7 +5282,7 @@
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Open API Specs"
+                    "text": "Open API Spec-lar"
                   }
                 },
                 {
@@ -5359,7 +5359,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Authentication"
+                    "text": "Autentifikasiýa"
                   }
                 }
               ]
@@ -5402,11 +5402,11 @@
                   "zOrder": "1",
                   "measuredW": "189",
                   "measuredH": "25",
-                  "x": "25",
+                  "x": "65",
                   "y": "15",
                   "properties": {
                     "size": "17",
-                    "text": "Web Security Knowledge"
+                    "text": "Web goraglylyk"
                   }
                 }
               ]
@@ -5461,11 +5461,11 @@
                   "w": "203",
                   "measuredW": "197",
                   "measuredH": "25",
-                  "x": "20",
+                  "x": "05",
                   "y": "8",
                   "properties": {
                     "size": "17",
-                    "text": "MD5 and why not to use it"
+                    "text": "MD5 - näme üçin ulanmaly däl"
                   }
                 }
               ]
@@ -5513,7 +5513,7 @@
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "SHA Family"
+                    "text": "SHA maşgalasy"
                   }
                 }
               ]
@@ -5627,7 +5627,7 @@
           "y": "1680",
           "properties": {
             "size": "17",
-            "text": "Hashing Algorithms"
+            "text": "Heşleme Algoritmler"
           }
         },
         {
@@ -5708,7 +5708,7 @@
                   "y": "17",
                   "properties": {
                     "size": "17",
-                    "text": "Find the detailed version of this roadmap"
+                    "text": "Giňişleýin maglumat üçin şu salga"
                   }
                 },
                 {
@@ -5721,7 +5721,7 @@
                   "y": "45",
                   "properties": {
                     "size": "17",
-                    "text": "along with resources and other roadmaps"
+                    "text": "ýüzlenip bilersiňiz."
                   }
                 },
                 {
@@ -5735,7 +5735,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:localhost:3000/backend"
                   },
                   "children": {
                     "controls": {
@@ -5761,12 +5761,12 @@
                           "zOrder": "1",
                           "measuredW": "105",
                           "measuredH": "28",
-                          "x": "141",
+                          "x": "107",
                           "y": "8",
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "roadmap.sh"
+                            "text": "sanlyyorelge.tm"
                           }
                         },
                         {
@@ -5775,12 +5775,12 @@
                           "zOrder": "2",
                           "measuredW": "45",
                           "measuredH": "28",
-                          "x": "66",
+                          "x": "40",
                           "y": "8",
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "https"
+                            "text": "https://"
                           }
                         },
                         {
@@ -5795,7 +5795,7 @@
                             "bold": "true",
                             "color": "16777215",
                             "size": "20",
-                            "text": ":"
+                            "text": ""
                           }
                         },
                         {
@@ -5809,7 +5809,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "/"
+                            "text": ""
                           }
                         },
                         {
@@ -5823,7 +5823,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "/"
+                            "text": ""
                           }
                         }
                       ]
@@ -5900,7 +5900,7 @@
                   "y": "21",
                   "properties": {
                     "size": "16",
-                    "text": "Personal Recommendation / Opinion"
+                    "text": "Maslahat berilýär"
                   }
                 },
                 {
@@ -5913,7 +5913,7 @@
                   "y": "118",
                   "properties": {
                     "size": "16",
-                    "text": "I wouldn't recommend"
+                    "text": "Maslahat berilmeýär"
                   }
                 },
                 {
@@ -5943,7 +5943,7 @@
                   "y": "86",
                   "properties": {
                     "size": "16",
-                    "text": "Order in roadmap not strict (Learn anytime)"
+                    "text": "Goşmaça öwrenmek maslahat berilýär"
                   }
                 },
                 {
@@ -5988,7 +5988,7 @@
                   "y": "54",
                   "properties": {
                     "size": "16",
-                    "text": "Alternative Option - Pick this or purple"
+                    "text": "Alternatiw görnüş maslahat berilýär"
                   }
                 },
                 {
@@ -6463,10 +6463,10 @@
                   "zOrder": "1",
                   "measuredW": "141",
                   "measuredH": "25",
-                  "x": "80",
+                  "x": "18",
                   "y": "13",
                   "properties": {
-                    "text": "Learn a Language",
+                    "text": "Programmirleme dil öwrenmek üçin",
                     "size": "17"
                   }
                 }
@@ -6956,11 +6956,11 @@
                   "w": "223",
                   "measuredW": "219",
                   "measuredH": "25",
-                  "x": "38",
+                  "x": "60",
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "How does the internet work?"
+                    "text": "Internet nähili işleýär?"
                   }
                 },
                 {
@@ -7040,7 +7040,7 @@
                   "y": "8",
                   "properties": {
                     "size": "17",
-                    "text": "What is HTTP?"
+                    "text": "HTTP bu näme?"
                   }
                 },
                 {
@@ -7116,11 +7116,11 @@
                   "w": "230",
                   "measuredW": "225",
                   "measuredH": "25",
-                  "x": "34",
+                  "x": "55",
                   "y": "8",
                   "properties": {
                     "size": "17",
-                    "text": "Browsers and how they work?"
+                    "text": "Browserlar nähili işleýär?"
                   }
                 },
                 {
@@ -7196,11 +7196,11 @@
                   "w": "179",
                   "measuredW": "175",
                   "measuredH": "25",
-                  "x": "60",
+                  "x": "30",
                   "y": "8",
                   "properties": {
                     "size": "17",
-                    "text": "DNS and how it works?"
+                    "text": "DNS bu näme we nähili işleýär?"
                   }
                 },
                 {
@@ -7280,7 +7280,7 @@
                   "y": "8",
                   "properties": {
                     "size": "17",
-                    "text": "What is Domain Name?"
+                    "text": "Domen ady bu näme?"
                   }
                 },
                 {
@@ -7360,7 +7360,7 @@
                   "y": "8",
                   "properties": {
                     "size": "17",
-                    "text": "What is hosting?"
+                    "text": "Hosting bu näme?"
                   }
                 },
                 {
@@ -7593,10 +7593,10 @@
                   "zOrder": "1",
                   "measuredW": "172",
                   "measuredH": "25",
-                  "x": "28",
+                  "x": "20",
                   "y": "12",
                   "properties": {
-                    "text": "Repo hosting services",
+                    "text": "Repo hosting hyzmatlary",
                     "size": "17"
                   }
                 }
@@ -7640,10 +7640,10 @@
                   "zOrder": "1",
                   "measuredW": "186",
                   "measuredH": "25",
-                  "x": "20",
+                  "x": "03",
                   "y": "12",
                   "properties": {
-                    "text": "Version Control Systems",
+                    "text": "Wersiýa dolandyryjy ulgamlar",
                     "size": "17"
                   }
                 }
@@ -8013,7 +8013,7 @@
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "GOF Design Patterns"
+                    "text": "GOF Dizaýn Çyzgylar"
                   }
                 },
                 {
@@ -8093,7 +8093,7 @@
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Domain Driven Design"
+                    "text": "'Domain Driven' Dizaýn"
                   }
                 },
                 {
@@ -8169,11 +8169,11 @@
                   "w": "196",
                   "measuredW": "194",
                   "measuredH": "25",
-                  "x": "32",
+                  "x": "52",
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Test Driven Development"
+                    "text": "'Test Drive' döretmek"
                   }
                 },
                 {
@@ -8329,7 +8329,7 @@
                   "w": "90",
                   "measuredW": "45",
                   "measuredH": "25",
-                  "x": "38",
+                  "x": "58",
                   "y": "7",
                   "properties": {
                     "align": "center",
@@ -8384,7 +8384,7 @@
           "x": "1005",
           "y": "2264",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/software-design-architecture"
+            "controlName": "ext_link:localhost:3000/software-design-architecture"
           },
           "children": {
             "controls": {
@@ -8411,10 +8411,10 @@
                   "zOrder": "1",
                   "measuredW": "240",
                   "measuredH": "25",
-                  "x": "42",
+                  "x": "12",
                   "y": "12",
                   "properties": {
-                    "text": "Software Design & Architecture",
+                    "text": "Programmanyň dizaýny we arhitekturasy",
                     "size": "17",
                     "color": "16777215"
                   }
@@ -8510,11 +8510,11 @@
                   "zOrder": "5",
                   "measuredW": "117",
                   "measuredH": "25",
-                  "x": "31",
+                  "x": "17",
                   "y": "114",
                   "properties": {
                     "size": "17",
-                    "text": "Document DBs"
+                    "text": "Resminama DB-lar"
                   }
                 },
                 {
@@ -8726,7 +8726,7 @@
                   "y": "113",
                   "properties": {
                     "size": "17",
-                    "text": "Time Series"
+                    "text": "Wagt DB-lar"
                   }
                 },
                 {
@@ -9146,11 +9146,11 @@
                   "zOrder": "5",
                   "measuredW": "96",
                   "measuredH": "25",
-                  "x": "36",
+                  "x": "16",
                   "y": "113",
                   "properties": {
                     "size": "17",
-                    "text": "Column DBs"
+                    "text": "Sütünleýin DB-lar"
                   }
                 },
                 {
@@ -9764,11 +9764,11 @@
                   "zOrder": "1",
                   "measuredW": "144",
                   "measuredH": "25",
-                  "x": "34",
+                  "x": "20",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Scaling Databases"
+                    "text": "Databazalary ulaltmak"
                   }
                 }
               ]
@@ -9941,7 +9941,7 @@
                   "y": "64",
                   "properties": {
                     "size": "17",
-                    "text": "Graph DBs"
+                    "text": "Graf DB-lar"
                   }
                 },
                 {
@@ -10228,11 +10228,11 @@
                   "zOrder": "1",
                   "measuredW": "104",
                   "measuredH": "25",
-                  "x": "22",
+                  "x": "04",
                   "y": "10",
                   "properties": {
                     "size": "17",
-                    "text": "OWASP Risks"
+                    "text": "OWASP goraglylyk"
                   }
                 }
               ]
@@ -10484,7 +10484,7 @@
                   "y": "6",
                   "properties": {
                     "size": "17",
-                    "text": "Service Mesh"
+                    "text": "Hyzmat usuly"
                   }
                 },
                 {
@@ -10559,11 +10559,11 @@
                   "zOrder": "1",
                   "measuredW": "149",
                   "measuredH": "25",
-                  "x": "26",
+                  "x": "06",
                   "y": "6",
                   "properties": {
                     "size": "17",
-                    "text": "Twelve Factor Apps"
+                    "text": "Twelve Factor Programma"
                   }
                 },
                 {
@@ -10640,7 +10640,7 @@
                   "y": "116",
                   "properties": {
                     "size": "17",
-                    "text": "Search Engines"
+                    "text": "Gözleg enjamlar"
                   }
                 }
               ]
@@ -11001,11 +11001,11 @@
                   "zOrder": "1",
                   "measuredW": "148",
                   "measuredH": "25",
-                  "x": "27",
+                  "x": "05",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Server Sent Events"
+                    "text": "Serwere iberilýän hadysa"
                   }
                 }
               ]
@@ -11048,11 +11048,11 @@
                   "zOrder": "1",
                   "measuredW": "134",
                   "measuredH": "25",
-                  "x": "40",
+                  "x": "04",
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Building for Scale"
+                    "text": "Taslama Masştablaşdyrma"
                   }
                 }
               ]
@@ -11096,7 +11096,7 @@
                   "y": "246",
                   "properties": {
                     "size": "17",
-                    "text": "Mitigation Strategies"
+                    "text": "Mitigasiýa strategiýalary"
                   }
                 },
                 {
@@ -11171,11 +11171,11 @@
                   "zOrder": "1",
                   "measuredW": "166",
                   "measuredH": "25",
-                  "x": "17",
+                  "x": "47",
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Graceful Degradation"
+                    "text": "Degradasiýa"
                   }
                 }
               ]
@@ -11218,11 +11218,11 @@
                   "zOrder": "1",
                   "measuredW": "73",
                   "measuredH": "25",
-                  "x": "62",
+                  "x": "32",
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Throttling"
+                    "text": "Throttling etmek"
                   }
                 }
               ]
@@ -11269,7 +11269,7 @@
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Backpressure"
+                    "text": "Yza çekmek"
                   }
                 }
               ]
@@ -11312,11 +11312,11 @@
                   "zOrder": "1",
                   "measuredW": "94",
                   "measuredH": "25",
-                  "x": "53",
+                  "x": "23",
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Loadshifting"
+                    "text": "Ýüklemäni azaltmak"
                   }
                 }
               ]
@@ -11359,11 +11359,11 @@
                   "zOrder": "1",
                   "measuredW": "116",
                   "measuredH": "25",
-                  "x": "41",
+                  "x": "10",
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Circuit Breaker"
+                    "text": "Yzygiderlilik bozulmagy"
                   }
                 }
               ]
@@ -11545,11 +11545,11 @@
           "zOrder": "194",
           "measuredW": "285",
           "measuredH": "25",
-          "x": "1154",
+          "x": "1190",
           "y": "3703",
           "properties": {
             "size": "17",
-            "text": "Have a look at the DevOps Roadmap"
+            "text": "Aşakdaky ýörelgäni dowam ediň!"
           }
         },
         {
@@ -11588,11 +11588,11 @@
                   "zOrder": "1",
                   "measuredW": "141",
                   "measuredH": "25",
-                  "x": "75",
+                  "x": "65",
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "DevOps Roadmap"
+                    "text": "DevOps - Sanly Ýörelge"
                   }
                 }
               ]
@@ -11635,11 +11635,11 @@
                   "zOrder": "1",
                   "measuredW": "117",
                   "measuredH": "25",
-                  "x": "15",
+                  "x": "05",
                   "y": "10",
                   "properties": {
                     "size": "17",
-                    "text": "Server Security"
+                    "text": "Serwer goraglylyk"
                   }
                 }
               ]
@@ -11683,12 +11683,12 @@
                   "zOrder": "1",
                   "measuredW": "208",
                   "measuredH": "25",
-                  "x": "17",
+                  "x": "67",
                   "y": "11",
                   "properties": {
                     "size": "17",
                     "color": "16777215",
-                    "text": "API Security Best Practices"
+                    "text": "API Goraglylyk"
                   }
                 }
               ]
@@ -12234,10 +12234,10 @@
                   "zOrder": "1",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "70",
+                  "x": "15",
                   "y": "13",
                   "properties": {
-                    "text": "Testing",
+                    "text": "Test barlagy geçirmek",
                     "size": "17"
                   }
                 }
@@ -12282,11 +12282,11 @@
                   "w": "150",
                   "measuredW": "144",
                   "measuredH": "25",
-                  "x": "31",
+                  "x": "41",
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Integration Testing"
+                    "text": "Integrirlenen Test"
                   }
                 },
                 {
@@ -12362,11 +12362,11 @@
                   "w": "99",
                   "measuredW": "91",
                   "measuredH": "25",
-                  "x": "47",
+                  "x": "77",
                   "y": "6",
                   "properties": {
                     "size": "17",
-                    "text": "Unit Testing"
+                    "text": "Unit Test"
                   }
                 },
                 {
@@ -12442,11 +12442,11 @@
                   "w": "151",
                   "measuredW": "140",
                   "measuredH": "25",
-                  "x": "29",
+                  "x": "49",
                   "y": "6",
                   "properties": {
                     "size": "17",
-                    "text": "Functional Testing"
+                    "text": "Funksional Test"
                   }
                 },
                 {
@@ -12522,11 +12522,11 @@
                   "w": "129",
                   "measuredW": "128",
                   "measuredH": "25",
-                  "x": "49",
+                  "x": "19",
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Data Replication"
+                    "text": "Maglumatlary köpeltmek"
                   }
                 },
                 {
@@ -12602,11 +12602,11 @@
                   "w": "155",
                   "measuredW": "151",
                   "measuredH": "25",
-                  "x": "33",
+                  "x": "23",
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "Sharding Strategies"
+                    "text": "Paýlaşmak strategiýasy"
                   }
                 },
                 {
@@ -12682,11 +12682,11 @@
                   "w": "109",
                   "measuredW": "107",
                   "measuredH": "25",
-                  "x": "57",
+                  "x": "47",
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "CAP Theorem"
+                    "text": "CAP Teoremasy"
                   }
                 },
                 {
@@ -12763,7 +12763,7 @@
                   "x": "52",
                   "y": "12",
                   "properties": {
-                    "text": "WebSockets",
+                    "text": "WebSocket-lar",
                     "size": "17"
                   }
                 }
@@ -12899,11 +12899,11 @@
                   "zOrder": "1",
                   "measuredW": "125",
                   "measuredH": "25",
-                  "x": "43",
+                  "x": "30",
                   "y": "8",
                   "properties": {
                     "size": "17",
-                    "text": "Types of Scaling"
+                    "text": "Masştabyň görnüşleri"
                   }
                 }
               ]
@@ -12946,10 +12946,10 @@
                   "zOrder": "1",
                   "measuredW": "105",
                   "measuredH": "26",
-                  "x": "18",
+                  "x": "168",
                   "y": "18",
                   "properties": {
-                    "text": "Observability",
+                    "text": "Gözegçilik",
                     "size": "18"
                   }
                 },
@@ -12963,7 +12963,7 @@
                   "y": "50",
                   "properties": {
                     "size": "17",
-                    "text": "Metrics logging and other observable items that can"
+                    "text": ""
                   }
                 },
                 {
@@ -12976,7 +12976,7 @@
                   "y": "79",
                   "properties": {
                     "size": "17",
-                    "text": "help in debugging and solving issues"
+                    "text": ""
                   }
                 }
               ]
@@ -13020,12 +13020,12 @@
                   "zOrder": "1",
                   "measuredW": "194",
                   "measuredH": "25",
-                  "x": "23",
+                  "x": "43",
                   "y": "13",
                   "properties": {
                     "size": "17",
                     "color": "16777215",
-                    "text": "Infrastructure Knowledge"
+                    "text": "Infrastruktura düzmek"
                   }
                 }
               ]
@@ -13156,12 +13156,12 @@
                   "zOrder": "1",
                   "measuredW": "210",
                   "measuredH": "26",
-                  "x": "100",
+                  "x": "80",
                   "y": "11",
                   "properties": {
                     "color": "16777215",
                     "size": "18",
-                    "text": "Visit the Beginner Version"
+                    "text": "Başlangyç struktura öwrenmek"
                   }
                 }
               ]
