@@ -532,7 +532,7 @@
                   "w": "223",
                   "measuredW": "219",
                   "measuredH": "25",
-                  "x": "38",
+                  "x": "65",
                   "y": "12",
                   "properties": {
                     "size": "17",
@@ -692,7 +692,7 @@
                   "w": "230",
                   "measuredW": "225",
                   "measuredH": "25",
-                  "x": "34",
+                  "x": "54",
                   "y": "12",
                   "properties": {
                     "size": "17",
@@ -772,7 +772,7 @@
                   "w": "179",
                   "measuredW": "175",
                   "measuredH": "25",
-                  "x": "59",
+                  "x": "70",
                   "y": "12",
                   "properties": {
                     "size": "17",
@@ -1385,7 +1385,7 @@
                   "w": "189",
                   "measuredW": "183",
                   "measuredH": "25",
-                  "x": "34",
+                  "x": "20",
                   "y": "12",
                   "properties": {
                     "size": "17",
@@ -1625,7 +1625,7 @@
                   "w": "94",
                   "measuredW": "90",
                   "measuredH": "25",
-                  "x": "82",
+                  "x": "70",
                   "y": "12",
                   "properties": {
                     "size": "17",
@@ -2583,7 +2583,7 @@
                   "zOrder": "1",
                   "measuredW": "186",
                   "measuredH": "25",
-                  "x": "28",
+                  "x": "08",
                   "y": "12",
                   "properties": {
                     "text": "Taslama dolandyryş ulgamlar",
@@ -4401,11 +4401,11 @@
                   "w": "142",
                   "measuredW": "136",
                   "measuredH": "25",
-                  "x": "36",
+                  "x": "25",
                   "y": "14",
                   "properties": {
                     "size": "17",
-                    "text": "Framework saýlamak"
+                    "text": "Freýmwork saýlamak"
                   }
                 }
               ]
@@ -5628,7 +5628,7 @@
                   "zOrder": "1",
                   "measuredW": "176",
                   "measuredH": "25",
-                  "x": "25",
+                  "x": "10",
                   "y": "13",
                   "properties": {
                     "size": "17",
@@ -5911,7 +5911,7 @@
                   "zOrder": "1",
                   "measuredW": "105",
                   "measuredH": "25",
-                  "x": "60",
+                  "x": "30",
                   "y": "14",
                   "properties": {
                     "size": "17",
@@ -7399,7 +7399,7 @@
                   "zOrder": "1",
                   "measuredW": "227",
                   "measuredH": "28",
-                  "x": "87",
+                  "x": "67",
                   "y": "16",
                   "properties": {
                     "size": "20",

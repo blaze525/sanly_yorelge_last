@@ -4,13 +4,13 @@ pdfUrl: '/pdfs/roadmaps/devops.pdf'
 order: 3
 briefTitle: 'DevOps'
 briefDescription: 'Step by step guide for DevOps or operations role in 2024'
-title: 'DevOps Roadmap'
+title: 'DevOps - Sanly Ýörelge'
 description: 'Step by step guide for DevOps, SRE or any other Operations Role in 2024'
 hasTopics: true
 isForkable: true
-tnsBannerLink: 'https://thenewstack.io?utm_source=roadmap.sh&utm_medium=Referral&utm_campaign=Alert'
+tnsBannerLink: '#'
 question:
-  title: 'What is DevOps?'
+  title: 'DevOps bu näme?'
   description: |
     DevOps is a cultural and collaborative mindset that emphasizes communication, collaboration, integration, and automation between development and operations teams in order to achieve faster and more reliable software delivery.
     
@@ -22,13 +22,13 @@ dimensions:
   width: 968
   height: 2527.46
 schema:
-  headline: 'DevOps Roadmap'
+  headline: 'DevOps '
   description: 'Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in our community-driven roadmap.'
   imageUrl: 'https://roadmap.sh/roadmaps/devops.png'
   datePublished: '2023-01-05'
   dateModified: '2023-06-10'
 seo:
-  title: 'DevOps Roadmap: Learn to become a DevOps Engineer or SRE'
+  title: 'DevOps'
   description: 'Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in our community-driven roadmap.'
   keywords:
     - 'devops roadmap 2024'

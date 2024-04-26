@@ -373,7 +373,7 @@
                   "y": "7",
                   "properties": {
                     "size": "17",
-                    "text": "RHEL / Derivatives"
+                    "text": "RHEL / Red Hat"
                   }
                 }
               ]
@@ -1663,7 +1663,7 @@
                   "y": "21",
                   "properties": {
                     "size": "16",
-                    "text": "Personal Recommendation / Opinion"
+                    "text": "Maslahat berilýär"
                   }
                 },
                 {
@@ -1677,7 +1677,7 @@
                   "y": "86",
                   "properties": {
                     "size": "16",
-                    "text": "Order in roadmap not strict (Learn anytime)"
+                    "text": "Goşmaça öwrenmek maslahat berilýär"
                   }
                 },
                 {
@@ -1739,7 +1739,7 @@
                   "y": "54",
                   "properties": {
                     "size": "16",
-                    "text": "Alternative Option - Pick this or purple"
+                    "text": "Alternatiw görnüş maslahat berilýär"
                   }
                 },
                 {
@@ -1940,11 +1940,11 @@
                   "zOrder": "1",
                   "measuredW": "249",
                   "measuredH": "25",
-                  "x": "41",
+                  "x": "49",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Learn a Programming Language"
+                    "text": "Programmirleme dil öwrenmek"
                   }
                 }
               ]
@@ -3110,10 +3110,10 @@
                   "zOrder": "1",
                   "measuredW": "182",
                   "measuredH": "25",
-                  "x": "75",
+                  "x": "55",
                   "y": "12",
                   "properties": {
-                    "text": "Learn to live in Terminal",
+                    "text": "Buýruklar setiri bilen işlemek",
                     "size": "17"
                   }
                 }
@@ -3225,11 +3225,11 @@
           "zOrder": "70",
           "measuredW": "68",
           "measuredH": "25",
-          "x": "839",
+          "x": "845",
           "y": "797",
           "properties": {
             "size": "17",
-            "text": "Scripting"
+            "text": "Scriptler"
           }
         },
         {
@@ -3272,7 +3272,7 @@
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Process Monitoring"
+                    "text": "Prosess Monitoring"
                   }
                 }
               ]
@@ -3368,7 +3368,7 @@
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Performance Monitoring"
+                    "text": "Giriş-Çykyş Monitoring"
                   }
                 }
               ]
@@ -3443,11 +3443,11 @@
                   "zOrder": "1",
                   "measuredW": "131",
                   "measuredH": "25",
-                  "x": "51",
+                  "x": "71",
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Networking Tools"
+                    "text": "Tor gurallary"
                   }
                 }
               ]
@@ -3522,11 +3522,11 @@
                   "zOrder": "1",
                   "measuredW": "135",
                   "measuredH": "25",
-                  "x": "49",
+                  "x": "39",
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Text Manipulation"
+                    "text": "Tekst Manipulýasiýa"
                   }
                 }
               ]
@@ -4152,10 +4152,10 @@
                   "zOrder": "1",
                   "measuredW": "119",
                   "measuredH": "25",
-                  "x": "21",
+                  "x": "35",
                   "y": "10",
                   "properties": {
-                    "text": "Caching Server",
+                    "text": "Keş Serwer",
                     "size": "17"
                   }
                 }
@@ -4246,10 +4246,10 @@
                   "zOrder": "1",
                   "measuredW": "113",
                   "measuredH": "25",
-                  "x": "26",
+                  "x": "06",
                   "y": "11",
                   "properties": {
-                    "text": "Load Balancer",
+                    "text": "Balans dolandyryjy",
                     "size": "17"
                   }
                 }
@@ -4293,7 +4293,7 @@
                   "zOrder": "1",
                   "measuredW": "59",
                   "measuredH": "25",
-                  "x": "55",
+                  "x": "40",
                   "y": "11",
                   "properties": {
                     "text": "Firewall",
@@ -4586,10 +4586,10 @@
                   "w": "85",
                   "measuredW": "85",
                   "measuredH": "25",
-                  "x": "41",
+                  "x": "37",
                   "y": "11",
                   "properties": {
-                    "text": "Containers",
+                    "text": "Kontainerler",
                     "size": "17"
                   }
                 }
@@ -5290,7 +5290,7 @@
                   "x": "23",
                   "y": "11",
                   "properties": {
-                    "text": "Infrastructure Monitoring",
+                    "text": "Infrastruktura Monitoring",
                     "size": "17"
                   }
                 }
@@ -5753,7 +5753,7 @@
                   "x": "32",
                   "y": "12",
                   "properties": {
-                    "text": "Application Monitoring",
+                    "text": "Programma Monitoring",
                     "size": "17"
                   }
                 }
@@ -6529,11 +6529,11 @@
                   "zOrder": "1",
                   "measuredW": "122",
                   "measuredH": "25",
-                  "x": "91",
+                  "x": "37",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Cloud Providers"
+                    "text": "Bulut dolandyryjy Prowaýderler"
                   }
                 }
               ]
@@ -7559,7 +7559,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Configuration Management"
+                    "text": "Konfigurasiýa dolandyryşy"
                   }
                 }
               ]
@@ -7950,10 +7950,10 @@
                   "zOrder": "1",
                   "measuredW": "145",
                   "measuredH": "25",
-                  "x": "32",
+                  "x": "22",
                   "y": "12",
                   "properties": {
-                    "text": "Logs Management",
+                    "text": "Log-lary Dolandyrmak",
                     "size": "17"
                   }
                 }
@@ -8528,10 +8528,10 @@
                   "zOrder": "1",
                   "measuredW": "186",
                   "measuredH": "25",
-                  "x": "27",
+                  "x": "37",
                   "y": "11",
                   "properties": {
-                    "text": "Container Orchestration",
+                    "text": "Konteýner görnüşleri",
                     "size": "17"
                   }
                 }
@@ -9084,10 +9084,10 @@
                   "zOrder": "1",
                   "measuredW": "105",
                   "measuredH": "25",
-                  "x": "51",
+                  "x": "31",
                   "y": "11",
                   "properties": {
-                    "text": "Service Mesh",
+                    "text": "Garyşyk hyzmatlar",
                     "size": "17"
                   }
                 }
@@ -9608,7 +9608,7 @@
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Cloud Design Patterns",
+                    "text": "Bulut dizaýn görnüşleri",
                     "color": "16777215"
                   }
                 }
@@ -9655,7 +9655,7 @@
                   "x": "88",
                   "y": "11",
                   "properties": {
-                    "text": "Availability",
+                    "text": "Elýeterlilik",
                     "size": "17"
                   }
                 }
@@ -9699,10 +9699,10 @@
                   "zOrder": "1",
                   "measuredW": "144",
                   "measuredH": "25",
-                  "x": "55",
+                  "x": "25",
                   "y": "11",
                   "properties": {
-                    "text": "Data Management",
+                    "text": "Maglumatlary dolandyrmak",
                     "size": "17"
                   }
                 }
@@ -9746,10 +9746,10 @@
                   "zOrder": "1",
                   "measuredW": "212",
                   "measuredH": "25",
-                  "x": "22",
+                  "x": "32",
                   "y": "11",
                   "properties": {
-                    "text": "Design and Implementation",
+                    "text": "Taslama we ýerine ýetiriş",
                     "size": "17"
                   }
                 }
@@ -9793,10 +9793,10 @@
                   "zOrder": "1",
                   "measuredW": "223",
                   "measuredH": "25",
-                  "x": "16",
+                  "x": "20",
                   "y": "11",
                   "properties": {
-                    "text": "Management and Monitoring",
+                    "text": "Dolandyrmak we gözegçilik",
                     "size": "17"
                   }
                 }
@@ -9860,11 +9860,11 @@
                   "zOrder": "1",
                   "measuredW": "265",
                   "measuredH": "25",
-                  "x": "25",
+                  "x": "05",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Networking, Security and Protocols"
+                    "text": "Tor baglanyşyk, goraglylyk we protokollar"
                   }
                 }
               ]
@@ -9907,7 +9907,7 @@
                   "zOrder": "1",
                   "measuredW": "36",
                   "measuredH": "25",
-                  "x": "22",
+                  "x": "42",
                   "y": "11",
                   "properties": {
                     "text": "DNS",
@@ -10050,7 +10050,7 @@
                   "zOrder": "1",
                   "measuredW": "54",
                   "measuredH": "25",
-                  "x": "19",
+                  "x": "29",
                   "y": "11",
                   "properties": {
                     "text": "HTTPS",
@@ -10146,7 +10146,7 @@
                   "zOrder": "1",
                   "measuredW": "89",
                   "measuredH": "25",
-                  "x": "38",
+                  "x": "45",
                   "y": "11",
                   "properties": {
                     "size": "17",
@@ -11559,11 +11559,11 @@
                   "zOrder": "1",
                   "measuredW": "203",
                   "measuredH": "25",
-                  "x": "23",
+                  "x": "30",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Infrastructure Provisioning"
+                    "text": "Infrastruktura üpjünçiligi"
                   }
                 }
               ]
@@ -11692,11 +11692,11 @@
                   "zOrder": "1",
                   "measuredW": "158",
                   "measuredH": "25",
-                  "x": "40",
+                  "x": "35",
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Secret Management"
+                    "text": "Gizlinlikde dolandyrmak"
                   }
                 }
               ]
@@ -11839,7 +11839,7 @@
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Sealed Secrets"
+                    "text": "Möhürlenen syrlar"
                   }
                 }
               ]
@@ -11978,11 +11978,11 @@
                   "zOrder": "1",
                   "measuredW": "154",
                   "measuredH": "25",
-                  "x": "44",
+                  "x": "24",
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Cloud Specific Tools"
+                    "text": "Bulut üçin ýörite gurallar"
                   }
                 }
               ]
@@ -12181,11 +12181,11 @@
                   "zOrder": "1",
                   "measuredW": "182",
                   "measuredH": "25",
-                  "x": "39",
+                  "x": "29",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Learn some CI/CD Tool"
+                    "text": "CI/CD Gurallary öwrenmek"
                   }
                 }
               ]
@@ -12951,7 +12951,7 @@
                   "x": "49",
                   "y": "11",
                   "properties": {
-                    "text": "Azure DevOps Services",
+                    "text": "Azure DevOps Hyzmatlar",
                     "size": "17"
                   }
                 },
@@ -13064,7 +13064,7 @@
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Artifact Management"
+                    "text": "Artefakt dolandyryşy"
                   }
                 }
               ]
@@ -13105,11 +13105,11 @@
           "zOrder": "226",
           "measuredW": "187",
           "measuredH": "36",
-          "x": "835",
+          "x": "785",
           "y": "3197",
           "properties": {
             "size": "28",
-            "text": "Keep Learning"
+            "text": "Öwrenmegi dowam et"
           }
         },
         {
@@ -13209,7 +13209,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Operating Systems"
+                    "text": "Operasion ulgamlar"
                   }
                 }
               ]
@@ -13376,11 +13376,11 @@
                   "zOrder": "1",
                   "measuredW": "186",
                   "measuredH": "25",
-                  "x": "20",
+                  "x": "02",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Version Control Systems"
+                    "text": "Wersiýa dolandyryjy ulgamlar"
                   }
                 }
               ]
@@ -13444,7 +13444,7 @@
           "y": "932",
           "properties": {
             "size": "17",
-            "text": "Web Servers"
+            "text": "Web Serverler"
           }
         },
         {
@@ -13712,11 +13712,11 @@
           "zOrder": "244",
           "measuredW": "55",
           "measuredH": "25",
-          "x": "641",
+          "x": "611",
           "y": "797",
           "properties": {
             "size": "17",
-            "text": "Editors"
+            "text": "Redaktorlar"
           }
         },
         {
@@ -13788,7 +13788,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "What is and how to setup a _____?"
+                    "text": "Muny nähili sazlap bolýar, _____?"
                   }
                 }
               ]
@@ -13970,12 +13970,12 @@
                           "zOrder": "1",
                           "measuredW": "210",
                           "measuredH": "26",
-                          "x": "82",
+                          "x": "92",
                           "y": "11",
                           "properties": {
                             "color": "16777215",
                             "size": "18",
-                            "text": "Visit the Beginner Version"
+                            "text": "Başlangyç maglumatlar"
                           }
                         }
                       ]
@@ -13988,12 +13988,12 @@
                   "zOrder": "2",
                   "measuredW": "385",
                   "measuredH": "26",
-                  "x": "20",
+                  "x": "40",
                   "y": "23",
                   "properties": {
                     "color": "4985136",
                     "size": "18",
-                    "text": "If you are just getting started, visit the simplified"
+                    "text": "Eger siz öwrenmäge täze başlan bolsaňyz, "
                   }
                 },
                 {
@@ -14002,12 +14002,12 @@
                   "zOrder": "3",
                   "measuredW": "305",
                   "measuredH": "26",
-                  "x": "20",
+                  "x": "03",
                   "y": "53",
                   "properties": {
                     "color": "4985136",
                     "size": "18",
-                    "text": "version listing learning tips and ideas."
+                    "text": "başlangyç maglumatlary şu salgydan tapyp bilersiňiz."
                   }
                 }
               ]
@@ -14048,7 +14048,7 @@
                   "y": "29",
                   "properties": {
                     "size": "20",
-                    "text": "Related Roadmaps"
+                    "text": "Baglanyşykly ýörelgeler"
                   }
                 },
                 {
@@ -14062,7 +14062,7 @@
                   "x": "28",
                   "y": "73",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/kubernetes"
+                    "controlName": "ext_link:http://localhost:3000/kubernetes"
                   },
                   "children": {
                     "controls": {
@@ -14077,7 +14077,7 @@
                           "y": "0",
                           "properties": {
                             "size": "18",
-                            "text": "Kubernetes Roadmap"
+                            "text": "Kubernetes boýunça"
                           }
                         },
                         {
@@ -14144,7 +14144,7 @@
                   "x": "28",
                   "y": "109",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/docker"
+                    "controlName": "ext_link:localhost/docker"
                   },
                   "children": {
                     "controls": {
@@ -14159,7 +14159,7 @@
                           "y": "0",
                           "properties": {
                             "size": "18",
-                            "text": "Docker Roadmap"
+                            "text": "Docker boýunça"
                           }
                         },
                         {
@@ -14226,7 +14226,7 @@
                   "x": "28",
                   "y": "145",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/python"
+                    "controlName": "ext_link:localhost/python"
                   },
                   "children": {
                     "controls": {
@@ -14241,7 +14241,7 @@
                           "y": "0",
                           "properties": {
                             "size": "18",
-                            "text": "Python Roadmap"
+                            "text": "Python boýunça"
                           }
                         },
                         {
@@ -14308,7 +14308,7 @@
                   "x": "28",
                   "y": "181",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/backend"
+                    "controlName": "ext_link:localhost/backend"
                   },
                   "children": {
                     "controls": {
@@ -14323,7 +14323,7 @@
                           "y": "0",
                           "properties": {
                             "size": "18",
-                            "text": "Backend Roadmap"
+                            "text": "Backend boýunça"
                           }
                         },
                         {
@@ -14390,7 +14390,7 @@
                   "x": "28",
                   "y": "218",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/best-practices/aws"
+                    "controlName": "ext_link:localhost:3000/best-practices/aws"
                   },
                   "children": {
                     "controls": {
@@ -14405,7 +14405,7 @@
                           "y": "0",
                           "properties": {
                             "size": "18",
-                            "text": "AWS Best Practices"
+                            "text": "AWS boýunça"
                           }
                         },
                         {
@@ -14499,7 +14499,7 @@
                   "y": "17",
                   "properties": {
                     "size": "17",
-                    "text": "Find the detailed version of this roadmap"
+                    "text": "Giňişleýin maglumat üçin şu salga ýüzlenip"
                   }
                 },
                 {
@@ -14508,11 +14508,11 @@
                   "zOrder": "2",
                   "measuredW": "319",
                   "measuredH": "25",
-                  "x": "14",
+                  "x": "144",
                   "y": "45",
                   "properties": {
                     "size": "17",
-                    "text": "along with resources and other roadmaps"
+                    "text": "bilersiňiz"
                   }
                 },
                 {
@@ -14526,7 +14526,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:localhost:3000"
                   },
                   "children": {
                     "controls": {
@@ -14570,7 +14570,7 @@
                                   "properties": {
                                     "color": "16777215",
                                     "size": "20",
-                                    "text": "roadmap.sh"
+                                    "text": "sanlyyorelge.tm"
                                   }
                                 },
                                 {
