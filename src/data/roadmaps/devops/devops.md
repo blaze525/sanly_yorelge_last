@@ -3,33 +3,33 @@ jsonUrl: '/jsons/roadmaps/devops.json'
 pdfUrl: '/pdfs/roadmaps/devops.pdf'
 order: 3
 briefTitle: 'DevOps'
-briefDescription: 'Step by step guide for DevOps or operations role in 2024'
+briefDescription: '2024-nji ýylda DevOps bolmak üçin ädimme-ädim gollanma'
 title: 'DevOps - Sanly Ýörelge'
-description: 'Step by step guide for DevOps, SRE or any other Operations Role in 2024'
+description: '2024-nji ýylda DevOps bolmak üçin ädimme-ädim gollanma'
 hasTopics: true
 isForkable: true
 tnsBannerLink: '#'
 question:
   title: 'DevOps bu näme?'
   description: |
-    DevOps is a cultural and collaborative mindset that emphasizes communication, collaboration, integration, and automation between development and operations teams in order to achieve faster and more reliable software delivery.
+    “DevOps” has çalt we ygtybarly programma üpjünçiligini gazanmak üçin ösüş we operasiýa toparlarynyň arasynda aragatnaşyk, hyzmatdaşlygy, integrasiýany we awtomatizasiýany nygtaýan medeni we bilelikdäki pikirdir.
     
-    DevOps is not a specific job title or role, but rather a set of practices and principles that can be applied across a variety of roles in software development and IT operations. Anyone involved in the software development and delivery process can adopt a DevOps mindset and apply DevOps practices in their work, including developers, testers, operations engineers, product managers, and others.
+     “DevOps” belli bir iş ady ýa-da roly däl-de, eýsem programma üpjünçiligini işläp düzmekde we IT amallarynda dürli rollarda ulanylyp bilinjek tejribe we ýörelgeler toplumydyr. Programma üpjünçiligini işläp düzmek we gowşurmak işine gatnaşan her bir adam, DevOps pikirini kabul edip biler we işläp düzüjiler, synagçylar, amal inersenerleri, önüm dolandyryjylary we başgalar ýaly DevOps amallaryny ulanyp biler.
     
     ## What is a DevOps Engineer?
-    While DevOps is not a specific job title or role, organizations often hire for a "DevOps Engineer" role. A DevOps Engineer is a software engineer who specializes in the practices and tools that enable the continuous delivery of software. DevOps Engineers are responsible for the design and implementation of applications, software, and services for their organization, and they work closely with developers, testers, and operations staff to oversee the code releases.
+    DevOps belli bir iş ady ýa-da roly bolmasa-da, guramalar köplenç "DevOps inžener" roluna işe alýarlar. “DevOps” inženeri, programma üpjünçiligini üznüksiz eltmäge mümkinçilik berýän tejribe we gurallar boýunça ýöriteleşen programma üpjünçiligi inereneri. “DevOps” inženeri, guramalar üçin programmalary, programma üpjünçiligini we hyzmatlary dizaýn etmek we durmuşa geçirmek üçin jogapkärdirler we kod çykarylyşyna gözegçilik etmek üçin döredijiler, synagçylar we amal işgärleri bilen ýakyndan işleşýärler.
 dimensions:
   width: 968
   height: 2527.46
 schema:
   headline: 'DevOps '
-  description: 'Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in our community-driven roadmap.'
+  description: 'Jemgyýet tarapyndan dolandyrylýan ýol kartasynda görkezilen ädimlere, başarnyklara, çeşmelere we gollanmalara eýerip, häzirki zaman DevOps inereneri bolmagy öwreniň.'
   imageUrl: 'https://roadmap.sh/roadmaps/devops.png'
   datePublished: '2023-01-05'
   dateModified: '2023-06-10'
 seo:
   title: 'DevOps'
-  description: 'Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in our community-driven roadmap.'
+  description: 'Jemgyýet tarapyndan dolandyrylýan ýol kartasynda görkezilen ädimlere, başarnyklara, çeşmelere we gollanmalara eýerip, häzirki zaman DevOps inereneri bolmagy öwreniň.'
   keywords:
     - 'devops roadmap 2024'
     - 'sre roadmap 2024'

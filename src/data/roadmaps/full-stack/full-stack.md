@@ -3,27 +3,27 @@ jsonUrl: '/jsons/roadmaps/full-stack.json'
 pdfUrl: '/pdfs/roadmaps/full-stack.pdf'
 order: 3
 briefTitle: 'Full Stack'
-briefDescription: 'Step by step guide to becoming a full stack developer in 2024'
+briefDescription: '2024-nji ýylda Full Stack Developer bolmak üçin ädimme-ädim gollanma'
 title: 'Full Stack Developer'
-description: 'Step by step guide to becoming a modern full stack developer in 2024'
+description: '2024-nji ýylda full stack developer bolmak üçin ädimme-ädim gollanma'
 isNew: false
 hasTopics: true
 dimensions:
   width: 968
   height: 1951.64
 question:
-  title: 'What is Full Stack Development?'
+  title: 'Full Stack Development bu näme?'
   description: |
-    Full stack development is the practice of being proficient in both the front-end and back-end aspects of web application development. A full stack developer is capable of working on all layers of a software application, from the user interface and user experience (front-end) to the server, database, and server-side logic (back-end). This versatility allows them to create and maintain complete web applications independently or as part of a development team.
+    Full stack development, web programmasyny ösdürmegiň we backend tarapynda ökde bolmak praktikasydyr. Doly programma üpjünçisi, ulanyjy interfeýsinden we ulanyjy tejribesinden (frontend) serwer, maglumat bazasy we serwer tarapy logikasyna (backend) programma üpjünçiliginiň ähli gatlaklarynda işlemäge ukyply. Bu köpugurlylyk, özbaşdak ýa-da ösüş toparynyň bir bölegi hökmünde doly web programmalaryny döretmäge we goldamaga mümkinçilik berýär.
 schema:
-  headline: 'Full Stack Developer Roadmap'
-  description: 'Learn how to become a Full Stack Developer with this interactive step by step guide in 2024. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
+  headline: 'Full Stack Developer Gollanma'
+  description: '2024-nji ýylda ädim ädimleri bilen bu interaktiw ädim bilen doly stack dörediji bolmagyň usullaryny öwreniň. Şeýle hem, öwrenmek isleýän zatlaryňyzyň hemmesini bir ýerde alyp bilersiňiz, ýörelgäniň elementlerine goşmaça çeşmelerimiz we gysga düşündirişlerimiz bar.'
   imageUrl: 'https://roadmap.sh/roadmaps/full-stack.png'
   datePublished: '2023-01-05'
   dateModified: '2023-01-20'
 seo:
-  title: 'Full Stack Developer Roadmap'
-  description: 'Learn to become a modern full stack developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern full stack development.'
+  title: 'Full Stack Developer'
+  description: '2024-nji ýylda ädim ädimleri bilen bu interaktiw ädim bilen doly stack dörediji bolmagyň usullaryny öwreniň. Şeýle hem, öwrenmek isleýän zatlaryňyzyň hemmesini bir ýerde alyp bilersiňiz, ýörelgäniň elementlerine goşmaça çeşmelerimiz we gysga düşündirişlerimiz bar.'
   keywords:
     - 'javascript roadmap 2024'
     - 'full stack roadmap 2024'

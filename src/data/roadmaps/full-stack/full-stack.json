@@ -756,11 +756,11 @@
                   "zOrder": "1",
                   "measuredW": "253",
                   "measuredH": "26",
-                  "x": "23",
+                  "x": "12",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Static Webpages",
+                    "text": "Barlamak - Statiki web sahypalary",
                     "color": "16777215"
                   }
                 }
@@ -837,7 +837,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Interactivity",
+                    "text": "Barlamak — Interaktiwlilik",
                     "color": "16777215"
                   }
                 }
@@ -987,11 +987,11 @@
                   "zOrder": "1",
                   "measuredW": "268",
                   "measuredH": "26",
-                  "x": "21",
+                  "x": "27",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — External Packages",
+                    "text": "Barlamak — Goşmaça paketler",
                     "color": "16777215"
                   }
                 }
@@ -1220,11 +1220,11 @@
                   "zOrder": "1",
                   "measuredW": "236",
                   "measuredH": "26",
-                  "x": "28",
+                  "x": "04",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Frontend Apps",
+                    "text": "Barlamak — Frontend program-lar",
                     "color": "16777215"
                   }
                 }
@@ -1242,7 +1242,7 @@
           "y": "1010",
           "properties": {
             "size": "18",
-            "text": "Feel free to skip and revisit"
+            "text": "Backend öwreneniňizden"
           }
         },
         {
@@ -1349,7 +1349,7 @@
           "y": "1040",
           "properties": {
             "size": "18",
-            "text": "after learning some backend."
+            "text": "soň, täzeden gözden geçiriň."
           }
         },
         {
@@ -3487,7 +3487,7 @@
           "y": "436",
           "properties": {
             "size": "18",
-            "text": "Project Ideas and Suggestions"
+            "text": "Taslama üçin pikirler we teklipler"
           }
         },
         {
@@ -3514,7 +3514,7 @@
           "y": "471",
           "properties": {
             "size": "18",
-            "text": "Key topics to learn"
+            "text": "Esasy öwrenilmeli gollanmalar"
           }
         },
         {
@@ -3556,7 +3556,7 @@
           "y": "509",
           "properties": {
             "size": "18",
-            "text": "Change of Domain"
+            "text": "Başga çeşmeden öwrenmek"
           }
         },
         {
@@ -3708,11 +3708,11 @@
                   "zOrder": "1",
                   "measuredW": "318",
                   "measuredH": "26",
-                  "x": "19",
+                  "x": "10",
                   "y": "61",
                   "properties": {
                     "size": "18",
-                    "text": "If you are already a full-stack developer"
+                    "text": "Siz eýýäm doly derejede full-stack developer"
                   }
                 },
                 {
@@ -3721,11 +3721,11 @@
                   "zOrder": "2",
                   "measuredW": "328",
                   "measuredH": "26",
-                  "x": "19",
+                  "x": "10",
                   "y": "91",
                   "properties": {
                     "size": "18",
-                    "text": "you should visit these roadmaps instead."
+                    "text": "diýip pikir etýän bolsaňyz,onda şulary bilmeli."
                   }
                 },
                 {
@@ -3875,11 +3875,11 @@
                   "zOrder": "6",
                   "measuredW": "288",
                   "measuredH": "26",
-                  "x": "22",
+                  "x": "15",
                   "y": "189",
                   "properties": {
                     "size": "18",
-                    "text": "Target audience for this roadmap is"
+                    "text": "Başlamazdan öň öwrenmek maslahat berilýär"
                   }
                 },
                 {
@@ -3888,11 +3888,11 @@
                   "zOrder": "7",
                   "measuredW": "311",
                   "measuredH": "26",
-                  "x": "22",
+                  "x": "15",
                   "y": "219",
                   "properties": {
                     "size": "18",
-                    "text": "absolute beginners wanting to get into"
+                    "text": "ýokary hünäre ýagny full stack developer"
                   }
                 },
                 {
@@ -3901,11 +3901,11 @@
                   "zOrder": "8",
                   "measuredW": "186",
                   "measuredH": "26",
-                  "x": "22",
+                  "x": "15",
                   "y": "249",
                   "properties": {
                     "size": "18",
-                    "text": "full stack development."
+                    "text": "bolmak üçin."
                   }
                 },
                 {
@@ -3918,7 +3918,7 @@
                   "y": "20",
                   "properties": {
                     "size": "20",
-                    "text": "Audience Note"
+                    "text": "Ulanyjylar üçin bellik"
                   }
                 }
               ]
@@ -3959,7 +3959,7 @@
                   "y": "18",
                   "properties": {
                     "size": "18",
-                    "text": "Find the detailed version of this checklist"
+                    "text": "Giňişleýin maglumat üçin şu salga ýüzlenip"
                   }
                 },
                 {
@@ -3968,11 +3968,11 @@
                   "zOrder": "2",
                   "measuredW": "318",
                   "measuredH": "26",
-                  "x": "16",
+                  "x": "146",
                   "y": "46",
                   "properties": {
                     "size": "18",
-                    "text": "With details on how to implement these"
+                    "text": "bilersiňiz"
                   }
                 },
                 {
@@ -3986,7 +3986,7 @@
                   "x": "16",
                   "y": "82",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:localhost"
                   },
                   "children": {
                     "controls": {
@@ -4012,12 +4012,12 @@
                           "zOrder": "1",
                           "measuredW": "172",
                           "measuredH": "28",
-                          "x": "79",
+                          "x": "59",
                           "y": "12",
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "https://roadmap.sh"
+                            "text": "https://sanlyyorelge.tm"
                           }
                         }
                       ]
@@ -4049,5 +4049,5 @@
     "y": 0
   },
   "dependencies": [],
-  "projectID": "file:///Users/kamrify/Desktop/New%20Roadmaps/New%20Project%201.bmpr"
+  "projectID": "#"
 }
