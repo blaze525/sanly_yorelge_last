@@ -731,7 +731,7 @@
           "x": "607",
           "y": "747",
           "properties": {
-            "controlName": "102-checkpoint-static-websites"
+            "controlName": "102-Tanyşmak-static-websites"
           },
           "children": {
             "controls": {
@@ -760,7 +760,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Barlamak - Statiki web sahypalary",
+                    "text": "Tanyşmak - Statiki web sahypalary",
                     "color": "16777215"
                   }
                 }
@@ -808,7 +808,7 @@
           "x": "931",
           "y": "747",
           "properties": {
-            "controlName": "104-checkpoint-interactivity"
+            "controlName": "104-Tanyşmak-interactivity"
           },
           "children": {
             "controls": {
@@ -837,7 +837,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Barlamak — Interaktiwlilik",
+                    "text": "Tanyşmak — Interaktiwlilik",
                     "color": "16777215"
                   }
                 }
@@ -991,7 +991,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Barlamak — Goşmaça paketler",
+                    "text": "Tanyşmak — Goşmaça paketler",
                     "color": "16777215"
                   }
                 }
@@ -1162,7 +1162,7 @@
                   "y": "13",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Collaborative Work",
+                    "text": "Tanyşmak — Toparlaýyn işiň netijesi",
                     "color": "16777215"
                   }
                 }
@@ -1224,7 +1224,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Barlamak — Frontend program-lar",
+                    "text": "Tanyşmak — Frontend program-lar",
                     "color": "16777215"
                   }
                 }
@@ -1419,11 +1419,11 @@
           "zOrder": "43",
           "measuredW": "229",
           "measuredH": "26",
-          "x": "543",
+          "x": "563",
           "y": "1211",
           "properties": {
             "size": "18",
-            "text": "Start Backend Development"
+            "text": "Backend-a başlamak"
           }
         },
         {
@@ -1449,7 +1449,7 @@
                   "y": "0",
                   "properties": {
                     "size": "18",
-                    "text": "You can pick any backend programming language."
+                    "text": "Backend programmirleme dillerinden saýlap."
                   }
                 },
                 {
@@ -1462,7 +1462,7 @@
                   "y": "29",
                   "properties": {
                     "size": "18",
-                    "text": "My recommendation is Node.js because you are"
+                    "text": "bilersiňiz, biziň maslahatymyz NodeJs sebäbi"
                   }
                 },
                 {
@@ -1475,7 +1475,7 @@
                   "y": "59",
                   "properties": {
                     "size": "18",
-                    "text": "already familiar with JavaScript and it’s easier to pick."
+                    "text": "JavaScript öwrenmek üçin has aňsat.."
                   }
                 }
               ]
@@ -1577,11 +1577,11 @@
                   "zOrder": "1",
                   "measuredW": "191",
                   "measuredH": "26",
-                  "x": "44",
+                  "x": "14",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — CLI Apps",
+                    "text": "Tanyşmak — CLI Programmalar",
                     "color": "16777215"
                   }
                 }
@@ -1706,7 +1706,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Simple CRUD",
+                    "text": "Tanyşmak — Ýönekeý CRUD",
                     "color": "16777215"
                   }
                 }
@@ -1782,7 +1782,7 @@
           "y": "1310",
           "properties": {
             "size": "18",
-            "text": "Backend Starts Here"
+            "text": "Backend başlaýan ýeri"
           }
         },
         {
@@ -1912,7 +1912,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "RESTful APIs"
+                    "text": "RESTful API-r"
                   }
                 }
               ]
@@ -1955,11 +1955,11 @@
                   "zOrder": "1",
                   "measuredW": "74",
                   "measuredH": "25",
-                  "x": "19",
+                  "x": "12",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "JWT Auth"
+                    "text": "JWT Autent"
                   }
                 }
               ]
@@ -2006,7 +2006,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Complete App",
+                    "text": "Tanyşmak — Doly programma",
                     "color": "16777215"
                   }
                 }
@@ -2168,11 +2168,11 @@
           "zOrder": "65",
           "measuredW": "230",
           "measuredH": "26",
-          "x": "324",
+          "x": "310",
           "y": "1331",
           "properties": {
             "size": "18",
-            "text": "Learn Frontend Frameworks"
+            "text": "Frontend Freýmwork öwrenmek"
           }
         },
         {
@@ -2185,7 +2185,7 @@
           "y": "1359",
           "properties": {
             "size": "18",
-            "text": "If you skipped earlier"
+            "text": ""
           }
         },
         {
@@ -2285,7 +2285,7 @@
           "y": "1754",
           "properties": {
             "size": "18",
-            "text": "Get Some DevOps Knowledge"
+            "text": "DevOps barada düşünje almak"
           }
         },
         {
@@ -2324,11 +2324,11 @@
                   "zOrder": "1",
                   "measuredW": "97",
                   "measuredH": "25",
-                  "x": "24",
+                  "x": "10",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Linux Basics"
+                    "text": "Linux Başlangyç"
                   }
                 }
               ]
@@ -2371,11 +2371,11 @@
                   "zOrder": "1",
                   "measuredW": "153",
                   "measuredH": "25",
-                  "x": "22",
+                  "x": "18",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Basic AWS Services"
+                    "text": "Esasy AWS Hyzmatlar"
                   }
                 }
               ]
@@ -2686,7 +2686,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — CI / CD",
+                    "text": "Tanyşmak — CI / CD",
                     "color": "16777215"
                   }
                 }
@@ -2730,11 +2730,11 @@
                   "zOrder": "1",
                   "measuredW": "44",
                   "measuredH": "25",
-                  "x": "22",
+                  "x": "04",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Monit"
+                    "text": "Gözegçilik"
                   }
                 }
               ]
@@ -2781,7 +2781,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Monitoring",
+                    "text": "Tanyşmak — Monitoring",
                     "color": "16777215"
                   }
                 }
@@ -2858,7 +2858,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "GitHub Actions"
+                    "text": "GitHub Amallar"
                   }
                 }
               ]
@@ -2905,7 +2905,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Deployment",
+                    "text": "Tanyşmak — Gurnamak",
                     "color": "16777215"
                   }
                 }
@@ -2949,11 +2949,11 @@
                   "zOrder": "1",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "23",
+                  "x": "03",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Ansible"
+                    "text": "Jogapkärçilik"
                   }
                 }
               ]
@@ -3026,11 +3026,11 @@
                   "zOrder": "1",
                   "measuredW": "208",
                   "measuredH": "26",
-                  "x": "19",
+                  "x": "12",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Automation",
+                    "text": "Tanyşmak — Awtomatizasiýa",
                     "color": "16777215"
                   }
                 }
@@ -3136,7 +3136,7 @@
           "properties": {
             "color": "4985136",
             "size": "18",
-            "text": "Use the checkpoints and do not forget"
+            "text": "Öwrenen maglumatlaryňyzy bilen tejribe"
           }
         },
         {
@@ -3150,7 +3150,7 @@
           "properties": {
             "color": "4985136",
             "size": "18",
-            "text": "to practice what you learn. There are"
+            "text": "geçirmegi ýatdan çykarmaň."
           }
         },
         {
@@ -3159,12 +3159,12 @@
           "zOrder": "93",
           "measuredW": "302",
           "measuredH": "26",
-          "x": "1076",
+          "x": "1074",
           "y": "1673",
           "properties": {
             "color": "4985136",
             "size": "18",
-            "text": "project ideas at each checkpoint that"
+            "text": "Her bir zadyň üstünde duryp geçmek zerur."
           }
         },
         {
@@ -3178,7 +3178,7 @@
           "properties": {
             "color": "4985136",
             "size": "18",
-            "text": "you can build to solidify your knowledge."
+            "text": "Tejribe öwrenmegiň iň gowy usuly."
           }
         },
         {
@@ -3217,12 +3217,12 @@
                   "zOrder": "1",
                   "measuredW": "227",
                   "measuredH": "26",
-                  "x": "17",
+                  "x": "27",
                   "y": "12",
                   "properties": {
                     "size": "18",
                     "color": "16777215",
-                    "text": "Checkpoint — Infrastructure"
+                    "text": "Tanyşmak — Infrastruktura"
                   }
                 }
               ]
@@ -3308,7 +3308,7 @@
           "y": "2503",
           "properties": {
             "size": "17",
-            "text": "Continue Learning with following relevant tracks"
+            "text": "Aşakdaky gollanmalar bilen öwrenmegi dowam etdiriň"
           }
         },
         {
@@ -3322,7 +3322,7 @@
           "x": "1062",
           "y": "2540",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/devops"
+            "controlName": "ext_link:localhost:3000/devops"
           },
           "children": {
             "controls": {
@@ -3351,7 +3351,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "DevOps Roadmap"
+                    "text": "DevOps Ýörelge"
                   }
                 }
               ]
@@ -3369,7 +3369,7 @@
           "x": "856",
           "y": "2540",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/backend"
+            "controlName": "ext_link:localhost:3000/backend"
           },
           "children": {
             "controls": {
@@ -3398,7 +3398,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Backend Roadmap"
+                    "text": "Backend Ýörelge"
                   }
                 }
               ]
@@ -3416,7 +3416,7 @@
           "x": "650",
           "y": "2540",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/frontend"
+            "controlName": "ext_link:localhost:3000/frontend"
           },
           "children": {
             "controls": {
@@ -3445,7 +3445,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Frontend Roadmap"
+                    "text": "Frontend Ýörelge"
                   }
                 }
               ]
@@ -3739,7 +3739,7 @@
                   "x": "20",
                   "y": "130",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/frontend"
+                    "controlName": "ext_link:localhost:3000/frontend"
                   },
                   "children": {
                     "controls": {
@@ -3786,7 +3786,7 @@
                   "x": "137",
                   "y": "130",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/backend"
+                    "controlName": "ext_link:localhost:3000/backend"
                   },
                   "children": {
                     "controls": {
@@ -3833,7 +3833,7 @@
                   "x": "262",
                   "y": "130",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/devops"
+                    "controlName": "ext_link:localhost:3000/devops"
                   },
                   "children": {
                     "controls": {

@@ -94,7 +94,7 @@ const hasTnsBanner = !!tnsBannerLink;
 
               <ShareRoadmapButton
                 description={description}
-                pageUrl={`https://localhost/${roadmapId}`}
+                pageUrl={`http://localhost:3000/${roadmapId}`}
                 client:idle
               />
 
@@ -104,7 +104,7 @@ const hasTnsBanner = !!tnsBannerLink;
                     data-guest-required
                     data-popup='login-popup'
                     class='inline-flex hidden items-center justify-center rounded-md bg-yellow-400 px-3 py-1.5 text-xs font-medium hover:bg-yellow-500 sm:text-sm'
-                    aria-label='Download Roadmap'
+                    aria-label='Ýükelemek'
                   >
                     <Icon icon='download' />
                     <span class='ml-2 hidden sm:inline'>Göçürip al</span>
@@ -113,7 +113,7 @@ const hasTnsBanner = !!tnsBannerLink;
                   <a
                     data-auth-required
                     class='inline-flex hidden items-center justify-center rounded-md bg-yellow-400 px-3 py-1.5 text-xs font-medium hover:bg-yellow-500 sm:text-sm'
-                    aria-label='Download Roadmap'
+                    aria-label='Ýükelemek'
                     target='_blank'
                     href={`/pdfs/roadmaps/${roadmapId}.pdf`}
                   >

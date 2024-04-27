@@ -66,8 +66,8 @@
                   "x": "18",
                   "y": "19",
                   "properties": {
-                    "text": "Find the detailed version of this roadmap",
-                    "size": "18"
+                    "text": "Giňişleýin maglumat ücin şu salga",
+                    "size": "22"
                   }
                 },
                 {
@@ -81,7 +81,7 @@
                   "x": "18",
                   "y": "88",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:localhost:3000"
                   },
                   "children": {
                     "controls": {
@@ -107,12 +107,12 @@
                           "zOrder": "1",
                           "measuredW": "155",
                           "measuredH": "26",
-                          "x": "92",
+                          "x": "62",
                           "y": "11",
                           "properties": {
                             "color": "16777215",
-                            "text": "https://roadmap.sh",
-                            "size": "18"
+                            "text": "https://sanlyyorelge.tm",
+                            "size": "22"
                           }
                         }
                       ]
@@ -128,8 +128,8 @@
                   "x": "18",
                   "y": "48",
                   "properties": {
-                    "size": "18",
-                    "text": "Along with resources and more roadmaps"
+                    "size": "22",
+                    "text": "ýüzlenip bilersiňiz"
                   }
                 }
               ]
@@ -1047,11 +1047,11 @@
           "zOrder": "115",
           "measuredW": "59",
           "measuredH": "25",
-          "x": "885",
+          "x": "855",
           "y": "1154",
           "properties": {
             "size": "17",
-            "text": "Layouts"
+            "text": "Yzygiderlilik"
           }
         },
         {
@@ -1060,11 +1060,11 @@
           "zOrder": "124",
           "measuredW": "73",
           "measuredH": "25",
-          "x": "563",
+          "x": "558",
           "y": "1334",
           "properties": {
             "size": "17",
-            "text": "Elements"
+            "text": "Elementler"
           }
         },
         {
@@ -1660,8 +1660,8 @@
           "x": "750",
           "y": "1886",
           "properties": {
-            "size": "17",
-            "text": "Architectural Patterns"
+            "size": "20",
+            "text": "Arhitektura Çyzgylary"
           }
         },
         {
@@ -2560,11 +2560,11 @@
           "zOrder": "189",
           "measuredW": "187",
           "measuredH": "36",
-          "x": "626",
+          "x": "585",
           "y": "3004",
           "properties": {
             "size": "28",
-            "text": "Keep Learning"
+            "text": "Öwrenmegi dowam et"
           }
         },
         {
@@ -2632,7 +2632,7 @@
                   "y": "26",
                   "properties": {
                     "size": "20",
-                    "text": "Relevant Roadmaps"
+                    "text": "Baglanyşykly Gollanmalar"
                   }
                 },
                 {
@@ -2646,7 +2646,7 @@
                   "x": "29",
                   "y": "69",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/react-native"
+                    "controlName": "ext_link:localhost:3000/react-native"
                   },
                   "children": {
                     "controls": {
@@ -2661,7 +2661,7 @@
                           "y": "0",
                           "properties": {
                             "size": "18",
-                            "text": "React Native Roadmap"
+                            "text": "React Native Ýörelge"
                           }
                         },
                         {
@@ -2728,7 +2728,7 @@
                   "x": "29",
                   "y": "104",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/flutter"
+                    "controlName": "ext_link:localhost:3000/flutter"
                   },
                   "children": {
                     "controls": {
@@ -2743,7 +2743,7 @@
                           "y": "0",
                           "properties": {
                             "size": "18",
-                            "text": "Flutter Roadmap"
+                            "text": "Flutter Ýörelge"
                           }
                         },
                         {
@@ -2932,11 +2932,11 @@
                   "zOrder": "1",
                   "measuredW": "129",
                   "measuredH": "25",
-                  "x": "37",
+                  "x": "45",
                   "y": "13",
                   "properties": {
-                    "size": "17",
-                    "text": "Pick a Language"
+                    "size": "20",
+                    "text": "Dil saýlamak"
                   }
                 }
               ]
@@ -3171,11 +3171,11 @@
                   "zOrder": "1",
                   "measuredW": "143",
                   "measuredH": "25",
-                  "x": "30",
+                  "x": "40",
                   "y": "13",
                   "properties": {
-                    "size": "17",
-                    "text": "The Fundamentals"
+                    "size": "20",
+                    "text": "Başlangyçlar"
                   }
                 }
               ]
@@ -3222,7 +3222,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Development IDE"
+                    "text": "IDE Dolandyrmak"
                   }
                 }
               ]
@@ -3265,11 +3265,11 @@
                   "zOrder": "1",
                   "measuredW": "118",
                   "measuredH": "25",
-                  "x": "105",
+                  "x": "65",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Basics of Kotlin"
+                    "text": "Kotlin Başlangyç düşünje"
                   }
                 }
               ]
@@ -3312,11 +3312,11 @@
                   "zOrder": "1",
                   "measuredW": "112",
                   "measuredH": "25",
-                  "x": "108",
+                  "x": "68",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Basics of OOP"
+                    "text": "OOP Başlangyç düşünje"
                   }
                 }
               ]
@@ -3359,11 +3359,11 @@
                   "zOrder": "1",
                   "measuredW": "235",
                   "measuredH": "25",
-                  "x": "46",
+                  "x": "66",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "DataStructures and Algorithms"
+                    "text": "Struktura we Algoritmler"
                   }
                 }
               ]
@@ -3406,11 +3406,11 @@
                   "zOrder": "1",
                   "measuredW": "242",
                   "measuredH": "25",
-                  "x": "43",
+                  "x": "23",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "What is and how to use Gradle?"
+                    "text": "Gradle bu näme we nähili ulanmaly?"
                   }
                 }
               ]
@@ -3453,11 +3453,11 @@
                   "zOrder": "1",
                   "measuredW": "239",
                   "measuredH": "25",
-                  "x": "44",
+                  "x": "19",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Create a basic Hello World App"
+                    "text": "Başlangyç Hello World Prog döretmek"
                   }
                 }
               ]
@@ -3500,11 +3500,11 @@
                   "zOrder": "1",
                   "measuredW": "186",
                   "measuredH": "25",
-                  "x": "42",
+                  "x": "05",
                   "y": "13",
                   "properties": {
-                    "size": "17",
-                    "text": "Version Control Systems"
+                    "size": "20",
+                    "text": "Wersiýa dolandyryjy ulgamlar"
                   }
                 }
               ]
@@ -3882,11 +3882,11 @@
                   "zOrder": "1",
                   "measuredW": "133",
                   "measuredH": "25",
-                  "x": "68",
+                  "x": "18",
                   "y": "13",
                   "properties": {
-                    "size": "17",
-                    "text": "App Components"
+                    "size": "20",
+                    "text": "Programma Komponentlar"
                   }
                 }
               ]
@@ -3933,7 +3933,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Activity"
+                    "text": "Işjeňlik"
                   }
                 }
               ]
@@ -3980,7 +3980,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Services"
+                    "text": "Hyzmatlar"
                   }
                 }
               ]
@@ -4027,7 +4027,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Content Provider"
+                    "text": "Kontent Prowaýder"
                   }
                 }
               ]
@@ -4074,7 +4074,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Broadcast Receiver"
+                    "text": "Broadcast kabul ediji"
                   }
                 }
               ]
@@ -4117,11 +4117,11 @@
                   "zOrder": "1",
                   "measuredW": "45",
                   "measuredH": "25",
-                  "x": "71",
+                  "x": "21",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Intent"
+                    "text": "Öňde goýlan Maksat"
                   }
                 }
               ]
@@ -4164,11 +4164,11 @@
                   "zOrder": "1",
                   "measuredW": "124",
                   "measuredH": "25",
-                  "x": "37",
+                  "x": "17",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Activity Lifecycle"
+                    "text": "Işjeňligiň dowamlylygy"
                   }
                 }
               ]
@@ -4211,11 +4211,11 @@
                   "zOrder": "1",
                   "measuredW": "114",
                   "measuredH": "25",
-                  "x": "42",
+                  "x": "35",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "State Changes"
+                    "text": "State Üýtgetmek"
                   }
                 }
               ]
@@ -4258,11 +4258,11 @@
                   "zOrder": "1",
                   "measuredW": "161",
                   "measuredH": "25",
-                  "x": "18",
+                  "x": "07",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Tasks and Backstack"
+                    "text": "Tabşyryk we Yza gaýtma"
                   }
                 }
               ]
@@ -4309,7 +4309,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Implicit Intents"
+                    "text": "Gizlin maksat"
                   }
                 }
               ]
@@ -4356,7 +4356,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Explicit Intents"
+                    "text": "Açyk maksat"
                   }
                 }
               ]
@@ -4399,11 +4399,11 @@
                   "zOrder": "1",
                   "measuredW": "97",
                   "measuredH": "25",
-                  "x": "50",
+                  "x": "70",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Intent Filters"
+                    "text": "Filterler"
                   }
                 }
               ]
@@ -4446,11 +4446,11 @@
                   "zOrder": "1",
                   "measuredW": "191",
                   "measuredH": "25",
-                  "x": "39",
+                  "x": "34",
                   "y": "12",
                   "properties": {
-                    "size": "17",
-                    "text": "Interface and Navigation"
+                    "size": "20",
+                    "text": "Interfeýs we Nawigasiýa"
                   }
                 }
               ]
@@ -4497,7 +4497,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Frame"
+                    "text": "Freým"
                   }
                 }
               ]
@@ -4544,7 +4544,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Linear"
+                    "text": "Çyzykly"
                   }
                 }
               ]
@@ -4638,7 +4638,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Constraint"
+                    "text": "Çäklendirme"
                   }
                 }
               ]
@@ -4681,11 +4681,11 @@
                   "zOrder": "1",
                   "measuredW": "98",
                   "measuredH": "25",
-                  "x": "45",
+                  "x": "20",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "RecycleView"
+                    "text": "Gaýtadan barlamak"
                   }
                 }
               ]
@@ -5292,11 +5292,11 @@
                   "zOrder": "1",
                   "measuredW": "140",
                   "measuredH": "25",
-                  "x": "61",
+                  "x": "51",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Jetpack Compose"
+                    "text": "Jetpack Düzüliş tertibi"
                   }
                 }
               ]
@@ -5339,11 +5339,11 @@
                   "zOrder": "1",
                   "measuredW": "108",
                   "measuredH": "25",
-                  "x": "77",
+                  "x": "27",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "App Shortcuts"
+                    "text": "Programmanyň gysga ýollary"
                   }
                 }
               ]
@@ -5390,7 +5390,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Navigation Components"
+                    "text": "Nawigasiýa Komponentlar"
                   }
                 }
               ]
@@ -5436,8 +5436,8 @@
                   "x": "26",
                   "y": "12",
                   "properties": {
-                    "size": "17",
-                    "text": "Architecture and Design Patterns"
+                    "size": "20",
+                    "text": "Arhitektura we Dizaýn Çyzgylar"
                   }
                 }
               ]
@@ -6279,11 +6279,11 @@
                   "zOrder": "1",
                   "measuredW": "61",
                   "measuredH": "25",
-                  "x": "61",
+                  "x": "45",
                   "y": "12",
                   "properties": {
-                    "size": "17",
-                    "text": "Storage"
+                    "size": "20",
+                    "text": "Ýat Gurluşy"
                   }
                 }
               ]
@@ -6514,11 +6514,11 @@
                   "zOrder": "1",
                   "measuredW": "64",
                   "measuredH": "25",
-                  "x": "61",
+                  "x": "81",
                   "y": "12",
                   "properties": {
-                    "size": "17",
-                    "text": "Network"
+                    "size": "20",
+                    "text": "Tor"
                   }
                 }
               ]
@@ -6705,8 +6705,8 @@
                   "x": "39",
                   "y": "12",
                   "properties": {
-                    "size": "17",
-                    "text": "Asynchronism"
+                    "size": "20",
+                    "text": "Asynhronizm"
                   }
                 }
               ]
@@ -6984,11 +6984,11 @@
                   "zOrder": "1",
                   "measuredW": "140",
                   "measuredH": "25",
-                  "x": "23",
+                  "x": "13",
                   "y": "12",
                   "properties": {
-                    "size": "17",
-                    "text": "Common Services"
+                    "size": "20",
+                    "text": "Umumy hyzmatlar"
                   }
                 }
               ]
@@ -7451,11 +7451,11 @@
                   "zOrder": "1",
                   "measuredW": "52",
                   "measuredH": "25",
-                  "x": "70",
+                  "x": "40",
                   "y": "12",
                   "properties": {
-                    "size": "17",
-                    "text": "Linting"
+                    "size": "20",
+                    "text": "Lint etmek"
                   }
                 }
               ]
@@ -7592,11 +7592,11 @@
                   "zOrder": "1",
                   "measuredW": "85",
                   "measuredH": "25",
-                  "x": "49",
+                  "x": "35",
                   "y": "12",
                   "properties": {
-                    "size": "17",
-                    "text": "Debugging"
+                    "size": "20",
+                    "text": "Debug etmek"
                   }
                 }
               ]
@@ -7827,11 +7827,11 @@
                   "zOrder": "1",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "40",
+                  "x": "20",
                   "y": "12",
                   "properties": {
-                    "size": "17",
-                    "text": "Testing"
+                    "size": "20",
+                    "text": "Test etmek"
                   }
                 }
               ]
@@ -7968,11 +7968,11 @@
                   "zOrder": "1",
                   "measuredW": "88",
                   "measuredH": "25",
-                  "x": "50",
+                  "x": "15",
                   "y": "12",
                   "properties": {
-                    "size": "17",
-                    "text": "Distribution"
+                    "size": "20",
+                    "text": "Paýlamak, Bölmek"
                   }
                 }
               ]
@@ -8128,7 +8128,7 @@
       "parentID": null,
       "notes": ""
     },
-    "branchID": "Master",
+    "branchID": "main",
     "resourceID": "7BDB8D3D-BEB5-4A58-BF91-F519F8754661",
     "mockupH": "3021",
     "mockupW": "1325",
@@ -8141,5 +8141,5 @@
     "y": 0
   },
   "dependencies": [],
-  "projectID": "file:///Users/kamrify/Desktop/New%20Roadmaps/Android%20Roadmap.bmpr"
+  "projectID": ""
 }
