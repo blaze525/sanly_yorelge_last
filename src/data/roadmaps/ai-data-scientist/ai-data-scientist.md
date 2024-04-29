@@ -2,9 +2,9 @@
 jsonUrl: '/jsons/roadmaps/ai-data-scientist.json'
 pdfUrl: '/pdfs/roadmaps/ai-data-scientist.pdf'
 order: 6
-briefTitle: 'AI and Data Scientist'
-briefDescription: 'Step by step guide to becoming an AI and Data Scientist in 2024'
-title: 'AI and Data Scientist Roadmap'
+briefTitle: 'Emeli Aň we Maglumatlar bilen işlemek'
+briefDescription: '2024-nji ýylda Emeli Aň we Maglumatlar bilen işlemekde hünärmen bolmak üçin ädimme-ädim gollanma'
+title: 'Emeli Aň we Maglumatlar bilen işlemek'
 description: 'Step by step guide to becoming an AI and Data Scientist in 2024'
 hasTopics: true
 isNew: true
@@ -12,14 +12,14 @@ dimensions:
   width: 968
   height: 2243.96
 schema:
-  headline: 'AI and Data Scientist Roadmap'
-  description: 'Learn how to become an AI and Data Scientist with this interactive step by step guide in 2023. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
+  headline: 'Emeli Aň we Maglumatlar bilen işlemek'
+  description: '2024-nji ýylda ädimme-ädim Emeli Aň we Maglumatlar bilen işlemekde hünärmen bolmagyň usullaryny öwreniň. Şeýle hem, ýörelgäniň elementlerine çeşmelerimiz we gysgaça düşündirişlerimiz bar, şonuň üçin öwrenmek isleýän zatlaryňyzy bir ýerde jemläp alyp bilersiňiz.'
   imageUrl: 'https://roadmap.sh/roadmaps/ai-data-scientist.png'
-  datePublished: '2023-08-17'
-  dateModified: '2023-08-17'
+  datePublished: '2024-02-17'
+  dateModified: '2024-02-17'
 seo:
-  title: 'AI and Data Scientist Roadmap'
-  description: 'Learn to become an AI and Data Scientist using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern backend development.'
+  title: 'Emeli Aň we Maglumatlar bilen işlemek üçin gollanma'
+  description: '2024-nji ýylda ädimme-ädim Emeli Aň we Maglumatlar bilen işlemekde hünärmen bolmagyň usullaryny öwreniň. Şeýle hem, ýörelgäniň elementlerine çeşmelerimiz we gysgaça düşündirişlerimiz bar, şonuň üçin öwrenmek isleýän zatlaryňyzy bir ýerde jemläp alyp bilersiňiz.'
   keywords:
     - 'ai and data scientist roadmap 2024'
     - 'ai and data scientist roadmap 2024'

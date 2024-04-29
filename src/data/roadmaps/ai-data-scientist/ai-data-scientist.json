@@ -73,7 +73,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "GitHub Repository with Notes and Code from the eBook Above"
+                    "text": "GitHub çeşmesi, ýokardaky kitapdan bölekleýin maglumatlar"
                   }
                 }
               ]
@@ -116,11 +116,11 @@
           "zOrder": "3",
           "measuredW": "302",
           "measuredH": "40",
-          "x": "201",
+          "x": "190",
           "y": "305",
           "properties": {
-            "size": "32",
-            "text": "AI and Data Scientist"
+            "size": "28",
+            "text": "Emeli Aň we Maglumatlar"
           }
         },
         {
@@ -237,8 +237,8 @@
           "x": "336",
           "y": "470",
           "properties": {
-            "size": "17",
-            "text": "Mathematics"
+            "size": "20",
+            "text": "Matematika"
           }
         },
         {
@@ -298,7 +298,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Linear Algebra, Calculus, Mathematical Analysis"
+                    "text": "Çyzykly algebra, hasaplama, matematiki derňew"
                   }
                 }
               ]
@@ -347,7 +347,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Mathematics for Machine Learning"
+                    "text": "Machine Learning - üçin Matematika"
                   }
                 },
                 {
@@ -361,7 +361,7 @@
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Courses"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -425,7 +425,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Differential Calculus"
+                    "text": "Differensial hasaplama"
                   }
                 }
               ]
@@ -473,7 +473,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Coursera: Algebra and Differential Calculus"
+                    "text": "Coursera saýty: Algebra we Differensial hasaplama"
                   }
                 },
                 {
@@ -482,12 +482,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "421",
+                  "x": "410",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -514,11 +514,11 @@
           "zOrder": "16",
           "measuredW": "70",
           "measuredH": "25",
-          "x": "948",
+          "x": "940",
           "y": "466",
           "properties": {
-            "size": "17",
-            "text": "Statistics"
+            "size": "20",
+            "text": "Statistika"
           }
         },
         {
@@ -578,7 +578,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Statistics, CLT"
+                    "text": "Statistika, CLT (Classic Learning Test)"
                   }
                 }
               ]
@@ -626,7 +626,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Coursera: Introduction to Statistics"
+                    "text": "Coursera saýty: Statistika giriş"
                   }
                 },
                 {
@@ -635,12 +635,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "397",
+                  "x": "370",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -704,7 +704,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Hypothesis Testing"
+                    "text": "Gipoteza barlagy"
                   }
                 }
               ]
@@ -766,7 +766,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Coursera: Hypothesis Testing"
+                    "text": "Coursera saýty: Gipoteza barlagy"
                   }
                 },
                 {
@@ -775,12 +775,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "397",
+                  "x": "370",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -844,7 +844,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Probability and Sampling"
+                    "text": "Ähtimallyk we nusga almak"
                   }
                 }
               ]
@@ -892,7 +892,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Coursera: Probability and Statistics"
+                    "text": "Coursera saýty: Ähtimallyk we nusga almak"
                   }
                 },
                 {
@@ -901,12 +901,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "398",
+                  "x": "370",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -970,7 +970,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "AB Testing"
+                    "text": "AB synagy"
                   }
                 }
               ]
@@ -1018,7 +1018,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Practitioner’s Guide to Statistical Tests"
+                    "text": "Statistiki synaglar üçin tejribelik gollanma"
                   }
                 },
                 {
@@ -1027,11 +1027,11 @@
                   "zOrder": "2",
                   "measuredW": "49",
                   "measuredH": "25",
-                  "x": "406",
+                  "x": "390",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Article",
+                    "text": "Makala",
                     "color": "10027263"
                   }
                 }
@@ -1080,7 +1080,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Experiment Design Article"
+                    "text": "Tejribelik dizaýn makalasy"
                   }
                 },
                 {
@@ -1089,11 +1089,11 @@
                   "zOrder": "2",
                   "measuredW": "49",
                   "measuredH": "25",
-                  "x": "407",
+                  "x": "390",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Article",
+                    "text": "Makala",
                     "color": "10027263"
                   }
                 }
@@ -1158,7 +1158,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Increasing Test Sensitivity"
+                    "text": "TEST takyklygyny ýokarlandyrmak"
                   }
                 }
               ]
@@ -1206,7 +1206,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Minimum Detectable Effect"
+                    "text": "Minimal kesgitli täsir"
                   }
                 },
                 {
@@ -1215,11 +1215,11 @@
                   "zOrder": "2",
                   "measuredW": "49",
                   "measuredH": "25",
-                  "x": "405",
+                  "x": "390",
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Article",
+                    "text": "Makala",
                     "color": "10027263"
                   }
                 }
@@ -1268,7 +1268,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Paper: Improving Test Sensitivity"
+                    "text": "TEST takyklygyny ýokarlandyrmak"
                   }
                 },
                 {
@@ -1277,11 +1277,11 @@
                   "zOrder": "2",
                   "measuredW": "46",
                   "measuredH": "25",
-                  "x": "408",
+                  "x": "330",
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Paper",
+                    "text": "Internet sahypa",
                     "color": "10027263"
                   }
                 }
@@ -1330,7 +1330,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Paper: Improving Sensitivity (CUPED)"
+                    "text": "CUPED (Control-experiment Using Pre-Experiment Data)"
                   }
                 },
                 {
@@ -1343,7 +1343,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Paper",
+                    "text": "",
                     "color": "10027263"
                   }
                 }
@@ -1392,7 +1392,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "CUPED at Booking.com"
+                    "text": "CUPED barada Booking.com saýtynda"
                   }
                 },
                 {
@@ -1401,11 +1401,11 @@
                   "zOrder": "2",
                   "measuredW": "49",
                   "measuredH": "25",
-                  "x": "404",
+                  "x": "390",
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Article",
+                    "text": "Makala",
                     "color": "10027263"
                   }
                 }
@@ -1454,7 +1454,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Doordash: CUPAC"
+                    "text": "CUPAC (Control-experiment Using Prediction As Covariate)"
                   }
                 },
                 {
@@ -1467,7 +1467,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Article",
+                    "text": "",
                     "color": "10027263"
                   }
                 }
@@ -1532,7 +1532,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Ratio Metrics"
+                    "text": "Gatnaşygyň ölçegleri"
                   }
                 }
               ]
@@ -1580,7 +1580,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Microsoft: Delta Method in Metric Analytics"
+                    "text": "Metriki Analitikada Delta usuly"
                   }
                 },
                 {
@@ -1589,11 +1589,11 @@
                   "zOrder": "2",
                   "measuredW": "46",
                   "measuredH": "25",
-                  "x": "392",
+                  "x": "330",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Paper",
+                    "text": "Internet sahypa",
                     "color": "10027263"
                   }
                 }
@@ -1642,7 +1642,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Paper: Ratio Metrics"
+                    "text": "Metriki ölçegler"
                   }
                 },
                 {
@@ -1651,11 +1651,11 @@
                   "zOrder": "2",
                   "measuredW": "46",
                   "measuredH": "25",
-                  "x": "399",
+                  "x": "330",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Paper",
+                    "text": "Internet sahypa",
                     "color": "10027263"
                   }
                 }
@@ -1887,11 +1887,11 @@
           "zOrder": "53",
           "measuredW": "107",
           "measuredH": "25",
-          "x": "301",
+          "x": "290",
           "y": "821",
           "properties": {
-            "size": "17",
-            "text": "Econometrics"
+            "size": "20",
+            "text": "Ekonometrika"
           }
         },
         {
@@ -1951,7 +1951,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Pre-requisites of Econometrics"
+                    "text": "Ekonometrikanyň deslapky talaplary"
                   }
                 }
               ]
@@ -1999,7 +1999,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Fundamentals of econometrics"
+                    "text": "Ekonometrikanyň esaslary"
                   }
                 },
                 {
@@ -2013,7 +2013,7 @@
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Book"
+                    "text": "Kitap"
                   }
                 }
               ]
@@ -2077,7 +2077,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Regressions, time series, fitting distributions"
+                    "text": "Regressiýalar, wagt tapgyry, deňlik paýlamalar"
                   }
                 }
               ]
@@ -2125,7 +2125,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Intro to Econometrics"
+                    "text": "Ekonometrika giriş"
                   }
                 },
                 {
@@ -2139,7 +2139,7 @@
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Book"
+                    "text": "Kitap"
                   }
                 }
               ]
@@ -2187,7 +2187,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Coursera: Econometrics"
+                    "text": "Coursera saýty: Ekonometrika"
                   }
                 },
                 {
@@ -2196,12 +2196,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "424",
+                  "x": "400",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -2249,7 +2249,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Kaggle — Learn Time Series"
+                    "text": "Kaggle — Wagt tapgyryny öwrenmek"
                   }
                 },
                 {
@@ -2258,12 +2258,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "425",
+                  "x": "400",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -2311,7 +2311,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Kaggle — Time Series Basics"
+                    "text": "Kaggle — Wagt tapgyrynyň esaslary"
                   }
                 },
                 {
@@ -2320,12 +2320,12 @@
                   "zOrder": "2",
                   "measuredW": "57",
                   "measuredH": "25",
-                  "x": "423",
+                  "x": "410",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Tutorial"
+                    "text": "Gollanma"
                   }
                 }
               ]
@@ -2373,7 +2373,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "ARIMA Model for Time Series"
+                    "text": "Wagt tapgyryny öwrenmek üçin - ARIMA Model"
                   }
                 },
                 {
@@ -2382,12 +2382,12 @@
                   "zOrder": "2",
                   "measuredW": "57",
                   "measuredH": "25",
-                  "x": "419",
+                  "x": "410",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Tutorial"
+                    "text": "Gollanma"
                   }
                 }
               ]
@@ -2435,7 +2435,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Time Series Models"
+                    "text": "Wagt tapgyrynyň modelleri"
                   }
                 },
                 {
@@ -2444,12 +2444,12 @@
                   "zOrder": "2",
                   "measuredW": "57",
                   "measuredH": "25",
-                  "x": "419",
+                  "x": "410",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Tutorial"
+                    "text": "Gollanma"
                   }
                 }
               ]
@@ -2497,7 +2497,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Forecasting Task with Solution"
+                    "text": "Çözgüt bilen çaklamak meselesi"
                   }
                 },
                 {
@@ -2506,12 +2506,12 @@
                   "zOrder": "2",
                   "measuredW": "156",
                   "measuredH": "25",
-                  "x": "328",
+                  "x": "320",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "OpenSource Project"
+                    "text": "Açyk çeşme taslamasy"
                   }
                 }
               ]
@@ -2559,7 +2559,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Coursera: Linear Regression"
+                    "text": "Coursera saýty: Çyzykly regressiýa"
                   }
                 },
                 {
@@ -2568,12 +2568,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "420",
+                  "x": "400",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -2688,11 +2688,11 @@
           "zOrder": "72",
           "measuredW": "55",
           "measuredH": "25",
-          "x": "317",
+          "x": "277",
           "y": "1628",
           "properties": {
-            "size": "17",
-            "text": "Coding"
+            "size": "20",
+            "text": "Kod ýazmak üçin"
           }
         },
         {
@@ -2752,7 +2752,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Learn Python Programming Language"
+                    "text": "Python Programmirleme Dilini öwrenmek"
                   }
                 }
               ]
@@ -2800,7 +2800,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Learn Python - Kaggle"
+                    "text": "Kaggle - Python öwrenmek"
                   }
                 },
                 {
@@ -2809,12 +2809,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "371",
+                  "x": "351",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -2862,7 +2862,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Google's Python Class"
+                    "text": "Google-yň Python Klasy"
                   }
                 },
                 {
@@ -2871,12 +2871,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "367",
+                  "x": "351",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -2924,7 +2924,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Algorithmic Exercises"
+                    "text": "Algoritmiki ýumuşlar"
                   }
                 },
                 {
@@ -2938,7 +2938,7 @@
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Tutorial + Challenges"
+                    "text": "Gollanma + Meseleler"
                   }
                 }
               ]
@@ -2986,7 +2986,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Study Plans - Leetcode"
+                    "text": "Leetcode - Okuw meýilnamalary"
                   }
                 },
                 {
@@ -2995,12 +2995,12 @@
                   "zOrder": "2",
                   "measuredW": "87",
                   "measuredH": "25",
-                  "x": "340",
+                  "x": "351",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Challenges"
+                    "text": "Meseleler"
                   }
                 }
               ]
@@ -3048,7 +3048,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Algorithms Specialization"
+                    "text": "Algoritm ýazmak boýunça hünär"
                   }
                 },
                 {
@@ -3057,12 +3057,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "371",
+                  "x": "351",
                   "y": "12",
                   "properties": {
                     "color": "10027263",
                     "size": "17",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -3126,7 +3126,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Data Structures and Algorithms (Python)"
+                    "text": "Maglumat gurluşlary we algoritmler (Python)"
                   }
                 }
               ]
@@ -3190,7 +3190,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Learn SQL"
+                    "text": "SQL öwrenmek"
                   }
                 }
               ]
@@ -3238,7 +3238,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "SQL Tutorial"
+                    "text": "SQL Gollanma"
                   }
                 },
                 {
@@ -3247,12 +3247,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "366",
+                  "x": "351",
                   "y": "13",
                   "properties": {
                     "color": "10027263",
                     "size": "17",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -3293,11 +3293,11 @@
           "zOrder": "87",
           "measuredW": "244",
           "measuredH": "25",
-          "x": "840",
+          "x": "820",
           "y": "1627",
           "properties": {
-            "size": "17",
-            "text": "Exploratory Data Analysis (EDA)"
+            "size": "20",
+            "text": "Gözleg maglumatlaryň derňewi"
           }
         },
         {
@@ -3357,7 +3357,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Data understanding, Data Analysis, Vizualisation"
+                    "text": "Maglumatlara düşünmek, maglumatlary derňemek, wizuallaşdyrmak"
                   }
                 }
               ]
@@ -3405,7 +3405,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Exploratory Data Analysis With Python and Pandas"
+                    "text": "Python, Pandas bilen Gözleg maglumatlaryň derňewi"
                   }
                 },
                 {
@@ -3414,12 +3414,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "478",
+                  "x": "458",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -3467,7 +3467,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Exploratory Data Analysis for Machine Learning"
+                    "text": "Machine Learning üçin Gözleg maglumatlaryň derňewi"
                   }
                 },
                 {
@@ -3476,12 +3476,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "476",
+                  "x": "456",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -3529,7 +3529,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Exploratory Data Analysis with Seaborn"
+                    "text": "Seaborn bilen Gözleg maglumatlaryň derňewi"
                   }
                 },
                 {
@@ -3538,12 +3538,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "476",
+                  "x": "456",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -3706,7 +3706,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Classic ML (Sup. and Unsup.) Advanced ML (Ensembles, NNs)"
+                    "text": "Klassik ML (Sup. we Unsup.) Ýokarlandyrlan ML (Ensembles, NNs)"
                   }
                 }
               ]
@@ -3754,7 +3754,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Open Machine Learning Course - OpenDataScience"
+                    "text": "OpenDataScience - Machine Learning kursy"
                   }
                 },
                 {
@@ -3763,12 +3763,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "499",
+                  "x": "479",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -3816,7 +3816,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Machine Learning Specialization"
+                    "text": "Machine Learning hünäri"
                   }
                 },
                 {
@@ -3825,12 +3825,12 @@
                   "zOrder": "2",
                   "measuredW": "56",
                   "measuredH": "25",
-                  "x": "498",
+                  "x": "479",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Course"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -3878,7 +3878,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Pattern Recognition & ML by Christopher m. bishop"
+                    "text": "Nusga tanamak we ML Kristofer m."
                   }
                 },
                 {
@@ -3892,7 +3892,7 @@
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "eBook"
+                    "text": "Kitap"
                   }
                 }
               ]
@@ -4027,7 +4027,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Fully connected NN, CNN, RNN, LSTM, Transformers, Transfer Learning"
+                    "text": "Gutarnykly maglumatlar - NN, CNN, RNN, LSTM, Transformers, Transfer Learning"
                   }
                 }
               ]
@@ -4075,7 +4075,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Deep Learning Specialization"
+                    "text": "Deep Learning boýunça hünär"
                   }
                 },
                 {
@@ -4084,12 +4084,12 @@
                   "zOrder": "2",
                   "measuredW": "65",
                   "measuredH": "25",
-                  "x": "363",
+                  "x": "351",
                   "y": "13",
                   "properties": {
                     "color": "10027263",
                     "size": "17",
-                    "text": "Courses"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -4137,7 +4137,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Deep Learning Book"
+                    "text": "Deep Learning boýunça E-Kitap"
                   }
                 },
                 {
@@ -4151,7 +4151,7 @@
                   "properties": {
                     "color": "10027263",
                     "size": "17",
-                    "text": "eBook"
+                    "text": "Kitap"
                   }
                 }
               ]
@@ -4199,7 +4199,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Attention is all you need"
+                    "text": "Deep Learning boýunça goşmaça maglumatlar"
                   }
                 },
                 {
@@ -4213,7 +4213,7 @@
                   "properties": {
                     "color": "10027263",
                     "size": "17",
-                    "text": "Paper"
+                    "text": "Makala"
                   }
                 }
               ]
@@ -4261,7 +4261,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "The Illustrated Transformer"
+                    "text": "Suratly üýtgeýjiler"
                   }
                 },
                 {
@@ -4270,12 +4270,12 @@
                   "zOrder": "2",
                   "measuredW": "49",
                   "measuredH": "25",
-                  "x": "377",
+                  "x": "379",
                   "y": "13",
                   "properties": {
                     "color": "10027263",
                     "size": "17",
-                    "text": "Article"
+                    "text": "Makala"
                   }
                 }
               ]
@@ -4542,7 +4542,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "Deployment models, CI/CD"
+                    "text": "Gurnama modelleri, CI / CD"
                   }
                 }
               ]
@@ -4590,7 +4590,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "MLOps Specialization"
+                    "text": "MLOps boýunça hünär"
                   }
                 },
                 {
@@ -4599,12 +4599,12 @@
                   "zOrder": "2",
                   "measuredW": "65",
                   "measuredH": "25",
-                  "x": "328",
+                  "x": "318",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "color": "10027263",
-                    "text": "Courses"
+                    "text": "Okuw kurs"
                   }
                 }
               ]
@@ -4748,11 +4748,11 @@
           "zOrder": "133",
           "measuredW": "187",
           "measuredH": "36",
-          "x": "661",
+          "x": "601",
           "y": "2945",
           "properties": {
             "size": "28",
-            "text": "Keep Learning"
+            "text": "Öwrenmegi dowam ediň"
           }
         },
         {
@@ -4816,10 +4816,10 @@
                   "zOrder": "1",
                   "measuredW": "333",
                   "measuredH": "26",
-                  "x": "14",
+                  "x": "20",
                   "y": "17",
                   "properties": {
-                    "text": "Find the detailed version of this roadmap",
+                    "text": "Giňişleýin maglumat üçin şu salga",
                     "size": "18"
                   }
                 },
@@ -4829,10 +4829,10 @@
                   "zOrder": "2",
                   "measuredW": "337",
                   "measuredH": "26",
-                  "x": "14",
+                  "x": "20",
                   "y": "45",
                   "properties": {
-                    "text": "along with resources and other roadmaps",
+                    "text": "ýüzlenip bilersiňiz.",
                     "size": "18"
                   }
                 },
@@ -4874,12 +4874,12 @@
                           "w": "172",
                           "measuredW": "172",
                           "measuredH": "28",
-                          "x": "83",
+                          "x": "70",
                           "y": "11",
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "https://roadmap.sh"
+                            "text": "https://sanlyyorelge.tm"
                           }
                         }
                       ]
@@ -4931,7 +4931,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Netflix: Stratification"
+                    "text": "Stratifikasiýa"
                   }
                 },
                 {
@@ -4941,11 +4941,11 @@
                   "w": "47",
                   "measuredW": "46",
                   "measuredH": "25",
-                  "x": "404",
+                  "x": "330",
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Paper",
+                    "text": "Internet sahypa",
                     "color": "10027263"
                   }
                 }
@@ -5018,7 +5018,7 @@
                   "y": "21",
                   "properties": {
                     "size": "18",
-                    "text": "This roadmap was"
+                    "text": "Bu ýörelgäniň maglumatlaryny"
                   }
                 },
                 {
@@ -5031,7 +5031,7 @@
                   "y": "53",
                   "properties": {
                     "size": "18",
-                    "text": "Careem (an Uber company). Shout out to the creators"
+                    "text": "jemlenen,  goşmaça maglumatlary beýleki çeşmelerden"
                   }
                 },
                 {
@@ -5045,7 +5045,7 @@
                   "x": "16",
                   "y": "93",
                   "properties": {
-                    "controlName": "ext_link:twitter.com/mohamadtweets"
+                    "controlName": "ext_link:localhost:3000"
                   },
                   "children": {
                     "controls": {
@@ -5060,7 +5060,7 @@
                           "y": "0",
                           "properties": {
                             "size": "18",
-                            "text": "@mohamadtweets",
+                            "text": "",
                             "color": "10027263"
                           }
                         }
@@ -5079,7 +5079,7 @@
                   "x": "215",
                   "y": "93",
                   "properties": {
-                    "controlName": "ext_link:twitter.com/BulatShkanov"
+                    "controlName": "ext_link:localhost:3000"
                   },
                   "children": {
                     "controls": {
@@ -5094,7 +5094,7 @@
                           "y": "0",
                           "properties": {
                             "size": "18",
-                            "text": "@BulatShkanov",
+                            "text": "",
                             "color": "10027263"
                           }
                         }
@@ -5108,11 +5108,11 @@
                   "zOrder": "5",
                   "measuredW": "31",
                   "measuredH": "26",
-                  "x": "175",
-                  "y": "93",
+                  "x": "15",
+                  "y": "83",
                   "properties": {
                     "size": "18",
-                    "text": "and"
+                    "text": "öwrenip bilersiňiz."
                   }
                 },
                 {
@@ -5126,7 +5126,7 @@
                   "x": "170",
                   "y": "21",
                   "properties": {
-                    "controlName": "ext_link:bit.ly/careem-ai-ds"
+                    "controlName": "ext_link:localhost:3000/careem-ai-ds"
                   },
                   "children": {
                     "controls": {
@@ -5137,11 +5137,11 @@
                           "zOrder": "0",
                           "measuredW": "248",
                           "measuredH": "26",
-                          "x": "0",
+                          "x": "95",
                           "y": "0",
                           "properties": {
                             "size": "18",
-                            "text": "created by the AI and DS team",
+                            "text": "Umumy çeşmelerden",
                             "color": "10027263"
                           }
                         }
@@ -5160,7 +5160,7 @@
                   "x": "423",
                   "y": "21",
                   "properties": {
-                    "controlName": "ext_link:bit.ly/careem-ai-ds"
+                    "controlName": "ext_link:localhost:3000"
                   },
                   "children": {
                     "controls": {
@@ -5175,7 +5175,7 @@
                           "y": "0",
                           "properties": {
                             "size": "18",
-                            "text": "at"
+                            "text": ""
                           }
                         }
                       ]
@@ -5194,7 +5194,7 @@
       "parentID": null,
       "notes": ""
     },
-    "branchID": "Master",
+    "branchID": "main",
     "resourceID": "DC9D2C4B-884B-4C1A-B00F-0275E3529CB4",
     "mockupH": "2890",
     "mockupW": "1241",
@@ -5207,5 +5207,5 @@
     "y": 0
   },
   "dependencies": [],
-  "projectID": "file:///Users/kamrify/Library/Application%20Support/Balsamiq%20Wireframes/UnsavedFiles/New%20Project%201.bmpr"
+  "projectID": "https://github.com/blaze525/sanly_yorelge_last.git"
 }
