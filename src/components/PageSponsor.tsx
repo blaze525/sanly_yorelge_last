@@ -50,7 +50,7 @@ export function PageSponsor(props: PageSponsorProps) {
     );
 
     if (error) {
-      console.error(error);
+      console.error;
       return;
     }
 
@@ -69,9 +69,9 @@ export function PageSponsor(props: PageSponsorProps) {
     });
   };
 
-  useEffect(() => {
-    window.setTimeout(loadSponsor);
-  }, []);
+  // useEffect(() => {
+  //   window.setTimeout(loadSponsor);
+  // }, []);
 
   if ($isSponsorHidden || !sponsor) {
     return null;

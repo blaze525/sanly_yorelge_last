@@ -99,7 +99,7 @@ export async function getRoadmapsByTag(
   );
 }
 
-export async function getRoadmapById(id: string): Promise<RoadmapFileType> {
+export async function getRoadmapById(id: string): Promise<RoadmapFileType | null> {
   const roadmapFilesMap = await import.meta.glob<RoadmapFileType>(
     '/src/data/roadmaps/*/*.md',
     {
@@ -112,7 +112,7 @@ export async function getRoadmapById(id: string): Promise<RoadmapFileType> {
   });
 
   if (!roadmapFile) {
-    throw new Error(`Roadmap with ID ${id} not found`);
+    return null; // Возвращаем null, если карта не найдена
   }
 
   return {
@@ -124,9 +124,15 @@ export async function getRoadmapById(id: string): Promise<RoadmapFileType> {
 export async function getRoadmapsByIds(
   ids: string[],
 ): Promise<RoadmapFileType[]> {
-  if (!ids?.length) {
-    return [];
-  }
+  const roadmapsPromises = ids.map(async (id) => {
+    try {
+      return await getRoadmapById(id);
+    } catch (error) {
+      console.error(error); // Логируем ошибку
+      return null; // Возвращаем null в случае ошибки
+    }
+  });
 
-  return Promise.all(ids.map((id) => getRoadmapById(id)));
+  const roadmaps = await Promise.all(roadmapsPromises);
+  return roadmaps.filter((roadmap) => roadmap !== null) as RoadmapFileType[]; // Фильтруем и приводим к типу RoadmapFileType[]
 }

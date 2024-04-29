@@ -16,7 +16,7 @@ export interface GuideFrontmatter {
     description: string;
   };
   isNew: boolean;
-  type: 'Wideo görnüşde' | 'Tekst görnüşde';
+  type?: 'Wideo görnüşde' | 'Tekst';
   date: string;
   sitemap: {
     priority: number;
@@ -47,11 +47,11 @@ function guidePathToId(filePath: string): string {
  */
 export async function getAllGuides(): Promise<GuideFileType[]> {
   // @ts-ignore
-  const guides = await import.meta.glob<GuideFileType>(
+  const guides = import.meta.glob<GuideFileType>(
     '/src/data/guides/*.md',
     {
       eager: true,
-    },
+    }
   );
 
   const guideFiles = Object.values(guides) as GuideFileType[];

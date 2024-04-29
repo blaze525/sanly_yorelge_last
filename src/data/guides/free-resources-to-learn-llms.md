@@ -51,4 +51,4 @@ LLMOps, a dedicated resource for operationalizing LLMs, offers insights into tes
 
 This is a course by a team of UC Berkeley PhD alumni that teaches best practices and tools for building LLM-powered apps. It covers the full stack from prompt engineering to user-centered design. They have a "[Full Stack Deep Learning](https://fullstackdeeplearning.com/course/)" course as well if you are interested in learning that.
 
-With these 5 free resources, you have a wealth of knowledge at your fingertips to master LLMs and advance your NLP skills. We have also been working on AI related content i.e. including roadmaps and best practices on [roadmap.sh](https://roadmap.sh) so stay tuned for that as well. Happy learning!
+With these 5 free resources, you have a wealth of knowledge at your fingertips to master LLMs and advance your NLP skills. We have also been working on AI related content i.e. including roadmaps and best practices on so stay tuned for that as well. Happy learning!
