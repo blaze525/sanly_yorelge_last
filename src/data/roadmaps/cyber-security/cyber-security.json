@@ -648,7 +648,7 @@
           "y": "4086",
           "properties": {
             "size": "18",
-            "text": "Understand Common Standards"
+            "text": "Umumy standartlara düşüniň"
           }
         },
         {
@@ -668,11 +668,11 @@
           "zOrder": "29",
           "measuredW": "200",
           "measuredH": "26",
-          "x": "232",
+          "x": "190",
           "y": "3965",
           "properties": {
-            "size": "18",
-            "text": "Understand Frameworks"
+            "size": "19",
+            "text": "Freýmworklaryň işleýşine düşünmek"
           }
         },
         {
@@ -692,11 +692,11 @@
           "zOrder": "31",
           "measuredW": "348",
           "measuredH": "26",
-          "x": "159",
+          "x": "135",
           "y": "3678",
           "properties": {
-            "size": "18",
-            "text": "Tools for Incident Response and Discovery"
+            "size": "19",
+            "text": "Incident Response we Discovery üçin Gurallar"
           }
         },
         {
@@ -760,11 +760,11 @@
           "zOrder": "34",
           "measuredW": "256",
           "measuredH": "26",
-          "x": "618",
+          "x": "590",
           "y": "4037",
           "properties": {
-            "size": "18",
-            "text": "Understand the following Terms"
+            "size": "19",
+            "text": "Adalgalaryň manysyna düşünmek"
           }
         },
         {
@@ -784,11 +784,11 @@
           "zOrder": "36",
           "measuredW": "346",
           "measuredH": "26",
-          "x": "573",
+          "x": "550",
           "y": "3858",
           "properties": {
-            "size": "18",
-            "text": "Understand Secure vs Unsecure Protocols"
+            "size": "19",
+            "text": "Goragly we Goragly däl Protokollara düşünmek"
           }
         },
         {
@@ -824,11 +824,11 @@
                   "zOrder": "1",
                   "measuredW": "189",
                   "measuredH": "26",
-                  "x": "112",
+                  "x": "100",
                   "y": "18",
                   "properties": {
-                    "size": "18",
-                    "text": "Basics of Cryptography"
+                    "size": "19",
+                    "text": "Kriptografiýanyň esaslary"
                   }
                 }
               ]
@@ -1598,11 +1598,11 @@
                   "zOrder": "1",
                   "measuredW": "243",
                   "measuredH": "26",
-                  "x": "95",
+                  "x": "100",
                   "y": "24",
                   "properties": {
-                    "size": "18",
-                    "text": "Authentication Methodologies"
+                    "size": "20",
+                    "text": "Autentifikasiýanyň Usullary"
                   }
                 }
               ]
@@ -1642,11 +1642,11 @@
                   "zOrder": "1",
                   "measuredW": "282",
                   "measuredH": "26",
-                  "x": "77",
+                  "x": "57",
                   "y": "77",
                   "properties": {
-                    "size": "18",
-                    "text": "Understand basics of Virtualization"
+                    "size": "19",
+                    "text": "Wirtuallaşdyrmagyň esaslaryna düşüniň"
                   }
                 }
               ]
@@ -2317,11 +2317,11 @@
           "zOrder": "76",
           "measuredW": "188",
           "measuredH": "26",
-          "x": "200",
+          "x": "170",
           "y": "1613",
           "properties": {
-            "size": "18",
-            "text": "Beginner Certifications"
+            "size": "20",
+            "text": "Başlangyç Hünär Sertifikatlary"
           }
         },
         {
@@ -2334,7 +2334,7 @@
           "y": "1209",
           "properties": {
             "size": "24",
-            "text": "CTFs (Capture the Flag)"
+            "text": "CTF (Capture the Flag)"
           }
         },
         {
@@ -2343,11 +2343,11 @@
           "zOrder": "78",
           "measuredW": "144",
           "measuredH": "32",
-          "x": "221",
+          "x": "200",
           "y": "1559",
           "properties": {
             "size": "24",
-            "text": "Certifications"
+            "text": "Hünär Sertifikatlary"
           }
         },
         {
@@ -2511,11 +2511,11 @@
           "zOrder": "83",
           "measuredW": "193",
           "measuredH": "26",
-          "x": "199",
-          "y": "1839",
+          "x": "179",
+          "y": "1837",
           "properties": {
-            "size": "18",
-            "text": "Advanced Certifications"
+            "size": "20",
+            "text": "Ýokary Hünär Sertifikatlary"
           }
         },
         {
@@ -3072,11 +3072,11 @@
           "zOrder": "96",
           "measuredW": "184",
           "measuredH": "36",
-          "x": "626",
+          "x": "606",
           "y": "1300",
           "properties": {
-            "size": "28",
-            "text": "Cyber Security"
+            "size": "30",
+            "text": "Kiberhowpsuzlyk"
           }
         },
         {
@@ -3283,11 +3283,11 @@
                   "zOrder": "1",
                   "measuredW": "174",
                   "measuredH": "26",
-                  "x": "91",
+                  "x": "61",
                   "y": "12",
                   "properties": {
-                    "text": "Fundamental IT Skills",
-                    "size": "18"
+                    "text": "Başlangyç IT başarnyklary",
+                    "size": "20"
                   }
                 }
               ]
@@ -3674,11 +3674,11 @@
                   "zOrder": "1",
                   "measuredW": "154",
                   "measuredH": "26",
-                  "x": "122",
+                  "x": "60",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Operating Systems"
+                    "size": "20",
+                    "text": "Operasion Ulgamlar barada"
                   }
                 }
               ]
@@ -4208,11 +4208,11 @@
           "zOrder": "122",
           "measuredW": "196",
           "measuredH": "26",
-          "x": "1105",
+          "x": "1090",
           "y": "1967",
           "properties": {
-            "size": "18",
-            "text": "Learn following for Each"
+            "size": "20",
+            "text": "Her birini öwrenmek zerur"
           }
         },
         {
@@ -4254,8 +4254,8 @@
                   "x": "87",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Networking Knowledge"
+                    "size": "20",
+                    "text": "Tor boýunça bilimler"
                   }
                 }
               ]
@@ -4298,11 +4298,11 @@
                   "zOrder": "1",
                   "measuredW": "217",
                   "measuredH": "26",
-                  "x": "72",
+                  "x": "132",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Understand the OSI model"
+                    "size": "19",
+                    "text": "OSI model"
                   }
                 }
               ]
@@ -4420,11 +4420,11 @@
           "zOrder": "128",
           "measuredW": "230",
           "measuredH": "26",
-          "x": "673",
+          "x": "620",
           "y": "2180",
           "properties": {
-            "size": "18",
-            "text": "Understand the Terminology"
+            "size": "19",
+            "text": "Terminologiýanyň esaslaryna düşünmek"
           }
         },
         {
@@ -5025,11 +5025,11 @@
                   "w": "120",
                   "measuredW": "120",
                   "measuredH": "26",
-                  "x": "117",
+                  "x": "100",
                   "y": "80",
                   "properties": {
-                    "text": "IP Terminology",
-                    "size": "18"
+                    "text": "IP Terminologiýasy",
+                    "size": "20"
                   }
                 }
               ]
@@ -5335,11 +5335,11 @@
           "zOrder": "149",
           "measuredW": "147",
           "measuredH": "26",
-          "x": "713",
+          "x": "660",
           "y": "2464",
           "properties": {
-            "size": "18",
-            "text": "Understand these"
+            "size": "20",
+            "text": "Öwrenmek zerur hasaplanýar"
           }
         },
         {
@@ -5547,11 +5547,11 @@
           "zOrder": "155",
           "measuredW": "138",
           "measuredH": "26",
-          "x": "719",
+          "x": "715",
           "y": "2575",
           "properties": {
             "size": "18",
-            "text": "Function of Each"
+            "text": "Hersiniň aýratynlygy"
           }
         },
         {
@@ -5775,11 +5775,11 @@
                   "zOrder": "1",
                   "measuredW": "177",
                   "measuredH": "26",
-                  "x": "131",
+                  "x": "70",
                   "y": "19",
                   "properties": {
-                    "size": "18",
-                    "text": "Troubleshooting Tools"
+                    "size": "19",
+                    "text": "Näsazlyklary düzetmek ücin gurallar"
                   }
                 }
               ]
@@ -6484,7 +6484,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Basics of Subnetting"
+                    "text": "Subnetting esaslary"
                   }
                 }
               ]
@@ -6527,8 +6527,8 @@
                   "x": "97",
                   "y": "16",
                   "properties": {
-                    "size": "18",
-                    "text": "Network Topologies"
+                    "size": "20",
+                    "text": "Tor Topologiýasy"
                   }
                 }
               ]
@@ -6991,11 +6991,11 @@
                   "zOrder": "1",
                   "measuredW": "295",
                   "measuredH": "26",
-                  "x": "69",
+                  "x": "49",
                   "y": "77",
                   "properties": {
-                    "size": "18",
-                    "text": "Common Virtualization Technologies"
+                    "size": "20",
+                    "text": "Umumy wirtuallaşdyrma tehnologiýalary"
                   }
                 }
               ]
@@ -7223,11 +7223,11 @@
                   "zOrder": "1",
                   "measuredW": "255",
                   "measuredH": "26",
-                  "x": "49",
+                  "x": "29",
                   "y": "18",
                   "properties": {
-                    "size": "18",
-                    "text": "Understand Common Protocols"
+                    "size": "19",
+                    "text": "Umumy protokollar barada düşünje"
                   }
                 }
               ]
@@ -7834,11 +7834,11 @@
                   "zOrder": "1",
                   "measuredW": "241",
                   "measuredH": "26",
-                  "x": "60",
+                  "x": "10",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Security Skills and Knowledge"
+                    "size": "20",
+                    "text": "Kiberhowpsuzlyk boýunça bilim almak"
                   }
                 }
               ]
@@ -7862,11 +7862,11 @@
           "zOrder": "206",
           "measuredW": "236",
           "measuredH": "26",
-          "x": "1032",
+          "x": "1000",
           "y": "3683",
           "properties": {
-            "size": "18",
-            "text": "Attack Types and Differences"
+            "size": "19",
+            "text": "Hüjümleriň Görnüşleri we Tapawutlary"
           }
         },
         {
@@ -16256,8 +16256,8 @@
                   "x": "14",
                   "y": "17",
                   "properties": {
-                    "size": "17",
-                    "text": "Find the detailed version of this roadmap"
+                    "size": "20",
+                    "text": "Giňişleýin maglumatlar üçin şu salga"
                   }
                 },
                 {
@@ -16269,8 +16269,8 @@
                   "x": "14",
                   "y": "45",
                   "properties": {
-                    "size": "17",
-                    "text": "along with resources and other roadmaps"
+                    "size": "20",
+                    "text": "ýüzlenip bilersiňiz."
                   }
                 },
                 {
@@ -16284,7 +16284,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:localhost:3000"
                   },
                   "children": {
                     "controls": {
@@ -16310,12 +16310,12 @@
                           "zOrder": "1",
                           "measuredW": "172",
                           "measuredH": "28",
-                          "x": "74",
+                          "x": "54",
                           "y": "8",
                           "properties": {
                             "color": "16777215",
-                            "size": "20",
-                            "text": "https://roadmap.sh"
+                            "size": "22",
+                            "text": "https://sanlyyorelge.tm"
                           }
                         }
                       ]
@@ -16334,7 +16334,7 @@
       "parentID": null,
       "notes": ""
     },
-    "branchID": "Master",
+    "branchID": "main",
     "resourceID": "D5E1AC09-3023-4145-A52A-4D904363A065",
     "mockupH": "4787",
     "mockupW": "1371",
@@ -16347,5 +16347,5 @@
     "y": 0
   },
   "dependencies": [],
-  "projectID": "file:///Users/kamrify/Desktop/New%20Roadmaps/New%20Project%201.bmpr"
+  "projectID": "https://github.com/blaze525/sanly_yorelge_last.git"
 }

@@ -17,13 +17,13 @@ question:
     Full stack development, web programmasyny ösdürmegiň we backend tarapynda ökde bolmak praktikasydyr. Doly programma üpjünçisi, ulanyjy interfeýsinden we ulanyjy tejribesinden (frontend) serwer, maglumat bazasy we serwer tarapy logikasyna (backend) programma üpjünçiliginiň ähli gatlaklarynda işlemäge ukyply. Bu köpugurlylyk, özbaşdak ýa-da ösüş toparynyň bir bölegi hökmünde doly web programmalaryny döretmäge we goldamaga mümkinçilik berýär.
 schema:
   headline: 'Full Stack Developer Gollanma'
-  description: '2024-nji ýylda ädim ädimleri bilen bu interaktiw ädim bilen doly stack dörediji bolmagyň usullaryny öwreniň. Şeýle hem, öwrenmek isleýän zatlaryňyzyň hemmesini bir ýerde alyp bilersiňiz, ýörelgäniň elementlerine goşmaça çeşmelerimiz we gysga düşündirişlerimiz bar.'
+  description: '2024-nji ýylda ädimme-ädim Full Stack bolmagyň usullaryny öwreniň. Şeýle hem, öwrenmek isleýän zatlaryňyzyň hemmesini bir ýerde jemläp alyp bilersiňiz, ýörelgäniň elementlerine goşmaça çeşmelerimiz we gysga düşündirişlerimiz bar.'
   imageUrl: 'https://roadmap.sh/roadmaps/full-stack.png'
   datePublished: '2023-01-05'
   dateModified: '2023-01-20'
 seo:
   title: 'Full Stack Developer'
-  description: '2024-nji ýylda ädim ädimleri bilen bu interaktiw ädim bilen doly stack dörediji bolmagyň usullaryny öwreniň. Şeýle hem, öwrenmek isleýän zatlaryňyzyň hemmesini bir ýerde alyp bilersiňiz, ýörelgäniň elementlerine goşmaça çeşmelerimiz we gysga düşündirişlerimiz bar.'
+  description: '2024-nji ýylda ädimme-ädim Full Stack bolmagyň usullaryny öwreniň. Şeýle hem, öwrenmek isleýän zatlaryňyzyň hemmesini bir ýerde jemläp alyp bilersiňiz, ýörelgäniň elementlerine goşmaça çeşmelerimiz we gysga düşündirişlerimiz bar.'
   keywords:
     - 'javascript roadmap 2024'
     - 'full stack roadmap 2024'
