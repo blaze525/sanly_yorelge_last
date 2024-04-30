@@ -2,7 +2,7 @@
 jsonUrl: '/jsons/roadmaps/ai-data-scientist.json'
 pdfUrl: '/pdfs/roadmaps/ai-data-scientist.pdf'
 order: 6
-briefTitle: 'Emeli Aň we Maglumatlar bilen işlemek'
+briefTitle: 'Emeli Aň we Maglumatlar'
 briefDescription: '2024-nji ýylda Emeli Aň we Maglumatlar bilen işlemekde hünärmen bolmak üçin ädimme-ädim gollanma'
 title: 'Emeli Aň we Maglumatlar bilen işlemek'
 description: 'Step by step guide to becoming an AI and Data Scientist in 2024'
@@ -12,7 +12,7 @@ dimensions:
   width: 968
   height: 2243.96
 schema:
-  headline: 'Emeli Aň we Maglumatlar bilen işlemek'
+  headline: 'Emeli Aň we Maglumatlar'
   description: '2024-nji ýylda ädimme-ädim Emeli Aň we Maglumatlar bilen işlemekde hünärmen bolmagyň usullaryny öwreniň. Şeýle hem, ýörelgäniň elementlerine çeşmelerimiz we gysgaça düşündirişlerimiz bar, şonuň üçin öwrenmek isleýän zatlaryňyzy bir ýerde jemläp alyp bilersiňiz.'
   imageUrl: 'https://roadmap.sh/roadmaps/ai-data-scientist.png'
   datePublished: '2024-02-17'

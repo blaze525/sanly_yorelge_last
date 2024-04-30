@@ -8,13 +8,13 @@ const questionGroups = await getAllQuestionGroups();
 ---
 
 <BaseLayout
-  title='Soraglar'
-  description={'Step by step guides and paths to learn different tools or technologies'}
+  title='Soragnamalar'
+  description={'Dürli gurallary ýa-da tehnologiýalary öwrenmek üçin ädimme-ädim gollanmalar we ýörelgeler'}
   permalink={'/roadmaps'}
 >
   <SimplePageHeader
-    title='Questions'
-    description='Quizzes to help you test and improve your knowledge and skill up'
+    title='Soragnamalar'
+    description='Bilimleriňizi we başarnygyňyzy ýokarlandyrmaga ýardam etjek soragnamalar.'
     showYouTubeAlert={false}
   />
 
@@ -27,7 +27,7 @@ const questionGroups = await getAllQuestionGroups();
               url={`/questions/${questionGroup.id}`}
               isNew={questionGroup.frontmatter.isNew}
               title={questionGroup.frontmatter.title}
-              description={`${questionGroup.questions.length} Questions &middot; ${questionGroup.allTopics.length} topics`}
+              description={`${questionGroup.questions.length} sany Soraglar &middot; ${questionGroup.allTopics.length} tema boýunca`}
             />
           ))
         }
