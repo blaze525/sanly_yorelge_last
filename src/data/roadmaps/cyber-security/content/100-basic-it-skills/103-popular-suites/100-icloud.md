@@ -1,31 +1,31 @@
 # iCloud
 
-iCloud is a cloud storage and cloud computing service provided by Apple Inc. It allows users to store data, such as documents, photos, and music, on remote servers and synchronize them across their Apple devices, including iPhones, iPads, and MacBooks.
+“iCloud” “Apple Inc.” tarapyndan üpjün edilýän bulut saklaýyş we bulut hasaplaýyş hyzmaty bolup, ulanyjylara resminamalar, suratlar we aýdym-saz ýaly maglumatlary uzak serwerlerde saklamaga we iPhon, iPad we MacBooks ýaly Apple enjamlarynda sinhronlamaga mümkinçilik berýär.
 
-## Features and Benefits
+## Aýratynlyklary we peýdalary
 
-iCloud offers a range of features and benefits that enhance the user experience and improve security. Here are some key aspects of the service:
+“iCloud” ulanyjynyň tejribesini ýokarlandyrýan we howpsuzlygy ýokarlandyrýan birnäçe aýratynlyklary we peýdalary hödürleýär. Hyzmatyň käbir möhüm taraplary:
 
-- **iCloud Storage**: Users are provided with 5 GB of free storage space on iCloud, and they can upgrade to higher plans (50 GB, 200 GB, or 2 TB) for an additional cost. This storage can be used for documents, photos, videos, backups, and app data.
+- ** iCloud Storage **: Ulanyjylara iCloud-da 5 Gb boş ýer berilýär we goşmaça çykdajy üçin has ýokary meýilnamalara (50 GB, 200 GB ýa-da 2 TB) täzeläp bilerler. Bu ammar resminamalar, suratlar, wideolar, ätiýaçlyk nusgalar we programma maglumatlary üçin ulanylyp bilner.
 
-- **iCloud Backup**: iCloud automatically backs up essential data from iOS devices when they are connected to Wi-Fi and charging. This includes app data, device settings, messages, and much more. In case of device loss or replacement, users can restore the backup to the new device.
+- ** iCloud ätiýaçlyk nusgasy **: iCloud, Wi-Fi birikdirilende we zarýad berlende iOS enjamlaryndan möhüm maglumatlary awtomatiki ätiýaçlandyrýar. Muňa programma maglumatlary, enjam sazlamalary, habarlar we başgalar girýär. Enjam ýitirilen ýa-da çalşylan ýagdaýynda ulanyjylar ätiýaçlygy täze enjama dikeldip bilerler.
 
-- **iCloud Photos**: This feature allows users to automatically upload and store their photos and videos on iCloud, making them accessible across all their devices. iCloud also syncs edits, deletions, and album organization, ensuring that the photo library stays updated across all devices.
+- ** iCloud Suratlar **: Bu aýratynlyk ulanyjylara suratlaryny we wideolaryny iCloud-da awtomatiki ýüklemäge we saklamaga mümkinçilik berýär, bu bolsa ähli enjamlaryna elýeterli bolýar. iCloud, şeýle hem surat kitaphanasynyň ähli enjamlarda täzelenmegini üpjün edip, redaktirlemeleri, pozulmalary we albom guramasyny sinhronlaýar.
 
-- **Find My**: This service helps users locate their lost Apple devices using their iCloud account on another device. It also offers features like remote device lock and erase, ensuring that user data remains secure even if the device cannot be recovered.
+- ** My Find **: Bu hyzmat ulanyjylara iCloud hasabyny başga bir enjamda ulanyp, ýitirilen Apple enjamlaryny tapmaga kömek edýär. Şeýle hem, enjamy dikeldip bolmaýan hem bolsa ulanyjy maglumatlarynyň ygtybarly bolmagyny üpjün edip, uzakdaky enjam gulpy we pozmak ýaly aýratynlyklary hödürleýär.
 
-- **iCloud Drive**: Users can store documents and files of various types in iCloud Drive, making them accessible from all devices. This feature is built into the Mac Finder and can also be accessed via the Files app on iOS devices or the iCloud website.
+- ** iCloud Drive **: Ulanyjylar iCloud Drive-da dürli görnüşli resminamalary we faýllary ähli enjamlardan elýeterli edip saklap bilerler. Bu aýratynlyk “Mac Finder” -iň içinde gurlup, iOS enjamlarynda ýa-da iCloud web sahypasyndaky Faýllar programmasy arkaly hem girip bolýar.
 
-- **App-specific Data Sync**: Many apps can make use of iCloud to sync their data across devices. This enables a seamless experience, ensuring that users can pick up where they left off regardless of the device they are using.
+- ** Programma aýratyn maglumatlary sinhronlamak **: Köp programmalar öz maglumatlaryny enjamlaryň arasynda sinhronlamak üçin iCloud-dan peýdalanyp bilerler. Bu, ulanyjylaryň haýsy enjam ulanýandyklaryna garamazdan giden ýerlerini alyp biljekdigini üpjün edip, üznüksiz tejribe berýär.
 
-## Security
+## Howpsuzlyk
 
-Apple takes the security of iCloud very seriously and has implemented multiple layers of protection to keep user data safe. Some of these measures include:
+“Apple” iCloud-yň howpsuzlygyna çynlakaý çemeleşýär we ulanyjy maglumatlarynyň howpsuzlygyny üpjün etmek üçin birnäçe gorag gatlagyny amala aşyrdy. Bu çäreleriň käbiri:
 
-- **Encryption**: Data stored on iCloud is encrypted during transit and on the server. Photos, documents, and other data are secured using a minimum of 128-bit AES encryption.
-- **Two-Factor Authentication (2FA)**: Users can enable 2FA for their Apple ID to add an extra layer of security. This requires an additional verification step (such as entering a code received on a trusted device) when signing into iCloud or any Apple service.
-- **Secure Tokens**: Apple uses secure tokens for authentication, which means that your iCloud password is not stored on your devices or on Apple's servers.
+- ** Şifrlemek **: iCloud-da saklanýan maglumatlar tranzit wagtynda we serwerde şifrlenýär. Suratlar, resminamalar we beýleki maglumatlar azyndan 128 bitli AES şifrlemek arkaly üpjün edilýär.
+- ** Iki faktorly tanamaklyk (2FA) **: Ulanyjylar Apple ID-si üçin goşmaça howpsuzlyk gatlagyny goşmak üçin 2FA mümkinçilik döredip bilerler. Bu, iCloud ýa-da islendik Apple hyzmatyna gireniňizde goşmaça tassyklama ädimini (ygtybarly enjamda alnan kody girizmek ýaly) talap edýär.
+- ** Howpsuz Tokens **: Apple tassyklamak üçin ygtybarly bellikleri ulanýar, bu bolsa iCloud parolyňyzyň enjamlaryňyzda ýa-da Apple serwerlerinde saklanmandygyny aňladýar.
 
-Overall, iCloud is a convenient and secure way for Apple device users to store and synchronize their data across devices. This cloud-based service offers numerous features to ensure seamless access and enhanced protection for user data.
+Umuman aýdanyňda, “iCloud” “Apple” enjam ulanyjylary üçin maglumatlary enjamlaryň arasynda saklamak we sinhronlamak üçin amatly we ygtybarly usuldyr. Bulut esasly bu hyzmat, bökdençsiz elýeterliligi we ulanyjy maglumatlary üçin güýçlendirilen goragy üpjün etmek üçin köp sanly aýratynlygy hödürleýär.
 
-- [All about iCloud](https://www.intego.com/mac-security-blog/everything-you-can-do-with-icloud-the-complete-guide/)
+- [iCloud hakda hemme zat] (https://www.intego.com/mac-security-blog/everything-you-can-do-with-icloud-the-complete-guide/)

@@ -1,70 +1,70 @@
-# Computer Hardware Components
+# Kompýuter enjamlarynyň komponentleri
 
-When it comes to understanding basic IT skills, one cannot overlook the importance of familiarizing yourself with the essential computer hardware components. These are the physical parts that make up a computer system, and understanding their functions will help you troubleshoot issues and maintain your device better. Here's a brief overview of some of the primary computer hardware components:
+Esasy IT başarnyklaryna düşünmek barada aýdylanda, kompýuter enjamlarynyň möhüm bölekleri bilen tanyşmagyň ähmiýetini ýatdan çykaryp bolmaz. Bular kompýuter ulgamyny emele getirýän fiziki bölekler we olaryň funksiýalaryna düşünmek meseleleri çözmäge we enjamyňyzy has gowy saklamaga kömek eder. Ine, esasy kompýuter enjamlarynyň käbir böleklerine gysgaça syn:
 
-## Central Processing Unit (CPU)
+## Merkezi gaýtadan işleýiş bölümi (CPU)
 
-The CPU serves as the heart and brain of a computer. It performs all the processing inside the computer and is responsible for executing instructions, performing calculations, and managing the flow of data.
+CPU kompýuteriň ýüregi we beýni bolup hyzmat edýär. Kompýuteriň içindäki ähli işleýşi ýerine ýetirýär we görkezmeleri ýerine ýetirmek, hasaplamalary ýerine ýetirmek we maglumatlar akymyny dolandyrmak üçin jogapkärdir.
 
-**Key Points:**
+** Esasy nokatlar: **
 
-- Considered the "brain" of the computer.
-- Performs all the major processes and calculations.
+- Kompýuteriň "beýni" hasaplanýar.
+- majorhli esasy amallary we hasaplamalary ýerine ýetirýär.
 
-## Motherboard
+## Enelik plata (Motherboard)
 
-The motherboard is the main circuit board that connects all components of the computer. It provides a central hub for communication between the CPU, memory, and other hardware components.
+Plata, kompýuteriň ähli böleklerini birleşdirýän esasy zynjyrdyr. CPU, ýat we beýleki enjam bölekleriniň arasynda aragatnaşyk üçin merkezi merkezi üpjün edýär.
 
-**Key Points:**
+** Esasy nokatlar: **
 
-- Connects all other hardware components.
-- Allows components to communicate with each other.
+- Beýleki ähli enjam böleklerini birleşdirýär.
+- Komponentleriň biri-biri bilen aragatnaşyk saklamagyna mümkinçilik berýär.
 
-## Memory (RAM)
+## Ýat gurluşy (RAM)
 
-Random Access Memory (RAM) is where data is temporarily stored while the computer is powered on. The data is constantly accessed, written, and rewritten by the CPU. The more RAM a system has, the more tasks it can process simultaneously.
+Tötänleýin giriş ýady (RAM), kompýuter işleýän wagtynda maglumatlar wagtlaýyn saklanýar. Maglumatlar CPU tarapyndan yzygiderli elýeterlidir, ýazylýar we täzeden ýazylýar. Ulgam näçe köp RAM bolsa, şol bir wagtyň özünde gaýtadan işläp biler.
 
-**Key Points:**
+** Esasy nokatlar: **
 
-- Temporary storage for data while the computer is on.
-- More RAM allows for better multitasking.
+- Kompýuter işleýän wagty maglumatlar üçin wagtlaýyn saklamak.
+- Has köp RAM has köp adam işlemäge mümkinçilik berýär.
 
-## Storage (Hard Drives)
+## Maglumatlary Saklamak (gaty diskler(Hard disk))
 
-Storage devices like hard disk drives (HDD) or solid-state drives (SSD) are used to store data permanently on the computer, even when the device is powered off. Operating systems, software, and user files are stored on these drives.
+Gaty disk diskleri (HDD) ýa-da gaty ýagdaýdaky diskler (SSD) ýaly enjamlar, enjam öçürilen ýagdaýynda-da maglumatlary kompýuterde hemişelik saklamak üçin ulanylýar. Operasiýa ulgamlary, programma üpjünçiligi we ulanyjy faýllary bu disklerde saklanýar.
 
-**Key Points:**
+** Esasy nokatlar: **
 
-- Permanent storage for data.
-- Comes in HDD and SSD types, with SSDs being faster but more expensive.
+- Maglumatlar üçin hemişelik ammar.
+- HDD we SSD görnüşlerinde gelýär, SSD-ler has çalt, ýöne has gymmat.
 
-## Graphics Processing Unit (GPU)
+## Grafikany gaýtadan işleýän bölüm (GPU)
 
-The GPU is responsible for rendering images, videos, and animations on the computer screen. Its main function is to handle and display graphics, making your visuals smooth and responsive.
+GPU kompýuteriň ekranynda şekilleri, wideolary we animasiýalary görkezmek üçin jogapkärdir. Onuň esasy wezipesi grafikalary dolandyrmak we görkezmek, wizuallaryňyzy tekiz we täsirli etmekdir.
 
-**Key Points:**
+** Esasy nokatlar: **
 
-- Handles and processes graphics and visuals.
-- Important for gaming, video editing, and graphic design tasks.
+- Grafika we wizuallary dolandyrýar we işleýär.
+- Oýun, wideo redaktirlemek we grafiki dizaýn meseleleri üçin möhümdir.
 
-## Power Supply Unit (PSU)
+## Elektrik üpjünçiligi bölümi (PSU)
 
-The power supply unit provides the necessary power to all components in the computer. It converts the AC power from the wall socket into the DC power that the computer's components require.
+Elektrik üpjünçiligi bölümi kompýuterdäki ähli komponentlere zerur güýç berýär. AC güýjüni diwar rozetkasyndan kompýuteriň komponentleriniň talap edýän DC güýjüne öwürýär.
 
-**Key Points:**
+** Esasy nokatlar: **
 
-- Provides power to all computer components.
-- Converts AC power to DC power.
+- computerhli kompýuter böleklerine güýç berýär.
+- AC güýjüni DC güýjüne öwürýär.
 
-## Input/Output Devices
+## Giriş / çykyş enjamlary (I/O)
 
-Input devices, such as a mouse, keyboard, or scanner, are used to interact with and input data into the computer. Output devices, like the display monitor and speakers, present information and data in a format we can understand.
+Syçan, klawiatura ýa-da skaner ýaly giriş enjamlary, kompýuter bilen maglumat alyşmak we girizmek üçin ulanylýar. Çykyş enjamlary, displeý monitory we gürleýjiler ýaly maglumatlary we maglumatlary düşünip boljak formatda hödürleýär.
 
-**Key Points:**
+** Esasy nokatlar: **
 
-- Input devices allow users to interact with the computer.
-- Output devices present information to the user.
+- Giriş enjamlary ulanyjylara kompýuter bilen aragatnaşyk saklamaga mümkinçilik berýär.
+- Çykyş enjamlary ulanyja maglumat hödürleýär.
 
-By understanding these essential computer hardware components, you can enhance your knowledge of how a computer functions and improve your IT troubleshooting and maintenance skills. Happy computing!
+Bu möhüm kompýuter enjamlarynyň böleklerine düşünmek bilen, kompýuteriň işleýşi baradaky bilimleriňizi artdyryp, IT näsazlyklaryny düzetmek we tehniki hyzmat etmek ukyplaryňyzy ösdürip bilersiňiz. Hasaplama bagtly!
 
-- [What does what in your computer? Computer parts Explained](https://youtu.be/ExxFxD4OSZ0)
+- [Kompýuteriňizde näme bolýar? Kompýuter bölekleri düşündirildi] (https://youtu.be/ExxFxD4OSZ0)

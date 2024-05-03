@@ -3378,11 +3378,11 @@
                   "zOrder": "1",
                   "measuredW": "297",
                   "measuredH": "26",
-                  "x": "29",
+                  "x": "70",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Understand Basics of Popular Suites"
+                    "text": "Basics of Popular Suites"
                   }
                 }
               ]
@@ -9234,11 +9234,11 @@
                   "zOrder": "1",
                   "measuredW": "232",
                   "measuredH": "26",
-                  "x": "65",
+                  "x": "45",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Core Concepts of Zero Trust"
+                    "text": "Zero Trust konsepsiýanyň esaslary"
                   }
                 }
               ]
@@ -9426,7 +9426,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Perimiter vs DMZ vs Segmentation"
+                    "text": "Perimetr, DMZ we segmentasiýa"
                   }
                 }
               ]
@@ -9469,11 +9469,11 @@
                   "zOrder": "1",
                   "measuredW": "339",
                   "measuredH": "26",
-                  "x": "20",
+                  "x": "10",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Penetration Testing Rules of Engagement"
+                    "text": "Giriş synagyny amala aşyrmagyň düzgünleri"
                   }
                 }
               ]
@@ -9520,7 +9520,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Basics of Reverse Engineering"
+                    "text": "Reverse Engineering esaslary"
                   }
                 }
               ]
@@ -9563,11 +9563,11 @@
                   "zOrder": "1",
                   "measuredW": "289",
                   "measuredH": "26",
-                  "x": "45",
+                  "x": "30",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Basics of Vulnerability Management"
+                    "text": "Gowşaklyklary dolandyrmagyň esaslary"
                   }
                 }
               ]
@@ -9610,11 +9610,11 @@
                   "zOrder": "1",
                   "measuredW": "319",
                   "measuredH": "26",
-                  "x": "30",
+                  "x": "35",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Basics and Concepts of Threat Hunting"
+                    "text": "Gowşaklyk gözlemegiň konsepsiýasy"
                   }
                 }
               ]
@@ -9657,11 +9657,11 @@
                   "zOrder": "1",
                   "measuredW": "260",
                   "measuredH": "26",
-                  "x": "60",
+                  "x": "50",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Understand Basics of Forensics"
+                    "text": "Kriminalistikanyň esasyna düşünmek"
                   }
                 }
               ]
@@ -9708,7 +9708,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Understand Concept of Runbooks"
+                    "text": "Runbook konsepsiýasyna düşünmek"
                   }
                 }
               ]
@@ -9751,11 +9751,11 @@
                   "zOrder": "1",
                   "measuredW": "338",
                   "measuredH": "26",
-                  "x": "21",
+                  "x": "10",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Understand Concept of Defense in Depth"
+                    "text": "Hüjümden Goranmak düşünjesine düşünmek"
                   }
                 }
               ]
@@ -9798,11 +9798,11 @@
                   "zOrder": "1",
                   "measuredW": "338",
                   "measuredH": "26",
-                  "x": "21",
+                  "x": "29",
                   "y": "13",
                   "properties": {
                     "size": "18",
-                    "text": "Understand Common Exploit Frameworks"
+                    "text": "Adaty Exploit Freýmworklara düşünmek"
                   }
                 }
               ]
@@ -14487,7 +14487,7 @@
                   "y": "13",
                   "properties": {
                     "size": "18",
-                    "text": "Understand Common Hacking Tools"
+                    "text": "Adaty hacking gurallaryna düşünmek"
                   }
                 }
               ]

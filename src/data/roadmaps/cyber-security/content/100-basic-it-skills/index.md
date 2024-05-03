@@ -1,68 +1,66 @@
-# Fundamental IT Skills
+# IT boýunça esasy bilmeli, öwrenmeli maglumatlar
 
-Basic IT skills are the foundation for understanding and navigating the digital world, as well as playing a crucial role in cyber security. Given below are some essential IT skills that will help you enhance your experience with technology and better protect your digital assets.
+Esasy IT başarnyklary, sanly ulgama düşünmek, şeýle hem kiberhowpsuzlykda möhüm rol oýnamak üçin esas bolup durýar. Aşakda tehnologiýa bilen baglanyşykly tejribäňizi artdyrmaga we sanly ulgam barada düşünjäňizi artdyrmaga has gowy kömek etjek käbir möhüm IT maglumatlar bar.
 
-## Computer Navigation
+## Kompýuter nawigasiýasy
 
-Understanding how to navigate a computer's operating system is a vital skill. This includes knowing how to:
+Kompýuteriň operasion ulgamyna nädip girmelidigine düşünmek bu ussatlykdyr. Muny nädip etmelidigini öwrenmegi öz içine alýar:
 
-- Power on/off the device
-- Manage files and folders
-- Use shortcuts and right-click options
-- Install and uninstall software
-- Customize settings
+- Enjamy işletmek / öçürmek
+- Faýllary we bukjalary dolandyrmak
+- Salgylanmalary we sag düwmelerini saýlaň
+- Programma üpjünçiligini gurnaň we aýyryň
+- Sazlamalary özleşdiriň
 
-## Internet Usage
+## Internetiň ulanylyşy
 
-Having a working knowledge of how to navigate the internet will allow you to access information and resources more efficiently. Key skills include:
+Onlaýn edip boljak zatlaryňyzda diýen ýaly çäklendirmeler ýok diýen ýaly. Internet maglumaty çalt tapmaga, dünýädäki adamlar bilen aragatnaşyk saklamaga, maliýe serişdeleriňizi dolandyrmaga, öýden söwda etmäge, aýdym diňlemäge, wideo görmäge we başga-da köp zatlary mümkin edýär. Esasy başarnyklar şulary öz içine alýar:
 
-- Web browsing
-- Internet searching
-- Bookmark management
-- Downloading files
-- Understanding hyperlinks and web addresses
-- Recognizing secure websites
+- Web sahypalaryna göz aýlamak
+- Internetden gözleg etmek
+- Bellikleri dolandyrmak
+- Faýllary göçürip almak
+- Gipersalgylara we web salgylara düşünmek
+- Howpsuz web sahypalaryny tanamak
 
-## Email Management
+## E-poçta dolandyryşy
 
-Communication using email is an essential aspect of the modern digital world. Important email management skills are:
+E-poçta arkaly aragatnaşyk häzirki zaman sanly ulgamyň iň öňdebaryjy ugurlarynyň biri bolup durýar. E-poçta dolandyrmakda esasy bellikler:
 
-- Creating and organizing contacts
-- Composing, sending, and receiving emails
-- Detecting and avoiding spam and phishing emails
-- Managing email attachments
-- Understanding email etiquette
+- Aragatnaşyklary döretmek we gurnamak
+- E-poçtada ýazmak, ibermek we almak
+- Spam we fişing hatlaryny tapmak we olardan gaça durmak
+- E-poçta goşundylaryny dolandyrmak
+- E-poçta işleýşine düşünmek
 
-## Word Processing
+## Tekst maglumatlaryny gaýtadan işlemek
 
-Word processing is a basic IT skill that is useful in both personal and professional environments. Skills related to word processing include:
+Sözleri gaýtadan işlemek, hünär şertlerinde peýdaly IT-iň esasy ussatlygydyr. Sözleri gaýtadan işlemek bilen baglanyşykly başarnyklar şulary öz içine alýar:
 
-- Formatting text (font, size, bold, italic, etc.)
-- Creating and editing documents
-- Copying and pasting text
-- Inserting images and tables
-- Saving and printing documents
+- Teksti formatlamak (şrift, ululyk, goýy, çyzykly we ş.m.)
+- Resminamalary döretmek we redaktirlemek
+- Teksti göçürmek we üýtgetmek
+- Suratlary we tablisalary goýmak
+- Resminamalary tygşytlamak we çap etmek
 
-## Software and Application Installation
+## Programma üpjünçiligi we amaly gurnama
 
-Being able to install and manage software can make your experience with technology more efficient and tailored to your needs. Basic software-related skills include:
+Programma üpjünçiligini gurup we dolandyryp bilmek, tehnologiýa bilen baglanyşykly tejribäňizi has artdyrar we zerurlyklaryňyza laýyklaşdyryp biler. Programma üpjünçiligi bilen baglanyşykly esasy başarnyklar:
 
-- Identifying reliable sources for downloading software
-- Installing and updating applications
-- Uninstalling unwanted or unnecessary programs
-- Configuring applications according to your preferences
-- Updating software to prevent vulnerabilities
+- Programma üpjünçiligini göçürip almak üçin ygtybarly çeşmeleri kesgitlemek
+- Olary gurnamak we täzelemek
+- Islenilmeýän ýa-da gereksiz programmalary aýyrmak
+- Programmalary islegleriňize görä düzmek
+- Gowşaklyklaryň öňüni almak üçin programma üpjünçiligini täzelemek
 
-## Digital Security Awareness
+## Kiberhowpsuzlyk barada 
 
-As the digital world is constantly evolving, so too are cyber threats. Therefore, remaining vigilant and familiarizing yourself with common cyber security practices is crucial. Some fundamental digital security skills include:
+Sanly ulgam yzygiderli ösýärkä, kiberhowplar hem şol sanda köp döreýär. Şonuň üçin hüşgär bolmak we umumy kiberhowpsuzlyk amallary bilen tanyşmak gaty möhümdir. Käbir esasy sanly ulgam maglumatlar şulary öz içine alýar:
 
-- Creating strong, unique passwords
-- Ensuring a secure and updated Wi-Fi connection
-- Recognizing and avoiding phishing attempts
-- Keeping software and operating systems updated
-- Regularly backing up data
+- Güýçli, üýtgeşik parol döretmek
+- Howpsuz we täzelenen Wi-Fi birikmesini üpjün etmek
+- Fişing synanyşyklaryny tanamak we olardan gaça durmak
+- Programma üpjünçiligini we operasion ulgamlaryny täzeläp durmak
+- Maglumatlary yzygiderli ätiýaçlamak
 
-By honing these basic IT skills, you will be better prepared to navigate and protect your digital life, as well as making the most of the technology at your fingertips.
-
-- [IT skills Training for beginners | Complete Course](https://www.youtube.com/watch?v=On6dsIp5yw0)
+- [IT başarnyklary Täze başlanýanlar üçin okuw | Doly okuw] (https://www.youtube.com/watch?v=On6dsIp5yw0)

@@ -1,33 +1,33 @@
 # Google Suite
 
-Google Suite, also known as G Suite or Google Workspace, is a collection of cloud-based productivity and collaboration tools developed by Google. These tools are designed to help individuals and businesses collaborate more efficiently and effectively. Here is a summary of some of the most popular tools in Google Suite:
+“G Suite” ýa-da “Google Workspace” diýlip hem atlandyrylýan “Google Suite”, “Google” tarapyndan işlenip düzülen bulut esasly öndürijilik we hyzmatdaşlyk gurallarydyr. Bu gurallar şahsyýetlere we kärhanalara has netijeli we täsirli hyzmatdaşlyga kömek etmek üçin döredildi. Google Suite-de iň meşhur gurallaryň gysgaça mazmuny:
 
 ## Google Drive
 
-Google Drive is a cloud storage service that allows users to store files, sync them across devices, and easily share them with others. With Google Drive, users get 15 GB of free storage, while more storage can be purchased as needed.
+Google Drive ulanyjylara faýllary saklamaga, enjamlaryň arasynda sinhronlamaga we beýlekiler bilen aňsatlyk bilen paýlaşmaga mümkinçilik berýän bulut saklaýyş hyzmatydyr. “Google Drive” -da ulanyjylar 15 Gb mugt ammar alýarlar, zerur bolsa has köp ammar satyn alyp bolýar.
 
-## Google Docs, Sheets, and Slides
+## Google resminamalary, sahypalary we slaýdlary
 
-These are the office suite tools that include a word processor (Docs), a spreadsheet program (Sheets), and a presentation program (Slides). All of these applications are web-based, allowing users to create, edit, and share documents in real-time with colleagues or collaborators. They also come with a variety of built-in templates, making it easier for users to quickly create and format their documents.
+Bular söz prosessoryny (Docs), elektron tablisasy programmasyny (Sahypalar) we görkeziş programmasyny (Slaýdlar) öz içine alýan ofis toplumy gurallary. Bu programmalaryň hemmesi web esasly bolup, ulanyjylara resminamalary hakyky wagtda kärdeşleri ýa-da hyzmatdaşlary bilen döretmäge, redaktirlemäge we paýlaşmaga mümkinçilik berýär. Şeýle hem, ulanyjylara resminamalaryny çalt döretmegi we formatlaşdyrmagy aňsatlaşdyrýan dürli gurlan şablonlar bar.
 
-## Google Forms
+## Google formalary
 
-Google Forms is a tool for creating custom online forms and surveys. Users can design forms with various question types, including multiple-choice, dropdown, and text-based questions. The data collected from the forms can be automatically organized and analyzed in Google Sheets.
+Google Forms, onlaýn onlaýn formalary we anketalary döretmek üçin guraldyr. Ulanyjylar dürli sorag görnüşleri, şol sanda köp saýlaw, aşak düşmek we tekste esaslanýan soraglar bilen formalary dizaýn edip bilerler. Formalardan ýygnalan maglumatlar Google Sheets-de awtomatiki tertiplenip we derňelip bilner.
 
-## Google Calendar
+## Google Senenama
 
-A powerful scheduling tool, Google Calendar allows users to create and manage individual or shared calendars. Users can create events, invite attendees, and set reminders for themselves or others. Google Calendar also integrates with Gmail, allowing users to create and update events directly from their email.
+Güýçli meýilnama guraly, Google Calendar ulanyjylara aýratyn ýa-da umumy senenamalary döretmäge we dolandyrmaga mümkinçilik berýär. Ulanyjylar wakalary döredip, gatnaşyjylary çagyryp we özleri ýa-da beýlekiler üçin ýatlatmalar düzüp bilerler. Google Calendar, şeýle hem ulanyjylara e-poçta arkaly wakalary döretmäge we täzelemäge mümkinçilik berýän Gmail bilen birleşýär.
 
 ## Gmail
 
-Gmail is a widely-used email service that provides a clean and user-friendly interface, powerful search capabilities, and excellent spam filtering. Gmail also integrates with other Google tools, making it a seamless part of the overall suite.
+Gmail, arassa we ulanyjy üçin amatly interfeýsi, güýçli gözleg mümkinçiliklerini we ajaýyp spam süzgüçini üpjün edýän giňden ulanylýan e-poçta hyzmatydyr. Gmail, beýleki Google gurallary bilen birleşip, ony umumy toplumyň bökdençsiz bölegine öwürýär.
 
 ## Google Meet
 
-Google Meet is a video conferencing tool that allows users to host and join secure video meetings. With a G Suite account, users can schedule and join meetings directly from Google Calendar. Google Meet also supports screen sharing, breakout rooms, and live captioning during meetings.
+Google Meet ulanyjylara howpsuz wideo ýygnaklaryny geçirmäge we olara gatnaşmaga mümkinçilik berýän wideo konferensiýa guralydyr. G Suite hasaby bilen ulanyjylar göni Google Kalendaryndan ýygnaklary tertipläp we goşulyp bilerler. Google Meet, şeýle hem, ýygnaklarda ekrany paýlaşmagy, bölüniş otaglaryny we göni ýazgylary goldaýar.
 
 ## Google Chat
 
-Google Chat is a communication platform for teams that provides direct messaging, group conversations, and virtual meeting spaces. Users can create chat rooms for specific projects or topics, collaborate on documents in real-time, and make use of Google Meet for video chats.
+Google Chat gönüden-göni habarlaşmagy, toparlaýyn gepleşikleri we wirtual ýygnak meýdançalaryny üpjün edýän toparlar üçin aragatnaşyk platformasydyr. Ulanyjylar belli bir taslamalar ýa-da mowzuklar üçin söhbetdeşlik otaglaryny döredip bilerler, resminamalar bilen hakyky wagtda işleşip bilerler we wideo söhbetdeşligi üçin Google Meet-den peýdalanyp bilerler.
 
-These are just some of the many tools offered by Google Suite. This platform is a popular choice for individuals, teams, and organizations looking for a comprehensive and efficient way to manage their work and communication needs.
+Bular Google Suite tarapyndan hödürlenýän köp gurallaryň diňe käbiri. Bu platforma, iş we aragatnaşyk zerurlyklaryny dolandyrmagyň hemmetaraplaýyn we täsirli usulyny gözleýän şahsyýetler, toparlar we guramalar üçin meşhur saýlawdyr.

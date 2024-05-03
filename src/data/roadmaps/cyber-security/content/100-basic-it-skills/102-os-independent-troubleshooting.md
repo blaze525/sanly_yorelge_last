@@ -1,46 +1,46 @@
-# OS-Independent Troubleshooting
+# OS ýüze çykan näsazlyklary düzetmek
 
-OS-independent troubleshooting techniques are essential for every cybersecurity professional since they allow you to effectively diagnose and resolve issues on any operating system (OS). By using these OS-agnostic skills, you can quickly resolve problems and minimize downtime.
+OS-dan garaşsyz näsazlyklary düzetmek usullary, her bir kiberhowpsuzlyk hünärmeni üçin zerurdyr, sebäbi olar islendik operasiýa ulgamynda (OS) meseleleri netijeli anyklamaga we çözmäge mümkinçilik berýär. Bu OS-agnostiki başarnyklary ulanyp, kynçylyklary çalt çözüp we iş wagty azaldyp bilersiňiz.
 
-## Understanding Common Symptoms
+## Umumy alamatlara düşünmek
 
-In order to troubleshoot effectively, it is important to recognize and understand the common symptoms encountered in IT systems. These can range from hardware-related issues, such as overheating or physical damage, to software-related problems, such as slow performance or unresponsiveness.
+Netijeli näsazlyklary düzetmek üçin IT ulgamlarynda duş gelýän umumy alamatlary tanamak we düşünmek möhümdir. Bular gaty gyzmak ýa-da fiziki zeper ýaly apparat bilen baglanyşykly meselelerden başlap, haýal öndürijilik ýa-da jogap bermezlik ýaly programma üpjünçiligi bilen baglanyşykly meselelere çenli bolup biler.
 
-## Basic Troubleshooting Process
+## Näsazlyklary düzetmegiň esasy prosesi
 
-Following a systematic troubleshooting process is critical, regardless of the operating system. Here are the basic steps you might follow:
+Operasiýa ulgamyna garamazdan yzygiderli näsazlyklary düzetmek prosesi möhümdir. Ine esasy ädimler:
 
-- **Identify the problem**: Gather information on the issue and its symptoms, and attempt to reproduce the problem, if possible. Take note of any error messages or unusual behaviors.
-- **Research and analyze**: Search for potential causes and remedies on relevant forums, web resources, or vendor documentation.
-- **Develop a plan**: Formulate a strategy to resolve the issue, considering the least disruptive approach first, where possible.
-- **Test and implement**: Execute the proposed solution(s) and verify if the problem is resolved. If not, repeat the troubleshooting process with a new plan until the issue is fixed.
-- **Document the process and findings**: Record the steps taken, solutions implemented, and results to foster learning and improve future troubleshooting efforts.
+- ** Meseläni kesgitläň **: Mesele we onuň alamatlary barada maglumat ýygnaň we mümkin boldugyça meseläni köpeltmäge synanyşyň. Islendik säwlik habarlaryna ýa-da üýtgeşik gylyk-häsiýetlere üns beriň.
+- ** Gözleg we derňew **: Degişli forumlarda, web çeşmelerinde ýa-da satyjy resminamalarynda bolup biljek sebäpleri we bejeriş usullaryny gözläň.
+- ** Meýilnama düzüň **: Mümkin boldugyça ilki bilen iň az bozujy çemeleşmäni göz öňünde tutup, meseläni çözmek üçin strategiýa düzüň.
+- ** Synag we durmuşa geçirmek **: Teklip edilýän çözgütleri ýerine ýetiriň we meseläniň çözülendigini barlaň. Notok bolsa, mesele çözülýänçä näsazlyklary düzetmek prosesini täze meýilnama bilen gaýtalaň.
+- ** Amaly we netijeleri resminamalaşdyryň **: Öwrenmegi höweslendirmek we geljekdäki näsazlyklary düzetmek tagallalaryny gowulandyrmak üçin ädilen ädimleri, ýerine ýetirilen çözgütleri we netijeleri ýazga alyň.
 
-## Isolating the Problem
+## Meseläni izolirlemek
 
-To pinpoint the root cause of an issue, it's important to isolate the problem. You can perform this by:
+Meseläniň düýp sebäbini anyklamak üçin meseläni izolirlemek möhümdir. Muny ýerine ýetirip bilersiňiz:
 
-- **Disabling or isolating hardware components**: Disconnect any peripherals or external devices, then reconnect and test them one by one to identify the defective component(s).
-- **Checking resource usage**: Utilize built-in or third-party tools to monitor resource usage (e.g., CPU, memory, and disk) to determine whether a bottleneck is causing the problem.
-- **Verifying software configurations**: Analyze the configuration files or settings for any software or applications that could be contributing to the problem.
+- ** Apparat komponentlerini öçürmek ýa-da izolirlemek **: Islendik periferiýa enjamlaryny ýa-da daşarky enjamlary aýryň, kemçilikli komponentleri (leri) kesgitlemek üçin täzeden birikdiriň we synagdan geçiriň.
+- ** Resurslaryň ulanylyşyny barlamak **: Gurlan ýa-da üçünji tarap gurallaryny ulanyň, meselem, näsazlygyň ýüze çykýandygyny ýa-da ýokdugyny anyklamak üçin çeşmeleriň ulanylyşyna gözegçilik etmek üçin (meselem, CPU, ýat we disk).
+- ** Programma üpjünçiliginiň konfigurasiýalaryny barlamak **: Meselä goşant goşup biljek islendik programma üpjünçiligi ýa-da programmalar üçin konfigurasiýa faýllaryny ýa-da sazlamalaryny derňäň.
 
-## Networking and Connectivity Issues
+## Ulgam we birikmek meselesi
 
-Effective troubleshooting of network-related issues requires an understanding of various protocols, tools, and devices involved in networking. Here are some basic steps you can follow:
+Tor bilen baglanyşykly meseleleriň netijeli çözülmegi, dürli protokollara, gurallara we tor bilen baglanyşykly enjamlara düşünmegi talap edýär. Ine, ýerine ýetirip boljak käbir esasy ädimler:
 
-- **Verify physical connectivity**: Inspect cables, connectors, and devices to ensure all components are securely connected and functioning correctly.
-- **Confirm IP configurations**: Check the system's IP address and related settings to ensure it has a valid IP configuration.
-- **Test network services**: Use command-line tools, such as `ping` and `traceroute` (or `tracert` in Windows), to test network connections and diagnose potential problems.
+- ** Fiziki baglanyşygy barlaň **: cablehli komponentleriň ygtybarly birikdirilendigini we dogry işleýändigini anyklamak üçin kabelleri, birikdirijileri we enjamlary barlaň.
+- ** IP konfigurasiýalaryny tassyklaň **: Ulgamyň IP adresini we degişli sazlamalary barlaň, dogry IP konfigurasiýasyna göz ýetiriň.
+- ** Ulgam hyzmatlaryny barlamak **: Tor baglanyşyklaryny barlamak we ýüze çykyp biljek kynçylyklary anyklamak üçin "ping" we "traceroute" (ýa-da Windows-da "tracert") buýruk setir gurallaryny ulanyň.
 
-## Log Analysis
+## Loglaryň derňewi
 
-Logs are records of system events, application behavior, and user activity, which can be invaluable when troubleshooting issues. To effectively analyze logs, you should:
+Surnallar, ulgam hadysalarynyň ýazgylary, programmanyň özüni alyp barşy we ulanyjy işjeňligi, meseleleriň çözülmegi bilen bahasyna ýetip bolmaýar. Surnallary netijeli seljermek üçin:
 
-- **Identify relevant logs**: Determine which log files contain information related to the problem under investigation.
-- **Analyze log content**: Examine events, error messages, or patterns that might shed light on the root cause of the issue.
-- **Leverage log-analysis tools**: Utilize specialized tools or scripts to help parse, filter, and analyze large or complex log files.
+- ** Degişli surnallary kesgitläň **: Haýsy gündelik faýllaryň derňelýän mesele bilen baglanyşykly maglumatlary öz içine alýandygyny kesgitläň.
+- ** Gündeligiň mazmunyny derňäň **: Meseläniň düýp sebäbini açyp biljek wakalary, ýalňyş habarlary ýa-da nagyşlary gözden geçiriň.
+- ** Gündeligiň derňew gurallaryny ulanyň **: Uly ýa-da çylşyrymly gündelik faýllaryny derňemek, süzmek we derňemek üçin ýöriteleşdirilen gurallary ýa-da skriptleri ulanyň.
 
-In conclusion, developing OS-independent troubleshooting skills allows you to effectively diagnose and resolve issues on any system. By following a structured approach, understanding common symptoms, and utilizing the appropriate tools, you can minimize downtime and maintain the security and efficiency of your organization's IT systems.
+Sözümiň ahyrynda, OS-dan garaşsyz näsazlyklary düzetmek endiklerini ösdürmek, islendik ulgamdaky meseleleri netijeli anyklamaga we çözmäge mümkinçilik berýär. Düzülen çemeleşmä eýermek, umumy alamatlara düşünmek we degişli gurallary ulanmak bilen, iş wagty azaldyp, guramaňyzyň IT ulgamlarynyň howpsuzlygyny we netijeliligini saklap bilersiňiz.
 
-- [How to identify 9 signs of Operating System.](https://bro4u.com/blog/how-to-identify-9-signs-of-operating-system)
-- [Trouble shooting guide](https://cdnsm5-ss6.sharpschool.com/userfiles/servers/server_20856499/file/teacher%20pages/lindsay%20dolezal/it%20essentials/5.6.pdf)
+- [Operasiýa ulgamynyň 9 alamatlaryny nädip kesgitlemeli.] (Https://bro4u.com/blog/how-to-identify-9-signs-of-operating-system)
+- [Atyş meselesi boýunça gollanma] (https://cdnsm5-ss6.sharpschool.com/userfiles/servers/server_20856499/file/teacher%20pages/lindsay%20dolezal/it%20essentials/5.6.pdf)
