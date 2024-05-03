@@ -23,7 +23,7 @@ schema:
   dateModified: '2023-01-20'
 seo:
   title: 'Full Stack Developer'
-  description: '2024-nji ýylda ädimme-ädim Full Stack bolmagyň usullaryny öwreniň. Şeýle hem, öwrenmek isleýän zatlaryňyzyň hemmesini bir ýerde jemläp alyp bilersiňiz, ýörelgäniň elementlerine goşmaça çeşmelerimiz we gysga düşündirişlerimiz bar.'
+  description: '2024-nji ýylda ädimme-ädim Full Stack Developer bolmagyň usullaryny öwreniň. Şeýle hem, öwrenmek isleýän zatlaryňyzyň hemmesini bir ýerde jemläp alyp bilersiňiz, ýörelgäniň elementlerine goşmaça çeşmelerimiz we gysga düşündirişlerimiz bar.'
   keywords:
     - 'javascript roadmap 2024'
     - 'full stack roadmap 2024'

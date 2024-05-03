@@ -546,11 +546,11 @@
                   "zOrder": "1",
                   "measuredW": "266",
                   "measuredH": "26",
-                  "x": "79",
+                  "x": "50",
                   "y": "31",
                   "properties": {
-                    "size": "18",
-                    "text": "Understand Threat Classification"
+                    "size": "19",
+                    "text": "Döräp biljek Howplaryň klassifikasiýasy"
                   }
                 }
               ]
@@ -574,11 +574,11 @@
           "zOrder": "21",
           "measuredW": "298",
           "measuredH": "26",
-          "x": "183",
+          "x": "175",
           "y": "4448",
           "properties": {
-            "size": "18",
-            "text": "Learn how to find and use these logs"
+            "size": "19",
+            "text": "Log ýazgylar bilen işlemegi öwrenmek"
           }
         },
         {
@@ -598,11 +598,11 @@
           "zOrder": "23",
           "measuredW": "295",
           "measuredH": "26",
-          "x": "184",
+          "x": "124",
           "y": "4324",
           "properties": {
             "size": "18",
-            "text": "Using tools for unintended purposes"
+            "text": "Gurallary meýilleşdirilmedik maksatlar üçin ulanmak"
           }
         },
         {
@@ -648,7 +648,7 @@
           "y": "4086",
           "properties": {
             "size": "18",
-            "text": "Umumy standartlara düşüniň"
+            "text": "Halkara Standartlary öwreniň"
           }
         },
         {
@@ -735,8 +735,8 @@
                   "x": "28",
                   "y": "24",
                   "properties": {
-                    "size": "18",
-                    "text": "Understand the Incident Response Process"
+                    "size": "19",
+                    "text": "Hadysalara gözegçilik prosesi öwrenmek"
                   }
                 }
               ]
@@ -9837,11 +9837,11 @@
           "zOrder": "250",
           "measuredW": "267",
           "measuredH": "26",
-          "x": "1033",
+          "x": "1045",
           "y": "4150",
           "properties": {
-            "size": "18",
-            "text": "Common Network Based Attacks"
+            "size": "19",
+            "text": "Ulgamlaýyn hüjümler barada"
           }
         },
         {
@@ -12905,11 +12905,11 @@
           "zOrder": "316",
           "measuredW": "96",
           "measuredH": "26",
-          "x": "156",
+          "x": "130",
           "y": "4205",
           "properties": {
             "size": "18",
-            "text": "Understand"
+            "text": "Goşmaça öwreniň"
           }
         },
         {
@@ -13012,11 +13012,11 @@
           "zOrder": "319",
           "measuredW": "233",
           "measuredH": "26",
-          "x": "294",
+          "x": "300",
           "y": "4203",
           "properties": {
-            "size": "18",
-            "text": "Common Distros for Hacking"
+            "size": "19",
+            "text": "Hacking üçin distributiwler"
           }
         },
         {
@@ -13428,11 +13428,11 @@
                   "zOrder": "1",
                   "measuredW": "269",
                   "measuredH": "26",
-                  "x": "77",
+                  "x": "60",
                   "y": "21",
                   "properties": {
-                    "size": "18",
-                    "text": "Understand Hardening Concepts"
+                    "size": "19",
+                    "text": "Goragy güýçlendirmek konsepsiýasy"
                   }
                 }
               ]
@@ -14010,11 +14010,11 @@
           "zOrder": "341",
           "measuredW": "178",
           "measuredH": "26",
-          "x": "1078",
+          "x": "1100",
           "y": "4634",
           "properties": {
-            "size": "18",
-            "text": "Understand Audience"
+            "size": "19",
+            "text": "Tejribehana"
           }
         },
         {
@@ -14161,8 +14161,8 @@
           "x": "636",
           "y": "4761",
           "properties": {
-            "size": "18",
-            "text": "Understand Common Tools"
+            "size": "19",
+            "text": "Umumy gurallar barada"
           }
         },
         {
@@ -14559,11 +14559,11 @@
                   "zOrder": "1",
                   "measuredW": "223",
                   "measuredH": "26",
-                  "x": "69",
+                  "x": "59",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Cloud Skills and Knowledge"
+                    "size": "20",
+                    "text": "Bulut Tehnologiýalary barada"
                   }
                 }
               ]
@@ -14603,11 +14603,11 @@
                   "zOrder": "1",
                   "measuredW": "223",
                   "measuredH": "26",
-                  "x": "41",
+                  "x": "07",
                   "y": "20",
                   "properties": {
                     "size": "18",
-                    "text": "Understand Cloud Services"
+                    "text": "Bulut Tehnologiýalarynyň hyzmatlary"
                   }
                 }
               ]
@@ -14788,11 +14788,11 @@
                   "zOrder": "1",
                   "measuredW": "112",
                   "measuredH": "26",
-                  "x": "96",
+                  "x": "05",
                   "y": "22",
                   "properties": {
-                    "size": "18",
-                    "text": "Cloud Models"
+                    "size": "19",
+                    "text": "Bulut Tehnologiýalarynyň modelleri"
                   }
                 }
               ]
@@ -14973,11 +14973,11 @@
                   "zOrder": "1",
                   "measuredW": "242",
                   "measuredH": "26",
-                  "x": "26",
+                  "x": "10",
                   "y": "20",
                   "properties": {
-                    "size": "18",
-                    "text": "Common Cloud Environments"
+                    "size": "19",
+                    "text": "Bulut Tehnologiýalarynyň gurşawy"
                   }
                 }
               ]
@@ -15158,11 +15158,11 @@
                   "zOrder": "1",
                   "measuredW": "194",
                   "measuredH": "26",
-                  "x": "69",
+                  "x": "10",
                   "y": "21",
                   "properties": {
-                    "size": "18",
-                    "text": "Common Cloud Storage"
+                    "size": "19",
+                    "text": "Bulut Tehnologiýalarynyň bazalary"
                   }
                 }
               ]
@@ -15491,7 +15491,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Understand concepts of security in the cloud"
+                    "text": "Security in the cloud"
                   }
                 }
               ]
@@ -15538,7 +15538,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Understand the basics and general flow of deploying in the cloud"
+                    "text": "Basics and general flow of deploying in the cloud"
                   }
                 }
               ]
@@ -15585,7 +15585,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Understand the differences between cloud and on-premises"
+                    "text": "Differences between cloud and on-premises"
                   }
                 }
               ]
@@ -15632,7 +15632,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Understand the concept of infrastructure as code"
+                    "text": "Concept of infrastructure as code"
                   }
                 }
               ]
@@ -15679,7 +15679,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Understand the concept of Serverless"
+                    "text": "Concept of Serverless"
                   }
                 }
               ]
@@ -15726,7 +15726,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Understand the concept of CDN"
+                    "text": "CDN (Content Delivery Network)"
                   }
                 }
               ]
@@ -15827,11 +15827,11 @@
                   "zOrder": "1",
                   "measuredW": "534",
                   "measuredH": "26",
-                  "x": "14",
+                  "x": "10",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Programming Skills and Knowledge (Optional But Recommended)"
+                    "text": "Programmirleme dilini öwrenmek (islegiňe bagly, maslahat berilýär)"
                   }
                 }
               ]
@@ -16126,11 +16126,11 @@
           "zOrder": "396",
           "measuredW": "187",
           "measuredH": "36",
-          "x": "750",
+          "x": "700",
           "y": "5770",
           "properties": {
             "size": "28",
-            "text": "Keep Learning"
+            "text": "Öwrenmegi dowam ediň"
           }
         },
         {

@@ -4225,11 +4225,11 @@
                   "zOrder": "1",
                   "measuredW": "199",
                   "measuredH": "26",
-                  "x": "71",
+                  "x": "21",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Learn the Basics of Dart"
+                    "size": "20",
+                    "text": "Dart diliniň esaslaryny öwrenmek"
                   }
                 }
               ]
@@ -4276,7 +4276,7 @@
                   "y": "11",
                   "properties": {
                     "size": "18",
-                    "text": "Operators"
+                    "text": "Operatorlar"
                   }
                 },
                 {
@@ -4368,11 +4368,11 @@
                   "zOrder": "1",
                   "measuredW": "80",
                   "measuredH": "26",
-                  "x": "104",
+                  "x": "94",
                   "y": "11",
                   "properties": {
                     "size": "18",
-                    "text": "Functions"
+                    "text": "Funksiýalar"
                   }
                 },
                 {
@@ -4468,7 +4468,7 @@
                   "y": "11",
                   "properties": {
                     "size": "18",
-                    "text": "Control Flow Statements"
+                    "text": "Control Flow Statement-ler"
                   }
                 },
                 {
@@ -4563,8 +4563,8 @@
                   "x": "37",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Setup Development Environment"
+                    "size": "20",
+                    "text": "Dolandyryş gurşawyny döretmek"
                   }
                 }
               ]
@@ -5035,11 +5035,11 @@
                   "zOrder": "1",
                   "measuredW": "66",
                   "measuredH": "26",
-                  "x": "49",
+                  "x": "39",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Widgets"
+                    "size": "20",
+                    "text": "Widget-ler"
                   }
                 }
               ]
@@ -5370,11 +5370,11 @@
                   "zOrder": "1",
                   "measuredW": "161",
                   "measuredH": "26",
-                  "x": "39",
+                  "x": "30",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Working with Assets"
+                    "size": "20",
+                    "text": "Assets bilen işlemek"
                   }
                 }
               ]
@@ -5705,11 +5705,11 @@
                   "zOrder": "1",
                   "measuredW": "197",
                   "measuredH": "26",
-                  "x": "53",
+                  "x": "23",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Version Control Systems"
+                    "size": "20",
+                    "text": "Wersiýa dolandyryş ulgamlary"
                   }
                 }
               ]
@@ -5752,11 +5752,11 @@
                   "zOrder": "1",
                   "measuredW": "187",
                   "measuredH": "26",
-                  "x": "58",
+                  "x": "38",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Repo Hosting Services"
+                    "size": "20",
+                    "text": "Repo hosting hyzmatlary"
                   }
                 }
               ]
@@ -5991,11 +5991,11 @@
                   "zOrder": "1",
                   "measuredW": "142",
                   "measuredH": "26",
-                  "x": "35",
+                  "x": "25",
                   "y": "22",
                   "properties": {
-                    "size": "18",
-                    "text": "Design Principles"
+                    "size": "20",
+                    "text": "Dizaýn ýörelgeleri"
                   }
                 },
                 {
@@ -6520,11 +6520,11 @@
                   "zOrder": "1",
                   "measuredW": "149",
                   "measuredH": "26",
-                  "x": "31",
+                  "x": "21",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Package Manager"
+                    "size": "20",
+                    "text": "Paket dolandyryjysy"
                   }
                 }
               ]
@@ -6567,11 +6567,11 @@
                   "zOrder": "1",
                   "measuredW": "144",
                   "measuredH": "26",
-                  "x": "48",
+                  "x": "28",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Working with APIs"
+                    "size": "20",
+                    "text": "API-ler bilen işlemek"
                   }
                 }
               ]
@@ -6998,11 +6998,11 @@
                   "zOrder": "1",
                   "measuredW": "64",
                   "measuredH": "26",
-                  "x": "74",
+                  "x": "54",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Storage"
+                    "size": "20",
+                    "text": "Ýat gurluşy"
                   }
                 }
               ]
@@ -7813,11 +7813,11 @@
                   "zOrder": "1",
                   "measuredW": "121",
                   "measuredH": "26",
-                  "x": "59",
+                  "x": "35",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Advanced Dart"
+                    "size": "20",
+                    "text": "Ýokary dereje Dart"
                   }
                 }
               ]
@@ -8436,10 +8436,10 @@
                   "zOrder": "1",
                   "measuredW": "156",
                   "measuredH": "26",
-                  "x": "45",
+                  "x": "40",
                   "y": "12",
                   "properties": {
-                    "size": "18",
+                    "size": "20",
                     "text": "State Management"
                   }
                 }
@@ -8771,11 +8771,11 @@
                   "zOrder": "1",
                   "measuredW": "90",
                   "measuredH": "26",
-                  "x": "78",
+                  "x": "58",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Animations"
+                    "size": "20",
+                    "text": "Animasiýalar"
                   }
                 }
               ]
@@ -9106,11 +9106,11 @@
                   "zOrder": "1",
                   "measuredW": "59",
                   "measuredH": "26",
-                  "x": "93",
+                  "x": "73",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Testing"
+                    "size": "20",
+                    "text": "Test Etmek"
                   }
                 }
               ]
@@ -9633,11 +9633,11 @@
                   "zOrder": "1",
                   "measuredW": "79",
                   "measuredH": "26",
-                  "x": "91",
+                  "x": "41",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Dev Tools"
+                    "size": "20",
+                    "text": "Developer Gurallary"
                   }
                 },
                 {
@@ -10020,7 +10020,7 @@
                   "x": "66",
                   "y": "12",
                   "properties": {
-                    "size": "18",
+                    "size": "20",
                     "text": "Flutter Internals"
                   }
                 },
@@ -10928,11 +10928,11 @@
                   "zOrder": "1",
                   "measuredW": "72",
                   "measuredH": "26",
-                  "x": "87",
+                  "x": "80",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Analytics"
+                    "size": "20",
+                    "text": "Seljermek"
                   }
                 }
               ]
@@ -11362,8 +11362,8 @@
                   "x": "32",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Deployment"
+                    "size": "20",
+                    "text": "Gurnamak"
                   }
                 }
               ]
@@ -11568,11 +11568,11 @@
           "zOrder": "197",
           "measuredW": "187",
           "measuredH": "36",
-          "x": "958",
+          "x": "900",
           "y": "2695",
           "properties": {
-            "size": "28",
-            "text": "Keep Learning"
+            "size": "30",
+            "text": "Öwrenmegi Dowam ediň"
           }
         },
         {
@@ -11707,11 +11707,11 @@
                   "zOrder": "1",
                   "measuredW": "132",
                   "measuredH": "26",
-                  "x": "57",
+                  "x": "47",
                   "y": "11",
                   "properties": {
                     "size": "18",
-                    "text": "Cloud Functions"
+                    "text": "Bulut Funksiýalar"
                   }
                 },
                 {
@@ -11803,11 +11803,11 @@
                   "zOrder": "1",
                   "measuredW": "144",
                   "measuredH": "26",
-                  "x": "72",
+                  "x": "62",
                   "y": "11",
                   "properties": {
                     "size": "18",
-                    "text": "Inherited Widgets"
+                    "text": "Inherited Widget-ler"
                   }
                 },
                 {
@@ -12121,11 +12121,11 @@
                   "zOrder": "1",
                   "measuredW": "186",
                   "measuredH": "26",
-                  "x": "30",
+                  "x": "10",
                   "y": "12",
                   "properties": {
-                    "size": "18",
-                    "text": "Reactive Programming"
+                    "size": "20",
+                    "text": "Reaktiw programmirleme"
                   }
                 }
               ]
@@ -12315,7 +12315,7 @@
                   "y": "11",
                   "properties": {
                     "size": "18",
-                    "text": "Responsive Widgets"
+                    "text": "Responsive Widget-ler"
                   }
                 },
                 {
@@ -12454,7 +12454,7 @@
                   "y": "21",
                   "properties": {
                     "size": "16",
-                    "text": "Personal Recommendation / Opinion"
+                    "text": "Maslahat berilýär"
                   }
                 },
                 {
@@ -12467,7 +12467,7 @@
                   "y": "118",
                   "properties": {
                     "size": "16",
-                    "text": "I wouldn't recommend"
+                    "text": "Maslahat berilmeýär"
                   }
                 },
                 {
@@ -12514,7 +12514,7 @@
                   "y": "86",
                   "properties": {
                     "size": "16",
-                    "text": "Order in roadmap not strict (Learn anytime)"
+                    "text": "Goşmaça öwrenmek üçin"
                   }
                 },
                 {
@@ -12576,7 +12576,7 @@
                   "y": "54",
                   "properties": {
                     "size": "16",
-                    "text": "Alternative Option - Pick this or purple"
+                    "text": "Alternatiw görnüş maslahat berilýär"
                   }
                 },
                 {
@@ -12681,8 +12681,8 @@
                   "x": "14",
                   "y": "17",
                   "properties": {
-                    "size": "17",
-                    "text": "Find the detailed version of this roadmap"
+                    "size": "20",
+                    "text": "Giňişleýin maglumatlar üçin şu salga"
                   }
                 },
                 {
@@ -12694,8 +12694,8 @@
                   "x": "14",
                   "y": "45",
                   "properties": {
-                    "size": "17",
-                    "text": "along with resources and other roadmaps"
+                    "size": "20",
+                    "text": "ýüzlemip bilersiňiz."
                   }
                 },
                 {
@@ -12709,7 +12709,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:localhost:3000"
                   },
                   "children": {
                     "controls": {
@@ -12740,7 +12740,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "roadmap.sh"
+                            "text": "sanlyyorelge.tm"
                           }
                         },
                         {
@@ -12816,7 +12816,7 @@
       "parentID": null,
       "notes": ""
     },
-    "branchID": "Master",
+    "branchID": "main",
     "resourceID": "D5E1AC09-3023-4145-A52A-4D904363A065",
     "mockupH": "2663",
     "mockupW": "1257",
@@ -12829,5 +12829,5 @@
     "y": 0
   },
   "dependencies": [],
-  "projectID": "file:///Users/kamrify/Desktop/New%20Roadmaps/New%20Project%201.bmpr"
+  "projectID": "https://github.com/blaze525/sanly_yorelge_last.git"
 }
