@@ -1,36 +1,36 @@
-# Basics of NAS and SAN
+# NAS we SAN esaslary
 
-Network Attached Storage (NAS) and Storage Area Network (SAN) technologies play a crucial role in managing data within an organization and serve as the building blocks for a more comprehensive IT infrastructure.
+Tor birikdirilen ýeri (NAS) we Saklaýyş meýdançasy tory (SAN) tehnologiýalary bir guramanyň içindäki maglumatlary dolandyrmakda möhüm rol oýnaýar we has giňişleýin IT infrastrukturasy üçin gurluş bolup hyzmat edýär.
 
-## Network Attached Storage (NAS)
+## Tor birikdirilýän ýer (NAS)
 
-NAS is a high-capacity storage solution that operates on a data file level, allowing multiple users and clients to access, store, and retrieve data from a centralized location over a network. NAS devices are generally connected to a local area network (LAN) and use various file-sharing protocols, such as NFS (Network File System), SMB/CIFS (Server Message Block/Common Internet File System), or AFP (Apple Filing Protocol).
+NAS, maglumatlar faýly derejesinde işleýän, köp ulanyjylara we müşderilere toruň merkezleşdirilen ýerinden maglumatlary almaga, saklamaga we almaga mümkinçilik berýän ýokary kuwwatly saklaýyş çözgüdi. NAS enjamlary, adatça, ýerli sebite (LAN) birikdirilýär we NFS (Tor Faýl Ulgamy), SMB / CIFS (Serwer Habar Bloky / Umumy Internet Faýl Ulgamy) ýa-da AFP (Apple Filing Protocol) ýaly dürli faýl paýlaşma protokollaryny ulanýar. ).
 
-Some key features of a NAS system include:
+NAS ulgamynyň käbir esasy aýratynlyklary şulary öz içine alýar:
 
-- **Ease of Deployment**: NAS devices are simple to install and configure, facilitating quick integration into existing network infrastructures.
-- **Scalability**: NAS systems can be easily expanded to accommodate growing storage needs by adding more drives or units.
-- **Data Protection**: Most NAS devices offer data protection features such as RAID (Redundant Array of Independent Disks), data backup, and data encryption.
+- ** Gurnama aňsatlygy **: NAS enjamlary gurmak we düzmek ýönekeý, bar bolan ulgam infrastrukturasyna çalt birleşmegi aňsatlaşdyrýar.
+- ** Göwrümliligi **: NAS ulgamlary has köp disk ýa-da birlik goşup, ösýän ammar zerurlyklaryny kanagatlandyrmak üçin aňsatlyk bilen giňeldilip bilner.
+- ** Maglumatlary goramak **: NAS enjamlarynyň köpüsi RAID (Garaşsyz diskleriň artykmaç tertibi), maglumatlary ätiýaçlandyrmak we maglumatlary şifrlemek ýaly maglumatlary goramak aýratynlyklaryny hödürleýär.
 
-## Storage Area Network (SAN)
+## Saklaýyş meýdany tory (SAN)
 
-SAN is a high-performance, dedicated storage network designed to provide block-level data storage for applications and servers. Unlike NAS, which uses file-sharing protocols, SANs utilize block-based protocols such as Fibre Channel (FC) and iSCSI (Internet Small Computer System Interface) to handle storage requests.
+SAN, programmalar we serwerler üçin blok derejesinde maglumat saklamagy üpjün etmek üçin döredilen ýokary öndürijilikli, ýörite saklaýyş ulgamydyr. Faýl paýlaşmak protokollaryny ulanýan NAS-dan tapawutlylykda, SAN-lar, saklamak isleglerini çözmek üçin Süýüm kanaly (FC) we iSCSI (Internet kiçi kompýuter ulgamy interfeýsi) ýaly blok esasly protokollary ulanýarlar.
 
-SANs offer several advantages in terms of performance, reliability, and scalability:
+SAN öndürijilik, ygtybarlylyk we göwrümlilik taýdan birnäçe artykmaçlygy hödürleýär:
 
-- **Performance**: SANs can handle low-latency, high-speed data transfers, providing optimal performance for mission-critical applications and large-scale virtualization.
-- **Fault Tolerance**: SANs are designed to provide redundancy and failover capabilities, ensuring continued access to data in the event of hardware failures.
-- **Scalability**: SANs can be easily scaled by adding more disk arrays, switches, or connections to meet growing storage demands.
+- ** Öndürijilik **: SAN-lar, pes ähmiýetli programmalar we uly göwrümli wirtuallaşdyrma üçin iň amatly öndürijiligi üpjün edip, pes gijikdirilen, ýokary tizlikli maglumat geçirişlerini dolandyryp bilerler.
+- ** ultalňyş çydamlylyk **: SAN-lar artykmaçlyk we näsazlyk mümkinçiliklerini üpjün etmek üçin, enjam näsazlyklary ýüze çykan halatynda maglumatlara dowamly elýeterliligi üpjün etmek üçin döredildi.
+- ** Göwrümlilik **: SAN-lary artýan ammar talaplaryny kanagatlandyrmak üçin has köp disk massiwlerini, wyklýuçatelleri ýa-da birikmeleri goşup aňsatlyk bilen ulaldyp bolýar.
 
-## NAS vs. SAN: Choosing the Right Solution
+## NAS vs. SAN: Dogry çözgüdi saýlamak
 
-When it comes to deciding between NAS and SAN, there are several factors to consider:
+NAS bilen SAN arasynda karar bermek barada aýdylanda, göz öňünde tutmaly birnäçe faktor bar:
 
-- **Cost**: NAS devices are generally more affordable than SANs, making them an attractive option for smaller organizations or environments with limited budgets.
-- **Infrastructure**: NAS solutions can be more easily integrated into existing network infrastructures, whereas SANs may require dedicated hardware, connections, and management tools.
-- **Performance Requirements**: If you need high-performance storage for intensive applications, SANs may be a more appropriate choice than NAS.
-- **Data Management**: While NAS solutions excel in handling file-based storage, SANs provide better support for block-level storage and can deliver improved performance for virtualized environments and database applications.
+- ** Bahasy **: NAS enjamlary, adatça, SAN-lardan has elýeterli bolup, býudjetleri çäkli bolan kiçi guramalar ýa-da gurşawlar üçin özüne çekiji görnüşe öwrülýär.
+- ** Infrastruktura **: NAS çözgütleri bar bolan ulgam infrastrukturasyna has aňsat birleşdirilip bilner, SAN-lar bolsa ýörite enjamlary, birikmeleri we dolandyryş gurallaryny talap edip biler.
+- ** Öndürijilik talaplary **: Güýçli programmalar üçin ýokary öndürijilikli ammar gerek bolsa, SAN-lar NAS-dan has laýyk saýlama bolup biler.
+- ** Maglumatlary dolandyrmak **: NAS çözgütleri faýl esasly ammarlary dolandyrmakda has ýokary bolsa-da, SAN-lar blok derejesindäki ammar üçin has gowy goldaw berýär we wirtuallaşdyrylan gurşaw we maglumat bazasy programmalary üçin gowulaşan öndürijiligi üpjün edip biler.
 
-It's essential to evaluate your organization's specific needs and requirements to determine which storage solution is the most appropriate fit. As you expand your knowledge in cyber security, a solid understanding of both NAS and SAN technologies will prove invaluable in implementing secure and efficient data storage systems.
+Haýsy ammar çözgüdiniň has laýykdygyny kesgitlemek üçin guramaňyzyň aýratyn zerurlyklaryna we talaplaryna baha bermek möhümdir. Kiberhowpsuzlyk boýunça bilimleriňizi giňeldeniňizde, NAS we SAN tehnologiýalaryna berk düşünmek ygtybarly we netijeli maglumat saklaýyş ulgamlaryny ornaşdyrmakda bahasyna ýetip bolmajak subutnamany görkezer.
 
-- [NAS vs SAN](https://youtu.be/3yZDDr0JKVc)
+- [NAS vs SAN] (https://youtu.be/3yZDDr0JKVc)

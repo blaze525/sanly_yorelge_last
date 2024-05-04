@@ -1,37 +1,37 @@
-# Navigating using GUI and CLI
+# GUI we CLI ulanyp nawigasiýa
 
-Graphical User Interface (GUI) and Command Line Interface (CLI) are the two essential methods to navigate through a computer system or a network device. Both these interfaces are crucial for understanding and managing cyber security.
+Grafiki ulanyjy interfeýsi (GUI) we buýruk setiri interfeýsi (CLI) kompýuter ulgamy ýa-da tor enjamy arkaly gezmegiň iki möhüm usulydyr. Bu interfeýsleriň ikisi hem kiberhowpsuzlyga düşünmek we dolandyrmak üçin möhümdir.
 
-## Graphical User Interface (GUI)
+## Grafiki ulanyjy interfeýsi (GUI)
 
-A Graphical User Interface (GUI) is a type of user interface that allows users to interact with a software program, computer, or network device using images, icons, and visual indicators. The GUI is designed to make the user experience more intuitive, as it enables users to perform tasks using a mouse and a keyboard without having to delve into complex commands. Most modern operating systems (Windows, macOS, and Linux) offer GUIs as the primary means of interaction.
+Grafiki ulanyjy interfeýsi (GUI), ulanyjylara şekil, nyşan we wizual görkezijiler ulanyp, programma üpjünçiligi programmasy, kompýuter ýa-da tor enjamy bilen aragatnaşyk saklamaga mümkinçilik berýän ulanyjy interfeýsiniň bir görnüşidir. GUI ulanyjynyň tejribesini has içginleşdirmek üçin döredildi, sebäbi ulanyjylara çylşyrymly buýruklara göz aýlamazdan syçan we klawiatura ulanyp işleri ýerine ýetirmäge mümkinçilik berýär. Döwrebap operasiýa ulgamlarynyň köpüsi (Windows, macOS we Linux) esasy aragatnaşyk serişdesi hökmünde GUI-leri hödürleýär.
 
-**Advantages of GUI:**
+** GUI-iň artykmaçlyklary: **
 
-- User-friendly and visually appealing
-- Easier for beginners to learn and navigate
-- Reduces the need to memorize complex commands
+- Ulanyjy üçin amatly we göze ýakymly
+- Täze öwrenýänler üçin öwrenmek we gezmek has aňsat
+- Çylşyrymly buýruklary ýatda saklamak zerurlygyny azaldar
 
-**Disadvantages of GUI:**
+** GUI-iň kemçilikleri: **
 
-- Consumes more system resources (memory, CPU) than CLI
-- Some advanced features might not be available or accessibly as quickly compared to CLI
+- CLI-den has köp ulgam çeşmelerini (ýat, CPU) sarp edýär
+- Käbir ösen aýratynlyklar, CLI bilen deňeşdirilende çalt ýa-da elýeterli bolmazlygy mümkin
 
-## Command Line Interface (CLI)
+## Buýruk setiriniň interfeýsi (CLI)
 
-A Command Line Interface (CLI) is a text-based interface that allows users to interact with computer programs or network devices directly through commands that are entered via a keyboard. CLIs are used in a variety of contexts, including operating systems (e.g., Windows Command Prompt or PowerShell, macOS Terminal, and Linux shell), network devices (such as routers and switches), and some software applications.
+Buýruk setiri interfeýsi (CLI), ulanyjylara klawiatura arkaly girizilen buýruklar arkaly gönüden-göni kompýuter programmalary ýa-da tor enjamlary bilen aragatnaşyk saklamaga mümkinçilik berýän tekste esaslanýan interfeýsdir. CLI-ler operasiýa ulgamlary (meselem, Windows Command Prompt ýa-da PowerShell, macOS Terminal we Linux gaby), tor enjamlary (marşrutizatorlar we wyklýuçateller) we käbir programma üpjünçiligi ýaly dürli kontekstde ulanylýar.
 
-**Advantages of CLI:**
+** CLI-iň artykmaçlyklary: **
 
-- Faster and more efficient in performing tasks once commands are known
-- Requires fewer system resources (memory, CPU) than GUI
-- Provides more control and advanced features for experienced users
+- Buýruklar belli bolansoň, işleri ýerine ýetirmekde has çalt we has täsirli
+- GUI-den has az ulgam çeşmelerini (ýat, CPU) talap edýär
+- Tejribeli ulanyjylar üçin has köp gözegçilik we ösen aýratynlyklary üpjün edýär
 
-**Disadvantages of CLI:**
+** CLI-iň kemçilikleri: **
 
-- Steeper learning curve for beginners
-- Requires memorization or reference material for commands and syntax
+- Täze başlanlar üçin has berk öwreniş egri
+- Buýruklar we sintaksis üçin ýat tutmagy ýa-da salgylanma materiallaryny talap edýär
 
-By understanding how to navigate and use both GUI and CLI, you will be better equipped to manage and secure your computer systems and network devices, as well as perform various cyber security tasks that may require a combination of these interfaces. It is essential to be familiar with both methods, as some tasks may require the precision and control offered by CLI, while others may be more efficiently performed using a GUI.
+GUI we CLI-de nädip gezmelidigine we ulanyljakdygyna düşünmek bilen, kompýuter ulgamlaryňyzy we tor enjamlaryňyzy dolandyrmak we goramak üçin has gowy enjamlaşdyrylarsyňyz, şeýle hem bu interfeýsleriň utgaşmasyny talap edip biljek dürli kiberhowpsuzlyk meselelerini ýerine ýetirersiňiz. Iki usul bilen hem tanyş bolmak zerurdyr, sebäbi käbir meseleler CLI tarapyndan hödürlenýän takyklygy we gözegçiligi talap edip biler, beýlekileri bolsa GUI ulanyp has netijeli ýerine ýetirilip bilner.
 
-In the following sections, we will discuss some common CLI tools and their usage, along with how to secure and manage your computer systems and network devices using these interfaces. Stay tuned!
+Indiki bölümlerde, bu interfeýsleri ulanyp, kompýuter ulgamlaryňyzy we tor enjamlaryňyzy nädip goramaly we dolandyrmalydygy bilen birlikde käbir umumy CLI gurallaryny we olaryň ulanylyşyny ara alyp maslahatlaşarys. Üns beriň!

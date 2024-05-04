@@ -1,40 +1,40 @@
-# Certificates
+# Şahadatnamalar
 
-Certificates, also known as digital certificates or SSL/TLS certificates, play a crucial role in the world of cybersecurity. They help secure communications between clients and servers over the internet, ensuring that sensitive data remains confidential and protected from prying eyes.
+Sanly şahadatnamalar ýa-da SSL / TLS şahadatnamalary diýlip hem bilinýän şahadatnamalar, kiberhowpsuzlyk dünýäsinde möhüm rol oýnaýar. Müşderiler bilen serwerleriň arasynda internet arkaly aragatnaşygyň ygtybarly bolmagyna kömek edýär, duýgur maglumatlaryň gizlin bolmagyny we gözlerden goralmagyny üpjün edýär.
 
-## What is a Certificate?
+## Sertifikat näme?
 
-A digital certificate is an electronic document that uses a digital signature to bind a public key with a specific identity, such as a website domain or an organization. It contains information about the certificate holder, the certificate's validity period, and the public key of the entity that the certificate represents.
+Sanly şahadatnama, web sahypasy ýa-da gurama ýaly belli bir şahsyýet bilen açary baglanyşdyrmak üçin sanly goly ulanýan elektron resminama. Onda şahadatnamanyň eýesi, şahadatnamanyň hereket ediş möhleti we şahadatnamanyň görkezýän guramasynyň açary barada maglumatlar bar.
 
-## Certificate Authorities (CAs)
+## Şahadatnama ygtyýarlyklary (CA)
 
-Certificates are issued and signed by trusted third-party organizations called Certificate Authorities (CAs). CAs are responsible for verifying the authenticity of organizations or individuals making the request and ensuring that they, indeed, own the domain for which the certificate is issued.
+Şahadatnamalar, şahadatnama edaralary (CAs) diýlip atlandyrylýan ynamdar üçünji tarap guramalary tarapyndan berilýär we gol çekilýär. CA-lar haýyş bilen ýüz tutýan guramalaryň ýa-da şahslaryň hakykylygyny barlamak we şahadatnamanyň berlen domenine hakykatdanam eýeçilik etmek üçin jogapkärdir.
 
-Some well-known CAs include:
+Käbir belli CA-lar şulary öz içine alýar:
 
 - DigiCert
-- Let's Encrypt
+- Şifrläliň
 - GlobalSign
-- Sectigo (formerly Comodo)
-- Entrust
+- Sektigo (öňki Comodo)
+- Ygtyýar
 
-## Types of Certificates
+## Şahadatnamalaryň görnüşleri
 
-Different types of certificates serve different purposes and offer varying levels of validation:
+Dürli şahadatnamalar dürli maksatlara hyzmat edýär we dürli derejeli tassyklamalary hödürleýär:
 
-- **Domain Validation (DV)**: These certificates validate the ownership of the domain but do not contain any information about the organization that owns it. DV certificates offer a basic level of security and are suitable for websites that don't process sensitive data, such as blogs or portfolio sites.
-- **Organization Validation (OV)**: OV certificates verify the ownership of the domain and contain information about the organization that owns it. This type of certificate provides an enhanced level of trust and is recommended for business websites where users need to know the identity of the organization they are dealing with.
-- **Extended Validation (EV)**: EV certificates provide the highest level of identity validation by conducting a rigorous verification process that involves checking the organization's legal status, physical presence, and domain ownership. Websites with an EV certificate display a green padlock or bar in the browser address bar, increasing user trust and confidence.
+- ** Domen tassyklamasy (DV) **: Bu şahadatnamalar domeniň eýeçiligini tassyklaýar, ýöne oňa eýeçilik edýän gurama barada maglumat ýok. DV şahadatnamalary esasy howpsuzlyk derejesini hödürleýär we blog ýa-da portfel saýtlary ýaly duýgur maglumatlary gaýtadan işlemeýän web sahypalary üçin amatlydyr.
+- ** Gurama tassyklamasy (OV) **: OV şahadatnamalary domeniň eýeçiligini barlaýar we oňa eýeçilik edýän gurama barada maglumatlary öz içine alýar. Şahadatnamanyň bu görnüşi, ynamyň ösen derejesini üpjün edýär we ulanyjylar bilen iş salyşýan guramanyň şahsyýetini bilmeli iş web sahypalary üçin maslahat berilýär.
+- ** Giňeldilen tassyklama (EV) **: EV şahadatnamalary guramanyň kanuny ýagdaýyny, fiziki barlygyny we domen eýeçiligini barlamagy öz içine alýan berk barlag işini geçirmek arkaly şahsyýetiň iň ýokary derejesini tassyklaýar. EV şahadatnamasy bolan web sahypalary, ulanyjynyň ynamyny we ynamyny artdyryp, brauzeriň salgy setirinde ýaşyl gulpy ýa-da çyzgyny görkezýär.
 
-## Importance of Certificates
+## Şahadatnamalaryň ähmiýeti
 
-Digital certificates offer various benefits in the realm of cybersecurity, such as:
+Sanly şahadatnamalar kiberhowpsuzlyk ulgamynda dürli artykmaçlyklary hödürleýär:
 
-- **Authentication**: Certificates help to establish the authenticity of a domain or an organization, allowing users to trust that they are communicating with a legitimate entity.
-- **Encryption**: By using public key encryption, certificates enable secure communication between clients and servers, protecting sensitive data from being intercepted by malicious actors.
-- **Integrity**: Certificates ensure that the data transferred between parties remains intact and unaltered during transmission, preventing tampering or manipulation by malicious actors.
-- **Trust**: With the assurance that a website has a valid certificate from a trusted CA, users are more likely to trust and engage with the site, leading to increased conversion rates and customer loyalty.
+- ** Autentifikasiýa **: Şahadatnamalar, domeniň ýa-da guramanyň hakykylygyny kesgitlemäge kömek edýär, ulanyjylara kanuny bir gurama bilen aragatnaşyk saklaýandyklaryna ynanmaga mümkinçilik berýär.
+- ** Şifrlemek **: Jemgyýetçilik açary şifrlemek arkaly, şahadatnamalar müşderiler bilen serwerleriň arasynda howpsuz aragatnaşygy üpjün edýär, duýgur maglumatlary zyýanly aktýorlar tarapyndan saklanmazlygyndan goraýar.
+- ** Bütewilik **: Şahadatnamalar, zyýanly aktýorlar tarapyndan galplaşdyrylmagynyň ýa-da manipulirlemeginiň öňüni almak bilen, taraplaryň arasynda geçirilen maglumatlaryň üýtgemezligini we üýtgemezligini üpjün edýär.
+- ** Ynam **: Web sahypasynyň ygtybarly CA-dan ygtybarly şahadatnamasynyň bardygyna kepil geçmek bilen, ulanyjylar sahypa ynanmak we oňa gatnaşmak has ähtimal, bu öwrüliş nyrhlarynyň ýokarlanmagyna we müşderileriň wepalylygyna sebäp bolýar.
 
-## Conclusion
+## Netije
 
-Digital certificates provide a crucial layer of security and trust for online communications. Understanding their role in cybersecurity, the different types of certificates, and the importance of acquiring certificates from trusted CAs can greatly enhance your organization's online security posture and reputation.
+Sanly şahadatnamalar onlaýn aragatnaşyk üçin möhüm howpsuzlyk we ynam gatlagyny üpjün edýär. Kiberhowpsuzlykdaky roluna, dürli şahadatnamalara we ynamdar CA-lardan şahadatnama almagyň ähmiýetine düşünmek, guramaňyzyň onlaýn howpsuzlyk ýagdaýyny we abraýyny ep-esli ýokarlandyryp biler.

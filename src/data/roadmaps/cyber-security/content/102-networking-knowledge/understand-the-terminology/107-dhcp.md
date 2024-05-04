@@ -1,23 +1,23 @@
 # DHCP
 
-**Dynamic Host Configuration Protocol (DHCP)** is a network protocol that enables automatic assignment of IP addresses to devices on a network. It is an essential component of IP networking and aims to simplify the process of configuring devices to communicate over an IP-based network.
+** Dinamiki Host Konfigurasiýa Protokoly (DHCP) **, IP adreslerini tordaky enjamlara awtomatiki bellemäge mümkinçilik berýän tor protokolydyr. IP torunyň möhüm bölegi bolup, IP esasly tor arkaly aragatnaşyk gurmak üçin enjamlary sazlamak işini ýönekeýleşdirmegi maksat edinýär.
 
-## Key Features of DHCP
+## DHCP-iň esasy aýratynlyklary
 
-- **Automatic IP Address Assignment**: DHCP eliminates the need for manual IP address assignment by automatically providing devices with the necessary IP addresses, reducing the risk of duplicate addressing.
-- **Network Configuration**: In addition to IP addresses, DHCP can also provide other essential network information such as subnet mask, default gateway, and DNS server information.
-- **IP Address Reuse**: When a device leaves the network or no longer needs an IP address, DHCP allows the address to be reused and assigned to a different device.
-- **Lease Duration**: DHCP assigns IP addresses for a specific period called a "lease." After a lease expires, the device must request a new IP address or get its current address renewed.
+- ** Awtomatiki IP adresi bellemek **: DHCP, zerur IP adresleri awtomatiki usulda enjamlar bilen üpjün edip, iki gezek salgylanmak howpuny azaldyp, el bilen IP adresi bellemek zerurlygyny aradan aýyrýar.
+- ** Tor konfigurasiýasy **: IP salgylaryndan başga-da, DHCP subnet maska, deslapky şlýuz we DNS serwer maglumatlary ýaly beýleki möhüm ulgam maglumatlary hem berip biler.
+- ** IP adresi gaýtadan ulanmak **: Enjam tordan çykanda ýa-da IP adresi zerur bolmasa, DHCP adresi gaýtadan ulanmaga we başga enjama bellemäge mümkinçilik berýär.
+- ** Kärende dowamlylygy **: DHCP belli bir döwür üçin "kärende" diýilýän IP adresleri belleýär. Kärende möhleti gutarandan soň, enjam täze IP adresi talap etmeli ýa-da häzirki salgysyny täzelemeli.
 
-## How DHCP Works
+## DHCP nähili işleýär
 
-The DHCP process consists of four main steps:
+DHCP prosesi dört esasy ädimden ybarat:
 
-- **DHCP Discover**: A device (client) looking to join a network sends a broadcast message known as a "DHCP Discover" message to locate a DHCP server.
-- **DHCP Offer**: Upon receiving the "DHCP Discover" broadcast, the DHCP server responds with a unicast "DHCP Offer" message containing the necessary network configuration information (e.g., IP address) for the client.
-- **DHCP Request**: The client receives the offer and sends back a "DHCP Request" message to confirm the IP address assignment and other network information.
-- **DHCP Acknowledgment (ACK)**: Finally, the DHCP server sends an "ACK" message confirming the successful assignment of IP address and network settings. The client can now use the allocated IP address to communicate over the network.
+- ** DHCP Discover **: Tora goşulmak isleýän enjam (müşderi) DHCP serwerini tapmak üçin "DHCP Discover" habary hökmünde belli ýaýlym habaryny iberýär.
+- ** DHCP Teklip **: "DHCP Discover" ýaýlymyny alandan soň, DHCP serweri müşderi üçin zerur ulgam konfigurasiýa maglumatlary (meselem, IP adresi) öz içine alýan ýeke-täk "DHCP Teklip" habary bilen jogap berýär.
+- ** DHCP haýyşy **: Müşderi teklibi alýar we IP adresi belligini we beýleki ulgam maglumatlaryny tassyklamak üçin "DHCP haýyşy" habaryny iberýär.
+- ** DHCP Minnetdarlyk (ACK) **: Netijede, DHCP serweri IP adresi we tor sazlamalarynyň üstünlikli bellenilendigini tassyklaýan "ACK" habaryny iberýär. Müşderi indi tor arkaly habarlaşmak üçin bölünen IP adresi ulanyp biler.
 
-## Importance in Cyber Security
+## Kiberhowpsuzlygyň ähmiýeti
 
-Understanding DHCP is crucial for network professionals and cyber security experts as it can be a potential attack vector. Adversaries can exploit DHCP by setting up rogue DHCP servers on the network, conducting man-in-the-middle attacks or even conducting denial-of-service attacks. Consequently, securing DHCP servers, monitoring network traffic for anomalies, and employing strong authentication and authorization methods are essential practices for maintaining network security.
+DHCP-e düşünmek tor hünärmenleri we kiberhowpsuzlyk hünärmenleri üçin möhümdir, sebäbi hüjümiň wektory bolup biler. Duşmanlar tordaky gödek DHCP serwerlerini gurmak, ortada adam hüjümleri etmek ýa-da hyzmatdan ýüz öwürmek arkaly DHCP-den peýdalanyp bilerler. Netijede, DHCP serwerlerini goramak, anomaliýalar üçin tor trafigine gözegçilik etmek we güýçli tanamak we ygtyýarnama usullaryny ulanmak tor howpsuzlygyny saklamak üçin möhüm tejribe.

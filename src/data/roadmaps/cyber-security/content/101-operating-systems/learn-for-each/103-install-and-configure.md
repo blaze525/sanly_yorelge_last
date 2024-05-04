@@ -1,35 +1,35 @@
-# Installation and Configuration
+# Gurnamak we konfigurasiýa
 
-To effectively protect your systems and data, it is vital to understand how to securely install software and configure settings, as well as assess the implications and potential vulnerabilities during installation and configuration processes.
+Ulgamlaryňyzy we maglumatlaryňyzy netijeli goramak üçin programma üpjünçiligini nädip ygtybarly gurmalydygyna we sazlamalary nädip düzmelidigine düşünmek, şeýle hem gurnama we konfigurasiýa proseslerinde ýüze çykýan netijelere we bolup biljek gowşaklyklara baha bermek möhümdir.
 
-## Importance of Proper Installation and Configuration
+## Dogry gurnamagyň we konfigurasiýanyň ähmiýeti
 
-Improper installation or configuration of software can lead to an array of security risks, including unauthorized access, data breaches, and other harmful attacks. To ensure that your system is safeguarded against these potential threats, it is essential to follow best practices for software installation and configuration:
+Programma üpjünçiliginiň nädogry gurulmagy ýa-da konfigurasiýasy, birgiden rugsatsyz giriş, maglumatlaryň bozulmagy we beýleki zyýanly hüjümler ýaly köp sanly howpsuzlyk töwekgelçiligine sebäp bolup biler. Ulgamyňyzyň bu potensial howplardan goralmagyny üpjün etmek üçin programma üpjünçiligini gurmak we konfigurasiýa etmek üçin iň oňat tejribeleri ýerine ýetirmek zerurdyr:
 
-- **Research the Software**: Before installing any software or application, research its security features and reputation. Check for any known vulnerabilities, recent patches, and the software's overall trustworthiness.
+- ** Programma üpjünçiligini gözläň **: Islendik programma üpjünçiligini ýa-da programma gurmazdan ozal, onuň howpsuzlyk aýratynlyklaryny we abraýyny gözläň. Belli bir gowşak goralanlyklary, soňky ýamalary we programma üpjünçiliginiň umumy ygtybarlylygyny barlaň.
 
-- **Use Official Sources**: Always download software from trusted sources, such as the software vendor's official website. Avoid using third-party download links, as they may contain malicious code or altered software.
+- ** Resmi çeşmelerden peýdalanyň **: Programma üpjünçiligini satyjynyň resmi web sahypasy ýaly ygtybarly çeşmelerden elmydama göçürip alyň. Üçünji tarap göçürip almak baglanyşyklaryny ulanmakdan gaça duruň, sebäbi zyýanly kod ýa-da üýtgedilen programma üpjünçiligi bolup biler.
 
-- **Verify File Integrity**: Verify the integrity of the downloaded software by checking its cryptographic hash, often provided by the software vendor. This ensures that the software has not been tampered with or corrupted during the download process.
+- ** Faýl bütewiligini barlaň **: Göçürilen programma üpjünçiliginiň bütewiligini barlaň, köplenç programma üpjünçiligi satyjysy tarapyndan üpjün edilýän kriptografiki hashini barlaň. Göçürip almak prosesinde programma üpjünçiliginiň bozulmandygyny ýa-da bozulmandygyny kepillendirýär.
 
-- **Install Updates**: During the installation process, ensure that all available updates and patches are installed, as they may contain vital security fixes.
+- ** Täzelenmeleri guruň **: Gurmak prosesinde ähli bar bolan täzelenmeleriň we ýamalaryň gurnalandygyna göz ýetiriň, sebäbi olarda möhüm howpsuzlyk düzedişleri bolup biler.
 
-- **Secure Configurations**: Following the installation, properly configure the software by following the vendor's documentation or industry best practices. This can include adjusting settings related to authentication, encryption, and access control, among other important security parameters.
+- ** Howpsuz konfigurasiýalar **: Gurmakdan soň, satyjynyň resminamalaryna ýa-da pudagyň iň oňat tejribelerine eýerip, programma üpjünçiligini dogry düzüň. Bu, beýleki möhüm howpsuzlyk parametrleriniň arasynda tanamak, şifrlemek we giriş gözegçiligi bilen baglanyşykly sazlamalary öz içine alyp biler.
 
-## Configuration Considerations
+## Sazlamalaryň ähmiýeti
 
-While software configurations will vary depending on the specific application or system being utilized, there are several key aspects to keep in mind:
+Programma üpjünçiliginiň konfigurasiýasy ulanylýan aýratyn programma ýa-da ulgama baglylykda üýtgäp bilse-de, ýatda saklamaly birnäçe möhüm tarap bar:
 
-- **Least Privilege**: Configure user accounts and permissions with the principle of least privilege. Limit user access to the minimal level necessary to accomplish their tasks, reducing the potential attack surface.
+- ** Iň pes ýeňillik **: Ulanyjy hasaplaryny we rugsatlaryny iň az artykmaçlyk prinsipi bilen sazlaň. Ulanyjylaryň öz wezipelerini ýerine ýetirmek üçin zerur bolan minimal derejä girmegini çäklendirip, hüjümiň bolup biljek ýerini azaldyň.
 
-- **Password Policies**: Implement strong password policies, including complexity requirements, minimum password length, and password expiration periods.
+- ** Parol goýmak düzgznleri **: Çylşyrymly talaplar, parolyň iň az uzynlygy we parolyň möhleti ýaly güýçli parol syýasatlaryny durmuşa geçiriň.
 
-- **Encryption**: Enable data encryption to protect sensitive information from unauthorized access. This can include both storage encryption and encryption of data in transit.
+- ** Şifrlemek **: Duýgur maglumatlary rugsatsyz girişden goramak üçin maglumat şifrlemesini işjeňleşdiriň. Munuň özi ammar şifrlemesini we tranzitdäki maglumatlary şifrlemegi öz içine alyp biler.
 
-- **Firewalls and Network Security**: Configure firewalls and other network security measures to limit the attack surface and restrict unauthorized access to your systems.
+- ** Gorag diwarlary we tor howpsuzlygy **: Hüjümiň üstüni çäklendirmek we ulgamlaryňyza rugsatsyz girmegi çäklendirmek üçin gorag diwarlaryny we beýleki ulgam howpsuzlyk çärelerini düzüň.
 
-- **Logging and Auditing**: Configure logging and auditing to capture relevant security events and allow for analysis in the event of a breach or security incident.
+**
 
-- **Disable Unnecessary Services**: Disable any unused or unnecessary services on your systems. Unnecessary services can contribute to an increased attack surface and potential vulnerabilities.
+- ** Gereksiz hyzmatlary öçüriň **: Ulgamlaryňyzdaky ulanylmadyk ýa-da gereksiz hyzmatlary öçüriň. Gereksiz hyzmatlar hüjümiň ýokarlanmagyna we bolup biljek gowşak goralanlyklara goşant goşup biler.
 
-By following these guidelines, you can establish a robust foundation for system security through proper installation and configuration. Remember that maintaining strong cybersecurity is an ongoing process that requires continuous learning and adaptation to stay ahead of evolving threats.
+Bu görkezmelere eýerip, dogry gurnama we konfigurasiýa arkaly ulgam howpsuzlygy üçin ygtybarly binýady döredip bilersiňiz. Güýçli kiberhowpsuzlygy saklamak, ösýän howplardan öňe geçmek üçin üznüksiz öwrenmegi we uýgunlaşmagy talap edýän dowamly bir prosesdigini ýadyňyzdan çykarmaň.

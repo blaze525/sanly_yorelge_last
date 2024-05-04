@@ -1,37 +1,37 @@
 # Kerberos
 
-Kerberos is a network authentication protocol designed to provide strong authentication for client/server applications. It was developed by MIT in the 1980s and is named after the three-headed dog from Greek mythology that guarded the gates of Hades, symbolizing the protocol's aim to provide secure authentication in a potentially hostile network environment.
+Kerberos, müşderi / serwer programmalary üçin güýçli tassyklamany üpjün etmek üçin döredilen tor tanamak protokolydyr. 1980-nji ýyllarda MIT tarapyndan işlenip düzüldi we Hadesiň derwezelerini goraýan grek mifologiýasyndan üç kelleli itiň adyny göterdi, bu protokolyň ähtimal duşmançylykly gurşawda ygtybarly tassyklanmagy üpjün etmek maksadyny alamatlandyrýar.
 
-## How Kerberos works
+## Kerberos nähili işleýär
 
-Kerberos relies on a trusted third party called the Key Distribution Center (KDC). The KDC maintains a database of secret keys for each user and service on the network. The protocol uses symmetric key cryptography, meaning that both the client and the server know the same shared encryption key.
+Kerberos, esasy paýlaýyş merkezi (KDC) atly ynamdar üçünji tarapa bil baglaýar. KDC tordaky her bir ulanyjy we hyzmat üçin gizlin açarlaryň maglumat bazasyny saklaýar. Protokol simmetrik açar kriptografiýasyny ulanýar, bu müşderiniň we serweriň birmeňzeş şifrlemek açaryny bilýändigini aňladýar.
 
-The main goal of Kerberos is to prove the identity of both the client and the server to each other so that they can securely exchange information. To achieve this, the protocol uses tickets - encrypted messages containing information about the client's identity, the server's identity, and a shared session key.
+Kerberosyň esasy maksady, ygtybarly maglumat alyşmak üçin müşderiniň we serweriň şahsyýetini biri-birine subut etmekdir. Muňa ýetmek üçin teswirnama biletleri ulanýar - müşderiniň şahsyýeti, serweriň şahsyýeti we umumy sessiýa açary barada maglumatlary öz içine alýan şifrlenen habarlary ulanýar.
 
-Here is a high-level summary of the Kerberos authentication process:
+Ine, Kerberos tanamaklyk işiniň ýokary derejeli gysgaça mazmuny:
 
-- The client requests a ticket from the KDC by providing its username.
-- The KDC generates a ticket, encrypts it using the client's secret key, and sends it back to the client.
-- The client decrypts the ticket and obtains a session key that it will use to securely communicate with the server.
-- To access a specific service, the client requests a service ticket from the KDC. The request includes its ticket and the target server's identifier.
-- The KDC generates a service ticket, encrypts it using the server's secret key, and sends it back to the client.
-- The client sends the service ticket to the server along with a message, encrypted using the session key, to establish its identity.
-- The server decrypts the service ticket, extracts the session key, and uses it to decrypt the client's message.
-- After verifying the client's identity, the server allows access to the requested service and sends an encrypted message to confirm authentication.
+- Müşderi ulanyjy adyny görkezip, KDC-den bilet soraýar.
+- KDC bilet döredýär, müşderiniň gizlin açary bilen şifrleýär we müşderä yzyna iberýär.
+- Müşderi bileti açýar we serwer bilen ygtybarly aragatnaşyk saklamak üçin ulanjak sessiýa açaryny alýar.
+- Belli bir hyzmata girmek üçin müşderi KDC-den hyzmat biletini soraýar. Isleg biletini we maksatly serweriň kesgitleýjisini öz içine alýar.
+- KDC hyzmat biletini döredýär, serweriň gizlin açary bilen şifrleýär we müşderä yzyna iberýär.
+- Müşderi, şahsyýetini kesgitlemek üçin sessiýa açary bilen şifrlenen habar bilen birlikde serwere hyzmat biletini iberýär.
+- Serwer hyzmat biletini açýar, sessiýa açaryny çykarýar we müşderiniň habaryny şifrlemek üçin ulanýar.
+- Müşderiniň şahsyýetini barlandan soň, serwer talap edilýän hyzmata girmäge mümkinçilik berýär we hakykylygyny tassyklamak üçin kodlanan habar iberýär.
 
-## Benefits of Kerberos
+## Kerberosyň peýdalary
 
-- **Secure**: Kerberos provides strong authentication using encrypted tickets, making it difficult for attackers to intercept and forge.
-- **Centralized**: The KDC centralizes authentication management, making it easier to control and maintain user access.
-- **Scalable**: The protocol is designed to support large networks, making it a popular choice for enterprise environments.
-- **Interoperable**: Kerberos is an open standard supported by many different platforms and vendors.
+- ** Howpsuz **: Kerberos kodlanan biletleri ulanyp, güýçli tassyklamany üpjün edýär, hüjümçileriň saklanmagyny we galplaşdyrylmagyny kynlaşdyrýar.
+- ** Merkezleşdirilen **: KDC ulanyjynyň elýeterliligini dolandyrmagy we goldamagy aňsatlaşdyrýan tanamaklyk dolandyryşyny merkezleşdirýär.
+- ** Giňeldilip bilinýän **: Protokol uly ulgamlary goldamak üçin döredilip, kärhana gurşawy üçin meşhur saýlama bolýar.
+- ** Bilelikdäki **: Kerberos, dürli platformalar we satyjylar tarapyndan goldanýan açyk standart.
 
-## Limitations
+## Çäklendirmeler
 
-- **KDC reliance**: The KDC is a single point of failure. If it's compromised or goes offline, authentication on the network will be disrupted.
-- **Time-sensitive**: Kerberos is sensitive to time differences between servers and clients. Synchronized clocks are necessary to maintain accurate ticket lifetimes and prevent replay attacks.
-- **Complexity**: The protocol can be complex to set up and requires proper management of secret keys.
+- ** KDC bil baglamak **: KDC şowsuzlygyň ýekeje nokady. Eger ol bozulsa ýa-da awtonom görnüşde bolsa, tordaky tanamaklyk kesiler.
+- ** Wagt duýgur **: Kerberos serwerler bilen müşderileriň arasyndaky wagt tapawudyna duýgur. Sinhronlaşdyrylan sagatlar biletleriň dowamlylygyny takyk saklamak we hüjümleriň gaýtalanmagynyň öňüni almak üçin zerurdyr.
+- ** Çylşyrymlylyk **: Protokol gurmak çylşyrymly bolup biler we gizlin açarlary dogry dolandyrmagy talap edýär.
 
-In summary, Kerberos is a robust and widely used authentication protocol that helps secure client/server communications. Its centralized management and strong security measures make it an excellent choice for organizations with demanding authentication requirements. However, it also has its limitations and complexities that must be carefully managed to maintain a secure and efficient authentication process.
+Gysgaça aýtsak, Kerberos ygtybarly / giňden ulanylýan tanamak protokoly bolup, müşderi / serwer aragatnaşygyny ygtybarly üpjün edýär. Merkezleşdirilen dolandyryş we berk howpsuzlyk çäreleri, tassyklamak talaplaryny talap edýän guramalar üçin ajaýyp saýlawy edýär. Şeýle-de bolsa, ygtybarly we ygtybarly tanamak işini saklamak üçin seresaplylyk bilen dolandyrylmaly çäklendirmeleri we çylşyrymlylyklary bar.
 
-- [Kerberos authentication process](https://youtu.be/_44CHD3Vx-0)
+- [Kerberos tanamak prosesi] (https://youtu.be/_44CHD3Vx-0)

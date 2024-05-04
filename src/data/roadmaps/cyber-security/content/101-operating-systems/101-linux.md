@@ -1,36 +1,36 @@
 # Linux
 
-Linux is an open-source operating system (OS) that is widely popular due to its flexibility, stability, and security features. As a Unix-based OS, Linux has a command-line interface, which allows users to perform various tasks through text commands. However, graphical user interfaces (GUIs) can also be installed for ease of use.
+Linux çeýeligi, durnuklylygy we howpsuzlyk aýratynlyklary sebäpli giňden tanalýan açyk çeşmeli operasiýa ulgamydyr. Unix esasly OS hökmünde Linux-da ulanyjylara tekst buýruklary arkaly dürli meseleleri ýerine ýetirmäge mümkinçilik berýän buýruk setiri interfeýsi bar. Şeýle-de bolsa, ulanylyş aňsatlygy üçin grafiki ulanyjy interfeýsleri (GUI) gurnalyp bilner.
 
-## Key Features
+## Esasy aýratynlyklar
 
-- **Open-source**: Anyone can view, modify, and distribute the Linux source code, promoting collaboration and continuous improvement within the OS community.
-- **Modular design**: Linux can be customized for various computing environments, such as desktops, servers, and embedded systems.
-- **Stability and performance**: Linux is well-known for its ability to handle heavy loads without crashing, making it an ideal choice for servers.
-- **Strong Security**: Linux has robust security mechanisms, such as file permissions, a built-in firewall, and an extensive user privilege system.
-- **Large Community**: Linux has a vast, active user community that offers a wealth of knowledge, user-contributed software, and support forums.
+- ** Açyk çeşme **: Her kim Linux jemgyýetiniň koduny görüp, üýtgedip we paýlap biler, OS jemgyýetinde hyzmatdaşlygy we üznüksiz gowulaşmagy ösdürer.
+- ** Modul dizaýny **: Linux iş stoly, serwer we oturdylan ulgamlar ýaly dürli hasaplaýyş gurşawy üçin düzülip bilner.
+- ** Durnuklylyk we öndürijilik **: Linux agyr ýükleri ýykylman dolandyrmak ukyby bilen meşhurdyr we ony serwerler üçin iň oňat saýlaýar.
+- ** Güýçli howpsuzlyk **: Linux-da faýl rugsatlary, gurlan gorag diwary we giň ulanyjy hukuk ulgamy ýaly ygtybarly howpsuzlyk mehanizmleri bar.
+- ** Uly jemgyýet **: Linux-da köp bilim, ulanyjy goşant goşan programma üpjünçiligi we goldaw forumlaryny hödürleýän giň, işjeň ulanyjy jemgyýeti bar.
 
-## Popular Linux Distributions
+## Meşhur Linux paýlamalary
 
-There are numerous Linux distributions available, catering to specific user needs and preferences. Some popular distributions include:
+Ulanyjynyň aýratyn isleglerine we isleglerine laýyk gelýän köp sanly Linux paýlanyşy bar. Käbir meşhur paýlamalar:
 
-- **Ubuntu**: A user-friendly distribution suitable for beginners, often used for desktop environments.
-- **Fedora**: A cutting-edge distribution with frequent updates and innovative features, ideal for developers and advanced users.
-- **Debian**: A very stable distribution that prioritizes free software and benefits from a large, active community.
-- **Arch Linux**: A highly customizable distribution that allows users to build their system from the ground up, suited for experienced users.
-- **CentOS**: A distribution focused on stability, security, and manageability, making it a popular choice for server environments.
+- ** Ubuntu **: Täze işleýänler üçin amatly, köplenç iş stoly gurşawynda ulanylýar.
+- ** Fedora **: frequygy-ýygydan täzelenmeler we innowasiýa aýratynlyklary bilen döredijiler we ösen ulanyjylar üçin iň oňat paýlanyş.
+- ** Debian **: Mugt programma üpjünçiligini ileri tutýan we uly, işjeň jemgyýetden peýdalanýan gaty durnukly paýlama.
+- ** Arch Linux **: Ulanyjylara tejribeli ulanyjylar üçin amatly ulgamyny ýerden gurmaga mümkinçilik berýän ýokary derejede düzülip bilinýän paýlama.
+- ** CentOS **: Durnuklylyk, howpsuzlyga we dolandyryşa gönükdirilen paýlama, ony serwer gurşawy üçin meşhur saýlama edýär.
 
-## Security Best Practices for Linux
+## Linux üçin howpsuzlyk iň oňat tejribe
 
-While Linux is inherently secure, there are best practices to enhance your system's security further:
+Linux özbaşdak howpsuz bolsa-da, ulgamyňyzyň howpsuzlygyny hasam ýokarlandyrmak üçin iň oňat tejribe bar:
 
-- Keep your system updated: Regularly update your kernel, OS packages, and installed software to ensure you have the latest security patches.
-- Enable a firewall: Configure and enable a firewall, such as `iptables`, to control incoming and outgoing network traffic.
-- Use strong passwords and user accounts: Create separate accounts with strong passwords for different users and grant them only the required privileges.
-- Disable unused services: Unnecessary services can be potential security risks; ensure only required services are running on your system.
-- Implement a Security-Enhanced Linux (SELinux) policy: SELinux provides a mandatory access control (MAC) system that restricts user and process access to system resources.
+- Ulgamyňyzy täzeläň: Iň soňky howpsuzlyk ýamalaryňyzyň bardygyny üpjün etmek üçin ýadrosyňyzy, OS paketleriňizi we gurnalan programma üpjünçiligiňizi yzygiderli täzeläň.
+- Gorag diwaryny işlediň: Gelýän we çykýan tor trafigini dolandyrmak üçin "iptables" ýaly gorag diwaryny sazlaň we işlediň.
+- Güýçli parollary we ulanyjy hasaplaryny ulanyň: Dürli ulanyjylar üçin güýçli parollar bilen aýratyn hasaplar dörediň we olara diňe zerur artykmaçlyklary beriň.
+- Ulanylmaýan hyzmatlary öçürmek: Gereksiz hyzmatlar howp bolup biler; ulgamyňyzda diňe zerur hyzmatlaryň işleýändigine göz ýetiriň.
+- Howpsuzlyk bilen ösen Linux (SELinux) syýasatyny durmuşa geçiriň: SELinux ulanyjylara we ulgam çeşmelerine girişi çäklendirýän hökmany giriş gözegçiligi (MAC) ulgamyny üpjün edýär.
 
-By understanding Linux's features and best practices, you can leverage its powerful capabilities and robust security features to enhance your computing environment's performance and safety.
+Linux-yň aýratynlyklaryna we öňdebaryjy tejribesine düşünmek bilen, hasaplaýyş gurşawyňyzyň işleýşini we howpsuzlygyny ýokarlandyrmak üçin güýçli mümkinçiliklerinden we ygtybarly howpsuzlyk aýratynlyklaryndan peýdalanyp bilersiňiz.
 
-- [Learn Linux](https://linuxjourney.com/)
-- [Introduction to Linux](https://youtu.be/sWbUDq4S6Y8)
+- [Linux öwreniň] (https://linuxjourney.com/)
+- [Linux bilen tanyşlyk] (https://youtu.be/sWbUDq4S6Y8)

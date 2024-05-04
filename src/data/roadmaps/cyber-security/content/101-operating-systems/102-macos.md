@@ -1,29 +1,29 @@
 # MacOS
 
-**macOS** is a series of proprietary graphical operating systems developed and marketed by Apple Inc. It is the primary operating system for Apple's Mac computers. macOS is widely recognized for its sleek design, robust performance, and innovative features, making it one of the most popular operating systems globally.
+** macOS ** “Apple Inc.” tarapyndan işlenip düzülen we satylan eýeçilikdäki grafiki operasiýa ulgamlarynyň tapgyry, bu “Apple” -iň “Mac” kompýuterleri üçin esasy operasiýa ulgamy. “MacOS” ýumşak dizaýny, ygtybarly öndürijiligi we innowasiýa aýratynlyklary bilen giňden tanalýar we ony dünýäde iň meşhur operasiýa ulgamlarynyň birine öwürýär.
 
-## Key Features
+## Esasy aýratynlyklar
 
-- **User-friendly interface**: macOS is known for its simple and intuitive user interface, which makes it easy for users to navigate and use the system efficiently.
+- ** Ulanyjy üçin amatly interfeýs **: macOS ýönekeý we içgin ulanyjy interfeýsi bilen tanalýar, bu ulanyjylara ulgamy netijeli dolandyrmagy we ulanmagy aňsatlaşdyrýar.
 
-- **Security**: macOS has several built-in security features, such as XProtect, Gatekeeper, and FileVault, to provide a secure computing environment. Additionally, macOS is based on UNIX, which is known for its strong security and stability.
+- ** Howpsuzlyk **: ygtybarly hasaplaýyş gurşawyny üpjün etmek üçin macOS-da XProtect, Derwezeçi we FileVault ýaly birnäçe içerki howpsuzlyk aýratynlyklary bar. Mundan başga-da, macOS güýçli howpsuzlygy we durnuklylygy bilen tanalýan UNIX-a esaslanýar.
 
-- **Integration with Apple ecosystem**: macOS is seamlessly integrated with Apple's software and hardware ecosystem, including iOS, iCloud, and other Apple devices, providing a consistent and well-connected user experience.
+- ** “Apple” ekosistemasy bilen integrasiýa **: macOS “Apple” -iň programma üpjünçiligi we apparat ekosistemasy, şol sanda iOS, iCloud we beýleki Apple enjamlary bilen yzygiderli birleşdirilip, ulanyjy tejribesini üpjün edýär.
 
-- **App Store**: Apple's App Store offers a large and diverse selection of applications for macOS, ensuring easy and secure software downloads and installations.
+- ** Programma dükany **: “Apple” -iň “App Store” dükany, programma üpjünçiligini göçürip almak we gurnamak aňsat we ygtybarly üpjün edip, macOS üçin uly we dürli görnüşli programmalary hödürleýär.
 
-- **Time Machine**: macOS's Time Machine feature provides an easy and automatic way to back up your data, ensuring you never lose important files and can recover from system crashes.
+- ** Wagt maşyny **: macOS-yň Wagt maşynynyň aýratynlygy, möhüm faýllary ýitirmezligiňizi we ulgam heläkçiliginden gutulyp biljekdigiňizi üpjün edip, maglumatlaryňyzy ätiýaçlandyrmagyň aňsat we awtomatiki usulyny üpjün edýär.
 
-## Security Tips
+## Howpsuzlyk Maslahatlary
 
-- **Keep your macOS up-to-date**: Always ensure that your macOS is running the latest version and security updates, as Apple regularly releases patches to fix potential vulnerabilities.
+- ** MakOS-yňyzy täzeläň **: MacOS-yň iň soňky wersiýasyny we howpsuzlyk täzelenmelerini elmydama üpjün ediň, sebäbi Apple potensial gowşaklyklary düzetmek üçin yzygiderli programmalary çykarýar.
 
-- **Enable the Firewall**: Make sure to enable macOS's built-in firewall to protect your system from unauthorized access and potential intrusions.
+- ** Gorag diwaryny işlediň **: Ulgamyňyzy birugsat girmekden we bolup biljek çozuşlardan goramak üçin macOS-da gurlan gorag diwaryny açyň.
 
-- **Use strong, unique passwords**: Ensure that your macOS user account is protected with a strong, unique password and enable two-factor authentication for your Apple ID.
+- ** Güýçli, üýtgeşik parollary ulanyň **: MacOS ulanyjy hasabyňyzyň güýçli, üýtgeşik parol bilen goralýandygyna göz ýetiriň we Apple ID-iňiz üçin iki faktorly tassyklamany üpjün ediň.
 
-- **Be cautious with downloads**: Be careful when downloading and installing software from unknown sources. Use the macOS App Store whenever possible, and avoid downloading from third-party websites.
+- ** süklemeler bilen seresap boluň **: Näbelli çeşmelerden programma üpjünçiligini göçürip alanyňyzda seresap boluň. Mümkin boldugyça macOS App Store dükanyny ulanyň we üçünji tarap web sahypalaryndan göçürip almaň.
 
-- **Install antivirus software**: To add an extra layer of security, consider installing a reputable antivirus program on your Mac to protect against malware and other threats.
+- ** Antivirus programma üpjünçiligini guruň **: Goşmaça howpsuzlyk gatlagyny goşmak üçin zyýanly programma üpjünçiliginden we beýleki howplardan goramak üçin Mac-da abraýly antiwirus programmasyny gurmagy göz öňünde tutuň.
 
-By following these security tips and staying vigilant, users can ensure their Mac remains a secure and enjoyable computing environment.
+Bu howpsuzlyk maslahatlaryna eýermek we hüşgär bolmak bilen, ulanyjylar Mac-yň ygtybarly we hezil hasaplaýyş gurşawy bolmagyny üpjün edip bilerler.

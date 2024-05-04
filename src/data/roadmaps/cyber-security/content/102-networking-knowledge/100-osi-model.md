@@ -1,39 +1,39 @@
-# Understand the OSI model
+# OSI modeline düşünmek 
 
-The **Open Systems Interconnection (OSI) model** is a framework that standardizes the functions of a telecommunication or computing system into seven distinct layers. This model is widely used to understand how different networking protocols and technologies work together to enable data transmission and communication.
+** Açyk ulgamlaryň özara baglanyşygy (OSI) modeli ** telekommunikasiýa ýa-da hasaplaýyş ulgamynyň funksiýalaryny ýedi aýratyn gatlakda standartlaşdyrýan çarçuwadyr. Bu model, maglumat geçirişini we aragatnaşygyny üpjün etmek üçin dürli ulgam protokollarynyň we tehnologiýalarynyň bilelikde işleýändigine düşünmek üçin giňden ulanylýar.
 
-Given below are different layers of the OSI model, the primary functions they perform, and their relevance to network security.
+Aşakda OSI modeliniň dürli gatlaklary, ýerine ýetirýän esasy funksiýalary we tor howpsuzlygy bilen baglanyşyklylygy görkezilýär.
 
-## Physical Layer
+## Fiziki gatlak
 
-The **Physical layer** deals with the physical connection between devices, like cables or wireless signals. It is responsible for transmitting raw data (in the form of bits) between devices over a physical medium, such as copper wires or fiber optic cables.
+** Fiziki gatlak ** kabeller ýa-da simsiz signallar ýaly enjamlaryň arasyndaky fiziki baglanyşyk bilen iş salyşýar. Mis simler ýa-da süýümli optiki kabeller ýaly fiziki gurşawda enjamlaryň arasynda çig maglumatlary (bit görnüşinde) geçirmek üçin jogapkärdir.
 
-## Data Link Layer
+## Maglumat baglanyşygynyň gatlagy
 
-The **Data Link layer** is responsible for creating a reliable link between two devices on a network. It establishes communication between devices by dividing the data into frames (small data units) and assigning each frame with a unique address. This layer also offers error detection and correction mechanisms to ensure reliable data transfer.
+** Maglumat baglanyşygy gatlagy ** tordaky iki enjamyň arasynda ygtybarly baglanyşyk döretmek üçin jogapkärdir. Maglumatlary ramkalara (kiçi maglumat birliklerine) bölmek we her ramkany özboluşly salgy bilen bellemek arkaly enjamlaryň arasynda aragatnaşyk gurýar. Bu gatlak, ygtybarly maglumatlary geçirmegi üpjün etmek üçin ýalňyşlary ýüze çykarmak we düzediş mehanizmlerini hem hödürleýär.
 
-## Network Layer
+## Tor gatlagy
 
-The **Network layer** is responsible for routing data packets between different devices on a network, regardless of the physical connection medium. It determines the optimal path to transfer data between the source and destination devices and assigns logical addresses (IP addresses) to devices on the network.
+** Tor gatlagy **, fiziki baglanyşyk gurşawyna garamazdan, torda dürli enjamlaryň arasynda maglumat paketlerini ugrukdyrmak üçin jogapkärdir. Çeşme we niýetlenen enjamlaryň arasynda maglumatlary geçirmek üçin iň amatly ýoly kesgitleýär we tordaky enjamlara logiki salgylary (IP adresleri) belleýär.
 
-## Transport Layer
+## Ulag gatlagy
 
-The **Transport layer** is in charge of ensuring error-free and reliable data transmissions between devices. It achieves this by managing flow control, error checking, and data segmentation. This layer also establishes connections between devices and manages data transfer using protocols like Transmission Control Protocol (TCP) and User Datagram Protocol (UDP).
+** Ulag gatlagy ** enjamlaryň arasynda ýalňyşsyz we ygtybarly maglumat geçirişini üpjün etmek üçin jogapkärdir. Akymy gözegçilikde saklamak, ýalňyşlary barlamak we maglumatlary bölmek arkaly muny amala aşyrýar. Şeýle hem bu gatlak enjamlaryň arasynda baglanyşyk gurýar we Geçiriş Dolandyryş Protokoly (TCP) we Ulanyjy Maglumat Protokoly (UDP) ýaly protokollary ulanyp maglumatlary geçirmegi dolandyrýar.
 
-## Session Layer
+## Sessiýa gatlagy
 
-The **Session layer** manages sessions, which are continuous connections between devices. It establishes, maintains, and terminates connections between devices while ensuring proper synchronization and data exchange between the communication devices.
+** Sessiýa gatlagy ** enjamlaryň arasynda üznüksiz baglanyşyk bolan sessiýalary dolandyrýar. Aragatnaşyk enjamlarynyň arasynda dogry sinhronlaşmagy we maglumat alyş-çalşyny üpjün etmek bilen enjamlaryň arasyndaky baglanyşyklary döredýär, goldaýar we bes edýär.
 
-## Presentation Layer
+## Tanyşdyryş gatlagy
 
-The **Presentation layer** is responsible for translating or converting the data format between different devices, allowing them to understand each other's data. This layer also deals with data encryption and decryption, which is an essential aspect of network security.
+** Tanyşdyryş gatlagy ** maglumatlaryň formatlaryny dürli enjamlaryň arasynda terjime etmek ýa-da biri-biriniň maglumatlaryna düşünmäge mümkinçilik bermek üçin jogapkärdir. Bu gatlak, tor howpsuzlygynyň möhüm tarapy bolan maglumatlary şifrlemek we şifrlemek bilen hem meşgullanýar.
 
-## Application Layer
+## Programma gatlagy
 
-The **Application layer** is the interface between the user and the communication system. It is responsible for providing networking services for various applications, like email, web browsing, or file sharing.
+** Programma gatlagy ** ulanyjy bilen aragatnaşyk ulgamynyň arasyndaky interfeýsdir. E-poçta, web sahypalaryna seretmek ýa-da faýl paýlaşmak ýaly dürli programmalar üçin ulgam hyzmatlaryny bermek üçin jogapkärdir.
 
-Each of these layers interacts with the adjacent layers to pass data packets back and forth. Understanding the OCI model is crucial for addressing potential security threats and vulnerabilities that can occur at each layer. By implementing strong network security measures at each layer, you can minimize the risk of cyber attacks and keep your data safe.
+Bu gatlaklaryň her biri, maglumatlar paketlerini yza we yza geçirmek üçin ýanaşyk gatlaklar bilen täsirleşýär. OCI modeline düşünmek, her gatlakda bolup biläýjek howpsuzlyk howplaryny we gowşak goralanlyklary çözmek üçin möhümdir. Her gatlakda güýçli tor howpsuzlygy çärelerini durmuşa geçirip, kiber hüjümleriniň howpuny azaldyp, maglumatlaryňyzy howpsuz saklap bilersiňiz.
 
-In the next section, we will discuss network protocols and how they play an essential role in network communication and security.
+Indiki bölümde tor protokollaryny we olaryň aragatnaşykda we howpsuzlykda möhüm rol oýnaýandygyny ara alyp maslahatlaşarys.
 
-- [What is OSI Model?](https://www.youtube.com/watch?v=Ilk7UXzV_Qc&ab_channel=RealPars)
+- [OSI modeli näme?] (Https://www.youtube.com/watch?v=Ilk7UXzV_Qc&ab_channel=RealPars)

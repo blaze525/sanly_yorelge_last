@@ -1,1 +1,1 @@
-# Understand the terminology
+# Terminologiýa düşünmek zerur

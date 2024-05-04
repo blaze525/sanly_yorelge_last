@@ -1,34 +1,34 @@
 # WLAN
 
-A **Wireless Local Area Network (WLAN)** is a type of local area network that uses wireless communication to connect devices, such as computers and smartphones, within a specific area. Unlike a wired network, which requires physical cables to establish connections, WLANs facilitate connections through radio frequency (RF) signals, providing a more flexible networking option.
+A ** Simsiz Ýerli Tor Ulgamy (WLAN) **, belli bir çäkde kompýuterler we smartfonlar ýaly enjamlary birikdirmek üçin simsiz aragatnaşygy ulanýan ýerli ulgamyň bir görnüşidir. Baglanyşyk gurmak üçin fiziki kabelleri talap edýän simli ulgamdan tapawutlylykda, WLAN-lar has çeýe ulgam mümkinçiligini üpjün edip, radio ýygylygy (RF) signallary arkaly birikmegi aňsatlaşdyrýar.
 
-## Key Components of WLAN
+## WLAN-yň esasy komponentleri
 
-There are two main components in a WLAN:
+WLAN-da iki esasy komponent bar:
 
-- **Wireless Access Point (WAP)**: A WAP is a networking device that enables wireless devices to connect to the network. It acts as a bridge between the devices and the wired network, converting RF signals into data that can travel through a wired connection.
-- **Wireless Client**: Wireless clients are devices like laptops, smartphones, and tablets that are fitted with WLAN adapters. These adapters enable devices to send and receive wireless signals to connect with the WAP.
+- ** Simsiz giriş nokady (WAP) **: WAP simsiz enjamlara tora birikmäge mümkinçilik berýän ulgam enjamydyr. Enjamlar bilen simli ulgamyň arasynda köpri bolup, RF signallaryny simli baglanyşyk arkaly geçip bilýän maglumatlara öwürýär.
+- ** Simsiz müşderi **: Simsiz müşderiler WLAN adapterleri bilen enjamlaşdyrylan noutbuk, smartfon we planşet ýaly enjamlar. Bu adapterler enjamlara WAP bilen birikmek üçin simsiz signallary ibermäge we almaga mümkinçilik berýär.
 
-## Key WLAN Standards
+## WLAN açar standartlary
 
-There are several WLAN standards, defined by the Institute of Electrical and Electronics Engineers (IEEE) 802.11 series. Some of the most common standards include:
+Elektrik we elektronika inersenerleri instituty (IEEE) 802.11 seriýasy tarapyndan kesgitlenen birnäçe WLAN standarty bar. Iň ýaýran standartlaryň käbiri:
 
-- **802.11a**: Supports throughput up to 54 Mbps in the 5 GHz frequency band.
-- **802.11b**: Supports throughput up to 11 Mbps in the 2.4 GHz frequency band.
-- **802.11g**: Supports throughput up to 54 Mbps in the 2.4 GHz frequency band and is backward compatible with 802.11b.
-- **802.11n**: Supports throughput up to 600 Mbps and operates in both 2.4 GHz and 5 GHz frequency bands.
-- **802.11ac**: Supports throughput up to several Gigabits per second and operates in the 5 GHz frequency band. This is currently the most widely adopted standard.
+- ** 802.11a **: 5 GGs ýygylyk zolagynda 54 Mbit / s çenli geçirijiligi goldaýar.
+- ** 802.11b **: 2,4 GGs ýygylyk zolagynda 11 Mbit / s çenli geçişi goldaýar.
+- ** 802.11g **: 2,4 GGs ýygylyk zolagynda 54 Mbit / s çenli geçirijiligi goldaýar we 802.11b bilen yza gabat gelýär.
+- ** 802.11n **: 600 Mbit / s çenli geçirijiligi goldaýar we 2,4 GGs we 5 GGs ýygylyk zolaklarynda işleýär.
+- ** 802.11ac **: Sekuntda birnäçe Gigabite çenli geçişi goldaýar we 5 GGs ýygylyk zolagynda işleýär. Bu häzirki wagtda iň giňden kabul edilen standart.
 
-## WLAN Security
+## WLAN Howpsuzlygy
 
-As WLANs use wireless signals to transmit data, they can be susceptible to various security threats. Some essential security measures include:
+WLAN-lar maglumatlary geçirmek üçin simsiz signallary ulanýandyklary sebäpli, dürli howpsuzlyk howplaryna sezewar bolup bilerler. Käbir möhüm howpsuzlyk çäreleri şulary öz içine alýar:
 
-- **Wired Equivalent Privacy (WEP)**: An early security protocol that uses encryption to protect wireless communications. Due to several security flaws, it has been replaced by more secure protocols.
+- ** Simli ekwiwalent gizlinlik (WEP) **: Simsiz aragatnaşyklary goramak üçin şifrlemäni ulanýan irki howpsuzlyk protokoly. Birnäçe howpsuzlyk kemçiligi sebäpli onuň ýerine has ygtybarly teswirnamalar berildi.
 
-- **Wi-Fi Protected Access (WPA)**: WPA is an enhanced security protocol that addressed the vulnerabilities of WEP. It uses Temporal Key Integrity Protocol (TKIP) for encryption and provides better authentication and encryption methods.
+- ** Wi-Fi bilen goralýan giriş (WPA) **: WPA, WEP-iň gowşak taraplaryny çözýän güýçlendirilen howpsuzlyk protokoly. Şifrlemek üçin Temporal Key Integrity Protocol (TKIP) ulanýar we has gowy tanamak we şifrlemek usullaryny üpjün edýär.
 
-- **Wi-Fi Protected Access II (WPA2)**: WPA2 is an advanced security protocol that uses Advanced Encryption Standard (AES) encryption and replaces TKIP from WPA. This protocol provides a high level of security and is currently the recommended standard for securing WLANs.
+- ** Wi-Fi bilen goralýan giriş II (WPA2) **: WPA2 ösen şifrlemek standarty (AES) şifrlemesini ulanýan we WPA-dan TKIP-iň ýerini alýan ösen howpsuzlyk protokolydyr. Bu teswirnama ýokary derejeli howpsuzlyk üpjün edýär we häzirki wagtda WLAN-lary üpjün etmek üçin maslahat berilýän standartdyr.
 
-- **Wi-Fi Protected Access 3 (WPA3)**: WPA3 is the latest security standard with enhanced encryption and authentication features. It addresses the vulnerabilities in WPA2 and provides even stronger security for WLANs.
+- ** Wi-Fi bilen goralýan giriş 3 (WPA3) **: WPA3 güýçlendirilen şifrlemek we tanamaklyk aýratynlyklary bilen iň soňky howpsuzlyk standarty. WPA2-daky gowşaklyklary çözýär we WLAN-lar üçin has güýçli howpsuzlygy üpjün edýär.
 
-To maintain a secure WLAN, it's essential to use the appropriate security standard, change default settings, and regularly update firmware to address any security vulnerabilities.
+Ygtybarly WLAN-y saklamak üçin degişli howpsuzlyk standartyny ulanmak, deslapky sazlamalary üýtgetmek we howpsuzlyk gowşaklyklaryny çözmek üçin programma üpjünçiligini yzygiderli täzelemek möhümdir.

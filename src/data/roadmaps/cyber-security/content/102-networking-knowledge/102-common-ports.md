@@ -1,39 +1,39 @@
-# Common Ports and their Uses
+# Umumy portlar we olaryň ulanylyşy
 
-Ports are crucial in networking, as they facilitate communication between devices and applications. They act as endpoints in the networking process, enabling data transfer. We've compiled a list of commonly used ports to help you understand their significance in cyber security.
+Portlar torda möhüm ähmiýete eýe, sebäbi enjamlar we amaly programmalar arasynda aragatnaşyk saklaýar. Maglumat geçirişini üpjün edip, aragatnaşyk ulgamynda ahyrky nokatlar hökmünde çykyş edýärler. Kiberhowpsuzlykdaky ähmiýetine düşünmek üçin köplenç ulanylýan portlaryň sanawyny düzdük.
 
-## Transmission Control Protocol (TCP) Ports
+## Geçiriş dolandyryş protokoly (TCP) portlary
 
-- **FTP (File Transfer Protocol) - Ports 20 and 21**: FTP is a widely used protocol for transferring files.
+- ** FTP (Faýl geçirmek protokoly) - 20 we 21 portlar **: FTP faýllary geçirmek üçin giňden ulanylýan protokol.
 
-- **SSH (Secure Shell) - Port 22**: SSH allows secure communication and remote access to devices over an unsecured network.
+- ** SSH (Howpsuz gabyk) - 22-nji port **: SSH ygtybarly aragatnaşyk we ygtybarly ulgam arkaly enjamlara uzakdan girmäge mümkinçilik berýär.
 
-- **Telnet - Port 23**: Telnet is a text-based protocol that allows you to interact with remote devices over networks.
+- ** Telnet - 23-nji port **: Telnet uzakdaky enjamlar bilen torlar arkaly aragatnaşyk saklamaga mümkinçilik berýän tekste esaslanýan protokoldyr.
 
-- **SMTP (Simple Mail Transfer Protocol) - Port 25**: SMTP is a protocol for sending and receiving emails.
+- ** SMTP (Mailönekeý poçta geçirmek protokoly) - 25-nji port **: SMTP e-poçta ibermek we almak üçin teswirnama.
 
-- **DNS (Domain Name System) - Port 53**: DNS translates human-readable domain names into IP addresses to facilitate communication between devices.
+- ** DNS (Domen ady ulgamy) - Port 53 **: DNS enjamlaryň arasynda aragatnaşygy ýeňilleşdirmek üçin adam okalýan domen atlaryny IP adreslerine terjime edýär.
 
-- **HTTP (Hypertext Transfer Protocol) - Port 80**: HTTP is the primary protocol used for communication on the World Wide Web.
+- ** HTTP (Giperteksti geçirmek protokoly) - Port 80 **: HTTP Bütindünýä Kerebinde aragatnaşyk üçin ulanylýan esasy protokol.
 
-- **POP3 (Post Office Protocol 3) - Port 110**: POP3 is a protocol for receiving emails from your email server.
+- ** POP3 (Poçta bölümi teswirnamasy 3) - Port 110 **: POP3 e-poçta serweriňizden e-poçta almak üçin teswirnama.
 
-- **IMAP (Internet Message Access Protocol) - Port 143**: IMAP is a more advanced email protocol that allows you to access and manage your emails on the email server.
+- ** IMAP (Internet habaryna giriş protokoly) - Port 143 **: IMAP e-poçta serweriňizdäki e-poçtaňyza girmäge we dolandyrmaga mümkinçilik berýän has ösen e-poçta protokolydyr.
 
-- **HTTPS (Hypertext Transfer Protocol Secure) - Port 443**: HTTPS is an encrypted and secure version of HTTP.
+- ** HTTPS (Giperteksti geçirmek protokolynyň ygtybarlylygy) - Port 443 **: HTTPS şifrlenen we ygtybarly HTTP wersiýasy.
 
-- **RDP (Remote Desktop Protocol) - Port 3389**: RDP is a Microsoft-developed protocol for remotely accessing Windows devices.
+- ** RDP (Uzakdaky iş stoly protokoly) - Port 3389 **: RDP Windows enjamlaryna uzakdan girmek üçin Microsoft tarapyndan döredilen protokol.
 
-## User Datagram Protocol (UDP) Ports
+## Ulanyjy maglumat protokoly (UDP) portlary
 
-- **DHCP (Dynamic Host Configuration Protocol) - Ports 67 and 68**: DHCP is used to allocate IP addresses to devices within a network.
+- ** DHCP (Dynamic Host Configuration Protocol) - 67 we 68 portlar **: DHCP toruň içindäki enjamlara IP adresleri paýlamak üçin ulanylýar.
 
-- **DNS (Domain Name System) - Port 53**: (same function as in TCP)
+- ** DNS (Domain Name System) - Port 53 **: (TCP-de bolşy ýaly)
 
-- **TFTP (Trivial File Transfer Protocol) - Port 69**: TFTP is a simplified version of FTP for quick and easy file transfer.
+- ** TFTP (Ujypsyz faýl geçirmek protokoly) - Port 69 **: TFTP çalt we aňsat faýl geçirmek üçin FTP-iň ýönekeýleşdirilen görnüşi.
 
-- **SNMP (Simple Network Management Protocol) - Port 161**: SNMP enables monitoring and managing network devices, including printers, routers, and switches.
+- ** SNMP (Networkönekeý tor dolandyryş protokoly) - Port 161 **: SNMP printerleri, marşrutizatorlary we wyklýuçatelleri goşmak bilen tor enjamlaryna gözegçilik we dolandyrmaga mümkinçilik berýär.
 
-- **NTP (Network Time Protocol) - Port 123**: NTP is a standard protocol used to synchronize time across network devices.
+- ** NTP (Network Time Protocol) - Port 123 **: NTP, ulgam enjamlarynyň arasynda wagty sinhronlamak üçin ulanylýan adaty protokol.
 
-Understanding these common ports and their functions is essential for network administrators and cyber security professionals. Proper knowledge of these ports will help you identify and assess potential security risks, as well as implement robust network defense measures.
+Bu umumy portlara we olaryň wezipelerine düşünmek tor dolandyryjylary we kiberhowpsuzlyk hünärmenleri üçin zerurdyr. Bu portlary dogry bilmek, potensial howpsuzlyk töwekgelçiligini kesgitlemäge we baha bermäge, şeýle hem ygtybarly ulgam gorag çärelerini durmuşa geçirmäge kömek eder.

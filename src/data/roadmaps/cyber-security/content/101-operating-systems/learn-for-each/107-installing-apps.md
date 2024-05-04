@@ -1,29 +1,29 @@
-# Installing Software and Applications
+# Programma üpjünçiligini we programmalary gurnamak
 
-In the realm of cyber security, installing apps safely and securely is vital to protect your devices and personal information. In this guide, we'll cover some essential steps to follow when installing apps on your devices.
+Kiberhowpsuzlyk ulgamynda enjamlaryňyzy we şahsy maglumatlaryňyzy goramak üçin programmalary ygtybarly we ygtybarly gurmak möhümdir. Bu gollanmada, enjamlaryňyza programmalar gurlanda ýerine ýetirilmeli käbir möhüm ädimleri ara alyp maslahatlaşarys.
 
-## Choose trusted sources
+## Ynamly çeşmeleri saýlamak
 
-To ensure the safety of your device, always choose apps from trusted sources, such as official app stores (e.g., Google Play Store for Android or Apple's App Store for iOS devices). These app stores have strict guidelines and often review apps for malicious content before making them available for download.
+Enjamyňyzyň howpsuzlygyny üpjün etmek üçin elmydama resmi programma dükanlary ýaly ygtybarly çeşmelerden programmalary saýlaň (meselem, Android üçin Google Play Store ýa-da iOS enjamlary üçin Apple App Store). Bu programma dükanlarynda berk görkezmeler bar we göçürip almak üçin elýeterli bolmazdan ozal zyýanly mazmun üçin programmalary gözden geçirýärler.
 
-## Research the app and its developer
+## Programmany we ony döredijini gözlemek
 
-Before installing an app, it is essential to research the app and its developer thoroughly. Check for app reviews from other users and look for any red flags related to security or privacy concerns. Investigate the developer's web presence and reputation to ensure they can be trusted.
+Programma gurmazdan ozal, programmany we ony döredijini düýpli öwrenmek zerurdyr. Beýleki ulanyjylardan programma synlaryny barlaň we howpsuzlyk ýa-da gizlinlik bilen baglanyşykly gyzyl baýdaklary gözläň. Ynamly bolup biljekdigini anyklamak üçin döredijiniň web barlygyny we abraýyny derňäň.
 
-## Check app permissions
+## Programmanyň rugsatlaryny barlamak
 
-Before installing an app, always review the permissions requested. Be aware of any unusual permissions that do not correspond with the app's functionality. If an app is asking for access to your contacts, GPS, or microphone, and there isn't a reasonable explanation for why it needs this information, it could be a potential security risk.
+Programma gurmazdan ozal, talap edilýän rugsatlary hemişe gözden geçiriň. Programmanyň işleýşine laýyk gelmeýän üýtgeşik rugsatlardan habardar boluň. Bir programma kontaktlaryňyza, GPS ýa-da mikrofonyňyza girmegi soraýan bolsa we bu maglumatyň näme üçin zerurdygy barada dogry düşündiriş ýok bolsa, bu howp bolup biler.
 
-## Keep your device and apps updated
+## Enjamyňyzy we programmalaryňyzy täzeläň
 
-To maintain your device's security, always install updates as soon as they become available. This applies not only to the apps but also to the operating system of your device. Updates often include security patches that fix known vulnerabilities, so it is essential to keep everything up to date.
+Enjamyňyzyň howpsuzlygyny üpjün etmek üçin elmydama täzelenmeleri elýeterli bolansoň guruň. Bu diňe bir programmalara däl, enjamyňyzyň operasiýa ulgamyna hem degişlidir. Täzelenmeler köplenç belli gowşaklyklary düzedýän howpsuzlyk ýamalaryny öz içine alýar, şonuň üçin hemme zady täzeläp durmak möhümdir.
 
-## Install a security app
+## Goraglylyk programmasyny gurnamak
 
-Consider installing a security app from a reputable company to protect your device against malware, viruses, and other threats. These apps can monitor for suspicious activity, scan for malicious software, and help keep your device secure.
+Enjamyňyzy zyýanly programma üpjünçiliginden, wiruslardan we beýleki howplardan goramak üçin abraýly kompaniýadan howpsuzlyk programmasyny gurmagy göz öňünde tutuň. Bu programmalar şübheli işjeňlige gözegçilik edip biler, zyýanly programma üpjünçiligini gözläp biler we enjamyňyzy howpsuz saklamaga kömek edip biler.
 
-## Uninstall unused apps
+## Ulanylmaýan programmalary aýyrmak
 
-Regularly review the apps on your device and uninstall any that are no longer being used. This will not only free up storage space but also reduce potential security risks that might arise if these apps are not maintained or updated by their developers.
+Enjamyňyzdaky programmalary yzygiderli gözden geçiriň we indi ulanylmaýanlary aýyryň. Bu diňe bir ammar ýerini boşatman, eýsem bu programmalar döredijiler tarapyndan goldanylmasa ýa-da täzelenmese, ýüze çykyp biljek howpsuzlyk töwekgelçiligini hem azaldar.
 
-By following these guidelines, you can significantly increase your device's security and protect your valuable data from cyber threats.
+Bu görkezmelere eýerip, enjamyňyzyň howpsuzlygyny ep-esli ýokarlandyryp we gymmatly maglumatlaryňyzy kiber howplardan gorap bilersiňiz.

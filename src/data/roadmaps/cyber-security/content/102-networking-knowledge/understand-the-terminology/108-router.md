@@ -1,33 +1,33 @@
 # Router
 
-A **router** is a networking device responsible for forwarding data packets between computer networks. It acts as a traffic coordinator, choosing the best possible path for data transmission, thus ensuring smooth communication between networks. Routers are an integral part of the internet, helping to establish and maintain connections between different networks and devices.
+A ** marşrutizator **, kompýuter torlarynyň arasynda maglumat paketlerini ugratmak üçin jogapkär ulgam enjamy. Maglumat geçirmek üçin iň oňat ýoly saýlap, ýollaryň koordinatory hökmünde çykyş edýär, şeýlelik bilen torlaryň arasynda aragatnaşygyň rahatlygyny üpjün edýär. Marşrutizatorlar internetiň aýrylmaz bölegidir, dürli torlar we enjamlar arasynda baglanyşyk gurmaga we goldamaga kömek edýär.
 
-## Functionality of Routers
+## Marşrutizatorlaryň işleýşi
 
-- **Routing Decisions**: Routers analyze incoming data packets and make decisions on which path to forward the data based on destination IP addresses and network conditions.
+- ** Marşrut çözgütleri **: Marşrutizatorlar gelýän maglumatlar paketlerini seljerýärler we barjak IP adreslerine we tor şertlerine esaslanyp maglumatlary haýsy tarapa ugratmalydygyny karar berýärler.
 
-- **Connecting Networks**: Routers are essential in connecting different networks together. They enable communication between your home network and the broader internet, as well as between different networks within an organization.
+- ** Torlary birikdirmek **: Dürli torlary birleşdirmekde marşrutizatorlar möhümdir. Öý toruňyz bilen has giň internetiň arasynda, şeýle hem bir guramanyň dürli ulgamlarynyň arasynda aragatnaşyk saklamaga mümkinçilik berýär.
 
-- **Managing Traffic**: Routers manage the flow of data to ensure optimal performance and avoid network congestion. They can prioritize certain types of data, such as video streaming, to ensure a better user experience.
+- ** Trafigi dolandyrmak **: Marşrutizatorlar optimal öndürijiligi üpjün etmek we tor dyknyşyklaryndan gaça durmak üçin maglumatlar akymyny dolandyrýarlar. Ulanyjynyň has gowy tejribesini üpjün etmek üçin wideo akymlary ýaly maglumatlaryň käbir görnüşlerini ileri tutup bilerler.
 
-## Types of Routers
+## Marşrutizatorlaryň görnüşleri
 
-- **Wired Routers**: Utilize Ethernet cables to connect devices to the network. They typically come with multiple ethernet ports for devices such as computers, gaming consoles, and smart TVs.
+- ** Simli marşrutizatorlar **: Enjamlary tora birikdirmek üçin Ethernet kabellerini ulanyň. Adatça kompýuterler, oýun konsollary we akylly telewizor ýaly enjamlar üçin birnäçe ethernet portlary bar.
 
-- **Wireless Routers**: Provide network access without needing physical cables. Wireless routers use Wi-Fi to transmit data between devices and are the most common type of router found in homes and offices.
+- ** Simsiz marşrutizatorlar **: Fiziki kabellere mätäç bolmazdan tora girmegi üpjün ediň. Simsiz marşrutizatorlar enjamlaryň arasynda maglumatlary geçirmek üçin Wi-Fi ulanýarlar we öýlerde we ofislerde iň köp ýaýran marşrutizator görnüşidir.
 
-- **Core Routers**: Operate within the backbone of the internet, directing data packets between major networks (such as ISPs). These routers are high-performance devices capable of handling massive amounts of data traffic.
+- ** Esasy marşrutizatorlar **: Esasy torlaryň arasynda (ISP-ler ýaly) maglumat paketlerini ugrukdyryp, internetiň oňurgasynyň içinde işläň. Bu marşrutizatorlar köp mukdarda maglumat trafigini dolandyrmaga ukyply ýokary öndürijilikli enjamlardyr.
 
-## Router Security
+## Marşrutizatoryň howpsuzlygy
 
-As routers are a critical gateway between your network and the internet, it's essential to keep them secure. Some common router security practices include:
+Routerler toruňyz bilen internetiň arasynda möhüm derweze bolany üçin, olary howpsuz saklamak zerurdyr. Käbir umumy marşrutizator howpsuzlyk amallary şulary öz içine alýar:
 
-- Changing default passwords and usernames: Manufacturers often set simple default passwords, which can be easily guessed or discovered by attackers. It's important to set a strong, unique password for your router.
+- Adaty parollary we ulanyjy atlaryny üýtgetmek: Öndürijiler köplenç hüjümçiler tarapyndan aňsatlyk bilen çak edilip ýa-da tapylyp bilinýän ýönekeý parollary goýýarlar. Routeriňiz üçin güýçli, üýtgeşik parol bellemek möhümdir.
 
-- Regular firmware updates: Router manufacturers release updates to address security vulnerabilities and improve performance. Keep your router's software up to date.
+- Programma üpjünçiliginiň yzygiderli täzelenmeleri: Router öndürijileri howpsuzlyk gowşaklyklaryny çözmek we öndürijiligi gowulandyrmak üçin täzelenmeleri çykarýarlar. Routeriňiziň programma üpjünçiligini täzeläň.
 
-- Disable remote management: Some routers have a feature that allows remote access, which can be exploited by hackers. If you don't need this feature, disable it.
+- Uzakdan dolandyrmagy öçüriň: Käbir marşrutizatorlarda uzakdan girmäge mümkinçilik berýän aýratynlyk bar, bu hakerler tarapyndan ulanylyp bilner. Bu aýratynlyk gerek däl bolsa, ony öçüriň.
 
-- Create a guest network: If your router supports it, create a separate network for guests to use. This isolates them from your primary network, ensuring that they cannot access your devices or data.
+- Myhman tor dörediň: Routeriňiz ony goldaýan bolsa, myhmanlaryň ulanmagy üçin aýratyn tor dörediň. Bu, enjamlaryňyza ýa-da maglumatlaryňyza girip bilmejekdigini üpjün edip, esasy ulgamyňyzdan üzňe saklaýar.
 
-By understanding routers and their role in cybersecurity, you can take the necessary steps to secure your network and protect your data.
+Marşrutizatorlara we kiberhowpsuzlykdaky roluna düşünmek bilen, toruňyzy goramak we maglumatlaryňyzy goramak üçin zerur çäreleri görüp bilersiňiz.

@@ -1,83 +1,83 @@
-# Common Commands
+# Umumy buýruklar
 
-In this guide, we will cover essential common commands you need to know when starting your journey in cyber security. By becoming proficient in these commands, you will be able to navigate, analyze, and manage different aspects of systems and networks. The list will cover command prompts, shell commands, and other tools.
+Bu gollanmada, kiberhowpsuzlyk bilen syýahatyňyzy başlanyňyzda bilmeli möhüm umumy buýruklary öz içine alarys. Bu buýruklara ökde bolmak bilen ulgamlaryň we torlaryň dürli taraplaryny gezip, derňäp we dolandyryp bilersiňiz. Sanawda buýruk görkezmeleri, gabyk buýruklary we beýleki gurallar bolar.
 
-_Please note this guide assumes you already have basic knowledge of command line interfaces (CLI)_
+_Bu gollanma buýruk setir interfeýsleri (CLI) barada eýýäm esasy bilimleriňiziň bardygyny göz öňünde tutuň.
 
-## Operating System Commands
+## Operasiýa ulgamynyň buýruklary
 
-These commands are useful for managing and understanding your operating system and its components.
-
-## Windows
-
-- `ipconfig`: Display the IP configuration for all network interfaces on the device.
-
-- `netstat`: Display active network connections, listening ports, and routing tables.
-
-- `systeminfo`: Display detailed information about the computer's hardware and software configuration.
-
-- `nslookup`: Look up the IP address of a domain or host.
-
-- `ping`: Send a series of network packets to test network connectivity.
-
-## Linux/Unix/MacOS
-
-- `ifconfig`: Display the IP configuration for all network interfaces on the device.
-
-- `netstat`: Display active network connections, listening ports, and routing tables.
-
-- `uname -a`: Display detailed information about the operating system.
-
-- `dig`: Look up the IP address of a domain or host.
-
-- `ping`: Send a series of network packets to test network connectivity.
-
-## File System Commands
-
-These commands are useful for navigating and managing file systems on your device.
+Bu buýruklar operasiýa ulgamyňyzy we onuň böleklerini dolandyrmak we düşünmek üçin peýdalydyr.
 
 ## Windows
 
-- `dir`: List files and directories in the current directory.
+- "ipconfig": Enjamdaky ähli ulgam interfeýsleri üçin IP konfigurasiýasyny görkeziň.
 
-- `cd`: Change the current directory.
+- "netstat": Işjeň tor birikmelerini, diňleýiş portlaryny we marşrut tablisalaryny görkeziň.
 
-- `copy`: Copy files from one location to another.
+- "systeminfo": Kompýuteriň enjamlary we programma üpjünçiligi konfigurasiýasy barada jikme-jik maglumatlary görkeziň.
 
-- `move`: Move files from one location to another.
+- "nslookup": Domeniň ýa-da öý eýesiniň IP adresini gözläň.
 
-- `del`: Delete specified files.
+- "ping": Tor birikmesini barlamak üçin bir topar tor paketini iberiň.
 
-## Linux/Unix/MacOS
+## Linux / Unix / MacOS
 
-- `ls`: List files and directories in the current directory.
+- "ifconfig": Enjamdaky ähli ulgam interfeýsleri üçin IP konfigurasiýasyny görkeziň.
 
-- `cd`: Change the current directory.
+- "netstat": Işjeň tor birikmelerini, diňleýiş portlaryny we marşrut tablisalaryny görkeziň.
 
-- `cp`: Copy files from one location to another.
+- "uname -a": Operasiýa ulgamy barada jikme-jik maglumat görkeziň.
 
-- `mv`: Move files from one location to another.
+- "dig": Domeniň ýa-da öý eýesiniň IP adresini gözläň.
 
-- `rm`: Delete specified files.
+- "ping": Tor birikmesini barlamak üçin bir topar tor paketini iberiň.
 
-## Network Analysis Commands
+## Faýl ulgamynyň buýruklary
 
-These commands are useful for analyzing and troubleshooting network connections.
+Bu buýruklar enjamyňyzdaky faýl ulgamlaryny dolandyrmak we dolandyrmak üçin peýdalydyr.
 
-- `traceroute` (Linux/Unix/MacOS) / `tracert` (Windows): Display the route and transit delay of packets across a network.
+## Windows
 
-- `tcpdump` (Linux/Unix/MacOS) / `Wireshark` (Windows): Capture and analyze network traffic.
+- "dir": Häzirki bukjadaky faýllary we kataloglary sanaň.
 
-## Cyber Security Tools
+- "cd": Häzirki katalogy üýtgediň.
 
-- `nmap`: Scan networks and hosts for open ports and network services.
+- "göçürmek": Faýllary bir ýerden başga ýere göçüriň.
 
-- `Metasploit`: A penetration testing framework that simplifies the discovery and exploitation of vulnerabilities.
+- "göçürmek": Faýllary bir ýerden başga ýere geçiriň.
 
-- `John the Ripper`: A password-cracking tool that automatically detects and cracks multiple password formats.
+- `del`: Görkezilen faýllary pozuň.
 
-- `Wireshark`: A network protocol analyzer that captures and analyzes network traffic.
+## Linux / Unix / MacOS
 
-- `Aircrack-ng`: A suite of tools for auditing wireless networks.
+- "ls": Häzirki bukjadaky faýllary we kataloglary sanaň.
 
-By familiarizing yourself with these common commands and tools, you'll have a solid foundation to build upon in your cyber security journey. As you progress, you will encounter more advanced tools and techniques, so keep learning and stay curious!
+- "cd": Häzirki katalogy üýtgediň.
+
+- `cp`: Faýllary bir ýerden başga ýere göçüriň.
+
+- "mv": Faýllary bir ýerden başga ýere geçiriň.
+
+- "rm": Görkezilen faýllary pozuň.
+
+## Tor derňewi buýruklary
+
+Bu buýruklar tor birikmelerini derňemek we näsazlyklary düzetmek üçin peýdalydyr.
+
+- "traceroute" (Linux / Unix / MacOS) / "tracert" (Windows): Torlaryň üsti bilen paketleriň marşrutyny we üstaşyr gijikdirilişini görkeziň.
+
+- "tcpdump" (Linux / Unix / MacOS) / "Wireshark" (Windows): Tor trafigini ele alyň we derňäň.
+
+## Kiber howpsuzlyk gurallary
+
+- "nmap": Açyk portlar we tor hyzmatlary üçin torlary we hostlary skanirläň.
+
+- "Metasploit": Gowşak taraplaryň tapylmagyny we ulanylmagyny aňsatlaşdyrýan synag synag çarçuwasy.
+
+- "John the Ripper": Birnäçe parol formatlaryny awtomatiki kesgitleýän we döwýän paroly döwýän gural.
+
+- "Wireshark": Tor trafigini ele alýan we derňeýän tor protokol analizatory.
+
+- "Aircrack-ng": Simsiz torlary barlamak üçin gurallar toplumy.
+
+Bu umumy buýruklar we gurallar bilen tanyşmak bilen, kiberhowpsuzlyk syýahatyňyzda berk binýadyňyz bolar. Öňe gideniňizde has ösen gurallara we usullara duşarsyňyz, şonuň üçin öwrenmegi dowam etdiriň we bilesigeliji boluň!

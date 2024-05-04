@@ -1,17 +1,17 @@
 # Bluetooth
 
-**Bluetooth** is a wireless technology used to transfer data between devices over short distances. It operates in the 2.4 GHz frequency band and offers a reasonably secure means of communication between devices like smartphones, computers, headphones, and more.
+** Bluetooth ** enjamlaryň arasynda gysga aralyklara maglumat geçirmek üçin ulanylýan simsiz tehnologiýa. 2.4 GGs ýygylyk zolagynda işleýär we smartfon, kompýuter, nauşnik we ş.m. ýaly enjamlaryň arasynda ygtybarly aragatnaşyk serişdesini hödürleýär.
 
-Below are some key points about Bluetooth:
+Aşakda Bluetooth barada käbir maglumatlar bar:
 
-- **Short-range communication**: Bluetooth typically works within a radius of 10 meters (33 feet), giving it a significant advantage in terms of power consumption when compared to other wireless technologies such as Wi-Fi. The short range also reduces the chances of interference between devices.
+- ** Gysga aralyk aragatnaşygy **: Bluetooth, adatça, 10 metr (33 fut) radiusda işleýär we Wi-Fi ýaly beýleki simsiz tehnologiýalar bilen deňeşdirilende energiýa sarp edilişinde ep-esli artykmaçlyk berýär. Gysga aralyk enjamlaryň arasynda päsgelçilik döretmek mümkinçiligini hem azaldar.
 
-- **Low power consumption**: Bluetooth devices are designed to use relatively low power compared to other wireless technologies. This aspect contributes to their widespread adoption in battery-powered devices like wearable gadgets and IoT sensors.
+- ** Pes energiýa sarp etmek **: Bluetooth enjamlary beýleki simsiz tehnologiýalar bilen deňeşdirilende has az güýji ulanmak üçin niýetlenendir. Bu tarap, geýip bolýan enjamlar we IoT datçikleri ýaly batareýa bilen işleýän enjamlarda giňden ornaşmagyna goşant goşýar.
 
-- **Convenience**: Bluetooth allows for easy, automatic connection between devices once they have been paired. This 'pair and play' functionality ensures users can quickly establish connectivity between their devices with minimal effort.
+- ** Amatlylyk **: Bluetooth enjamlar jübütlenenden soň aňsat, awtomatiki birikmäge mümkinçilik berýär. Bu “jübütlemek we oýnamak” funksiýasy ulanyjylaryň iň az tagallasy bilen enjamlarynyň arasynda çalt aragatnaşyk gurup biljekdigini üpjün edýär.
 
-- **Security**: Bluetooth includes security features like encryption and authentication, which ensure secure communication between paired devices. However, users must remain vigilant in terms of keeping their devices up-to-date with the latest Bluetooth security patches and protocols.
+- ** Howpsuzlyk **: Bluetooth, jübütlenen enjamlaryň arasynda howpsuz aragatnaşygy üpjün edýän şifrlemek we tassyklamak ýaly howpsuzlyk aýratynlyklaryny öz içine alýar. Şeýle-de bolsa, ulanyjylar enjamlaryny iň täze Bluetooth howpsuzlyk programmalary we protokollary bilen täzeläp durmak meselesinde hüşgär bolmalydyrlar.
 
-- **Potential vulnerabilities**: Despite its built-in security measures, Bluetooth is not immune to cyber attacks. Some common risks include "bluejacking" (unauthorized sending of messages or files), "bluesnarfing" (unauthorized access to device data), and "BlueBorne" (an attack vector that exploits Bluetooth connections to infiltrate devices and spread malware). Users should be cautious in their usage of Bluetooth and follow best practices like not accepting unknown connection requests and turning off Bluetooth when not in use.
+- ** Potensial gowşak goralanlyklar **: Gurlan howpsuzlyk çärelerine garamazdan, Bluetooth kiber hüjümlerinden goranmaýar. Käbir umumy töwekgelçiliklere "bluejacking" (habarlaryň ýa-da faýllaryň rugsatsyz iberilmegi), "bluesnarfing" (enjam maglumatlaryna rugsatsyz giriş) we "BlueBorne" (enjamlara aralaşmak we zyýanly programma üpjünçiligini ýaýratmak üçin Bluetooth birikmelerini ulanýan hüjüm wektory) degişlidir. Ulanyjylar Bluetooth ulanylanda seresap bolmaly we näbelli birikme haýyşlaryny kabul etmezlik we ulanylmaýan wagty Bluetooth-y öçürmek ýaly iň oňat tejribelere eýermelidirler.
 
-In conclusion, Bluetooth offers a convenient means of connecting devices wirelessly. While it provides reasonably secure communication, users must stay informed about potential vulnerabilities and follow good security practices to safeguard their devices.
+Sözümiň ahyrynda, Bluetooth enjamlary simsiz birikdirmegiň amatly serişdesini hödürleýär. Ygtybarly aragatnaşygy üpjün edýän hem bolsa, ulanyjylar potensial gowşaklyklar barada habarly bolmaly we enjamlaryny goramak üçin gowy howpsuzlyk amallaryna eýermelidirler.

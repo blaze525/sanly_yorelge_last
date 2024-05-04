@@ -1,36 +1,36 @@
-# Understand Permissions
+# Rugsatlara düşüniň
 
-Understanding permissions is crucial for maintaining a secure environment in any system. Permissions determine the level of access and control users have over files, applications, and other system resources. By setting the appropriate permissions, you can effectively limit the potential for unauthorized access and data breaches.
+Rugsatlara düşünmek islendik ulgamda howpsuz gurşawy saklamak üçin möhümdir. Rugsatlar ulanyjylaryň faýllara, amaly programmalara we beýleki ulgam çeşmelerine bolan elýeterliligini we gözegçilik derejesini kesgitleýär. Degişli rugsatlary bellemek bilen, birugsat girmek we maglumatlary bozmak mümkinçiligini netijeli çäklendirip bilersiňiz.
 
-## Different Types of Permissions
+## Rugsatlaryň dürli görnüşleri
 
-Permissions can be broadly categorized into three types:
+Rugsatlar giň görnüşde üç görnüşe bölünip bilner:
 
-- **Read (R)**: This permission level allows users to view the content of a file or folder, without the ability to make any changes or execute actions.
-- **Write (W)**: This permission level grants users the ability to create, modify, or delete files and folders.
-- **Execute (X)**: This permission level allows users to run a file or application and execute actions within it.
+- ** Okamak (R) **: Bu rugsat derejesi ulanyjylara haýsydyr bir üýtgeşme ýa-da hereket etmek mümkinçiliginden başga bir faýlyň ýa-da bukjanyň mazmunyny görmäge mümkinçilik berýär.
+- ** Ýazmak (W) **: Bu rugsat derejesi ulanyjylara faýllary we bukjalary döretmek, üýtgetmek ýa-da pozmak mümkinçiligini berýär.
+- ** Işletmek (X) **: Bu rugsat derejesi ulanyjylara bir faýl ýa-da programma işletmäge we içindäki hereketleri ýerine ýetirmäge mümkinçilik berýär.
 
-These permissions can be combined in different ways to form the desired access level. For example, a user may have read and write permissions for a file, allowing them to view and modify its contents, but not execute any actions within it.
+Bu rugsatlar, islenýän giriş derejesini emele getirmek üçin dürli usullar bilen birleşdirilip bilner. Mysal üçin, ulanyjy bir faýl üçin rugsatlary okap we ýazyp biler, mazmunyny görmäge we üýtgetmäge mümkinçilik berer, ýöne içindäki hereketleri ýerine ýetirmez.
 
-## Setting and Managing Permissions
+## Rugsatlary düzmek we dolandyrmak
 
-Permissions can be set and managed using various tools and methods, depending on the operating system being used:
+Rugsatlar, ulanylýan operasiýa ulgamyna baglylykda dürli gurallary we usullary ulanyp kesgitlenip we dolandyrylyp bilner:
 
-- **Windows**: Permissions are set through Access Control Lists (ACLs) in the security properties of a file or folder. This allows you to grant or deny specific permissions to users and groups.
-- **Mac**: Mac uses POSIX permissions to manage access control, which can be set using the "Get Info" window for a file or folder, or through Terminal commands.
-- **Linux**: Permissions on Linux systems are managed using the `chmod` command, along with the `chown` and `chgrp` commands to change the ownership of files and groups.
+- ** Windows **: Rugsatlar faýlyň ýa-da bukjanyň howpsuzlyk aýratynlyklarynda Giriş Dolandyryş Sanawlary (ACL) arkaly kesgitlenýär. Bu, ulanyjylara we toparlara aýratyn rugsatlary bermäge ýa-da ret etmäge mümkinçilik berýär.
+- ** Mac **: Mac, faýl ýa-da bukja üçin "Maglumat al" penjiresinden ýa-da Terminal buýruklaryndan peýdalanyp, giriş gözegçiligini dolandyrmak üçin POSIX rugsatlaryny ulanýar.
+- ** Linux **: Linux ulgamlaryndaky rugsatlar, faýllaryň we toparlaryň eýeçiligini üýtgetmek üçin "chown" we "chgrp" buýruklary bilen birlikde "chmod" buýrugy bilen dolandyrylýar.
 
-It's essential to understand how these tools work and use them effectively to maintain a secure environment.
+Bu gurallaryň nähili işleýändigine düşünmek we howpsuz gurşawy saklamak üçin olary netijeli ulanmak möhümdir.
 
-## Best Practices for Implementing Permissions
+## Rugsatlary ýerine ýetirmek üçin iň oňat tejribe
 
-To ensure cyber security with permissions, follow these best practices:
+Rugsatlar bilen kiberhowpsuzlygy üpjün etmek üçin şu iň oňat tejribeleri ýerine ýetiriň:
 
-- **Least Privilege Principle**: Grant users the minimum level of access they need to perform their tasks. People should not have unnecessary access to sensitive information or resources.
-- **Regularly Review Permissions**: Regularly audit permissions to ensure they are up-to-date and align with the current organizational roles and responsibilities.
-- **Use Groups and Roles**: Group users based on their job roles and assign permissions to groups instead of individuals. This simplifies the permission management process.
-- **Implement Security Training**: Educate users about the importance of permissions and their responsibilities to maintain a secure environment.
+- ** Iň pes ýeňillik ýörelgesi **: Ulanyjylara öz wezipelerini ýerine ýetirmek üçin zerur bolan iň pes derejäni beriň. Adamlar duýgur maglumatlara ýa-da çeşmelere gereksiz elýeterli bolmaly däldir.
+- ** Ygtyýarnamalary yzygiderli gözden geçiriň **: Döwrebapdygyna we häzirki guramaçylyk rollaryna we jogapkärçiligine laýyk gelýändigine göz ýetirmek üçin yzygiderli barlag rugsatlary.
+- ** Toparlary we rollary ulanyň **: Topar ulanyjylary, iş wezipelerine esaslanýar we şahsyýetlere derek toparlara rugsat berýär. Bu rugsady dolandyrmak işini aňsatlaşdyrýar.
+- ** Howpsuzlyk okuwyny durmuşa geçiriň **: Ulanyjylara rugsatlaryň ähmiýeti we howpsuz gurşawy goramak jogapkärçiligi barada bilim beriň.
 
-By understanding permissions and following best practices, you can enhance cyber security and minimize the risk of unauthorized access and data breaches.
+Rugsatlara düşünmek we iň oňat tejribelere eýermek bilen, kiberhowpsuzlygy ýokarlandyryp, rugsatsyz giriş we maglumatlaryň bozulmagy howpuny azaldyp bilersiňiz.
 
-- [Linux File Permissions (Linux Journey)](https://linuxjourney.com/lesson/file-permissions)
+- [Linux faýl rugsatlary (Linux syýahaty)] (https://linuxjourney.com/lesson/file-permission)

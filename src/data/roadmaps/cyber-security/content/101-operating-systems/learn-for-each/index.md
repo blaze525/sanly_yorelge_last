@@ -1,1 +1,1 @@
-# Learn for each
+# Ählisini öwrenmeli

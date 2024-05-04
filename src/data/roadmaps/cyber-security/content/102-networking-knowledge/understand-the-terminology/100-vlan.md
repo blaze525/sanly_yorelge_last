@@ -1,28 +1,28 @@
 # VLAN
 
-A **VLAN** or **Virtual Local Area Network** is a logical grouping of devices or users within a network, based on shared attributes like location, department, or security requirements. VLANs play a crucial role in improving network security, enabling better resource allocation, and simplifying network management.
+A ** VLAN ** ýa-da ** Wirtual Ýerli Tor Ulgamy, ýerleşiş, bölüm ýa-da howpsuzlyk talaplary ýaly umumy häsiýetlere esaslanýan enjamlaryň ýa-da ulanyjylaryň logiki toparlanmagydyr. VLAN ulgam howpsuzlygyny gowulandyrmakda, has gowy çeşme paýlanyşyny üpjün etmekde we tor dolandyryşyny ýönekeýleşdirmekde möhüm rol oýnaýar.
 
-## Key Features of VLANs
+## VLAN-laryň esasy aýratynlyklary
 
-- **Isolation:** VLANs isolate traffic between different groups, helping to minimize the risk of unauthorized access to sensitive data.
-- **Scalability:** VLANs allow network administrators to grow and change networks with ease, without causing disruptions.
-- **Cost Effectiveness:** VLANs can reduce the need for additional hardware by reusing existing switches and networks for added functionality.
-- **Improved Performance:** By narrowing the broadcast domain, VLANs can improve network performance by reducing unnecessary traffic.
+- ** Izolýasiýa: ** VLAN-lar dürli toparlaryň arasyndaky traffigi izolirleýär, duýgur maglumatlara rugsatsyz girmek howpuny azaltmaga kömek edýär.
+- ** Göwrümliligi: ** VLAN ulgam dolandyryjylaryna päsgelçilik döretmezden torlary aňsatlyk bilen ösdürmäge we üýtgetmäge mümkinçilik berýär.
+- ** Çykdajylaryň netijeliligi: ** VLAN-lar goşmaça işlemek üçin bar bolan wyklýuçatelleri we torlary gaýtadan ulanmak arkaly goşmaça enjamlara bolan zerurlygy azaldyp bilerler.
+- ** Gowulandyrylan öndürijilik: ** Broadaýlym domenini daraltmak bilen, VLAN-lar gereksiz traffigi azaltmak arkaly toruň işleýşini gowulandyryp bilerler.
 
-## Types of VLANs
+## VLAN-laryň görnüşleri
 
-- **Port-based VLANs:** In this type, devices are separated based on their physical connection to the switch. Each port is assigned to a specific VLAN.
-- **Protocol-based VLANs:** Devices are grouped based on the network protocol they use. For example, all IP devices can be assigned to one VLAN, while IPX devices can be assigned to another.
-- **MAC-based VLANs:** Devices are assigned to VLANs based on their MAC addresses. This approach offers better security and flexibility but requires more administrative effort.
+- ** Port esasly VLAN-lar: ** Bu görnüşde enjamlar wyklýuçateliň fiziki baglanyşygy esasynda bölünýär. Her port belli bir VLAN-a bellendi.
+- ** Protokol esasly VLAN-lar: ** Enjamlar ulanýan tor protokolyna esaslanýar. Mysal üçin, ähli IP enjamlary bir VLAN, IPX enjamlary beýlekisine belläp bolýar.
+- ** MAC esasly VLAN-lar: ** Enjamlar MAC salgylaryna esaslanyp VLAN-lara berilýär. Bu çemeleşme has gowy howpsuzlyk we çeýeligi hödürleýär, ýöne has köp administratiw tagallalary talap edýär.
 
-## Creating and Managing VLANs
+## VLAN-lary döretmek we dolandyrmak
 
-VLANs are created and managed through network switches that support VLAN configuration. Switches use a VLAN ID (ranging from 1 to 4094) to uniquely identify each VLAN. VLAN Trunking Protocol (VTP) and IEEE 802.1Q standard are typically used to manage VLANs between different switches.
+VLAN-lar VLAN konfigurasiýasyny goldaýan tor açarlary arkaly döredilýär we dolandyrylýar. Wyklýuçateller her VLAN-y özboluşly kesgitlemek üçin VLAN ID (1-den 4094-e çenli) ulanýar. VLAN magistral protokoly (VTP) we IEEE 802.1Q standarty, dürli wyklýuçatelleriň arasynda VLAN-lary dolandyrmak üçin ulanylýar.
 
-## Security Considerations
+## Howpsuzlyk pikirleri
 
-VLANs play a crucial role in network security; however, they are not foolproof. VLAN hopping and unauthorized access can still occur if proper measures, such as Private VLANs and Access Control Lists (ACLs), are not implemented to secure the network.
+VLAN ulgam howpsuzlygynda möhüm rol oýnaýar; muňa garamazdan, olar akmak däl. Toruň howpsuzlygyny üpjün etmek üçin Hususy VLAN we Giriş Dolandyryş Sanawlary (ACL) ýaly degişli çäreler durmuşa geçirilmese, VLAN kesmek we rugsatsyz giriş henizem bolup biler.
 
-In summary, VLANs offer a flexible and secure way to manage and segment networks based on needs and requirements. By understanding their purpose, types, and security considerations, network administrators can efficiently use VLANs to improve overall network performance and security.
+Gysgaça aýtsak, VLAN-lar zerurlyklara we talaplara esaslanyp torlary dolandyrmagyň we segment etmegiň çeýe we ygtybarly usulyny hödürleýärler. Maksatlaryna, görnüşlerine we howpsuzlyk pikirlerine düşünmek bilen, tor dolandyryjylary umumy ulgamyň işleýşini we howpsuzlygyny ýokarlandyrmak üçin VLAN-lary netijeli ulanyp bilerler.
 
-- [VLAN Explained](https://www.youtube.com/watch?v=jC6MJTh9fRE)
+- [VLAN düşündirildi] (https://www.youtube.com/watch?v=jC6MJTh9fRE)

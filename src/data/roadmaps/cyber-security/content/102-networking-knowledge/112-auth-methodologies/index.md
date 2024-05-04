@@ -1,29 +1,29 @@
-# Authentication Methodologies
+# Autentifikasiýa usullary
 
-Authentication methodologies are techniques and processes employed in order to verify the identity of a user, device, or system attempting to access restricted data or resources within a network. This is a crucial backbone of cyber security as it ensures that only verified and authorized users can interact with sensitive data and services. In this section, we will explore various authentication methodologies that you can implement to enhance the security of your network.
+Autentifikasiýa usulyýetleri, toruň içinde çäklendirilen maglumatlara ýa-da çeşmelere girmäge synanyşýan ulanyjynyň, enjamyň ýa-da ulgamyň şahsyýetini barlamak üçin ulanylýan usullar we amallardyr. Bu kiberhowpsuzlygyň möhüm diregi, sebäbi diňe barlanan we ygtyýarly ulanyjylaryň duýgur maglumatlar we hyzmatlar bilen täsirleşip biljekdigini üpjün edýär. Bu bölümde, toruňyzyň howpsuzlygyny ýokarlandyrmak üçin durmuşa geçirip boljak dürli tanamak usullaryny öwreneris.
 
-## Password-based Authentication
+## Parol esasly autentifikasiýa
 
-One of the most widely adopted authentication methods is the use of passwords. A user provides a username and a secret password, which are then compared to stored credentials. If the provided credentials match the stored ones, access is granted. This method can be strengthened by enforcing strong password policies, such as requiring a combination of upper and lowercase letters, numbers, and special characters.
+Iň giňden kabul edilen tanamaklyk usullaryndan biri parollary ulanmakdyr. Ulanyjy ulanyjy adyny we gizlin paroly üpjün edýär, soňra bolsa saklanylýan şahsyýetnamalary bilen deňeşdirilýär. Berlen şahsyýetnamalar saklanylýanlara gabat gelýän bolsa, ygtyýar berilýär. Bu usul, uly we kiçi harplaryň, sanlaryň we ýörite nyşanlaryň utgaşmasyny talap etmek ýaly güýçli parol syýasatlaryny ýerine ýetirmek arkaly güýçlendirilip bilner.
 
-## Multi-factor Authentication (MFA)
+## Köp faktorly autentifikasiýa (MFA)
 
-MFA involves the use of two or more independent factors to verify a user's identity. These factors usually fall into three categories:
+MFA ulanyjynyň şahsyýetini barlamak üçin iki ýa-da has garaşsyz faktoryň ulanylmagyny öz içine alýar. Bu faktorlar köplenç üç kategoriýa bölünýär:
 
-- **Knowledge**: Something the user knows (e.g., password, PIN).
-- **Possession**: Something the user has (e.g., hardware token, mobile phone).
-- **Inherence**: Something the user is (e.g., biometrics, such as fingerprints or facial recognition).
+- ** Bilim **: Ulanyjynyň bilýän zady (meselem, parol, PIN).
+- ** eýeçilik **: Ulanyjynyň bir zady (meselem, apparat nyşany, jübi telefony).
+- ** Miras **: Ulanyjynyň bir zady (meselem, barmak yzlary ýa-da ýüzi tanamak ýaly biometrika).
 
-By requiring multiple factors, an attacker would need to bypass more than just a single barrier to gain unauthorized access, significantly increasing the security of the system.
+Birnäçe faktor talap etmek bilen, hüjümçi rugsatsyz girmek üçin ulgamyň howpsuzlygyny ep-esli ýokarlandyryp, diňe bir päsgelçilikden geçmeli bolar.
 
-## Certificate-based Authentication
+## Şahadatnama esasly autentifikasiýa
 
-This methodology involves the use of digital certificates to authenticate a user or device. Digital certificates are electronic documents containing cryptographic keys and details about the subject they represent. The certificate is issued by a trusted Certificate Authority (CA), ensuring that the public key within the certificate belongs to the user, device or server. This method allows for secure transactions and interactions, as it assures entities involved that the data is coming from a verified and trusted source.
+Bu usul, ulanyjyny ýa-da enjamy tassyklamak üçin sanly şahadatnamalary ulanmagy öz içine alýar. Sanly şahadatnamalar kriptografiki açarlary we wekilçilik edýän mowzugy barada jikme-jiklikleri öz içine alýan elektron resminamalardyr. Şahadatnama, şahadatnamanyň içindäki açaryň ulanyja, enjama ýa-da serwere degişlidigini kepillendirýän ygtybarly şahadatnama edarasy (CA) tarapyndan berilýär. Bu usul, ygtybarly amallara we özara täsirleşmäge mümkinçilik berýär, sebäbi bu maglumatlaryň tassyklanan we ygtybarly çeşmeden gelýändigini kepillendirýär.
 
-## Single Sign-on (SSO)
+## Bir gezeklik  - Single Sign-on (SSO)
 
-SSO is an authentication process that enables users to access multiple related, but independent, software systems using a single set of credentials. By centralizing the authentication process, SSO simplifies user management and reduces the risk of password-related security breaches (e.g., reuse, weak passwords). Popular SSO solutions include OAuth, SAML, and OpenID Connect.
+SSO ulanyjylara birgiden şahsyýet maglumatlaryny ulanyp, baglanyşykly, ýöne garaşsyz programma üpjünçilik ulgamlaryna girmäge mümkinçilik berýän tanamaklyk prosesi. Hakyky tanamak prosesini merkezleşdirmek bilen, SSO ulanyjy dolandyryşyny ýönekeýleşdirýär we parol bilen baglanyşykly howpsuzlyk bozulmalarynyň töwekgelçiligini azaldýar (meselem, gaýtadan ulanmak, parollary gowşak). Meşhur SSO çözgütlerine OAuth, SAML we OpenID Connect girýär.
 
 ---
 
-To maintain a strong cyber security posture, implementing effective authentication methodologies is essential. Each method has its own strengths and weaknesses, and the best approach depends on your organization's individual needs and resources. By choosing the right mix of authentication methods, you can ensure that only authorized users have access to your sensitive systems and data, significantly reducing the risk of cyber threats.
+Güýçli kiberhowpsuzlygy saklamak üçin, hakyky tanamak usullaryny durmuşa geçirmek zerurdyr. Her usulyň öz güýçli we gowşak taraplary bar we iň oňat çemeleşme guramaňyzyň şahsy zerurlyklaryna we çeşmelerine baglydyr. Hakyky tanamak usullarynyň dogry garyndysyny saýlamak bilen, diňe ygtybarly ulanyjylaryň duýgur ulgamlaryňyza we maglumatlaryňyza girip biljekdigini, kiber howplaryny ep-esli azaldyp bilersiňiz.

@@ -1,62 +1,62 @@
-# Performing CRUD on Files
+# Faýllarda CRUD ýerine ýetirmek
 
-When working with files in any system or application, understanding and performing CRUD operations (Create, Read, Update, and Delete) is essential for implementing robust cyber security measures.
+Islendik ulgamda ýa-da programmada faýllar bilen işleýän wagtyňyz, ygtybarly kiberhowpsuzlyk çärelerini durmuşa geçirmek üçin CRUD amallaryna düşünmek we ýerine ýetirmek (Dörediň, okaň, täzeläň we pozuň).
 
-## File Creation
+## Faýl döretmek
 
-- **Windows**: You can create new files using the built-in text editor (Notepad) or dedicated file creation software. You can also use PowerShell commands for quicker file creation. The `New-Item` command followed by the file path creates a file.
+- ** Windows **: Gurlan tekst redaktoryny (Notepad) ýa-da ýörite faýl döretmek programma üpjünçiligini ulanyp täze faýllar döredip bilersiňiz. Şeýle hem has çalt faýl döretmek üçin PowerShell buýruklaryny ulanyp bilersiňiz. Faýl ýolundan soň "Täze element" buýrugy faýl döredýär.
 
-  ```
-  New-Item -Path "C:\Example\example.txt" -ItemType "file"
-  ```
+   ``
+   Täze element-ýol "C: \ Mysal \ example.txt" -ItemType "faýly"
+   ``
 
-- **Linux**: Unlike Windows, file creation is usually done through the terminal. The `touch` command helps create a file in the desired directory.
+- ** Linux **: Windows-dan tapawutlylykda faýl döretmek adatça terminal arkaly amala aşyrylýar. "Touch" buýrugy islenýän katalogda faýl döretmäge kömek edýär.
 
-  ```
-  touch /example/example.txt
-  ```
+   ``
+   /example/example.txt degiň
+   ``
 
-## File Reading
+## Faýl okamak
 
-- **Windows**: You can read a file using standard file readers, such as Notepad, Wordpad, etc., or you can utilize PowerShell commands. The `Get-Content` command provides the file content.
+- ** Windows **: Notepad, Wordpad we ş.m. ýaly adaty faýl okyjylaryny ulanyp bir faýly okap bilersiňiz ýa-da PowerShell buýruklaryny ulanyp bilersiňiz. "Get-Content" buýrugy faýl mazmunyny üpjün edýär.
 
-  ```
-  Get-Content -Path "C:\Example\example.txt"
-  ```
+   ``
+   Mazmuny al -Path "C: \ Mysal \ example.txt"
+   ``
 
-- **Linux**: The `cat` command is the most common way to read the contents of a file in Linux.
+- ** Linux **: Linux-da faýlyň mazmunyny okamagyň iň köp ýaýran usuly "pişik" buýrugydyr.
 
-  ```
-  cat /example/example.txt
-  ```
+   ``
+   pişik / mysal / mysal.txt
+   ``
 
-## File Updating
+## Faýl täzelenmesi
 
-- **Windows**: File updating can be accomplished using the previously mentioned text editors or PowerShell. The `Set-Content` or `Add-Content` commands are useful for updating a file.
+- ** Windows **: Faýly täzelemek, ozal agzalan tekst redaktorlaryny ýa-da PowerShell ulanyp bolýar. "Set-Content" ýa-da "Goşmaça mazmun" buýruklary faýly täzelemek üçin peýdalydyr.
 
-  ```
-  Set-Content -Path "C:\Example\example.txt" -Value "Updated content"
-  Add-Content -Path "C:\Example\example.txt" -Value "Appended content"
-  ```
+   ``
+   Set-Content -Path "C: \ Mysal \ example.txt" -Göçürmek "Täzelenen mazmun"
+   Goşmaça mazmun -Path "C: \ Mysal \ example.txt" -Göçürilen "Goşulan mazmun"
+   ``
 
-- **Linux**: Linux uses the built-in text editors, such as `nano` or `vim`, to update files. Alternatively, the `echo` command can append content to a file.
+- ** Linux **: Linux faýllary täzelemek üçin "nano" ýa-da "vim" ýaly içerki tekst redaktorlaryny ulanýar. Ativea-da bolmasa, "echo" buýrugy faýla mazmun goşup biler.
 
-  ```
-  echo "Appended content" >> /example/example.txt
-  ```
+   ``
+   echo "Goşulan mazmun" >> /example/example.txt
+   ``
 
-## File Deletion
+## Faýly öçürmek
 
-- **Windows**: File deletion is performed by right-clicking the file and selecting 'Delete' or using PowerShell commands. The `Remove-Item` command followed by the file path can delete a file.
+- ** Windows **: Faýly öçürmek faýla sag basmak we 'Öçürmek' saýlamak ýa-da PowerShell buýruklaryny ulanmak arkaly amala aşyrylýar. Faýl ýolundan soň "Remove-Item" buýrugy bir faýly pozup biler.
 
-  ```
-  Remove-Item -Path "C:\Example\example.txt"
-  ```
+   ``
+   Aýyrmak-element-ýol "C: \ Mysal \ example.txt"
+   ``
 
-- **Linux**: The `rm` command allows you to delete a file in Linux.
+- ** Linux **: "rm" buýrugy Linux-da bir faýly pozmaga mümkinçilik berýär.
 
-  ```
-  rm /example/example.txt
-  ```
+   ``
+   rm /example/example.txt
+   ``
 
-By mastering these CRUD operations, you can enhance your cyber security knowledge and implement effective incident response and file management strategies.
+Bu CRUD amallaryny özleşdirmek bilen, kiberhowpsuzlyk bilimleriňizi artdyryp, täsirli hadysalara jogap we faýl dolandyryş strategiýalaryny durmuşa geçirip bilersiňiz.

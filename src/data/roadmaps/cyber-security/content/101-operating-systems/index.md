@@ -1,37 +1,37 @@
-# Operating Systems
+# Operasion ulgamlary
 
-An **operating system (OS)** is a crucial component of a computer system as it manages and controls both the hardware and software resources. It provides a user-friendly interface and ensures the seamless functioning of the various applications installed on the computer.
+** operasion ulgamy (OS) ** kompýuter ulgamynyň möhüm bölegi bolup, enjam we programma üpjünçiliginiň çeşmelerini dolandyrýar we dolandyrýar. Ulanyjy üçin amatly interfeýsi üpjün edýär we kompýuterde gurlan dürli programmalaryň bökdençsiz işlemegini üpjün edýär.
 
-In the context of cybersecurity, selection and proper maintenance of an operating system is paramount. This section will discuss the three major operating systems: Windows, macOS, and Linux, along with security considerations.
+Kiberhowpsuzlyk nukdaýnazaryndan operasiýa ulgamyny saýlamak we dogry hyzmat etmek birinji orunda durýar. Bu bölümde howpsuzlyk meselesi bilen birlikde üç esasy operasiýa ulgamy: Windows, macOS we Linux ara alnyp maslahatlaşylar.
 
 ## Windows
 
-Microsoft Windows is ubiquitous amongst desktop and laptop users, making it a primary target for cybercriminals. Attackers often focus on finding and exploiting vulnerabilities within Windows due to its extensive user-base. That said, Windows continues to enhance its built-in security features with updates and patches. Key features include:
+Microsoft Windows iş stoly we noutbuk ulanyjylarynyň arasynda hemme ýerde bar, bu kiber jenaýatçylar üçin esasy nyşana öwrülýär. Hüjümçiler köplenç giň ulanyjy bazasy sebäpli Windows-da gowşak ýerleri tapmaga we ulanmaga ünsi jemleýärler. Saidagny, Windows täzelenmeler we ýamalar bilen gurlan howpsuzlyk aýratynlyklaryny ösdürmegi dowam etdirýär. Esasy aýratynlyklary şulary öz içine alýar:
 
-- Windows Defender: An antivirus program that detects and removes malware.
-- Windows Firewall: Monitors and controls incoming and outgoing network traffic.
-- BitLocker: A full disk encryption feature for securing data.
+- Windows Defender: Zyýanly programma üpjünçiligini tapýan we aýyrýan wirusa garşy programma.
+- Windows Firewall: Gelýän we çykýan tor trafigine gözegçilik edýär we gözegçilik edýär.
+- BitLocker: Maglumatlary üpjün etmek üçin doly disk şifrlemek aýratynlygy.
 
-As a Windows user, keeping your system up-to-date and using additional security tools such as anti-malware software is vital.
+Windows ulanyjysy hökmünde ulgamyňyzy täzeläp durmak we zyýanly programma üpjünçiligi ýaly goşmaça howpsuzlyk gurallaryny ulanmak möhümdir.
 
 ## macOS
 
-The macOS, Apple's operating system for Macintosh computers, holds a reputation for strong security. Apple designed macOS with several built-in features to protect user privacy and data:
+“Macintosh” kompýuterleri üçin “Apple” -iň operasiýa ulgamy bolan “MacOS” güýçli howpsuzlyk bilen meşhurlyk gazandy. “Apple” ulanyjylaryň şahsy durmuşyny we maglumatlary goramak üçin birnäçe içerki aýratynlyklary bolan “macOS” -ny dizaýn etdi:
 
-- Gatekeeper: Ensures downloaded apps originate from trusted sources.
-- FileVault 2: Offers full-disk encryption for data protection.
-- XProtect: An antivirus tool that scans newly installed apps for malware.
+- Derwezeban: Göçürilen programmalaryň ygtybarly çeşmelerden gelip çykýandygyna göz ýetiriň.
+- FileVault 2: Maglumatlary goramak üçin doly disk şifrlemesini hödürleýär.
+- XProtect: Zyýanly programma üpjünçiligi üçin täze gurlan programmalary skanirleýän wirusa garşy gural.
 
-Despite macOS's sound security measures, no operating system is completely immune to threats. Running reputable security software and keeping your macOS updated is essential to safeguard against potential cyberattacks.
+MacOS-yň berk howpsuzlyk çärelerine garamazdan, hiç bir operasiýa ulgamy howplardan doly goranmaýar. Abraýly howpsuzlyk programma üpjünçiligini işletmek we macOS-yňyzy täzeläp durmak, bolup biljek kiberhüjümlerden goramak üçin zerurdyr.
 
 ## Linux
 
-Linux is an open-source operating system considered to be more secure than its commercial counterparts. Linux uses a multi-user environment, mitigating the impact of potential threats by separating user information and privileges. Other notable features include:
+Linux, täjirçilik kärdeşlerinden has ygtybarly hasaplanýan açyk çeşme operasiýa ulgamy. Linux, ulanyjy maglumatyny we artykmaçlyklaryny aýyrmak arkaly bolup biljek howplaryň täsirini azaltmak üçin köp ulanyjy gurşawyny ulanýar. Beýleki görnükli aýratynlyklar:
 
-- Software Repositories: Official software repositories maintained by Linux distributions provide trusted sources for software installation.
-- SELinux (Security-Enhanced Linux): A security architecture that allows administrators to control system access.
-- System/package updates: Regular updates offered by distributions hold essential security fixes.
+- Programma üpjünçiligi ammarlary: Linux paýlaýjylary tarapyndan dolandyrylýan resmi programma üpjünçilikleri programma üpjünçiligini gurmak üçin ygtybarly çeşmeler bilen üpjün edýär.
+- SELinux (Security-Enhanced Linux): Dolandyryjylara ulgamyň girişine gözegçilik etmäge mümkinçilik berýän howpsuzlyk arhitekturasy.
+- Ulgam / paket täzelenmeleri: paýlaýjylar tarapyndan hödürlenýän yzygiderli täzelenmeler möhüm howpsuzlyk düzedişlerini saklaýar.
 
-Although Linux distributions are less targeted by cybercriminals, it is vital to follow security best practices, such as keeping your system updated and employing security tools like antivirus software and firewalls.
+Linux paýlamalary kiber jenaýatçylar tarapyndan az nyşana alynsa-da, ulgamyňyzy täzeläp durmak we wirusa garşy programma üpjünçiligi we gorag diwarlary ýaly howpsuzlyk gurallaryny ulanmak ýaly iň oňat tejribelere eýermek möhümdir.
 
-Remember, the security of your operating system relies on timely updates, proper configuration, and the use of appropriate security tools. Stay vigilant and informed to ensure your system remains secure against ever-evolving cyber threats.
+Operasiýa ulgamyňyzyň howpsuzlygy öz wagtynda täzelenmelere, dogry konfigurasiýa we degişli howpsuzlyk gurallarynyň ulanylmagyna baglydygyny ýadyňyzdan çykarmaň. Ulgamyňyzyň hemişe ösýän kiber howplardan goramagyny üpjün etmek üçin hüşgär we habarly boluň.

@@ -1,21 +1,21 @@
-# IPAM
+# IPAM - IP Address Management
 
-IP Address Management (IPAM) is a critical aspect of cyber security, as it helps organizations efficiently manage and track their IP addresses, DNS, and DHCP services. In any network, devices like servers, routers, and switches are assigned unique IP addresses, which enables them to communicate with each other. Efficient and secure management of these IP addresses is vital for maintaining network security and prevent unauthorized access.
+IP adresi dolandyrmak (IPAM) kiberhowpsuzlygyň möhüm tarapy, sebäbi guramalara IP adreslerini, DNS we DHCP hyzmatlaryny netijeli dolandyrmaga we yzarlamaga kömek edýär. Islendik ulgamda serwerler, marşrutizatorlar we wyklýuçateller ýaly enjamlara biri-biri bilen aragatnaşyk saklamaga mümkinçilik berýän özboluşly IP adresler berilýär. Bu IP adresleri netijeli we ygtybarly dolandyrmak, tor howpsuzlygyny saklamak we birugsat girilmeginiň öňüni almak üçin möhümdir.
 
-## Functions of IPAM
+## IPAM-nyň wezipeleri
 
-- **IPv4 and IPv6 address management:** IPAM enables organizations to manage and keep track of their IPv4 and IPv6 addresses. It allows for the allocation, assignment, and control of IP addresses in networks, preventing conflicts and errors.
+- ** IPv4 we IPv6 salgylary dolandyrmak: ** IPAM guramalara IPv4 we IPv6 salgylaryny dolandyrmaga we yzarlamaga mümkinçilik berýär. Torlarda IP adresleri paýlamaga, bellemäge we gözegçilikde saklamaga, gapma-garşylyklaryň we ýalňyşlyklaryň öňüni almaga mümkinçilik berýär.
 
-- **DNS integration:** A well-organized IPAM system can integrate with DNS services to provide consistent and accurate information about the network. This helps organizations in keeping their DNS records up-to-date and secure.
+- ** DNS integrasiýasy: ** Gowy guralan IPAM ulgamy, tor hakda yzygiderli we takyk maglumat bermek üçin DNS hyzmatlary bilen birleşip biler. Bu guramalara DNS ýazgylaryny döwrebap we ygtybarly saklamaga kömek edýär.
 
-- **DHCP integration:** IPAM works hand-in-hand with DHCP services to manage and monitor IP address leases within the network. This ensures that devices are assigned dynamic IP addresses and automatically updated when a lease expires.
+- ** DHCP integrasiýasy: ** IPAM tordaky IP adres kärendesini dolandyrmak we gözegçilikde saklamak üçin DHCP hyzmatlary bilen el-ele işleýär. Bu, enjamlara dinamiki IP adresleriň berilmegini we kärende möhleti gutaranda awtomatiki täzelenmegini üpjün edýär.
 
-- **Network discovery and auditing:** IPAM enables network discovery, scanning, and auditing to ensure that all connected devices are accounted for and comply with security policies. Regular network discovery can also identify rogue devices or unauthorized access.
+- ** Tor tapmak we audit: ** IPAM, ähli birikdirilen enjamlaryň hasaba alynmagyny we howpsuzlyk syýasatlaryny berjaý etmegini üpjün etmek üçin tor tapmaga, skanirlemäge we audit geçirmäge mümkinçilik berýär. Toruň yzygiderli açylmagy gödek enjamlary ýa-da birugsat girişi hem kesgitläp biler.
 
-- **Policy compliance:** IPAM can help enforce policies related to IP address assignment and usage within an organization. This may include restrictions on the use of certain types of addresses or preventing specific devices from obtaining an IP address.
+- ** Syýasatyň berjaý edilmegi: ** IPAM guramanyň içinde IP adresi bellemek we ulanmak bilen baglanyşykly syýasatlary durmuşa geçirmäge kömek edip biler. Bu, käbir görnüşdäki salgylary ulanmakdaky çäklendirmeleri ýa-da belli enjamlaryň IP adresini almagynyň öňüni alyp biler.
 
-- **Inventory management and allocation:** IPAM allows organizations to maintain an inventory of available IP addresses, subnets, and address pools. This streamlines IP allocation processes and ensures that addresses are optimally utilized.
+- ** Öwreniş dolandyryşy we bölünişi: ** IPAM guramalara elýeterli IP adresleriň, subnetleriň we salgy howuzlarynyň sanawyny ýöretmäge mümkinçilik berýär. Bu IP paýlamak proseslerini tertipleşdirýär we salgylaryň optimal ulanylmagyny üpjün edýär.
 
-- **Reporting and analytics:** An IPAM system can provide detailed reports on IP address usage, allocation history, and other statistics. This information can help organizations identify trends, optimize their networks, and improve overall security.
+- ** Hasabat we analitika: ** IPAM ulgamy IP adresi ulanylyşy, paýlanyş taryhy we beýleki statistika barada jikme-jik hasabat berip biler. Bu maglumatlar guramalara tendensiýalary kesgitlemäge, torlaryny optimizirlemäge we umumy howpsuzlygy ýokarlandyrmaga kömek edip biler.
 
-In conclusion, IPAM plays a vital role in cyber security by enabling organizations to manage and monitor their IP address spaces efficiently. Implementing a comprehensive IPAM solution can help organizations maintain secure and effective network communication, comply with policies, and prevent unauthorized access.
+Sözümiň ahyrynda, IPAM guramalara IP adres ýerlerini netijeli dolandyrmaga we gözegçilikde saklamaga mümkinçilik bermek bilen kiberhowpsuzlykda möhüm rol oýnaýar. Giňişleýin IPAM çözgüdini durmuşa geçirmek guramalara howpsuz we täsirli aragatnaşyk aragatnaşygyny saklamaga, syýasatlary berjaý etmäge we rugsatsyz girmegiň öňüni almaga kömek edip biler.

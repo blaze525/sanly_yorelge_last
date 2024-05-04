@@ -1,27 +1,27 @@
-# Infrared
+# Infragyzyl şöhlelenme aragatnaşygy
 
-Infrared (IR) is a type of wireless communication technology that utilizes light waves in the electromagnetic spectrum to transmit data between devices. Infrared connections are widely used in short-range communication, commonly found in devices like remote controls, wireless keyboards and mice, and computer-to-printer communication. Let's take a closer look at the features of infrared connectivity:
+Infragyzyl (IR) simsiz aragatnaşyk tehnologiýasynyň bir görnüşidir, enjamlaryň arasynda maglumatlary geçirmek üçin elektromagnit spektrdäki ýagty tolkunlary ulanýar. Infragyzyl birikmeler gysga aralyk aragatnaşygynda giňden ulanylýar, köplenç uzakdan dolandyrmak, simsiz klawiatura we syçanlar we kompýuterden printer aragatnaşygy ýaly enjamlarda bolýar. Infragyzyl birikmegiň aýratynlyklaryna has içgin seredeliň:
 
-## Advantages of Infrared Connections
+## Infragyzyl birikmeleriň artykmaçlyklary
 
-- **Privacy:** Since IR signals don't penetrate walls, there's less chance of interference or eavesdropping from neighboring devices.
-- **Ease of setup:** Infrared devices often require minimal setup, making them easy to use and hassle-free.
-- **Low power consumption:** Infrared connections typically consume little power, which is suitable for battery-operated devices.
+- ** Gizlinlik: ** IR signallary diwarlara girmeýänligi sebäpli, goňşy enjamlardan päsgelçilik ýa-da diňlemek mümkinçiligi az.
+- ** Gurnamagyň aňsatlygy: ** Infragyzyl enjamlar köplenç minimal sazlamany talap edýär, olary ulanmagy aňsatlaşdyrýar we kynçylyksyz.
+- ** Kuwwatlylygy az sarp etmek: ** Infragyzyl birikmeler, adatça batareýa bilen işleýän enjamlar üçin amatly güýji az sarp edýär.
 
-## Disadvantages of Infrared Connections
+## Infragyzyl birikmeleriň kemçilikleri
 
-- **Limited range:** Infrared transmissions have a short range, usually up to only a few meters.
-- **Line-of-sight transmission:** The signal gets blocked if objects are in the way between the sender and the receiver, as IR uses line-of-sight transmission.
-- **Slower data transfer rates:** Infrared connections have slower data transfer rates compared to other wireless technologies like Wi-Fi or Bluetooth.
+- ** Çäkli aralyk: ** Infragyzyl ýaýlymlaryň gysga aralygy bar, adatça bary-ýogy birnäçe metre çenli.
+- ** Görkezişiň ugry: ** Jisimler iberiji bilen kabul edijiniň arasynda bolsa, signal petiklenýär, sebäbi IR görmek üçin ýaýlym ulanýar.
+- ** Maglumatlaryň has haýal geçirilmegi: ** Infragyzyl birikmeler, Wi-Fi ýa-da Bluetooth ýaly beýleki simsiz tehnologiýalar bilen deňeşdirilende has haýal maglumat geçiriş tizligine eýe.
 
-## Infrared Security Considerations
+## Infragyzyl aragatnaşygyň howpsuzlyk düzgünleri
 
-While infrared connections are generally secure due to their limited range and inability to penetrate walls, they are still susceptible to attacks. An attacker with direct access to the transmission path can intercept, modify or inject data into the communication.
+Infragyzyl birikmeler, çäkliligi we diwarlara girip bilmezligi sebäpli adatça howpsuz bolsa-da, hüjümlere sezewar bolýarlar. Geçiriş ýoluna gönüden-göni girip bilýän hüjümçi, aragatnaşyga maglumatlary saklap, üýtgedip ýa-da sanjyp biler.
 
-To maintain security in infrared connections, consider the following precautions:
+Infragyzyl baglanyşyklarda howpsuzlygy üpjün etmek üçin aşakdaky çäreleri göz öňünde tutuň:
 
-- **Encryption:** Use encryption methods to protect sensitive data transmitted over infrared connections.
-- **Authentication:** Implement authentication mechanisms that confirm the identities of devices before allowing access.
-- **Physical security:** Ensure that devices using infrared communication are located in secure areas, limiting the possibility of tampering or eavesdropping.
+- ** Şifrlemek: ** Infragyzyl birikmeler arkaly iberilýän duýgur maglumatlary goramak üçin şifrlemek usullaryny ulanyň.
+- ** Autentifikasiýa: ** Girmäge rugsat bermezden ozal enjamlaryň şahsyýetini tassyklaýan tanamak mehanizmlerini durmuşa geçiriň.
+- ** Fiziki howpsuzlyk: ** Infragyzyl aragatnaşygy ulanýan enjamlaryň ygtybarly ýerlerde ýerleşýändigine göz ýetiriň, diňlemek ýa-da diňlemek mümkinçiligini çäklendirýär.
 
-In summary, infrared is a useful technology for short-range communication purposes with certain benefits, such as privacy and low power consumption. However, it also has limitations and security considerations that must be addressed.
+Gysgaça aýtsak, infragyzyllyk şahsy durmuşyň eldegrilmesizligi we az sarp edilişi ýaly käbir peýdalary bolan gysga aralyk aragatnaşyk maksatlary üçin peýdaly tehnologiýa. Şeýle-de bolsa, çözülmeli çäklendirmeler we howpsuzlyk pikirleri hem bar.

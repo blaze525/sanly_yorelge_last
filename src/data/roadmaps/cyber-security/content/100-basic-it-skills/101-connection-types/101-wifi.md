@@ -1,44 +1,44 @@
 # WiFi
 
-**WiFi** stands for "wireless fidelity" and is a popular way to connect to the internet without the need for physical cables. It uses radio frequency (RF) technology to communicate between devices, such as routers, computers, tablets, smartphones, and other hardware.
+** WiFi ** "wireless fidelity" bu fiziki kabelleri ulanmazdan internete birikmegiň amatly usulydyr. Router, kompýuter, planşet, smartfon we beýleki enjamlar ýaly enjamlaryň arasynda aragatnaşyk saklamak üçin radio ýygylygy (RF) tehnologiýasyny ulanýar.
 
-## Advantages of WiFi
+## WiFi-iň artykmaçlyklary
 
-WiFi has several advantages over wired connections, including:
+WiFi simli birikmelerden birnäçe artykmaçlygy bar, şol sanda:
 
-- **Convenience**: Users can access the internet from anywhere within the WiFi signal's range, providing flexibility and mobility.
+- ** Amatlylyk **: Ulanyjylar çeýeligi we hereketliligi üpjün edip, WiFi signalynyň çägindäki islendik ýerden internete girip bilerler.
 
-- **Easy Setup**: WiFi devices connect to the internet simply by entering a password once, without the need for any additional cables or adapters.
+- ** Ýönekeýliligi **: WiFi enjamlary goşmaça kabel ýa-da adapter gerek bolmazdan, bir gezek parol girizip, internete birikýär.
 
-- **Scalability**: WiFi networks can easily expand to accommodate additional devices without the need for significant infrastructure changes.
+- ** Göwrümliligi **: Esasy infrastruktura üýtgemeleriniň zerurlygy bolmazdan goşmaça enjamlary ýerleşdirmek üçin WiFi torlary aňsatlyk bilen giňelip biler.
 
-## Security Risks and WiFi Threats
+## Howpsuzlyk töwekgelçilikleri we WiFi howplary
 
-Despite its numerous benefits, WiFi also brings potential security risks. Some common threats include:
+Köp sanly peýdalaryna garamazdan, WiFi howpsuzlyk üçin töwekgelçilikleri hem getirýär. Käbir umumy howplar:
 
-- **Eavesdropping**: Hackers can intercept data transmitted over a WiFi connection, potentially accessing sensitive information such as personal or financial details.
+- ** Diňlemek **: Hakerler şahsy ýa-da maliýe jikme-jiklikleri ýaly duýgur maglumatlara girip, WiFi birikmesi arkaly iberilýän maglumatlary saklap bilerler.
 
-- **Rogue access points**: An unauthorized user could set up a fake WiFi network that appears legitimate, tricking users into connecting and providing access to their devices.
+- ** Rogue giriş nokatlary **: Rugsat berilmedik ulanyjy, enjamlaryna birikmek we girmek üçin ulanyjylary aldap, kanuny görünýän galp WiFi toruny döredip biler.
 
-- **Man-in-the-middle attacks**: An attacker intercepts data transmission between your device and the WiFi network, potentially altering data or injecting malware.
+- ** Orta adamdan hüjümler **: Hüjümçi enjamyňyzy we WiFi toruň arasynda maglumatlary geçirmegi, maglumatlary üýtgedip ýa-da zyýanly programma üpjünçiligini sanjyp biler.
 
-## Best Practices for Secure WiFi Connections
+## Howpsuz WiFi birikmeleri üçin iň oňat tejribe
 
-To protect yourself and your devices, follow these best practices:
+Özüňizi we enjamlaryňyzy goramak üçin şu iň oňat amallara eýeriň:
 
-- **Use strong encryption**: Ensure your WiFi network uses the latest available encryption standards, such as WPA3 or, at minimum, WPA2.
+- ** Güýçli şifrlemäni ulanyň **: WiFi toruňyzyň WPA3 ýa-da iň bolmanda WPA2 ýaly iň soňky elýeterli şifrlemek standartlaryny ulanýandygyna göz ýetiriň.
 
-- **Change default credentials**: Change the default username and password for your WiFi router to prevent unauthorized access and configuration.
+- ** Bellenen şahsyýet maglumatlaryňyzy üýtgediň **: rugsatsyz girmegiň we konfigurasiýanyň öňüni almak üçin WiFi marşrutizatoryňyzyň deslapky ulanyjy adyny we parolyny üýtgediň.
 
-- **Keep your router firmware up to date**: Regularly check for and install any available firmware updates to prevent potential security vulnerabilities.
+- ** Router programma üpjünçiligiňizi täzeläň **: Howpsuzlygyň gowşak goralan ýerleriniň öňüni almak üçin bar bolan programma üpjünçiliginiň täzelenmelerini yzygiderli barlaň we guruň.
 
-- **Create a guest network**: If you have visitors or clients, set up a separate guest network for them to use. This ensures your primary network remains secure.
+- ** Myhman tor dörediň **: Eger myhmanlaryňyz ýa-da müşderileriňiz bar bolsa, ulanmagy üçin aýratyn myhman toruny guruň. Bu, esasy ulgamyňyzyň howpsuz bolmagyny üpjün edýär.
 
-- **Disable WiFi Protected Setup (WPS)**: Although WPS can simplify the connection process, it may also create security vulnerabilities. Disabling it forces users to connect via the more secure password method.
+- ** WiFi bilen goralýan gurnamany öçüriň (WPS) **: WPS birikme amalyny ýönekeýleşdirip bilse-de, howpsuzlyk gowşaklyklaryny döredip biler. Öçürmek, ulanyjylary has ygtybarly parol usuly bilen birikmäge mejbur edýär.
 
-- **Use a Virtual Private Network (VPN)**: Connect to the internet using a VPN, which provides a secure, encrypted tunnel for data transmission.
+- ** Wirtual Hususy Tory (VPN) ulanyň **: Maglumat geçirmek üçin ygtybarly, şifrlenen tuneli üpjün edýän VPN ulanyp internete birikdiriň.
 
-By understanding the potential security risks associated with WiFi connections and following these best practices, you can enjoy the convenience, flexibility, and mobility of WiFi while ensuring a secure browsing experience.
+WiFi birikmeleri bilen baglanyşykly bolup biljek howpsuzlyk töwekgelçiligine düşünmek we bu iň oňat tejribelere eýermek bilen, ygtybarly gözleg tejribesini üpjün etmek bilen, WiFi-iň amatlylygy, çeýeligi we hereketliliginden peýdalanyp bilersiňiz.
 
-- [Wireless Networks - Howstuffworks](https://computer.howstuffworks.com/wireless-network.htm)
-- [That's How Wi-Fi Works](https://youtu.be/hePLDVbULZc)
+- [Simsiz torlar - Howstuffworks] (https://computer.howstuffworks.com/wireless-network.htm)
+- [Wi-Fi şeýle işleýär] (https://youtu.be/hePLDVbULZc)

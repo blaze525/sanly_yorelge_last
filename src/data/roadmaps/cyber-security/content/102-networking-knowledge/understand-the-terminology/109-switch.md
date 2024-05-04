@@ -1,19 +1,19 @@
 # Switch
 
-A **switch** is a networking device that connects devices together on a computer network. It filters and forwards data packets between different devices by using their MAC (Media Access Control) addresses to identify them. Switches play an essential role in managing traffic and ensuring that data reaches its intended destination efficiently.
+** Switch - enjamlary kompýuter torunda birleşdirýän ulgam enjamy. Olary kesgitlemek üçin MAC (Media Access Control) salgylaryny ulanyp, dürli enjamlaryň arasynda maglumat paketlerini süzýär we ugradýar. Wyklýuçateller traffigi dolandyrmakda we maglumatlaryň göz öňünde tutulan ýerine netijeli ýetmegini üpjün etmekde möhüm rol oýnaýar.
 
-## Key Features and Functions
+## Esasy aýratynlyklar we wezipeler
 
-- **Intelligent Traffic Management:** Switches monitor the data packets as they travel through the network, only forwarding them to the devices that need to receive the data. This optimizes network performance and reduces congestion.
-- **Layer 2 Switching:** Switches operate at the data link layer (Layer 2) of the OSI (Open Systems Interconnection) model. They use MAC addresses to identify devices and determine the appropriate path for data packets.
-- **Broadcast Domains:** A switch creates separate collision domains, breaking up a single broadcast domain into multiple smaller ones, which helps minimize the impact of broadcast traffic on network performance.
-- **MAC Address Table:** Switches maintain a MAC address table, storing the mapping of MAC addresses to the appropriate physical interfaces, helping the switch identify the destination of the data packets efficiently.
+- ** Akylly traffigi dolandyrmak: ** Switchler maglumatlar paketleriniň torda gezip ýörkä gözegçilik edýärler, diňe maglumatlary almaly enjamlara iberýärler. Bu toruň işleýşini gowulandyrýar we dykyzlygy azaldýar.
+- ** 2-nji gatlak kommutasiýa: ** Switchler OSI (Açyk ulgamlar özara baglanyşygy) modeliniň maglumat baglanyşyk gatlagynda (2-nji gatlak) işleýär. Enjamlary kesgitlemek we maglumat paketleri üçin laýyk ýoly kesgitlemek üçin MAC salgylaryny ulanýarlar.
+- ** Ýaýlym domenleri: ** Switch, bir ýaýlym domenini birnäçe kiçi bölüme bölüp, aýry-aýry çaknyşyk domenlerini döredýär, bu ýaýlym traffiginiň toruň işine täsirini azaltmaga kömek edýär.
+- ** MAC salgysy: ** Switchler MAC salgy tablisasyny saklaýar, MAC salgylarynyň degişli fiziki interfeýslere kartalaşdyrylmagyny saklaýar, wyklýuçatel maglumat paketleriniň barjak ýerini netijeli kesgitlemäge kömek edýär.
 
-## Types of Switches
+## Switchleriň görnüşleri
 
-Switches can be categorized into two main types:
+Switchleri iki esasy görnüşe bölmek bolar:
 
-- **Unmanaged Switch:** These switches are simple plug-and-play devices that require no configuration. They are best suited for small networks or places where advanced features and customized settings are not necessary.
-- **Managed Switch:** These switches offer a higher level of control and customization, allowing network administrators to monitor, manage, and secure network traffic. Managed switches are typically used in enterprise-level networks or environments that require advanced security features and traffic optimization.
+- ** Dolandyrylmaýan Switch: ** Bu Switchler hiç hili konfigurasiýa talap etmeýän ýönekeý plug-play enjamlary. Uly ulgamlar ýa-da ösen aýratynlyklar we ýöriteleşdirilen sazlamalar zerur däl ýerler üçin iň amatlydyr.
+- ** Dolandyrylan Switch: ** Bu Switchler has ýokary derejeli dolandyryş we özleşdirme hödürleýär, bu ulgam dolandyryjylaryna tor trafigine gözegçilik etmäge, dolandyrmaga we howpsuz saklamaga mümkinçilik berýär. Dolandyrylýan wyklýuçateller, adatça ýokary derejeli howpsuzlyk aýratynlyklaryny we traffigi optimizirlemegi talap edýän kärhana derejesindäki torlarda ýa-da gurşawda ulanylýar.
 
-By understanding the role and functionality of switches within computer networks, you can better navigate the complexities of cyber security and make informed decisions for optimizing network performance and security.
+Kompýuter torlarynyň içindäki Switchleriň roluna we işleýşine düşünmek bilen, kiberhowpsuzlygyň çylşyrymlylygyna has gowy seredip bilersiňiz we toruň işleýşini we howpsuzlygyny optimizirlemek üçin habarly kararlar berip bilersiňiz.

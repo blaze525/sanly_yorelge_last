@@ -1,1 +1,1 @@
-# Understand these
+# Ählisine düşünip geçmek zerur

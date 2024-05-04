@@ -1,31 +1,31 @@
-# RADIUS
+# RADIUS - Remote Authentication Dial-In User Service
 
-**RADIUS** (Remote Authentication Dial-In User Service) is a widely used client-server protocol that offers centralized authentication, authorization, and accounting (AAA) management for users connecting to a network. Developed in 1991, RADIUS allows the transfer of user authentication and configuration information between devices and servers on a network.
+** RADIUS ** (Remote Authentication Dial-In User Service), tora birikýän ulanyjylar üçin merkezleşdirilen tassyklamany, ygtyýarnamany we buhgalter hasabatyny (AAA) dolandyrmagy hödürleýän giňden ulanylýan müşderi-serwer protokoly. 1991-nji ýylda işlenip düzülen RADIUS, ulanyjynyň hakykylygyny we konfigurasiýa maglumatyny tordaky enjamlar we serwerleriň arasynda geçirmäge mümkinçilik berýär.
 
-## How RADIUS Works
+## RADIUS nähili işleýär
 
-RADIUS uses the User Datagram Protocol (UDP) for communication between the client and the server. When a user attempts to connect to a network, the client (like a VPN server or wireless access point) forwards the authentication request to the RADIUS server. The server then checks the user's credentials against its user database or forwards the request to another authentication server.
+RADIUS müşderi bilen serweriň arasynda aragatnaşyk üçin Ulanyjy Maglumat protokolyny (UDP) ulanýar. Ulanyjy tora birikmäge synanyşanda, müşderi (VPN serweri ýa-da simsiz giriş nokady ýaly) tassyklamak haýyşyny RADIUS serwerine ugradýar. Soňra serwer ulanyjynyň maglumatlar bazasyna garşy ulanyjynyň şahsyýet maglumatlaryny barlaýar ýa-da haýyşy başga bir tanamak serwerine ugradýar.
 
-Upon successful authentication, the RADIUS server sends back an **Access-Accept** message, as well as user-specific access policies (such as VLAN assignments or firewall rules). If the authentication fails, the server sends an **Access-Reject** message. Additionally, RADIUS tracks and reports user activity, making it responsible for the accounting aspect of AAA.
+Üstünlikli tassyklanylandan soň, RADIUS serweri ** Access-Accept ** habaryny, şeýle hem ulanyjylara mahsus giriş syýasatlaryny (VLAN ýumuşlary ýa-da firewall düzgünleri ýaly) yzyna iberýär. Hakyky tanamak şowsuz bolsa, serwer ** Giriş-ret etmek ** habaryny iberýär. Mundan başga-da, RADIUS ulanyjy işjeňligini yzarlaýar we hasabat berýär, ony AAA-nyň buhgalter hasabaty üçin jogapkär edýär.
 
-## Benefits of RADIUS
+## RADIUS-yň peýdalary
 
-- **Centralized Management**: RADIUS allows administrators to manage user authentication and policies from a central location. This significantly simplifies the management of large and diverse networks.
+- ** Merkezleşdirilen dolandyryş **: RADIUS dolandyryjylara ulanyjynyň hakykylygyny we syýasatlaryny merkezi bir ýerden dolandyrmaga mümkinçilik berýär. Bu iri we dürli torlaryň dolandyrylyşyny ep-esli aňsatlaşdyrýar.
 
-- **Scalability**: RADIUS servers can manage authentication for thousands of users and devices, making it well-suited for large organizations.
+- ** Göwrümlilik **: RADIUS serwerleri müňlerçe ulanyjy we enjam üçin tassyklamany dolandyryp, iri guramalar üçin amatly bolar.
 
-- **Flexibility**: Being a widely adopted standard, RADIUS is compatible with various devices, such as routers, switches, VPN gateways, and wireless access points. It also allows for integration with other authentication services, like LDAP or Active Directory.
+- ** Çeýeligi **: Giňden ýaýran standart bolmak bilen, RADIUS marşrutizatorlar, wyklýuçateller, VPN şlýuzalary we simsiz giriş nokatlary ýaly dürli enjamlar bilen utgaşýar. Şeýle hem, LDAP ýa-da Active Directory ýaly beýleki tanamak hyzmatlary bilen birleşmäge mümkinçilik berýär.
 
-- **Security**: RADIUS encrypts passwords during transmission, minimizing risks associated with data breaches. Additionally, it can enforce various access policies to further strengthen network security.
+- ** Howpsuzlyk **: RADIUS maglumatlaryň bozulmagy bilen baglanyşykly töwekgelçilikleri azaldyp, geçiriş wagtynda parollary şifrleýär. Mundan başga-da, tor howpsuzlygyny has-da güýçlendirmek üçin dürli giriş syýasatlaryny durmuşa geçirip biler.
 
-## RADIUS vs. TACACS+
+## RADIUS we TACACS 
 
-Another popular AAA protocol is Terminal Access Controller Access-Control System Plus (TACACS+). While both RADIUS and TACACS+ provide similar functionality, there are notable differences:
+Beýleki bir meşhur AAA protokoly Terminal Access Controller Access-Control System Plus (TACACS +). RADIUS we TACACS + ikisi hem meňzeş işlemegi üpjün etse-de, görnükli tapawutlar bar:
 
-- RADIUS combines authentication and authorization, while TACACS+ separates them, allowing for greater flexibility and more granular control.
-- RADIUS uses UDP for communication, whereas TACACS+ uses TCP, ensuring reliable and ordered delivery of packets.
-- TACACS+ encrypts the entire payload, while RADIUS only encrypts the password.
+- RADIUS tanamaklygy we awtorizasiýany birleşdirýär, TACACS + olary bölýär, has çeýeligi we has granuliki gözegçiligi üpjün edýär.
+- RADIUS aragatnaşyk üçin UDP ulanýar, TACACS + bolsa TCP ulanýar, paketleriň ygtybarly we sargyt edilmegini üpjün edýär.
+- TACACS + ähli ýük göterijisini şifrleýär, RADIUS bolsa paroly şifrleýär.
 
-Organizations may choose between RADIUS and TACACS+ based on their specific requirements, network setup, and device compatibility.
+Guramalar, aýratyn talaplaryna, tor sazlamasyna we enjamyň sazlaşyklylygyna esaslanyp RADIUS we TACACS + arasynda saýlap bilerler.
 
-In conclusion, RADIUS plays a crucial role in implementing a robust and efficient AAA framework, simplifying network administration while ensuring security and compliance.
+Sözümiň ahyrynda, RADIUS ygtybarly we täsirli AAA çarçuwasyny durmuşa geçirmekde, howpsuzlygy we berjaý edilmegi üpjün etmek bilen tor dolandyryşyny ýönekeýleşdirmekde möhüm rol oýnaýar.

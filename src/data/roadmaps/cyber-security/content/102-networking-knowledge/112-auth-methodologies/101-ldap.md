@@ -1,27 +1,27 @@
 # LDAP
 
-LDAP is a protocol used to access directory services, i.e., a hierarchical database that holds information about various objects, such as users, groups, computer accounts, and more. In the context of cybersecurity, it's essential in storing information related to authentication, authorization, and user profiles. LDAP is primarily utilized in enterprise environments as a centralized system for managing user accounts and their permissions.
+LDAP katalog hyzmatlaryna girmek üçin ulanylýan protokol, ýagny ulanyjylar, toparlar, kompýuter hasaplary we başgalar ýaly dürli obýektler hakda maglumatlary saklaýan iýerarhiki maglumatlar binýady. Kiberhowpsuzlyk nukdaýnazaryndan, tassyklamak, ygtyýarnama we ulanyjy profilleri bilen baglanyşykly maglumatlary saklamak möhümdir. LDAP, esasan, ulanyjy hasaplaryny we olaryň rugsatlaryny dolandyrmak üçin merkezleşdirilen ulgam hökmünde kärhana şertlerinde ulanylýar.
 
-**How LDAP works**
+** LDAP nähili işleýär **
 
-- It is based on a client-server model, where the client sends a request to the server (usually an LDAP directory server), and the server responds accordingly.
-- LDAP servers store directory entries in a hierarchical (tree-like) structure, starting from the root (known as the "base DN") and following a series of branches down to individual entries.
-- Each entry in the LDAP directory has a distinguished name (DN), which uniquely identifies the entry in the hierarchy.
+- Müşderi-serwer modeline esaslanýar, bu ýerde müşderi serwere haýyş iberýär (köplenç LDAP katalog serweri) we serwer şoňa görä jogap berýär.
+- LDAP serwerleri katalog ýazgylaryny iýerarhiki (agaç ýaly) gurluşda, kökden ("esasy DN" diýlip atlandyrylýar) başlap, aýry-aýry ýazgylara çenli birnäçe şahany yzarlaýarlar.
+- LDAP bukjasyndaky her ýazgyda iýerarhiýadaky ýazgyny özboluşly kesgitleýän aýratyn at (DN) bar.
 
-**LDAP in Cyber Security**
-In cybersecurity, LDAP servers are often used for the following purposes:
+** Kiberhowpsuzlykda LDAP **
+Kiberhowpsuzlykda LDAP serwerleri köplenç aşakdaky maksatlar üçin ulanylýar:
 
-- **Authentication**: LDAP stores user account and password information, which can be used to authenticate users to access specific applications or resources.
-- **Authorization**: Using LDAP directory groups, you can manage access controls for users and grant or deny permissions based on their role or membership.
-- **User Management**: LDAP provides a single, centralized repository for managing user account information, making it easier to maintain consistent user data across multiple systems or applications.
+- ** Autentifikasiýa **: LDAP ulanyjy hasaby we parol maglumatlary saklaýar, bu ulanyjylara belli bir programmalara ýa-da çeşmelere girmek üçin hakykylygyny tassyklamak üçin ulanylyp bilner.
+- ** Awtorizasiýa **: LDAP katalog toparlaryny ulanyp, ulanyjylar üçin giriş dolandyryşlaryny dolandyryp bilersiňiz, roluna ýa-da agzalygyna baglylykda rugsatlary berip ýa-da ret edip bilersiňiz.
+- ** Ulanyjy dolandyryşy **: LDAP ulanyjy hasaby maglumatlaryny dolandyrmak üçin ýeke-täk merkezleşdirilen ammar bilen üpjün edýär, köp ulgamda ýa-da goýmada yzygiderli ulanyjy maglumatlaryny saklamagy aňsatlaşdyrýar.
 
-**LDAP Security Best Practices**
-To enhance the security of your LDAP implementation, consider adopting these best practices:
+** LDAP Howpsuzlyk Iň oňat tejribe **
+LDAP durmuşa geçirmegiň howpsuzlygyny ýokarlandyrmak üçin şu iň oňat tejribeleri ulanmagy göz öňünde tutuň:
 
-- Use secure protocols like LDAPS (LDAP over SSL) or StartTLS to encrypt the data transmitted between the client and the LDAP server.
-- Implement strong access control rules to ensure that only authorized clients can access the LDAP directory.
-- Regularly update and patch both client-side and server-side LDAP software to protect against known vulnerabilities.
-- Limit the searchable scope on the client-side, to minimize the risk of information disclosure.
-- Use strong authentication methods, such as multi-factor authentication (MFA), to secure access to the LDAP directory.
+- Müşderi bilen LDAP serweriniň arasynda iberilýän maglumatlary şifrlemek üçin LDAPS (SSL üstünden LDAP) ýa-da StartTLS ýaly ygtybarly protokollary ulanyň.
+- Diňe ygtyýarly müşderileriň LDAP katalogyna girip biljekdigini üpjün etmek üçin berk gözegçilik dolandyryş düzgünlerini ýerine ýetiriň.
+- Belli gowşaklyklardan goramak üçin müşderi we serwer tarapy LDAP programma üpjünçiligini yzygiderli täzeläň we ýapyň.
+- Maglumatyň açylmak töwekgelçiligini azaltmak üçin müşderi tarapyndan gözlenýän çäkleri çäklendiriň.
+- LDAP katalogyna girmek üçin köp faktorly tanamak (MFA) ýaly güýçli tanamak usullaryny ulanyň.
 
-In conclusion, LDAP is a critical component in many enterprise-level cybersecurity architectures, as it plays a vital role in handling authentication and authorization processes. To ensure the security of your LDAP implementation, it's crucial to follow best practices and carefully manage access to directory services.
+Sözümiň ahyrynda, LDAP kärhana derejesindäki kiberhowpsuzlyk arhitekturasynyň möhüm bölegi bolup durýar, sebäbi autentifikasiýa we ygtyýarnama amallarynda möhüm rol oýnaýar. LDAP ýerine ýetirişiňiziň howpsuzlygyny üpjün etmek üçin iň oňat tejribelere eýermek we katalog hyzmatlaryna girişi üns bilen dolandyrmak möhümdir.

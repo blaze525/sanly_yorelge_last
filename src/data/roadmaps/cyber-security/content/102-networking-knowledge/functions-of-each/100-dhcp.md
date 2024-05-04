@@ -1,21 +1,21 @@
 # DHCP
 
-DHCP, or Dynamic Host Configuration Protocol, is a network management protocol that simplifies IP address assignment, as well as other network configuration details, to devices in a network. It accomplishes this by automatically assigning IP addresses to devices based on their MAC addresses when they connect to the network. This dynamic approach to IP address allocation eliminates manual tracking and configuration, making it easier for network administrators to manage their networks.
+DHCP, ýa-da Dynamic Host Configuration Protocol, ulgamdaky enjamlara IP adresi bellemegi we beýleki ulgam konfigurasiýa jikme-jikliklerini ýönekeýleşdirýän tor dolandyryş protokolydyr. Muny tora birikdirilende MAC salgylary esasynda enjamlara IP adreslerini awtomatiki bellemek arkaly ýerine ýetirýär. IP adresi paýlamaga bu dinamiki çemeleşme, elde yzarlamagy we konfigurasiýany aradan aýyrýar, bu ulgam dolandyryjylaryna öz torlaryny dolandyrmagy aňsatlaşdyrýar.
 
-## Key Features
+## Esasy aýratynlyklar
 
-- **Automated IP address allocation**: DHCP uses a range of IP addresses, known as a "pool" or "scope," to automatically assign IP addresses to devices on the network. This helps avoid IP address conflicts and ensures efficient use of available IP addresses.
+- ** Awtomatlaşdyrylan IP adresi paýlamak **: DHCP ulgamdaky enjamlara IP adreslerini awtomatiki bellemek üçin "howuz" ýa-da "çäk" diýlip atlandyrylýan birnäçe IP adresi ulanýar. Bu IP adresi gapma-garşylyklaryndan gaça durmaga kömek edýär we elýeterli IP adresleriň netijeli ulanylmagyny üpjün edýär.
 
-- **Lease management**: DHCP allows for temporary assignment of IP addresses, called "leases." Leases have expiration periods, after which the IP addresses are returned to the pool, so they can be reassigned to other devices.
+- ** Kärende dolandyryşy **: DHCP "kärende" diýilýän IP adresleri wagtlaýyn bellemäge mümkinçilik berýär. Kärendeleriň möhleti bar, şondan soň IP adresleri howuza gaýtarylýar, şonuň üçin beýleki enjamlara iberilip bilner.
 
-- **Centralized configuration**: DHCP also provides a mechanism for central management of network settings, such as DNS servers, default gateways, and subnet masks. This helps maintain a consistent network configuration and reduces the potential for errors.
+- ** Merkezleşdirilen konfigurasiýa **: DHCP, şeýle hem DNS serwerleri, deslapky şlýuzalar we subnet maskalary ýaly tor sazlamalaryny merkezi dolandyrmagyň mehanizmini üpjün edýär. Bu yzygiderli tor konfigurasiýasyny saklamaga kömek edýär we ýalňyşlyklar mümkinçiligini azaldar.
 
-## Benefits
+## Peýdalary
 
-- **Reduced administration effort**: DHCP reduces the time and effort required to manage IP address assignments in a network, as it automatically assigns and reclaims IP addresses based on lease management.
+- ** Dolandyryş tagallasy azaldyldy **: DHCP kärende dolandyryşy esasynda IP adreslerini awtomatiki belleýär we yzyna alýarka, torda IP adres ýumuşlaryny dolandyrmak üçin zerur wagty we güýji gysgaldýar.
 
-- **Scalability**: DHCP is helpful for both small and large networks. It allows the easy integration and removal of new devices, without manual IP address assignments.
+- ** Göwrümlilik **: DHCP kiçi we uly ulgamlar üçin peýdalydyr. El bilen IP adresi berilmezden, täze enjamlary aňsat birleşdirmäge we aýyrmaga mümkinçilik berýär.
 
-- **Consistency**: DHCP enables consistent management of network settings, which helps reduce errors and ensures that devices in the network can access the necessary resources.
+- ** Yzygiderlilik **: DHCP ýalňyşlyklary azaltmaga we setdäki enjamlaryň zerur çeşmelere girip biljekdigini üpjün edýän ulgam sazlamalaryny yzygiderli dolandyrmaga mümkinçilik berýär.
 
-In summary, DHCP simplifies IP address management and network configuration for network administrators, ensuring efficient use of IP addresses and streamlining network administration. This is particularly valuable in large networks with numerous devices or when devices frequently need to connect or disconnect from the network.
+Gysgaça aýtsak, DHCP IP adreslerini netijeli ulanmagy we tor dolandyryşyny tertipleşdirmegi, tor dolandyryjylary üçin IP adresi dolandyrmagy we tor konfigurasiýasyny ýönekeýleşdirýär. Bu, köp sanly enjamly uly torlarda ýa-da enjamlar ýygy-ýygydan tora birikdirilmeli ýa-da aýrylmaly bolanda has möhümdir.

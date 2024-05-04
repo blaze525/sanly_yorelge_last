@@ -1,43 +1,43 @@
-# Local Auth
+# Lokal awtorizasiýa
 
-In this section, we will discuss local authentication, which is a crucial aspect of ensuring the security of your computer systems and networks.
+Bu bölümde, kompýuter ulgamlaryňyzyň we torlaryňyzyň howpsuzlygyny üpjün etmegiň möhüm tarapy bolan ýerli tanamaklygy ara alyp maslahatlaşarys.
 
-## What is Local Authentication?
+## Lokal awtorizasiýa näme?
 
-Local authentication is the process of verifying a user's identity on a single, isolated system, such as a computer or a server. It refers to the direct checking of user credentials (such as username and password) against a locally stored database, instead of relying on a centralized authentication service.
+Lokal awtorizasiýa, kompýuter ýa-da serwer ýaly ýeke, izolirlenen ulgamda ulanyjynyň şahsyýetini barlamak prosesi. Bu, merkezleşdirilen tassyklama hyzmatyna bil baglamagyň ýerine, ulanyjy şahsyýet maglumatlaryny (ulanyjy ady we parol ýaly) ýerli saklanylýan maglumatlar bazasyna gönüden-göni barlamaga degişlidir.
 
-## How Does Local Authentication Work?
+## Lokal awtorizasiýa nähili işleýär?
 
-In a local authentication setup, user and password information is stored on the same system where authentication takes place. When a user attempts to log in, the system checks the provided credentials against the stored data. If they match, access is granted, otherwise, it is denied.
+Lokal awtorizasiýa gurnamasynda ulanyjy we parol maglumatlary tassyklanylýan ulgamda saklanýar. Ulanyjy girmäge synanyşanda ulgam üpjün edilen şahsyýet maglumatlaryny saklanan maglumatlara garşy barlaýar. Gabat gelýän bolsa, ygtyýar berilýär, ýogsam, ret edilýär.
 
-Here is a high-level overview of how local authentication works:
+Ine, ýerli tanamaklygyň işleýşine ýokary derejeli syn:
 
-- User attempts to log in by entering their credentials, typically a username and password.
-- System checks the provided credentials against a local database.
-- If the credentials match an entry in the database, access is granted to the user.
-- If the credentials do not match any entries in the database, access is denied and an error message is displayed.
+- Ulanyjy şahsyýet maglumatlaryny, adatça ulanyjy adyny we parolyny girizip girmäge synanyşýar.
+- Ulgam ýerli maglumat bazasyna garşy berlen şahsyýet maglumatlaryny barlaýar.
+- Şahadatnamalar maglumatlar bazasyndaky ýazga gabat gelýän bolsa, ulanyja ygtyýar berilýär.
+- Şahsyýetnamalar maglumatlar bazasyndaky ýazgylara laýyk gelmeýän bolsa, giriş gadagan edilýär we säwlik habary görkezilýär.
 
-## Advantages and Disadvantages of Local Authentication
+## Lokal autentifikasiýanyň artykmaçlyklary we kemçilikleri
 
-## Advantages
+## Artykmaçlyklary
 
-- **Simplicity**: Local authentication is simple to set up, as it doesn't require any external authentication services or additional infrastructure.
-- **No Dependency on Internet Connectivity**: Since user credentials are stored locally, users can still authenticate even if there is no internet connection.
+- ** Ýönekeýlik **: Lokal awtorizasiýa gurmak ýönekeý, sebäbi daşarky tanamak hyzmatlaryny ýa-da goşmaça infrastrukturany talap etmeýär.
+- ** Internet birikmesine baglylyk ýok **: Ulanyjy şahsyýetnamalary ýerli derejede saklanylýandygy sebäpli, ulanyjylar internet birikmesi bolmasa-da tassyklap bilerler.
 
-## Disadvantages
+## Ýezçilikleri
 
-- **Scalability**: Managing and maintaining user accounts on individual systems becomes difficult when the number of systems and users increases.
-- **Increased Risk**: Information about user accounts, including passwords, may be stored in plain text, making them vulnerable to unauthorized access.
-- **Incomplete Security**: Local authentication alone may not provide sufficient security to protect sensitive information, necessitating the use of additional security measures such as secure socket layer (SSL) and two-factor authentication (2FA).
+- ** Göwrümlilik **: Aýry-aýry ulgamlarda ulanyjy hasaplaryny dolandyrmak we ýöretmek ulgamlaryň we ulanyjylaryň sany köpelende kynlaşýar.
+- ** Töwekgelçiligiň ýokarlanmagy **: Ulanyjy hasaplary, şol sanda parollar baradaky maglumatlar, aç-açan tekstde saklanyp, rugsatsyz giriş howpuna sezewar bolup biler.
+- ** Doly däl howpsuzlyk **: Diňe ýerli tanamaklyk, ygtybarly rozetka gatlagy (SSL) we iki faktorly tanamak (2FA) ýaly goşmaça howpsuzlyk çäreleriniň ulanylmagyny talap edip, duýgur maglumatlary goramak üçin ýeterlik howpsuzlygy üpjün edip bilmez.
 
-## Best Practices for Local Authentication
+## Lokal autentifikasiýa üçin iň oňat tejribe
 
-To ensure the security of your system while using local authentication:
+Lokal awtorizasiýa ulanylanda ulgamyňyzyň howpsuzlygyny üpjün etmek üçin:
 
-- Always use strong, unique passwords for each user account.
-- Regularly update and patch the system to keep it secure against known vulnerabilities.
-- Consider implementing additional security measures, such as encryption, to protect sensitive data.
-- Periodically review user accounts to ensure they have the appropriate access privileges and are no longer needed.
-- Implement logs and monitoring to detect any suspicious activity on your system relating to user authentication.
+- Her ulanyjy hasaby üçin elmydama güýçli, üýtgeşik parollary ulanyň.
+- Belli gowşak goralan ýerlerden goramak üçin ulgamy yzygiderli täzeläň we ýamanyň.
+- Duýgur maglumatlary goramak üçin şifrlemek ýaly goşmaça howpsuzlyk çärelerini durmuşa geçirmegi göz öňünde tutuň.
+- Ulanyjy hasaplaryna degişli ygtyýarlyklaryň bardygyny we indi zerur däldigini anyklamak üçin wagtal-wagtal gözden geçiriň.
+- Ulanyjyny tanamak bilen baglanyşykly ulgamyňyzdaky şübheli işleri ýüze çykarmak üçin gündelikleri we gözegçiligi amala aşyryň.
 
-In conclusion, local authentication can be an effective method for authenticating users on a single system. However, it is important to be aware of its limitations and make sure to implement additional security measures when necessary to keep your data safe.
+Jemläp aýtsak, ýerli tanamaklyk bir ulgamda ulanyjylary tassyklamak üçin täsirli usul bolup biler. Şeýle-de bolsa, çäklendirmelerinden habarly bolmak we maglumatlaryňyzy howpsuz saklamak üçin zerur bolanda goşmaça howpsuzlyk çärelerini durmuşa geçirmegi üpjün etmek möhümdir.

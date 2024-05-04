@@ -2,7 +2,7 @@
 
 Kiberhowpsuzlyk ulgamynda, howpsuz ulgam gurşawyny saklamakda dürli baglanyşyk görnüşlerine düşünmek möhümdir. Bu bölüm, IT-de köplenç duş gelýän dürli baglanyşyk görnüşleri we olaryň howpsuzlyga edýän täsiri barada maglumat berer.
 
-## Simli baglanyşyklar
+## Simli aragatnaşyk
 
 Ethernet iň giň ýaýran we köp ulanylýan simli birikme görnüşidir. 5-nji kategoriýa (Cat5) ýa-da has ýokary kabeller ulanyp, kompýuterler, marşrutizatorlar we wyklýuçateller ýaly enjamlaryň arasynda ygtybarly, ýokary tizlikli maglumat geçirişini üpjün edýär. Ethernet birikmeleri, simsiz birikmeler bilen deňeşdirilende, has ygtybarly we ygtybarly hasaplanýar, sebäbi päsgelçiliklere we rugsatsyz girişlere az goragly.
 
@@ -10,7 +10,7 @@ Ethernet iň giň ýaýran we köp ulanylýan simli birikme görnüşidir. 5-nji
 
 USB, esasan klawiatura, syçanlar we saklaýyş enjamlary ýaly periferiýa enjamlaryny kompýuterlere birikdirmek üçin ulanylýan meşhur birikme görnüşidir. USB kompýuteriň işleýşini giňeltmegiň amatly usulyny üpjün etse-de, howpsuzlyk töwekgelçiligini döredýär. Ynamsyz USB enjamlaryny ulanmak zyýanly programma üpjünçiliginiň ýaýramagyna sebäp bolup biler, bu bolsa diňe ygtybarly enjamlaryň ulgamyňyza birikdirilmegini üpjün eder.
 
-## Simsiz baglanyşyklar
+## Simsiz aragatnaşyk
 
 Wi-Fi iň giň ýaýran simsiz birikme görnüşidir, enjamlara fiziki kabel zerurlygy bolmazdan internete we biri-birine birikmäge mümkinçilik berýär. Wi-Fi has çeýeligi we hereketi üpjün etse-de, goşmaça howpsuzlyk töwekgelçiligini döredýär. Bu töwekgelçilikleri azaltmak üçin elmydama şifrlemäni (has gowusy WPA3 ýa-da WPA2), güýçli parollary ulanyň we marşrutizatoryňyzyň programma üpjünçiligini yzygiderli täzeläň.
 
