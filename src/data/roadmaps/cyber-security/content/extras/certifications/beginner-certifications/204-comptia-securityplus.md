@@ -1,33 +1,33 @@
 # CompTIA Security+
 
-CompTIA Security+ is a highly recognized and respected certification for individuals seeking to start their careers in the field of cybersecurity. This certification is vendor-neutral, meaning it doesn't focus on any specific technology or platform, and provides a solid foundation in cybersecurity principles, concepts, and best practices.
+“CompTIA Security +” kiberhowpsuzlyk pudagynda karýerasyna başlamak isleýän şahsyýetler üçin ýokary derejede ykrar edilen we hormatlanýan şahadatnama. Bu kepilnama, satyjylara bitarap, haýsydyr bir tehnologiýa ýa-da platforma ünsi jemlemeýär we kiberhowpsuzlyk ýörelgelerinde, düşünjelerinde we öňdebaryjy tejribesinde berk binýady üpjün edýär.
 
-## Overview
+## Gysgaça syn
 
-The CompTIA Security+ certification covers a variety of essential topics, including:
+CompTIA Security+ şahadatnamasy, dürli möhüm mowzuklary öz içine alýar:
 
-- Network security
-- Threat management
-- Application, data, and host security
-- Access control and identity management
-- Cryptography
-- Compliance and operational security
+- Tor howpsuzlygy
+- Howplary dolandyrmak
+- Programma, maglumatlar we ýer eýesi howpsuzlygy
+- Giriş gözegçiligi we şahsyýeti dolandyrmak
+- Kriptografiýa
+- Ylalaşyk we amaly howpsuzlyk
 
-Earning the Security+ certification can open the door to various entry-level cybersecurity roles such as Security Analyst, Security Engineer, or Network Security Specialist.
+Howpsuzlyk + şahadatnamasyny almak, howpsuzlyk analitigi, howpsuzlyk inžereneri ýa-da tor howpsuzlygy hünärmeni ýaly dürli derejeli kiberhowpsuzlyk rollaryna gapy açyp biler.
 
-## Exam Details
+## Synag maglumatlary
 
-To earn the CompTIA Security+ certification, candidates must pass the SY0-601 exam. The exam consists of 90 questions, which are a mix of multiple-choice and performance-based questions. Candidates are given 90 minutes to complete the exam, and a score of 750 out of 900 is required to pass. The exam is available in English, Japanese, and Simplified Chinese.
+CompTIA Security + şahadatnamasyny almak üçin dalaşgärler SY0-601 synagyndan geçmeli. Synag, köp saýlawly we öndürijilikli soraglaryň garyndysy bolan 90 soragdan ybarat. Dalaşgärlere ekzameni tamamlamak üçin 90 minut berilýär we 900-den 750 bal berilmeli. Synag iňlis, ýapon we ýönekeýleşdirilen hytaý dillerinde bolýar.
 
-## Preparation Resources
+## Taýýarlyk çeşmeleri
 
-Preparation for the CompTIA Security+ exam involves a combination of self-study, instructor-led courses, and hands-on experience in the cybersecurity field. Recommended resources include:
+“CompTIA Security +” synagyna taýýarlyk, öz-özüňi öwrenmek, mugallymlaryň ýolbaşçylygyndaky kurslar we kiberhowpsuzlyk pudagynda tejribe toplamagy öz içine alýar. Maslahat berilýän çeşmeler şulary öz içine alýar:
 
-- [Official CompTIA Security+ Study Guide](https://www.comptia.org/training/books/security-study-guide)
-- [CompTIA Security+ Certification Exam Objectives](https://www.comptia.org/training/resources/exam-objectives)
-- [Professor Messer's Free Security+ Video Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-exam/)
-- Practice exams and study materials from reputable providers such as [ExamCompass](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests), [ITProTV](https://www.itpro.tv/courses/comptia/security-601/), or [Dion Training](https://www.diontraining.com/comptia-security/)
+- [Resmi CompTIA Security+ Okuw Gollanmasy] (https://www.comptia.org/training/books/security-study-guide)
+- [CompTIA Security+ Şahadatnama synagynyň maksatlary] (https://www.comptia.org/training/resources/exam-objectives)
+- [Professor Messeriň mugt howpsuzlyk + wideo kursy] (https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-exam/)
+- [ExamCompass] (https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests), [ITProTV] ýaly abraýly üpjün edijilerden synag synaglaryny we okuw materiallaryny öwreniň. //www.itpro.tv/courses/comptia/security-601/), ýa-da [Dion Training] (https://www.diontraining.com/comptia-security/)
 
-While there are no formal prerequisites to take the Security+ exam, CompTIA recommends candidates have two years of experience in IT administration, focusing on security, and a CompTIA Network+ certification.
+Howpsuzlyk + ekzamenini tabşyrmak üçin resmi şertler ýok bolsa-da, CompTIA dalaşgärlere howpsuzlyga ünsi jemläp, IT dolandyryşynda iki ýyllyk tejribe toplamagy we CompTIA Network + şahadatnamasyny maslahat berýär.
 
-Overall, the CompTIA Security+ certification is an excellent choice for those looking to begin their journey in cybersecurity. It provides candidates with a strong foundational knowledge, while also serving as a stepping stone for more advanced certifications in the field.
+Umuman aýdanyňda, kiberhowpsuzlyk bilen syýahatyna başlamak isleýänler üçin “CompTIA Security +” sertifikaty ajaýyp saýlawdyr. Dalaşgärlere güýçli esas bilimleri berýär, şol bir wagtyň özünde bu ugurda has ösen şahadatnamalar üçin ilkinji ädim bolup hyzmat edýär.

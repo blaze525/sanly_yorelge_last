@@ -1,20 +1,20 @@
-# Zero Day
+# Zero day
 
-A **zero-day** refers to a vulnerability in software, hardware, or firmware that is unknown to the parties responsible for fixing or patching it. Cybercriminals can exploit these vulnerabilities to gain unauthorized access to systems, steal sensitive data, or perform other malicious activities. Zero-day vulnerabilities are particularly dangerous because they are difficult to detect and prevent, given that there are no existing fixes or defenses against them.
+** Zero day ** programma üpjünçiliginde, enjamlarynda ýa-da programma üpjünçiliginde gowşaklygy aňladýar, ony düzetmek ýa-da ýapmak üçin jogapkär taraplar üçin näbelli. Kiber jenaýatçylary ulgamlara rugsatsyz girmek, duýgur maglumatlary ogurlamak ýa-da beýleki zyýanly işler üçin bu gowşak goralanlyklardan peýdalanyp bilerler. Bir günüň dowamynda gowşak goralanlyklar, aýratyn-da howply, sebäbi olara garşy düzedişleriň ýa-da goraglaryň ýokdugyny göz öňünde tutup, ýüze çykarmak we öňüni almak kyn.
 
-## Zero-Day Exploits
+## Zero day ekspluatasiýa
 
-Attackers can create **zero-day exploits** by writing malicious code that takes advantage of the discovered zero-day vulnerability. These exploits can be delivered through various methods such as spear phishing emails or drive-by downloads from compromised websites.
+Hüjümçiler ýüze çykarylan Zero day gowşaklykdan peýdalanýan zyýanly kod ýazmak bilen ** Zero day ekspluatasiýa döredip bilerler. Bu ulanyşlar naýza balykçy e-poçta ýa-da bozulan web sahypalaryndan göçürip almak ýaly dürli usullar arkaly berlip bilner.
 
-## Zero-Day Detection & Response
+## Nol gününi kesgitlemek we jogap
 
-Due to the unknown nature of zero-day vulnerabilities, traditional security measures such as signature-based antivirus programs and firewalls may not be effective in detecting them. However, organizations can take several steps to protect themselves from zero-day attacks:
+Bir günlük gowşak goralanlygyň näbelli tebigaty sebäpli, gollara esaslanýan antiwirus programmalary we gorag diwarlary ýaly adaty howpsuzlyk çäreleri olary tapmakda täsirli bolup bilmez. Muňa garamazdan, guramalar özlerini bir günlük hüjümlerden goramak üçin birnäçe ädim ätip bilerler:
 
-- **Patch management**: Regularly update and patch all software, hardware, and firmware to minimize entry points for potential attacks.
-- **Monitor network traffic**: Use network monitoring tools to analyze network traffic continually and look for any unusual or suspicious activities, which may indicate a zero-day exploit attempt.
-- **Behavior-based detection**: Implement security solutions that focus on monitoring the behavior of applications and network traffic for any signs of malicious activities, rather than relying solely on signature-based detection methods.
-- **Use threat intelligence**: Subscribe to threat intelligence feeds that provide information on the latest security vulnerabilities and emerging threats, so you can stay informed about possible zero-day attacks.
-- **Implement strong access control**: Control access to critical systems and data, limit the number of privileged accounts, and enforce least privilege policies wherever possible, making it harder for attackers to exploit zero-day vulnerabilities.
-- **Educate employees**: Train employees to recognize and avoid common attack vectors such as phishing emails or downloading suspicious files, as they can often be the initial entry point for zero-day exploits.
+- ** Patch dolandyryşy **: potentialhtimal hüjümleriň giriş nokatlaryny azaltmak üçin ähli programma üpjünçiligini, enjamlary we programma üpjünçiligini yzygiderli täzeläň we ýapyň.
+- ** Tor trafigine gözegçilik **: Tor traffigini yzygiderli seljermek we Zero day ekspluatasiýa synanyşygyny görkezip biljek üýtgeşik ýa-da şübheli çäreleri gözlemek üçin tor gözegçilik gurallaryny ulanyň.
+- ** Özüňi alyp barşyň esasynda ýüze çykarmak **: Diňe gol esasly kesgitleme usullaryna bil baglamazdan, zyýanly hereketleriň alamatlary üçin programmalaryň we tor trafikiniň özüni alyp barşyna gözegçilik edýän howpsuzlyk çözgütlerini durmuşa geçiriň.
+- ** Howp aňtawyny ulanyň **: Iň soňky howpsuzlyk gowşaklyklary we ýüze çykýan howplar barada maglumat berýän howp abanýan habarlara ýazylyň, şonuň üçin bir günlük hüjümler barada habarly bolup bilersiňiz.
+- ** Güýçli giriş gözegçiligini amala aşyryň **: Kritiki ulgamlara we maglumatlara girişi gözegçilikde saklaň, ýeňillikli hasaplaryň sanyny çäklendiriň we mümkin boldugyça iň az ýeňillik syýasatlaryny ýerine ýetiriň, hüjümçilere gündelik gowşak goralanlyklary ulanmagy kynlaşdyrýar.
+- ** Işgärlere bilim beriň **: Işgärlere fişing e-poçtalary ýa-da şübheli faýllary göçürip almak ýaly umumy hüjüm wektorlaryny tanamagy we olardan gaça durmagy öwrediň, sebäbi köplenç Zero day işleriň başlangyç nokady bolup biler.
 
-In conclusion, while it is impossible to predict and prevent zero-day vulnerabilities completely, organizations can improve their cyber resilience by taking a proactive approach and using a combination of security methods and best practices.
+Sözümiň ahyrynda, Zero day gowşaklyklary öňünden çaklamak we öňüni almak mümkin bolmasa-da, guramalar işjeň çemeleşmek we howpsuzlyk usullarynyň we öňdebaryjy tejribäniň utgaşmasyny ulanmak arkaly kiber durnuklylygyny ýokarlandyryp bilerler.

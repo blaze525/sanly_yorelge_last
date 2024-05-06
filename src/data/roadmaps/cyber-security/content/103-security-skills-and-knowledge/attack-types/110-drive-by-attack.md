@@ -1,29 +1,29 @@
 # Drive by Attack
 
-A **Drive-by Attack** is a common cyber security threat where an attacker aims to infect a user's computer or device by exploiting vulnerabilities in their web browser or its plugins. Typically, users unknowingly fall victim to drive-by attacks when they visit a malicious or compromised website, which in turn automatically executes the malicious code.
+**Drive-by Attack**, hüjümçi web brauzerindäki ýa-da plaginlerindäki gowşaklyklary ulanyp, ulanyjynyň kompýuterine ýa-da enjamyna ýokaşmagy maksat edinýän umumy kiberhowpsuzlyk howpydyr. Adatça, ulanyjylar zyýanly ýa-da zyýanly web sahypasyna girenlerinde bilgeşleýin sürüjilik hüjümleriniň pidasy bolýarlar, bu bolsa öz gezeginde zyýanly kody awtomatiki ýerine ýetirýär.
 
-## How Drive-By Attacks Work
+## Drive by Attack nähili işleýär
 
-- **Exploiting web vulnerabilities**: Attackers often target popular websites with security flaws or vulnerabilities, which can be exploited to inject malicious code.
+- **Web gowşak ýerlerinden peýdalanmak**: Hüjümçiler köplenç zyýanly kod girizmek üçin ulanylyp bilinjek howpsuzlyk kemçilikleri ýa-da gowşak ýerleri bolan meşhur web sahypalaryny nyşana alýarlar.
 
-- **Malvertisements**: Another common method for drive-by attacks is through online advertising. Cybercriminals use advertising networks to circulate infected ads that, once clicked, execute the malicious code on the user's device.
+- **Mahabatlandyryşlar**: Drive by Attack-iň başga bir umumy usuly onlaýn mahabatdyr. Kiber jenaýatçylary, bir gezek basylanda ulanyjynyň enjamynda zyýanly kody ýerine ýetirýän ýokaşan mahabatlary ýaýratmak üçin mahabat torlaryny ulanýarlar.
 
-- **Social Engineering**: Attackers use social engineering tactics to trick users into visiting compromised websites that exploit browser vulnerabilities.
+- **Sosial in Inženerçilik**: Hüjümçiler brauzeriň gowşak ýerlerinden peýdalanýan ulanyjylary aldamak üçin sosial in engineeringenerçilik taktikalaryny ulanýarlar.
 
-## Preventing Drive-By Attacks
+## Drive by Attack hüjüminiň öňüni almak
 
-To safeguard against drive-by attacks, consider the following measures:
+Drive by Attackden goramak üçin aşakdaky çäreleri göz öňünde tutuň:
 
-- **Keep your software up-to-date**: Regularly update your web browser, plugins, and operating system to defend against known vulnerabilities.
+- **Programma üpjünçiligiňizi täzeläň**: Belli gowşaklyklardan goramak üçin web brauzeriňizi, pluginleriňizi we operasiýa ulgamyňyzy yzygiderli täzeläň.
 
-- **Use a reputable antivirus software**: Employ a trusted antivirus solution with real-time scanning and frequent signature updates to detect and remove malware.
+- **Abraýly wirusa garşy programma üpjünçiligini ulanyň**: Zyýanly programma üpjünçiligini ýüze çykarmak we aýyrmak üçin hakyky skaner we ýygy-ýygydan gol täzelenmeleri bilen ygtybarly wirusa garşy çözgüt ulanyň.
 
-- **Enable click-to-play for plugins**: Adjust your browser settings to require manual activation of plugins, like Adobe Flash, which can be exploited by attackers.
+- **Plaginler üçin basmak üçin oýnamagy işjeňleşdiriň**: Hüjümçiler tarapyndan ulanylyp bilinjek Adobe Flash ýaly pluginleriň el bilen işjeňleşdirilmegini talap etmek üçin brauzer sazlamalaryňyzy sazlaň.
 
-- **Practice good browsing habits**: Avoid visiting suspicious websites, opening unknown email attachments, and clicking on unverified links from sources you do not trust.
+- **Göz aýlamagyň gowy endiklerini ýerine ýetiriň**: Şübheli web sahypalaryna girmekden, näbelli e-poçta goşundylaryny açmakdan we ynanmaýan çeşmeleriňiziň tassyklanmadyk baglanyşyklaryna basmakdan gaça duruň.
 
-- **Disable JavaScript and browser plugins when not needed**: Disabling browser features, like JavaScript and browser plugins, can reduce the chances of a drive-by attack.
+- **Gerek däl wagty JavaScript we brauzer plaginlerini öçüriň**: JavaScript we brauzer plaginleri ýaly brauzer aýratynlyklaryny öçürmek, sürüjiniň hüjümini azaldyp biler.
 
-- **Implement web filtering**: Utilize content filtering or secure web gateways to block access to malicious websites.
+- **Web süzgüçini amala aşyryň**: Zyýanly web sahypalaryna girmegi petiklemek üçin mazmun süzgüçini ýa-da ygtybarly web şlýuzalaryny ulanyň.
 
-By understanding the methods and tactics used in drive-by attacks and following these preventative measures, you can better protect yourself and maintain a secure online presence.
+Drive by Attackde ulanylýan usullara we taktikalara düşünmek we bu öňüni alyş çärelerini ýerine ýetirmek bilen, özüňizi has gowy gorap bilersiňiz we howpsuz onlaýn barlygy saklap bilersiňiz.

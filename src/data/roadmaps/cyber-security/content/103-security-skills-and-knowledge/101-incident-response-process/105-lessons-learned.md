@@ -1,25 +1,25 @@
-# Lessons Learned
+# Öwrenilen sapaklar
 
-The final and vital step of the incident response process is reviewing and documenting the "lessons learned" after a cybersecurity incident. In this phase, the incident response team conducts a thorough analysis of the incident, identifies key points to be learned, and evaluates the effectiveness of the response plan. These lessons allow organizations to improve their security posture, making them more resilient to future threats. Below, we discuss the main aspects of the lessons learned phase:
+Waka jogap bermek prosesiniň iň soňky we möhüm ädimi, kiberhowpsuzlyk wakasyndan soň "alnan sapaklary" gözden geçirmek we resminamalaşdyrmak. Bu etapda, hadysalara jogap bermek topary wakany düýpli seljerýär, öwrenilmeli möhüm nokatlary kesgitleýär we jogap meýilnamasynyň netijeliligine baha berýär. Bu sapaklar guramalara geljekdäki howplara has çydamly edip, howpsuzlyk ýagdaýlaryny gowulaşdyrmaga mümkinçilik berýär. Aşakda öwrenilen sapaklaryň esasy taraplaryny ara alyp maslahatlaşýarys:
 
-## Post-Incident Review
+## Wakadan soňky syn
 
-Once the incident has been resolved, the incident response team gathers to discuss and evaluate each stage of the response. This involves examining the actions taken, any issues encountered, and the efficiency of communication channels. This stage helps in identifying areas for improvement in the future.
+Waka çözülenden soň, hadysalara jogap topary jogaplaryň her tapgyryny ara alyp maslahatlaşmak we baha bermek üçin ýygnanýar. Bu, görülýän çäreleri, ýüze çykan islendik meseläni we aragatnaşyk kanallarynyň netijeliligini öwrenmegi öz içine alýar. Bu etap geljekde gowulaşmak üçin ugurlary kesgitlemäge kömek edýär.
 
-## Root Cause Analysis
+## Kök sebäbiniň derňewi
 
-Understanding the root cause of the security incident is essential to prevent similar attacks in the future. The incident response team should analyze and determine the exact cause of the incident, how the attacker gained access, and what vulnerabilities were exploited. This will guide organizations in implementing proper security measures and strategies to minimize risks of a reoccurrence.
+Howpsuzlyk hadysasynyň düýp sebäbine düşünmek geljekde şuňa meňzeş hüjümleriň öňüni almak üçin zerurdyr. Waka jogap topary wakanyň takyk sebäbini, hüjümçiniň nädip girip bilendigini we haýsy gowşak goralanlyklary derňemeli we kesgitlemeli. Bu guramalara gaýtalanma töwekgelçiligini azaltmak üçin degişli howpsuzlyk çärelerini we strategiýalaryny durmuşa geçirmäge ýol görkezer.
 
-## Update Policies and Procedures
+## Syýasat we proseduralary täzeläň
 
-Based on the findings of the post-incident review and root cause analysis, the organization should update its security policies, procedures, and incident response plan accordingly. This may involve making changes to access controls, network segmentation, vulnerability management, and employee training programs.
+Wakadan soňky synyň netijelerine we düýp sebäbiniň derňewine esaslanyp, gurama howpsuzlyk syýasatlaryny, proseduralaryny we hadysalara jogap meýilnamasyny şoňa görä täzelemeli. Bu giriş gözegçiligine, tor segmentasiýasyna, gowşak goralanlygy dolandyrmaga we işgärleri taýýarlamak programmalaryna üýtgeşmeler girizip biler.
 
-## Conduct Employee Training
+## Işgärleri taýýarlamak
 
-Sharing the lessons learned with employees raises awareness and ensures that they have proper knowledge and understanding of the organization's security policies and procedures. Regular training sessions and awareness campaigns should be carried out to enhance employee cybersecurity skills and reinforce best practices.
+Işgärler bilen alnan sapaklary paýlaşmak habardarlygy ýokarlandyrýar we guramanyň howpsuzlyk syýasatlaryna we proseduralaryna dogry bilimleriniň we düşünjeleriniň bolmagyny üpjün edýär. Işgärleriň kiberhowpsuzlyk ukyplaryny ýokarlandyrmak we öňdebaryjy tejribäni güýçlendirmek üçin yzygiderli okuw sapaklary we habarlylyk kampaniýalary geçirilmelidir.
 
-## Document the Incident
+## Wakany resminama ediň
 
-It's crucial to maintain accurate and detailed records of security incidents, including the measures taken by the organization to address them. This documentation serves as evidence of the existence of an effective incident response plan, which may be required for legal, regulatory, and compliance purposes. Furthermore, documenting incidents helps organizations to learn from their experience, assess trends and patterns, and refine their security processes.
+Howpsuzlyk hadysalarynyň takyk we jikme-jik ýazgylaryny, şol sanda guramanyň olary çözmek üçin görýän çärelerini ýöretmek möhümdir. Bu resminamalar, kanuny, kadalaşdyryjy we ýerine ýetiriş maksatlary üçin talap edilip bilinjek täsirli hadysalara jogap meýilnamasynyň bardygyny subut edýär. Mundan başga-da, hadysalary resminamalaşdyrmak guramalara tejribelerinden öwrenmäge, tendensiýalara we nagyşlara baha bermäge we howpsuzlyk amallaryny takyklamaga kömek edýär.
 
-In conclusion, the lessons learned phase aims to identify opportunities to strengthen an organization's cybersecurity framework, prevent similar incidents from happening again, and continuously improve the incident response plan. Regular reviews of cybersecurity incidents contribute to building a robust and resilient security posture, mitigating risks and reducing the impact of cyber threats on the organization's assets and operations.
+Sözümiň ahyrynda, alnan sapaklar guramanyň kiberhowpsuzlyk çarçuwasyny berkitmek, şuňa meňzeş wakalaryň gaýtalanmazlygy we hadysalara jogap meýilnamasyny yzygiderli gowulandyrmak üçin mümkinçilikleri kesgitlemegi maksat edinýär. Kiberhowpsuzlyk hadysalaryna yzygiderli synlar ygtybarly we berk howpsuzlyk ýagdaýyny döretmäge, töwekgelçilikleri azaltmaga we kiber howplaryň guramanyň emläklerine we işlerine edýän täsirini azaltmaga kömek edýär.

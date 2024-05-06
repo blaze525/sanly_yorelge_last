@@ -1,38 +1,38 @@
 # CISSP
 
-The Certified Information Systems Security Professional (CISSP) is a globally recognized certification offered by the International Information System Security Certification Consortium (ISC)². It is designed for experienced security professionals to validate their knowledge and expertise in the field of information security.
+**Certified Information Systems Security Professiona - Sertifikatly maglumat ulgamlary howpsuzlyk hünärmeni (CISSP)**, Halkara Maglumat Ulgamy Howpsuzlyk Sertifikasiýasy Konsorsiumy (ISC) by tarapyndan hödürlenýän dünýä derejesinde ykrar edilen sertifikat. Tejribeli howpsuzlyk hünärmenleri üçin maglumat howpsuzlygy ugrundaky bilimlerini we tejribelerini barlamak üçin döredildi.
 
-## Who Should Obtain the CISSP Certification?
+## CISSP şahadatnamasyny kim almaly?
 
-The CISSP certification is ideal for security consultants, managers, IT directors, security auditors, security analysts, and other professionals who are responsible for designing, implementing, and managing security for their organization. This certification is aimed at professionals with at least five years of full-time experience in two or more of the eight CISSP domains:
+CISSP kepilnamasy, howpsuzlyk geňeşçileri, dolandyryjylar, IT direktorlary, howpsuzlyk barlagçylary, howpsuzlyk analitikleri we öz guramalary üçin howpsuzlygy taslamak, durmuşa geçirmek we dolandyrmak üçin jogapkär beýleki hünärmenler üçin amatlydyr. Bu kepilnama, sekiz sany CISSP domeniniň ikisinde ýa-da ondan köpüsinde azyndan bäş ýyl doly iş tejribesi bolan hünärmenlere gönükdirilendir:
 
-- Security and Risk Management
-- Asset Security
-- Security Architecture and Engineering
-- Communication and Network Security
-- Identity and Access Management (IAM)
-- Security Assessment and Testing
-- Security Operations
-- Software Development Security
+- Howpsuzlyk we töwekgelçilikleri dolandyrmak
+- Aktiwleriň howpsuzlygy
+- Howpsuzlyk arhitekturasy we in Engineeringenerçilik
+- Aragatnaşyk we tor howpsuzlygy
+- Şahsyýet we elýeterliligi dolandyrmak (IAM)
+- Howpsuzlygy bahalandyrmak we synag
+- Howpsuzlyk amallary
+- Programma üpjünçiligini ösdürmegiň howpsuzlygy
 
-## Certification Process
+## Şahadatnama prosesi
 
-To obtain the CISSP certification, candidates must meet the following requirements:
+CISSP şahadatnamasyny almak üçin dalaşgärler aşakdaky talaplary ýerine ýetirmeli:
 
-- **Experience:** Possess a minimum of five years of cumulative, paid, full-time work experience in two or more of the eight domains of the CISSP Common Body of Knowledge (CBK).
+- ** Tejribe: ** CISSP umumy bilimler guramasynyň (CBK) sekiz domeniniň ikisinde ýa-da ondan köpüsinde azyndan bäş ýyl jemlenen, tölegli, doly iş gününe eýe bolmak.
 
-- **Exam:** Pass the CISSP examination with a minimum scaled score of 700 out of 1000 points. The exam consists of 100 to 150 multiple-choice and advanced innovative questions that must be completed within three hours.
+- ** Ekzamen: ** 1000 baldan iň az bal bilen 700 bal bilen CISSP synagyndan geçiň. Synag 100-den 150-e çenli köp sanly we öňdebaryjy innowasiýa soraglaryndan ybarat bolup, üç sagadyň içinde tamamlanmaly.
 
-- **Endorsement:** After passing the exam, candidates must submit an endorsement application to be reviewed and endorsed by an (ISC)² CISSP holder within nine months of passing the exam.
+- ** Goldaw: ** Ekzamen tabşyrandan soň, dalaşgärler synagdan geçen dokuz aýyň içinde (ISC) ² CISSP eýesi tarapyndan gözden geçirilmegi we tassyklanmagy üçin tassyknama tabşyrmaly.
 
-- **Continuing Professional Education (CPE):** To maintain the CISSP certification, professionals must earn 120 CPE credits every three years, with a minimum of 40 credits earned each year, and pay an annual maintenance fee.
+- ** Üznüksiz hünär bilimi (CPE): ** CISSP şahadatnamasyny saklamak üçin hünärmenler her üç ýylda azyndan 40 kredit gazanyp, her ýylda azyndan 40 kredit gazanyp, her ýylda 120 CPE karzyny almaly we her ýyl tehniki hyzmat tölegi tölemeli.
 
-## Benefits of CISSP Certification
+## CISSP şahadatnamasynyň artykmaçlyklary
 
-Obtaining the CISSP certification comes with numerous benefits, such as:
+CISSP şahadatnamasyny almak köp sanly peýdalar bilen gelýär:
 
-- Enhanced credibility, as the CISSP is often considered the gold standard in information security certifications.
-- Increased job opportunities, as many organizations and government agencies require or prefer CISSP-certified professionals.
-- Improved knowledge and skills, as the certification covers a broad range of security topics and best practices.
-- Higher salary potential, as CISSP-certified professionals often command higher salaries compared to their non-certified counterparts.
-- Access to a network of other CISSP-certified professionals and resources, enabling continuous learning and professional development.
+- Ygtybarlylygyň ýokarlanmagy, sebäbi CISSP köplenç maglumat howpsuzlygy şahadatnamalarynda altyn standart hasaplanýar.
+- Köp guramalaryň we döwlet edaralarynyň CISSP tarapyndan tassyklanan hünärmenleri talap edýändigi ýa-da isleýändigi sebäpli iş mümkinçilikleriniň artmagy.
+- Bilimleriň we başarnyklaryň kämilleşdirilmegi, kepilnama howpsuzlyk mowzuklarynyň we öňdebaryjy tejribäniň giň toplumyny öz içine alýar.
+- Has ýokary aýlyk potensialy, sebäbi CISSP tarapyndan tassyklanan hünärmenler köplenç kepillendirilmedik kärdeşleri bilen deňeşdirilende has ýokary aýlyk alýarlar.
+- Üznüksiz öwrenmäge we hünär taýdan ösmäge mümkinçilik berýän beýleki CISSP kepillendirilen hünärmenleriň we çeşmeleriň toruna girmek.

@@ -1,17 +1,17 @@
 # Ring
 
-Ring topology is a type of network configuration where each device is connected to two other devices, forming a circular layout or ring. In this topology, data packets travel from one device to another in a unidirectional manner until they reach the intended recipient or return to the sender, indicating that the recipient was not found in the network.
+RIng topologiýasy, her bir enjam başga iki enjama birikdirilip, tegelek düzülişi ýa-da halkany emele getirýän tor konfigurasiýasynyň bir görnüşidir. Bu topologiýada maglumat paketleri göz öňünde tutulan alyja ýetýänçä ýa-da iberijiniň torda tapylmaýandygyny görkezýänçä, bir enjamdan beýlekisine bir taraplaýyn syýahat edýär.
 
-## Advantages of Ring Topology
+## Ring topologiýasynyň artykmaçlyklary
 
-- **Easy to Install and Configure:** Ring topology is relatively simpler to set up and maintain as it involves connecting each device to the two adjacent devices only.
-- **Predictable Data Transfer Time:** As data packets move in a circular pattern, it becomes easier to predict the maximum time required for a packet to reach its destination.
-- **Minimal Network Congestion:** The unidirectional flow of packets can significantly reduce the chances of network congestion, as the collision of data packets is less likely.
+- ** Gurmak we düzmek aňsat: ** Ring topologiýasy gurmak we goldamak has ýönekeý, sebäbi her enjamy diňe iki ýanaşyk enjama birikdirmegi göz öňünde tutýar.
+- ** Göz öňünde tutulýan maglumatlary geçirmegiň wagty: ** Maglumat paketleri tegelek görnüşde hereket edende, bir paketiň barmaly ýerine ýetmek üçin iň köp wagt talap etmek aňsatlaşýar.
+- ** Minimal tor dyknyşygy: ** Paketleriň bir taraplaýyn akymy, tor paketleriniň çaknyşma ähtimallygyny ep-esli azaldyp biler, sebäbi maglumat paketleriniň çaknyşmagy az.
 
-## Disadvantages of Ring Topology
+## Üzük topologiýasynyň kemçilikleri
 
-- **Dependency on All Devices:** The malfunctioning of a single device or cable can interrupt the entire network, making it difficult to isolate the cause of the issue.
-- **Limited Scalability:** Adding or removing devices in a ring topology can temporarily disrupt the network as the circular pattern needs to be re-established.
-- **Slower Data Transfer:** Since data packets must pass through multiple devices before reaching the destination, the overall speed of data transfer can be slower compared to other topologies.
+- ** Ähli enjamlara baglylyk: ** Bir enjamyň ýa-da kabeliň näsazlygy tutuş tory kesip biler we meseläniň sebäbini aýyrmagy kynlaşdyrar.
+- ** Çäklendirilen göwrümlilik: ** Tegelek nagşy täzeden gurmaly bolany üçin, halka topologiýasyna enjamlary goşmak ýa-da aýyrmak tory wagtlaýyn bozup biler.
+- ** Has haýal maglumat geçirmek: ** Maglumat paketleri barmaly ýerine ýetmezden ozal birnäçe enjamdan geçmeli bolansoň, maglumatlary geçirmegiň umumy tizligi beýleki topologiýalar bilen deňeşdirilende has haýal bolup biler.
 
-Despite its drawbacks, ring topology can be a suitable option for small networks with a predictable data transfer pattern that require minimal maintenance and setup effort. However, for larger and more complex networks, other topologies like star, mesh, or hybrid configurations may provide better flexibility, reliability, and performance.
+Kemçiliklerine garamazdan, halka topologiýasy minimal hyzmat we gurnama tagallalaryny talap edýän maglumatlary öňünden aýdyp boljak nagyşly kiçi torlar üçin amatly wariant bolup biler. Şeýle-de bolsa, has uly we çylşyrymly torlar üçin ýyldyz, mesh ýa-da gibrid konfigurasiýalar ýaly beýleki topologiýalar has çeýeligi, ygtybarlylygy we öndürijiligi üpjün edip biler.

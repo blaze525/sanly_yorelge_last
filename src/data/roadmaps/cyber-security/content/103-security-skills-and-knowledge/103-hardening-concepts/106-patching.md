@@ -1,29 +1,29 @@
 # Patching
 
-Patching is the process of updating, modifying, or repairing software or systems by applying fixes, also known as patches. Patches are designed to address vulnerabilities, fix bugs, or improve the overall security of a system. Regular patching is an essential component of any cyber security strategy.
+Patching, programmalar ýa-da ulgamlar, ýamalar diýlip hem atlandyrylýan düzedişleri ulanmak arkaly täzelenmek, üýtgetmek ýa-da abatlamak prosesi. Patch gowşak ýerleri çözmek, näsazlyklary düzetmek ýa-da ulgamyň umumy howpsuzlygyny ýokarlandyrmak üçin niýetlenendir. Yzygiderli ýamamak, islendik kiberhowpsuzlyk strategiýasynyň möhüm bölegi.
 
-## Importance of Patching
+## Patch etmegiň ähmiýeti
 
-- **Fix security vulnerabilities** - Attackers are constantly on the lookout for unpatched systems, which makes patching a critical step in securing your environment. Patches help fix any security weaknesses that the software developers have identified.
+- ** Howpsuzlyk gowşak taraplaryny düzediň ** - Hüjümçiler daş-töweregiňizi goramakda möhüm ädim ätýän, iberilmedik ulgamlary yzygiderli gözleýärler. Patch, programma üpjünçiligini kesgitlän howpsuzlyk gowşaklyklaryny düzetmäge kömek edýär.
 
-- **Enhance system stability** - Patches often include improvements to the software's codebase or configuration, enhancing the overall performance and stability of the system.
+- ** Ulgamyň durnuklylygyny ýokarlandyrmak ** - Patch köplenç programma üpjünçiliginiň kod bazasyna ýa-da konfigurasiýasyna gowulaşmagy, ulgamyň umumy işleýşini we durnuklylygyny ýokarlandyrýar.
 
-- **Improve software functionality** - Patches can add new features and update existing ones, ensuring that your software remains up-to-date with the latest technology advancements.
+- ** Programma üpjünçiliginiň işleýşini gowulandyrmak ** - Patch täze aýratynlyklary goşup we bar bolanlaryny täzeläp biler, programma üpjünçiligiňiziň iň täze tehnologiýa ösüşleri bilen täzelenmegini üpjün edip biler.
 
-## Patch Management
+## Patch dolandyryşy
 
-To make patching effective, organizations need to establish a well-structured patch management process. A good patch management process includes:
+Patchny täsirli etmek üçin guramalar gowy gurluşly patch dolandyryş işini döretmeli. Gowy patch dolandyryş prosesi şulary öz içine alýar:
 
-- **Inventory** - Maintaining a comprehensive inventory of all devices and software within your organization allows you to detect the need for patches and implement them in a timely manner.
+- ** Inwentar ** - Guramaňyzdaky ähli enjamlaryň we programma üpjünçiliginiň giňişleýin sanawyny ýöretmek, ýamalaryň zerurlygyny ýüze çykarmaga we öz wagtynda durmuşa geçirmäge mümkinçilik berýär.
 
-- **Risk assessment** - Evaluate the risk associated with the vulnerabilities addressed by a patch. This will help prioritize which patches should be applied first.
+- ** Töwekgelçiligi bahalandyrmak ** - Patchnyň çözýän gowşak taraplary bilen baglanyşykly töwekgelçilige baha beriň. Bu, ilki bilen haýsy ýamalary ulanmalydygyny kesgitlemäge kömek eder.
 
-- **Patch testing** - Always test patches in a controlled environment before deploying them to your production systems. This will help identify any potential compatibility or performance issues that the patch might cause.
+- ** Patch synagy ** - Patchy önümçilik ulgamlaryňyza ýerleşdirmezden ozal hemişe gözegçilikde saklaň. Bu, ýamanyň döremegine sebäp bolup biljek islendik utgaşyklygy ýa-da öndürijilik meselelerini kesgitlemäge kömek eder.
 
-- **Deployment** - Ensure that patches are deployed across your organization's systems in a timely and consistent manner, following a predefined schedule.
+- ** Gurnamak ** - Öňünden kesgitlenen tertip boýunça ýamalaryň öz ulgamyňyzda öz wagtynda we yzygiderli ýerleşdirilmegine göz ýetiriň.
 
-- **Monitoring and reporting** - Establishing a mechanism for monitoring and reporting on the status of patching activities ensures that your organization remains compliant with relevant regulations and best practices.
+- ** Gözegçilik we hasabat ** - ingapyş çäreleriniň ýagdaýyna gözegçilik etmek we hasabat bermek mehanizmini döretmek, guramaňyzyň degişli düzgünlere we öňdebaryjy tejribä laýyk gelmegini üpjün edýär.
 
-- **Patch rollback** - In case a patch causes unexpected issues or conflicts, having a plan for rolling back patches is essential. This may include creating backups and having a process for quickly restoring systems to their pre-patch state.
+- ** Patchnyň yzyna gaýtarylmagy ** - Bir patch garaşylmadyk meselelere ýa-da dawa-jenjellere sebäp bolan halatynda, ýamalary yzyna gaýtarmak meýilnamasynyň bolmagy hökmanydyr. Bu ätiýaçlyk nusgalaryny döretmegi we ulgamlary patchdan öňki ýagdaýyna çalt dikeltmek prosesini öz içine alyp biler.
 
-By integrating patching into your organization's cyber security strategy, you can significantly reduce the attack surface and protect your critical assets from cyber threats. Regular patching, combined with other hardening concepts and best practices, ensures a strong and resilient cyber security posture.
+Guramaňyzyň kiberhowpsuzlyk strategiýasyna goşulyşmak bilen, hüjümiň üstüni ep-esli azaldyp, möhüm emläkleriňizi kiber howplardan gorap bilersiňiz. Yzygiderli ýamamak, beýleki gatylaşdyryjy düşünjeler we iň oňat tejribeler bilen bilelikde güýçli we çydamly kiberhowpsuzlygy üpjün edýär.

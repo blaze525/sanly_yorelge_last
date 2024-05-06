@@ -26,11 +26,11 @@ type TopicProgressButtonProps = {
 };
 
 const statusColors: Record<ResourceProgressType, string> = {
-  done: 'bg-green-500',
-  learning: 'bg-yellow-500',
-  pending: 'bg-gray-300',
-  skipped: 'bg-black',
-  removed: '',
+  ýerineýetirildi: 'bg-green-500',
+  öwrenilýär: 'bg-yellow-500',
+  dowamynda: 'bg-gray-300',
+  geçilen: 'bg-black',
+  pozulan: '',
 };
 
 export function TopicProgressButton(props: TopicProgressButtonProps) {
@@ -38,7 +38,7 @@ export function TopicProgressButton(props: TopicProgressButtonProps) {
 
   const toast = useToast();
   const [isUpdatingProgress, setIsUpdatingProgress] = useState(true);
-  const [progress, setProgress] = useState<ResourceProgressType>('pending');
+  const [progress, setProgress] = useState<ResourceProgressType>('geçilen');
   const [showChangeStatus, setShowChangeStatus] = useState(false);
 
   const changeStatusRef = useRef<HTMLDivElement>(null);
@@ -67,12 +67,12 @@ export function TopicProgressButton(props: TopicProgressButtonProps) {
   useKeydown(
     'd',
     () => {
-      if (progress === 'done') {
+      if (progress === 'ýerineýetirildi') {
         onClose();
         return;
       }
 
-      handleUpdateResourceProgress('done');
+      handleUpdateResourceProgress('ýerineýetirildi');
     },
     [progress],
   );
@@ -81,12 +81,12 @@ export function TopicProgressButton(props: TopicProgressButtonProps) {
   useKeydown(
     'l',
     () => {
-      if (progress === 'learning') {
+      if (progress === 'öwrenilýär') {
         onClose();
         return;
       }
 
-      handleUpdateResourceProgress('learning');
+      handleUpdateResourceProgress('öwrenilýär');
     },
     [progress],
   );
@@ -95,12 +95,12 @@ export function TopicProgressButton(props: TopicProgressButtonProps) {
   useKeydown(
     's',
     () => {
-      if (progress === 'skipped') {
+      if (progress === 'geçilen') {
         onClose();
         return;
       }
 
-      handleUpdateResourceProgress('skipped');
+      handleUpdateResourceProgress('geçilen');
     },
     [progress],
   );
@@ -110,12 +110,12 @@ export function TopicProgressButton(props: TopicProgressButtonProps) {
     'r',
     () => {
       console.log(progress);
-      if (progress === 'pending') {
+      if (progress === 'geçilen') {
         onClose();
         return;
       }
 
-      handleUpdateResourceProgress('pending');
+      handleUpdateResourceProgress('geçilen');
     },
     [progress],
   );
@@ -182,7 +182,7 @@ export function TopicProgressButton(props: TopicProgressButtonProps) {
           ></span>
         </span>
         <span className="ml-2 capitalize">
-          {progress === 'learning' ? 'In Progress' : progress}
+          {progress === 'öwrenilýär' ? 'In Progress' : progress}
         </span>
       </span>
 
@@ -190,7 +190,7 @@ export function TopicProgressButton(props: TopicProgressButtonProps) {
         className="inline-flex cursor-pointer items-center rounded-br-md rounded-tr-md border-l border-l-gray-300 bg-gray-100 p-1 px-2 text-sm text-black hover:bg-gray-200"
         onClick={() => setShowChangeStatus(true)}
       >
-        <span className="mr-0.5">Update Status</span>
+        <span className="mr-0.5">Täzelemek</span>
         <ChevronDown className="h-4 w-4" />
       </button>
 
@@ -202,11 +202,11 @@ export function TopicProgressButton(props: TopicProgressButtonProps) {
           {allowMarkingDone && (
             <button
               className="inline-flex justify-between px-3 py-1.5 text-left text-sm text-gray-800 hover:bg-gray-100"
-              onClick={() => handleUpdateResourceProgress('done')}
+              onClick={() => handleUpdateResourceProgress('ýerineýetirildi')}
             >
               <span>
                 <span
-                  className={`mr-2 inline-block h-2 w-2 rounded-full ${statusColors['done']}`}
+                  className={`mr-2 inline-block h-2 w-2 rounded-full ${statusColors['ýerineýetirildi']}`}
                 ></span>
                 Done
               </span>
@@ -216,11 +216,11 @@ export function TopicProgressButton(props: TopicProgressButtonProps) {
           {allowMarkingLearning && (
             <button
               className="inline-flex justify-between px-3 py-1.5 text-left text-sm text-gray-800 hover:bg-gray-100"
-              onClick={() => handleUpdateResourceProgress('learning')}
+              onClick={() => handleUpdateResourceProgress('öwrenilýär')}
             >
               <span>
                 <span
-                  className={`mr-2 inline-block h-2 w-2 rounded-full ${statusColors['learning']}`}
+                  className={`mr-2 inline-block h-2 w-2 rounded-full ${statusColors['öwrenilýär']}`}
                 ></span>
                 In Progress
               </span>
@@ -231,11 +231,11 @@ export function TopicProgressButton(props: TopicProgressButtonProps) {
           {allowMarkingPending && (
             <button
               className="inline-flex justify-between px-3 py-1.5 text-left text-sm text-gray-800 hover:bg-gray-100"
-              onClick={() => handleUpdateResourceProgress('pending')}
+              onClick={() => handleUpdateResourceProgress('geçilen')}
             >
               <span>
                 <span
-                  className={`mr-2 inline-block h-2 w-2 rounded-full ${statusColors['pending']}`}
+                  className={`mr-2 inline-block h-2 w-2 rounded-full ${statusColors['geçilen']}`}
                 ></span>
                 Reset
               </span>
@@ -245,11 +245,11 @@ export function TopicProgressButton(props: TopicProgressButtonProps) {
           {allowMarkingSkipped && (
             <button
               className="inline-flex justify-between px-3 py-1.5 text-left text-sm text-gray-800 hover:bg-gray-100"
-              onClick={() => handleUpdateResourceProgress('skipped')}
+              onClick={() => handleUpdateResourceProgress('geçilen')}
             >
               <span>
                 <span
-                  className={`mr-2 inline-block h-2 w-2 rounded-full ${statusColors['skipped']}`}
+                  className={`mr-2 inline-block h-2 w-2 rounded-full ${statusColors['geçilen']}`}
                 ></span>
                 Skip
               </span>

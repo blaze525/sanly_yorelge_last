@@ -1,27 +1,27 @@
-# NAC-based
+# NAC esasly (NAC-based)
 
-Network Access Control (NAC) based hardening is a crucial component in enhancing the security of your network infrastructure. NAC provides organizations with the ability to control and manage access to the network resources, ensuring that only authorized users and devices can connect to the network. It plays a vital role in reducing the attack surface and preventing unauthorized access to sensitive data and resources.
+Tor elýeterliligine gözegçilik (NAC (Network Access Control)) esasly gatylaşma, tor infrastrukturanyňyzyň howpsuzlygyny ýokarlandyrmakda möhüm elementdir. NAC guramalara tor çeşmelerine elýeterliligi gözegçilikde saklamak we dolandyrmak ukybyny berýär, tora diňe ygtyýarly ulanyjylaryň we enjamlaryň birikip biljekdigini üpjün edýär. Hüjümiň üstüni azaltmakda we duýgur maglumatlara we çeşmelere rugsatsyz girmegiň öňüni almakda möhüm rol oýnaýar.
 
-## Key Features of NAC-Based Hardening
+## NAC esasly gatylaşdyrmagyň esasy aýratynlyklary
 
-- **Authentication and Authorization:** NAC-based hardening ensures that users and devices connecting to the network are properly authenticated and have been granted appropriate access permissions. This includes the use of strong passwords, multi-factor authentication (MFA), and enforcing access control policies.
+- ** Autentifikasiýa we awtorizasiýa: ** NAC esasly gatylaşdyrma, tora birikýän ulanyjylaryň we enjamlaryň dogry tassyklanmagyny we degişli giriş rugsatlarynyň berilmegini üpjün edýär. Bu güýçli parollary ulanmagy, köp faktorly tanamaklygy (MFA) we giriş gözegçilik syýasatlaryny ýerine ýetirmegi öz içine alýar.
 
-- **Endpoint Health Checks:** NAC solutions continuously monitor the health and compliance of endpoints, such as whether anti-virus software and security patches are up to date. If a device is found to be non-compliant, it can be automatically quarantined or disconnected from the network, thus preventing the spread of threats.
+- ** Ahyrky nokadyň saglyk barlaglary: ** NAC çözgütleri, wirusa garşy programma üpjünçiligi we howpsuzlyk programmalarynyň döwrebapdygy ýa-da ýokdugy ýaly ahyrky nokatlaryň saglygyna we berjaý edilişine yzygiderli gözegçilik edýär. Enjamyň laýyk gelmeýänligi ýüze çykarylsa, awtomatiki usulda karantin edilip ýa-da tordan aýrylyp bilner, şeýlelik bilen howplaryň ýaýramagynyň öňüni alar.
 
-- **Real-Time Visibility and Control:** NAC provides real-time visibility into the devices connected to your network, allowing you to identify and control risks proactively. This includes monitoring for unauthorized devices, unusual behavior, or known security gaps.
+- ** Hakyky Wagt Görüniş we Dolandyryş: ** NAC toruňyza birikdirilen enjamlara real wagt görünmegini üpjün edýär, bu töwekgelçilikleri işjeň kesgitlemäge we gözegçilikde saklamaga mümkinçilik berýär. Bu rugsatsyz enjamlara, adaty bolmadyk gylyk-häsiýetlere ýa-da belli howpsuzlyk boşluklaryna gözegçilik etmegi öz içine alýar.
 
-- **Device Profiling:** NAC-based hardening can automatically identify and classify devices connected to the network, making it easier to enforce access control policies based on device type and ownership.
+- ** Enjamyň tertibi: ** NAC esasly gatylaşdyrma, tora birikdirilen enjamlary awtomatiki kesgitläp we toparlara bölüp biler, bu enjamyň görnüşine we eýeçiligine esaslanýan giriş gözegçilik syýasatlaryny ýerine ýetirmegi aňsatlaşdyrar.
 
-- **Policy Enforcement:** NAC solutions enforce granular access policies for users and devices, reducing the attack surface and limiting the potential damage of a security breach. Policies can be based on factors such as user role, device type, and location.
+- ** Syýasatyň ýerine ýetirilişi: ** NAC çözgütleri ulanyjylar we enjamlar üçin granular giriş syýasatlaryny ýerine ýetirýär, hüjümiň üstüni azaldýar we howpsuzlyk düzgünleriniň bozulmagyny çäklendirýär. Syýasat ulanyjynyň roly, enjamyň görnüşi we ýerleşişi ýaly faktorlara esaslanyp bilner.
 
-## NAC Best Practices
+## NAC iň oňat tejribe
 
-To get the most out of a NAC-based hardening approach, here are some best practices to consider:
+NAC esasly gatylaşdyryş çemeleşmesinden has köp peýdalanmak üçin şu ýerde göz öňünde tutmaly iň oňat tejribeler bar:
 
-- **Develop a Comprehensive Access Control Policy:** Clearly define the roles, responsibilities, and access permissions within your organization, ensuring that users have the least privilege required to perform their job functions.
-- **Regularly Review and Update Policies:** As your organization evolves, so should your NAC policies. Regularly review and update policies to maintain alignment with organizational changes.
-- **Educate Users:** Educate end-users about the importance of security and their role in maintaining a secure network. Offer training on topics such as password management, avoiding phishing attacks, and identifying social engineering attempts.
-- **Ensure Comprehensive Coverage:** Ensure that your NAC solution covers all entry points to your network, including remote access, wireless networks, and guest access.
-- **Monitor and Respond to NAC Alerts:** NAC solutions generate alerts when suspicious activity is detected, such as an unauthorized device trying to connect to the network. Make sure you have a process in place to respond to these alerts in a timely manner.
+- ** Giňişleýin elýeterliligi dolandyrmak syýasatyny işläp düzüň: ** Ulanyjylaryň öz iş funksiýalaryny ýerine ýetirmek üçin iň az artykmaçlyga eýe bolmagyny üpjün edip, guramaňyzdaky rollary, jogapkärçiligi we giriş rugsatlaryny anyk kesgitläň.
+- ** Syýasatlary yzygiderli gözden geçiriň we täzeläň: ** Guramaňyzyň ösmegi bilen, NAC syýasatlaryňyz hem üýtgemeli. Guramaçylyk üýtgemeleri bilen sazlaşyklylygy saklamak üçin syýasatlary yzygiderli gözden geçiriň we täzeläň.
+- ** Ulanyjylara bilim beriň: ** Ahyrky ulanyjylara howpsuzlygyň ähmiýeti we ygtybarly ulgamy saklamakdaky roly barada öwrediň. Paroly dolandyrmak, balykçy hüjümlerinden gaça durmak we sosial in engineeringenerçilik synanyşyklaryny kesgitlemek ýaly mowzuklarda okuw hödürläň.
+- ** Giňişleýin gurşawy üpjün ediň: ** NAC çözgüdiňiziň uzakdaky giriş, simsiz torlar we myhmanlara giriş ýaly ähli giriş nokatlaryny öz içine alýandygyna göz ýetiriň.
+- ** NAC duýduryşlaryna gözegçilik we jogap beriň: ** NAC çözgütleri, tora birikmäge synanyşýan birugsat enjam ýaly şübheli hereket ýüze çykanda duýduryş döredýär. Bu duýduryşlara öz wagtynda jogap bermek üçin bir amalyňyzyň bardygyna göz ýetiriň.
 
-By implementing NAC-based hardening in your cybersecurity strategy, you protect your organization from threats and maintain secure access to critical resources.
+Kiberhowpsuzlyk strategiýaňyzda NAC esasly berkitmegi durmuşa geçirip, guramaňyzy howplardan goraýarsyňyz we möhüm çeşmelere ygtybarly elýeterliligi gorarsyňyz.

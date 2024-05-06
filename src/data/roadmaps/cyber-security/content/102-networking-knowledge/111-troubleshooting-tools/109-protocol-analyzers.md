@@ -1,31 +1,31 @@
-# Protocol Analyzers
+# Protokol analizatorlary
 
-Protocol analyzers, also known as packet analyzers or network analyzers, are tools used to capture and analyze the data packets transmitted across a network. These tools help in monitoring network traffic, identifying security vulnerabilities, troubleshooting network problems, and ensuring that the network is operating efficiently. By analyzing the packets on a network, you can gain insights into the performance of your network infrastructure and the behavior of various devices and applications on it.
+Protokol seljerijileri, paket analizatorlary ýa-da tor analizatorlary diýlip hem atlandyrylýar, torda iberilýän maglumat paketlerini ele almak we derňemek üçin ulanylýan gurallardyr. Bu gurallar tor trafigine gözegçilik etmekde, howpsuzlyk gowşaklyklaryny kesgitlemekde, tor meselelerini çözmekde we toruň netijeli işlemegine kömek edýär. Tordaky paketleri seljermek bilen, tor infrastrukturanyňyzyň işleýşi we ondaky dürli enjamlaryň we amaly programmalaryň özüni alyp barşy barada düşünje alyp bilersiňiz.
 
-## Features & Uses of Protocol Analyzers
+## Protokol analizatorlarynyň aýratynlyklary we ulanylyşy
 
-- **Traffic Monitoring & Analysis**: Protocol analyzers allow you to monitor the traffic on your network in real-time, which helps identify bottlenecks, network congestion, and other performance issues.
+- **Traffic Monitoring & Analysis**: Protokol seljerijileri toruňyzdaky traffigi hakyky wagtda gözegçilikde saklamaga mümkinçilik berýär, bu päsgelçilikleri, setdäki dyknyşyklary we beýleki öndürijilik meselelerini kesgitlemäge kömek edýär.
 
-- **Security Analysis**: Analyzing network traffic can help identify unusual traffic patterns, potential security threats or breaches, and malicious activities. By studying the data packets, you can detect unauthorized access, malware infections, or other cyber attacks.
+- **Security Analysis**: Tor trafigini seljermek adaty bolmadyk ýol hereketlerini, howp abanmagy ýa-da bozulmalary we zyýanly çäreleri kesgitlemäge kömek edip biler. Maglumat paketlerini öwrenmek bilen birugsat girişi, zyýanly programma üpjünçiligini ýokaşdyrmak ýa-da beýleki kiber hüjümleri ýüze çykaryp bilersiňiz.
 
-- **Protocol Debugging**: These tools enable you to analyze different network protocols (such as HTTP, FTP, and SMTP) and their respective packets, which proves useful in troubleshooting issues related to application performance and communication.
+- **Protocol Debugging**: Bu gurallar dürli ulgam protokollaryny (HTTP, FTP we SMTP ýaly) we degişli paketleri seljermäge mümkinçilik berýär, bu programmanyň işleýşi we aragatnaşyk bilen baglanyşykly meseleleriň çözülmeginde peýdalydygyny görkezýär.
 
-- **Bandwidth Utilization**: Protocol analyzers allow you to analyze the volume of network traffic and how the available bandwidth resources are being used, helping you optimize the network for better performance.
+- **Bandwidth Utilization**: Protokol seljerijileri, tor trafiginiň göwrümini we elýeterli geçiriş giňliginiň çeşmeleriniň nähili ulanylýandygyny seljermäge mümkinçilik berýär, bu has gowy işlemek üçin ulgamy optimizirlemäge kömek edýär.
 
-- **Network Troubleshooting**: By capturing and analyzing packet data, you can identify network problems and take corrective measures to improve the overall performance and stability of the network.
+- **Network Troubleshooting**: Paket maglumatlaryny ele almak we seljermek arkaly tor meselelerini kesgitläp we toruň umumy işleýşini we durnuklylygyny ýokarlandyrmak üçin düzediş çäreleri görüp bilersiňiz.
 
-## Popular Protocol Analyzers
+## Meşhur protokol analizatorlary
 
-Here's a list of some widely-used protocol analyzers:
+Ine, giňden ulanylýan protokol analizatorlarynyň sanawy:
 
-- **Wireshark**: Wireshark is an open-source packet analyzer with support for numerous protocols. It is one of the most popular and widely-used network troubleshooting tools available.
+- **Wireshark**: Wireshark, köp sanly protokollary goldaýan açyk çeşme paket analizatory. Elýeterli iň meşhur we giňden ulanylýan tor näsazlyklaryny düzetmek gurallaryndan biridir.
 
-- **TCPDump**: TCPDump is a command-line packet analyzer that allows you to capture network traffic and view it in a human-readable format, making it easy to analyze.
+- **TCPDump**: TCPDump, set trafigini ele almaga we ony adam tarapyndan okalýan görnüşde görmäge mümkinçilik berýän buýruk setir paket analizatory bolup, derňewi aňsatlaşdyrýar.
 
-- **Ethereal**: Ethereal is another open-source packet analyzer that provides a graphical user interface for capturing, filtering, and analyzing network traffic.
+- **Ethereal**: Ethereal, tor trafigini ele almak, süzmek we derňemek üçin grafiki ulanyjy interfeýsini üpjün edýän başga bir açyk çeşme paket analizatorydyr.
 
-- **Nmap**: Nmap is a popular network scanning tool that also includes packet capture and analysis capabilities, allowing you to analyze the network for vulnerabilities and other issues.
+- **Nmap**: Nmap, toruň gowşak taraplary we beýleki meseleler üçin seljermäge mümkinçilik berýän paket almak we derňew mümkinçiliklerini öz içine alýan meşhur tor skaner guralydyr.
 
-- **Microsoft Message Analyzer**: Microsoft Message Analyzer is a versatile protocol analyzer developed by Microsoft that provides deep packet inspection and analysis of network traffic, including encrypted traffic.
+- **Microsoft Message Analyzer**: Microsoft Habar Analizatory, Microsoft tarapyndan işlenip düzülen köpugurly protokol analizatory bolup, şifrlenen traffigi goşmak bilen tor trafigini çuňňur gözden geçirmegi we seljermäni üpjün edýär.
 
-In conclusion, protocol analyzers are essential tools for network administrators, security professionals, and developers alike to ensure the performance, security, and stability of their networks. By understanding how these tools work and using them effectively, you can take proactive measures to maintain and improve the health of your network.
+Sözümiň ahyrynda, protokol seljerijileri öz torlarynyň işleýşini, howpsuzlygyny we durnuklylygyny üpjün etmek üçin tor dolandyryjylary, howpsuzlyk hünärmenleri we işläp düzüjiler üçin möhüm gurallardyr. Bu gurallaryň işleýşine düşünmek we olary netijeli ulanmak bilen, toruňyzyň saglygyny goramak we gowulaşdyrmak üçin işjeň çäreleri görüp bilersiňiz.

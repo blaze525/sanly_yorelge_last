@@ -1,32 +1,32 @@
 # GPEN
 
-The **GIAC Penetration Tester (GPEN)** certification is an advanced-level credential designed for professionals who want to demonstrate their expertise in the field of penetration testing and ethical hacking. Created by the Global Information Assurance Certification (GIAC) organization, GPEN validates an individual's ability to conduct legal, systematic, and effective penetration tests to assess the security of computer networks, systems, and applications.
+** GIAC Penetration Tester (GPEN) ** kepilnamasy, giriş synaglary we etiki hakerler boýunça tejribelerini görkezmek isleýän hünärmenler üçin döredilen ýokary derejeli şahsyýet. Global maglumat kepillendiriş sertifikaty (GIAC) guramasy tarapyndan döredilen GPEN, şahsyýetiň kompýuter torlarynyň, ulgamlarynyň we amaly programmalarynyň howpsuzlygyna baha bermek üçin kanuny, yzygiderli we täsirli giriş synaglaryny geçirmek ukybyny tassyklaýar.
 
-## Key Topics
+## Esasy temalar
 
-- **Reconnaissance:** Utilize various methods to gather information on a target's infrastructure, services, and vulnerabilities.
-- **Scanning:** Employ tools and techniques to actively probe and evaluate target systems, including Nmap, Nessus, and Metasploit.
-- **Exploitation:** Understand how to exploit vulnerabilities effectively, including buffer overflow attacks, SQL injection, and browser-based attacks.
-- **Password Attacks:** Employ password cracking tools and techniques to bypass authentication mechanisms.
-- **Wireless and Monitoring**: Identify and exploit wireless networks, as well as monitor network traffic to uncover useful information.
-- **Post Exploitation**: Perform post-exploitation activities like privilege escalation, lateral movement, and data exfiltration.
-- **Legal and Compliance**: Understand the legal considerations involved in penetration testing, and follow industry best practices and standards.
+- ** Gözleg: ** Maksadyň infrastrukturasy, hyzmatlary we gowşak taraplary barada maglumat ýygnamak üçin dürli usullary ulanyň.
+- ** Skaner: ** Nmap, Nessus we Metasploit ýaly maksatly ulgamlary işjeň barlamak we baha bermek üçin gurallary we usullary ulanyň.
+- ** Ekspluatasiýa: ** Gowşaklyklary nädip netijeli ulanmalydygyna düşüniň, buferiň aşmagy, SQL sanjymy we brauzer esasly hüjümler.
+- ** Parol hüjümleri: ** Paroly döwmek gurallaryny we tanamak mehanizmlerinden aýlanyp geçmek usullaryny ulanyň.
+- ** Simsiz we gözegçilik **: Simsiz torlary kesgitläň we ulanyň, şeýle hem peýdaly maglumatlary açmak üçin tor trafigine gözegçilik ediň.
+- ** Postdan peýdalanmak **: Ekspluatasiýadan soňky çäreleri artykmaçlygy ýokarlandyrmak, gapdal hereketi we maglumatlary süzmek ýaly işleri ýerine ýetiriň.
+- ** Hukuk we laýyklyk **: Giriş synagyna gatnaşýan kanuny pikirlere düşüniň we pudagyň öňdebaryjy tejribelerine we ülňülerine eýeriň.
 
-## Target Audience
+## Maksatly tomaşaçy
 
-The GPEN certification is primarily aimed at cybersecurity professionals, network administrators, security consultants, and penetration testers looking to enhance their skills and reinforce their credibility in the industry.
+GPEN kepilnamasy, ilkinji nobatda, hünärlerini ýokarlandyrmak we bu pudakdaky abraýyny güýçlendirmek isleýän kiberhowpsuzlyk hünärmenlerine, tor dolandyryjylaryna, howpsuzlyk geňeşçilerine we giriş synagçylaryna gönükdirilendir.
 
-## Preparing for the GPEN Exam
+## GPEN ekzamenine taýýarlyk
 
-To prepare for the GPEN exam, candidates are recommended to have a strong foundation in the fundamentals of cybersecurity, networking, and ethical hacking. GIAC offers a comprehensive training course called "SEC560: Network Penetration Testing and Ethical Hacking" which aligns with the GPEN exam objectives. However, self-study using other resources like books, articles, and online tutorials is also a viable option.
+GPEN ekzamenine taýýarlyk görmek üçin dalaşgärlere kiberhowpsuzlyk, aragatnaşyk we ahlak taýdan döwmek esaslarynda berk binýady bolmagy maslahat berilýär. GIAC, GPEN synag maksatlaryna laýyk gelýän "SEC560: Network Penetration Testing and Ethical Hacking" atly giňişleýin okuw kursuny hödürleýär. Şeýle-de bolsa, kitaplar, makalalar we onlaýn sapaklar ýaly beýleki çeşmeleri ulanmak bilen öz-özüňi öwrenmek hem amatly wariantdyr.
 
-## Exam Details
+## Synag maglumatlary
 
-- **Number of Questions:** 115
-- **Type of Questions:** Multiple-choice
-- **Duration:** 3 hours
-- **Passing Score:** 74%
-- **Exam Delivery:** Proctored, Online or at a testing center
-- **Cost:** $1,999 USD (Includes one retake)
+- ** Soraglaryň sany: ** 115
+- ** Soraglaryň görnüşi: ** Köp saýlawly
+- ** Dowamlylygy: ** 3 sagat
+- ** Geçen bal: ** 74%
+- ** Synag tabşyrmak: ** Önümçilik, onlaýn ýa-da synag merkezinde
+- ** Bahasy: ** 1,999 ABŞ dollary (Bir gezek yzyna almagy öz içine alýar)
 
-Upon successfully passing the exam, candidates will receive the GIAC Penetration Tester certification, which is valid for four years. To maintain the certification, professionals must earn plus 36 Continuing Professional Education (CPE) credits every two years and pay a maintenance fee to keep their credentials active.
+Synagdan üstünlikli geçensoň, dalaşgärler dört ýyl güýji bolan GIAC Penetration Tester şahadatnamasyny alarlar. Şahadatnamany dowam etdirmek üçin hünärmenler her iki ýylda goşmaça 36 üznüksiz hünär bilimi (CPE) karzyny almaly we şahsyýetnamalarynyň işjeň bolmagy üçin tehniki hyzmat tölemeli.

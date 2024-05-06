@@ -1,45 +1,45 @@
 # CISA
 
-The **Certified Information Systems Auditor (CISA)** is a globally recognized certification for professionals who audit, control, monitor, and assess an organization's information technology and business systems.
+**Certified Information Systems Auditor - Sertifikatly maglumat ulgamlarynyň auditory (CISA)**, guramanyň maglumat tehnologiýalaryna we iş ulgamlaryna gözegçilik, gözegçilik, gözegçilik we baha berýän hünärmenler üçin dünýä derejesinde ykrar edilen sertifikat.
 
-## Overview
+## Gysgaça syn
 
-CISA was established by the Information Systems Audit and Control Association (ISACA) and is designed to demonstrate an individual's expertise in managing vulnerabilities, ensuring compliance with industry regulations, and instituting controls within the business environment.
+CISA Maglumat ulgamlarynyň gözegçilik we gözegçilik birleşigi (ISACA) tarapyndan döredildi we şahsyýetiň gowşak goralanlyklary dolandyrmak, pudak düzgünleriniň berjaý edilmegini üpjün etmek we iş gurşawynda gözegçiligi ýola goýmak boýunça şahsyýetiň tejribesini görkezmek üçin döredildi.
 
-## Who Should Pursue CISA?
+## CISA-ny kim yzarlamaly?
 
-CISA is most suitable for professionals with roles such as:
+CISA aşakdaky ýaly rollary bolan hünärmenler üçin has amatlydyr:
 
-- IT auditors
-- IT security professionals
-- IT risk analysts
-- IT compliance analysts
-- Security consultants
+- IT barlagçylary
+- IT howpsuzlygy hünärmenleri
+- IT töwekgelçilik analitikleri
+- IT laýyklyk analitikleri
+- Howpsuzlyk boýunça geňeşçiler
 
-## Exam and Prerequisites
+## Synag we şertler
 
-To earn the CISA certification, candidates must pass a comprehensive exam. The prerequisites for the CISA certification include:
+CISA şahadatnamasyny almak üçin dalaşgärler giňişleýin synagdan geçmeli. CISA kepilnamasy üçin zerur şertler:
 
-- Five years of professional experience in information systems auditing, control, assurance, or security work. Some substitutions and waivers can be made for education, but a minimum of two years of experience in information systems audit or control is required.
-- Agree to the ISACA Code of Professional Ethics.
-- Adherence to the CISA Continuing Professional Education (CPE) Program, which requires a minimum of 20 CPE hours annually and 120 hours of CPE in a 3-year period.
+- Maglumat ulgamlaryny barlamak, gözegçilik, kepillik ýa-da howpsuzlyk işlerinde bäş ýyllyk hünär tejribesi. Käbir çalyşmalar we boýun gaçyrmalar bilim üçin edilip bilner, emma maglumat ulgamlaryny barlamak ýa-da gözegçilik etmekde azyndan iki ýyl tejribe gerek.
+- ISACA hünär etikasy kodeksine razy.
+- Her ýylda azyndan 20 CPE sagat we 3 ýyllyk döwürde 120 sagat CPE talap edýän CISA üznüksiz hünär bilimi (CPE) maksatnamasyna boýun bolmak.
 
-The exam itself has a duration of four hours and consists of 150 multiple-choice questions. It covers five domains:
+Ekzameniň özi dört sagat dowam edýär we 150 sany köp soragdan ybarat. Bäş domeni öz içine alýar:
 
-- The Process of Auditing Information Systems (21%)
-- Governance and Management of IT (16%)
-- Information Systems Acquisition, Development, and Implementation (18%)
-- Information Systems Operations, Maintenance, and Service Management (20%)
-- Protection of Information Assets (25%)
+- Maglumat ulgamlarynyň barlagy (21%)
+- IT-i dolandyrmak we dolandyrmak (16%)
+- Maglumat ulgamlaryny almak, ösdürmek we durmuşa geçirmek (18%)
+- Maglumat ulgamlarynyň amallary, hyzmat we hyzmat dolandyryşy (20%)
+- Maglumat aktiwlerini goramak (25%)
 
-## Benefits of CISA Certification
+## CISA şahadatnamasynyň artykmaçlyklary
 
-Upon obtaining the CISA certification, some of the benefits include:
+CISA şahadatnamasyny alandan soň, käbir artykmaçlyklar şulary öz içine alýar:
 
-- Increased credibility and recognition in the industry
-- Enhanced career prospects and job security
-- A competitive edge over non-certified professionals
-- The potential for salary increase and promotions
-- Access to a global community of certified professionals and resources
+- Senagatda ynamyň we ykrar edilmegiň ýokarlanmagy
+- Karýeranyň geljegi we iş howpsuzlygy
+- Kepilnama berilmedik hünärmenlerden bäsdeşlik ukyby
+- Aýlyk hakyny ýokarlandyrmak we ýokarlandyrmak wezipeleri
+- Ygtyýarly hünärmenleriň we çeşmeleriň dünýä jemgyýetçiligine girmek
 
-Overall, the CISA certification can be a valuable asset for those looking to advance their careers in cybersecurity, particularly in the area of auditing and controlling information systems.
+Umuman aýdanyňda, CISA kepilnamasy kiberhowpsuzlykda, esasanam maglumat ulgamlaryna gözegçilik we gözegçilik ulgamynda karýerasyny ösdürmek isleýänler üçin gymmatly baýlyk bolup biler.

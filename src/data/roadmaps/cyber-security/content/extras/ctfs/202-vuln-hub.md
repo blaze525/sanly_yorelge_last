@@ -1,19 +1,19 @@
 # VulnHub
 
-[VulnHub](https://www.vulnhub.com/) is a platform that provides a wide range of vulnerable virtual machines for you to practice your cybersecurity skills in a safe and legal environment. These machines, also known as virtual labs or boot-to-root (B2R), often mimic real-world scenarios, and are designed to train and challenge security enthusiasts, researchers, and students who want to learn how to find and exploit vulnerabilities.
+[VulnHub] (https: Wirtual laboratoriýalar ýa-da kök-kök (B2R) diýlip hem atlandyrylýan bu enjamlar köplenç hakyky dünýädäki ssenariýalara meňzeýär we gowşak goralanlyklary tapmagy we ulanmagy öwrenmek isleýän howpsuzlyk höwesjeňlerini, gözlegçilerini we okuwçylaryny taýýarlamak we garşy çykmak üçin niýetlenendir.
 
-## How does VulnHub work?
+## VulnHub nähili işleýär?
 
-- **Download**: You can download a variety of virtual machines (VMs) from the VulnHub website. These VMs are usually available in `.ova`, `.vmx`, or `.vmdk` formats, which can be imported into virtualization platforms like VMware or VirtualBox.
-- **Configure**: After importing the VM, you'll need to configure the networking settings to ensure the host machine and the VM can communicate with each other.
-- **Attack**: You can now start exploring the VM, searching for vulnerabilities, and trying to exploit them. The ultimate goal is often to gain root or administrative access on the target machine.
+- **Ýüklemek**: Dürli wirtual maşynlary (VM) VulnHub web sahypasyndan göçürip alyp bilersiňiz. Bu VM-ler, adatça VMware ýa-da VirtualBox ýaly wirtuallaşdyryş platformalaryna import edilip bilinýän ".ova", ".vmx" ýa-da ".vmdk" formatlarynda bolýar.
+- **Sazlamak**: VM import edilenden soň, öý enjamynyň we VM-iň biri-biri bilen aragatnaşyk saklamagyny üpjün etmek üçin ulgam sazlamalaryny düzmeli bolarsyňyz.
+- **Hüjüm**: Indi VM-ni öwrenip, gowşak ýerleri gözläp we olary ulanmaga synanyşyp bilersiňiz. Esasy maksat, köplenç maksatly enjamda kök ýa-da administratiw ygtyýar almak.
 
-## Learning Resources
+## Okuw çeşmeleri
 
-VulnHub also provides learning resources like walkthroughs and hints from its community. These resources can be very helpful if you're a beginner and feeling stuck or just curious about another approach to solve a challenge. Remember that it's essential to experiment, learn from your mistakes, and improve your understanding of various cybersecurity concepts.
+“VulnHub” şeýle hem gezelençler we jemgyýetiniň görkezmeleri ýaly okuw çeşmelerini üpjün edýär. Bir öwrenje bolsaňyz we kynçylyklary çözmek üçin başga bir çemeleşme bilen gyzyklanýan bolsaňyz, bu çeşmeler gaty peýdaly bolup biler. Synag etmegiň, ýalňyşlaryňyzdan öwrenmegiň we dürli kiberhowpsuzlyk düşünjelerine düşünişiňizi ýokarlandyrmagyň zerurdygyny ýadyňyzdan çykarmaň.
 
-## CTF Integration
+## CTF integrasiýasy
 
-VulnHub can also be a great resource to practice for Capture The Flag (CTF) challenges. Many of the virtual machines and challenges available on VulnHub mirror the type of challenges you might encounter in a CTF competition. By practicing with these VMs, you will gain valuable experience that can be applied in a competitive CTF environment.
+Şeýle hem, “VulnHub” baýdagy ele almak (CTF) kynçylyklary üçin tejribe üçin ajaýyp çeşme bolup biler. VulnHub-da bar bolan wirtual maşynlaryň we kynçylyklaryň köpüsi, CTF bäsleşiginde ýüze çykyp biljek kynçylyklaryň görnüşini görkezýär. Bu VM-ler bilen tejribe geçirip, bäsdeşlige ukyply CTF gurşawynda ulanyp boljak gymmatly tejribe gazanarsyňyz.
 
-In summary, VulnHub is an excellent platform for anyone looking to improve their cybersecurity skills and gain hands-on experience by exploiting vulnerabilities in a safe and legal environment. The range of challenge difficulty ensures that both beginners and experienced security professionals can benefit from the platform while preparing for real-world scenarios and CTF competitions.
+Gysgaça aýtsak, VulnHub kiberhowpsuzlyk ukyplaryny ýokarlandyrmak we howpsuz we kanuny gurşawda gowşak goralanlyklary ulanmak arkaly tejribe toplamak isleýänler üçin ajaýyp platforma. Kynçylyk kynçylyklary, täze başlanlaryň we tejribeli howpsuzlyk hünärmenleriniň hakyky ssenariýalara we CTF ýaryşlaryna taýýarlyk görüp, platformadan peýdalanmagyny üpjün edýär.

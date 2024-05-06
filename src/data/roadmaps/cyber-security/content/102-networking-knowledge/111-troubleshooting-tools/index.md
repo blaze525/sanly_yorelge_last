@@ -1,41 +1,41 @@
-# Troubleshooting Tools
+# Näsazlyklary düzetmek üçin gurallar
 
-In this section, we will discuss various troubleshooting tools that you can use to diagnose and resolve network-related issues. Possessing a strong understanding of these tools is crucial for maintaining a secure and efficient network.
+Bu bölümde, tor bilen baglanyşykly meseleleri anyklamak we çözmek üçin ulanyp boljak dürli näsazlyklary düzetmek gurallaryny ara alyp maslahatlaşarys. Bu gurallara berk düşünmek, ygtybarly we täsirli ulgamy saklamak üçin möhümdir.
 
 ## Ping
 
-`Ping` is a basic command-line tool used to test the reachability of a network host. It sends ICMP Echo Request packets to the target host and waits for an ICMP Echo Reply. If the target host is reachable, you will receive the packets back with round-trip time statistics.
+"Ping", tor eýesiniň elýeterliligini barlamak üçin ulanylýan esasy buýruk setiridir. ICMP Echo Talap paketlerini maksatly öý eýesine iberýär we ICMP Echo Jogapyna garaşýar. Maksatly öý eýesi elýeterli bolsa, gezelenç wagt statistikasy bilen paketleri yzyna alarsyňyz.
 
-Usage: `ping [target host/IP]`
+Ulanylyşy: "ping [maksatly host / IP]"
 
-## Traceroute/tracert
+## Traceroute / tracert
 
-`traceroute` (Linux) and `tracert` (Windows) are command-line tools used to display the path taken by packets across a network. They can help to identify routing problems, latency, and packet loss.
+"traceroute" (Linux) we "tracert" (Windows), paketleriň torda alyp barýan ýoluny görkezmek üçin ulanylýan buýruk setir gurallarydyr. Olar marşrut meselelerini, gijä galmagy we paket ýitgilerini kesgitlemäge kömek edip bilerler.
 
-Usage: `traceroute [target host/IP]` or `tracert [target host/IP]`
+Ulanylyşy: "yzarlaýjy [maksatly host / IP]" ýa-da "yzarlaýjy [maksatly host / IP]"
 
-## Nslookup
+## Gözleg
 
-`nslookup` is a network administration command-line tool used to query Domain Name System (DNS) servers for host information or IP address resolution.
+"nslookup", host maglumaty ýa-da IP adresi çözmek üçin Domain Name System (DNS) serwerlerini soramak üçin ulanylýan ulgam dolandyryş buýruk setiridir.
 
-Usage: `nslookup [hostname]`
+Ulanylyşy: "nslookup [hostname]"
 
 ## Netstat
 
-The `netstat` command is a versatile command-line tool that displays network connections, routing tables, and network interface statistics. It can help identify critical connections, open ports, and listening services.
+"Netstat" buýrugy, tor birikmelerini, marşrut tablisalaryny we tor interfeýsiniň statistikasyny görkezýän köpugurly buýruk setiridir. Möhüm baglanyşyklary, açyk portlary we diňleýiş hyzmatlaryny kesgitlemäge kömek edip biler.
 
-Usage: `netstat [-options]`
+Ulanylyşy: "netstat [-options]"
 
 ## Nmap
 
-`Nmap` (Network Mapper) is an open-source tool for network discovery and security auditing. It can scan for open ports, running services, and identify network vulnerabilities.
+"Nmap" (Network Mapper), tor açmak we howpsuzlyk barlagy üçin açyk çeşme guraldyr. Açyk portlary, işleýän hyzmatlary gözläp we toruň gowşak ýerlerini kesgitläp biler.
 
-Usage: `nmap [-options] [target host/IP]`
+Ulanylyşy: `nmap [-options] [maksatly host / IP]`
 
 ## Wireshark
 
-`Wireshark` is a widely-used network protocol analyzer that allows you to capture and analyze network traffic in real-time. It provides detailed information about packets, protocols, and network behavior that aids in troubleshooting and security analysis.
+"Wireshark", real wagtda tor trafigini ele almaga we derňemäge mümkinçilik berýän giňden ulanylýan tor protokol analizatorydyr. Näsazlyklary düzetmekde we howpsuzlyk derňewinde kömek edýän paketler, teswirnamalar we toruň özüni alyp barşy barada jikme-jik maglumat berýär.
 
-Download link: [https://www.wireshark.org/download.html](https://www.wireshark.org/download.html)
+Göçürip almak üçin baglanyşyk: [https://www.wireshark.org/download.html)(https://www.wireshark.org/download.html)
 
-Understanding these troubleshooting tools and their applications will help you resolve network issues more effectively and maintain a secure IT infrastructure. Remember to balance security and functionality when managing your network. Practicing good cyber hygiene, staying updated with the latest threats, and continuously assessing your network security will help you stay one step ahead of potential attackers.
+Bu näsazlyklary düzetmek gurallaryna we olaryň ulanylyşyna düşünmek, tor meselelerini has netijeli çözmäge we ygtybarly IT infrastrukturasyny saklamaga kömek eder. Toruňyzy dolandyranyňyzda howpsuzlygy we işlemegi deňleşdirmegi ýatdan çykarmaň. Gowy kiber arassaçylygy bilen meşgullanmak, iň soňky howplar bilen täzelenmek we toruňyzyň howpsuzlygyna yzygiderli baha bermek potensial hüjümçilerden bir ädim öňde durmaga kömek eder.

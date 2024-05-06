@@ -1,20 +1,20 @@
 # Tailgating
 
-Tailgating, also known as "piggybacking", is a social engineering technique used by attackers to gain unauthorized access to secure facilities or systems by following closely behind a legitimate user. This attack exploits the human tendency to trust others and help them out in various situations.
+Tailgating, "piggybacking" diýlip hem atlandyrylýan hüjümçiler tarapyndan kanuny ulanyjynyň yzyndan yzarlamak arkaly howpsuz desgalara ýa-da ulgamlara rugsatsyz girmek üçin ulanylýan sosial in engineeringenerçilik usulydyr. Bu hüjüm, adamyň başgalara ynanmak we dürli ýagdaýlarda olara kömek etmek meýillerinden peýdalanýar.
 
-## How it works
+## Bu nähili işleýär
 
-- **Target identification:** The attacker chooses a target building, office, or data center which requires secure access.
-- **Observation:** The attacker watches for patterns, studying employees' routines and behaviors, identifying an ideal opportunity to slip in unnoticed.
-- **Entry:** The attacker waits for a situation where an employee is entering the secure area using their access card, and pretends to have forgotten their card, phone or being preoccupied. The attacker follows the employee entering the area or even asks the employee to hold the door open.
-- **Securing Access:** Once inside, the attacker may even steal a physical access card or exploit other vulnerabilities to secure long-term access.
+- **Nyşana kesgitlemek:** Hüjümçi ygtybarly girişi talap edýän maksatly binany, edara ýa-da maglumat merkezini saýlaýar.
+- **Gözegçilik:** Hüjümçi nagyşlara syn edýär, işgärleriň iş tertibini we özüni alyp barşyny öwrenýär, ünsden düşmek üçin amatly pursaty kesgitleýär.
+- **Giriş:** Hüjümçi işgäriň giriş kartasyny ulanyp, howpsuz ýere girýän ýagdaýyna garaşýar we kartasyny, telefonyny ýatdan çykaran ýa-da aladalanýan ýaly edýär. Hüjümçi sebite giren işgäri yzarlaýar ýa-da işgäriň gapyny açyk saklamagyny soraýar.
+- **Girişiň ygtybarlylygy:** Içeri girensoň, hüjümçi hatda fiziki giriş kartasyny ogurlap ýa-da uzak möhletli girişi üpjün etmek üçin beýleki gowşak ýerlerden peýdalanyp biler.
 
-## Prevention Measures
+## Öňüni alyş çäreleri
 
-- **Awareness training:** Ensure that employees are aware of tailgating as a threat and the importance of adhering to security policies.
-- **Physical security:** Implement security measures like turnstiles, mantraps, or security guards to monitor and control access.
-- **Access control:** Ensure that access cards are unique to each employee and cannot be easily duplicated.
-- **Strict policies:** Enforce strict policies regarding holding doors open for others or allowing individuals into secure areas without proper credentials.
-- **Security culture:** Build a strong security culture where employees feel responsible for the organization's security and report any suspicious behavior.
+- **Düşündiriş okuwy:** Işgärleriň guýruk guýmagyň howp hökmünde we howpsuzlyk syýasatlaryny berjaý etmegiň möhümdigine göz ýetiriň.
+- **Fiziki howpsuzlyk:** Girişe gözegçilik etmek we gözegçilik etmek üçin turniketler, mantralar ýa-da howpsuzlyk işgärleri ýaly howpsuzlyk çärelerini durmuşa geçiriň.
+- **Giriş gözegçiligi:** Giriş kartlarynyň her bir işgäre mahsusdygyna we aňsatlyk bilen köpeldilip bilinmejekdigine göz ýetiriň.
+- **Gaty syýasatlar:** Başgalar üçin gapylary açyk saklamak ýa-da degişli şahsyýetnamasyz şahsyýetlere howpsuz ýerlere girmek babatynda berk syýasatlary ýerine ýetiriň.
+- **Howpsuzlyk medeniýeti:** Işgärler guramanyň howpsuzlygy üçin özlerini jogapkär hasaplaýan we şübheli hereketleri habar berýän güýçli howpsuzlyk medeniýetini guruň.
 
-It is essential to keep in mind that tailgating relies heavily on human behavior and trust. While physical and technical security measures are crucial, fostering a culture of vigilance and employee awareness can be just as effective in preventing such attacks.
+Guýruk guýmagyň esasan adamyň özüni alyp barşyna we ynamyna baglydygyny ýatdan çykarmaly däldir. Fiziki we tehniki howpsuzlyk çäreleri möhüm ähmiýete eýe bolsa-da, hüşgärlik we işgärleriň habardarlygy terbiýesini bermek şeýle hüjümleriň öňüni almakda täsirli bolup biler.

@@ -1,26 +1,26 @@
-# Containment
+# Mazmun
 
-In the Incident Response Process, containment is the step where the identified threat is controlled to prevent any further damage to the system and organization, while maintaining the integrity of the collected incident data. The primary goal of containment is to limit the attack's scope and prevent any further compromises.
+Betbagtçylykly hadysalara jogap bermek prosesinde, ýygnalan waka maglumatlarynyň bitewiligini saklamak bilen, ulgamyň we gurama mundan beýläk zeper ýetmeginiň öňüni almak üçin kesgitlenen howp gözegçilik edilýän ädimdir. Çäklendirmegiň esasy maksady hüjümiň gerimini çäklendirmek we mundan beýläk ylalaşyklaryň öňüni almak.
 
-## Short-term and Long-term Containment
+## Gysga möhletli we uzak möhletli mazmun
 
-There are two main types of containment measures that need to be applied depending on the nature of the incident: short-term and long-term containment.
+Wakanyň häsiýetine baglylykda ulanylmaly iki sany esasy çäre bar: gysga möhletli we uzak möhletli saklamak.
 
-## Short-term Containment
+## Gysga möhletli mazmun
 
-These measures are focused on stopping the immediate threat by disconnecting affected systems, blocking harmful IP addresses, or temporarily disabling the vulnerable service. However, these steps might result in the loss of valuable incident data, so it is essential to balance these actions against preserving evidence necessary for further investigation.
+Bu çäreler, täsir eden ulgamlary aýyrmak, zyýanly IP adresleri blokirlemek ýa-da gowşak hyzmaty wagtlaýyn öçürmek bilen derrew howpy duruzmaga gönükdirilendir. Şeýle-de bolsa, bu ädimler gymmatly waka maglumatlarynyň ýitmegine sebäp bolup biler, şonuň üçin bu hereketleri has derňew üçin zerur subutnamalary saklamak bilen deňleşdirmek zerurdyr.
 
-## Long-term Containment
+## Uzak möhletli mazmun
 
-Long-term containment focuses on implementing more sustainable solutions to address the root cause of the incident, such as updating security patches, configuring firewalls, and implementing access control measures. These actions are taken to prevent reoccurrence and must be performed in parallel with the recovery phase to ensure a comprehensive Incident Response Process.
+Uzak möhletleýin gözegçilik, wakanyň düýp sebäbini çözmek üçin has ygtybarly çözgütleri durmuşa geçirmäge, meselem, howpsuzlyk ýamalaryny täzelemäge, diwar diwarlaryny sazlamaga we giriş gözegçiligini durmuşa geçirmäge gönükdirilendir. Bu hereketler gaýtalanmazlygyň öňüni almak üçin görülýär we hadysalara jogap bermek prosesini giňişleýin üpjün etmek üçin dikeldiş tapgyry bilen paralel ýerine ýetirilmelidir.
 
-## Key Steps in Containment
+## Mazmunyň esasy ädimleri
 
-The following are some key steps that you should follow during the containment phase:
+Aşakda saklamak tapgyrynda ýerine ýetirilmeli käbir möhüm ädimler bar:
 
-- **Isolate** - Segregate the affected systems from the rest of the network to stop the spread of the threat.
-- **Preserve Evidence** - Securely capture relevant logs and data for future analysis and investigation.
-- **Implement Temporary Measures** - Take immediate actions to block the attacker and secure the environment while minimizing disruption.
-- **Update Containment Strategy** - Integrate lessons learned from previous incidents and external resources to continuously improve your containment process.
+- ** Izolýasiýa ** - Howpuň ýaýramagynyň öňüni almak üçin täsir eden ulgamlary toruň galan böleklerinden bölüň.
+- ** Subutnamalary goraň ** - Geljekki derňew we derňew üçin degişli gündelikleri we maglumatlary ygtybarly ele alyň.
+- ** Wagtlaýyn çäreleri durmuşa geçiriň ** - Hüjümçiniň öňüni almak we bidüzgünçiligi azaltmak bilen daşky gurşawy goramak üçin gyssagly çäreleri görüň.
+- ** Konteýner strategiýasyny täzeläň ** - Öňki hadysalardan we daşarky çeşmelerden alnan sapaklary birleşdirmek prosesini yzygiderli gowulandyrmak üçin.
 
-By properly executing the containment phase of the Incident Response Process, you will be well-prepared to eradicate the root cause of the cyber security threat and recover your affected systems with minimal damage to your organization.
+Wakalara jogap bermek prosesiniň öňüni alyş tapgyryny dogry ýerine ýetirmek bilen, kiberhowpsuzlyk howpunyň düýp sebäbini ýok etmäge we guramaňyza az zyýan ýetirip, täsir eden ulgamlaryňyzy dikeltmäge gowy taýýarlanarsyňyz.

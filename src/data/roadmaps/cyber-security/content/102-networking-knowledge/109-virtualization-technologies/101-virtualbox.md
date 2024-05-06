@@ -1,37 +1,37 @@
 # VirtualBox
 
-VirtualBox is a powerful, open-source and feature-rich virtualization software created by Oracle Corporation. It allows users to set up and run multiple guest operating systems, referred to as "virtual machines" (VMs), within a single host computer. VirtualBox operates on a wide range of operating systems, including Windows, macOS, Linux, and Solaris, making it highly versatile for different users and environments.
+VirtualBox, Oracle Corporation tarapyndan döredilen güýçli, açyk çeşme we aýratynlyklara baý wirtuallaşdyrma programma üpjünçiligi. Ulanyjylara bir wirtual kompýuteriň içinde "wirtual maşynlar" (VM) diýlip atlandyrylýan birnäçe myhman operasiýa ulgamyny gurmaga we işletmäge mümkinçilik berýär. “VirtualBox”, Windows, macOS, Linux we Solaris ýaly köp sanly operasiýa ulgamynda işleýär we dürli ulanyjylar we gurşawlar üçin ýokary derejeli bolýar.
 
-## Key Features
+## Esasy aýratynlyklary
 
-- **Cross-platform compatibility**: VirtualBox can be installed and used on a variety of host operating systems. This is beneficial for users who work with multiple platforms and require access to different applications or environments across them.
+- ** Kross-platforma utgaşyklygy **: VirtualBox dürli host operasiýa ulgamlarynda gurlup we ulanylyp bilner. Bu, köp platforma bilen işleýän we dürli programmalara ýa-da gurşawlara girmegi talap edýän ulanyjylar üçin peýdalydyr.
 
-- **Snapshot functionality**: This feature allows users to take a snapshot of their virtual machine, capturing its current state. This can be useful for testing updates or changes, as users can revert to their previous snapshot if conflicts or issues arise.
+- ** Snapshot funksiýasy **: Bu aýratynlyk ulanyjylara wirtual maşynynyň häzirki ýagdaýyny surata düşürmäge mümkinçilik berýär. Bu täzelenmeleri ýa-da üýtgeşmeleri barlamak üçin peýdaly bolup biler, sebäbi ulanyjylar gapma-garşylyklar ýa-da meseleler ýüze çyksa öňki suratlaryna dolanyp bilerler.
 
-- **USB device support**: VirtualBox allows users to access USB devices connected to their host computer, such as flash drives, printers, or webcams, from within their guest operating system.
+- ** USB enjam goldawy **: VirtualBox ulanyjylara myhman operasiýa ulgamynyň içinde fleş diskler, printerler ýa-da web kameralary ýaly baş kompýuterine birikdirilen USB enjamlaryna girmäge mümkinçilik berýär.
 
-- **Shared folders**: Users can easily share files between their host system and virtual machines using a shared folder feature. This simplifies file transfers and resource sharing between your host computer and your virtual environments.
+- ** Paýlaşylan bukjalar **: Ulanyjylar umumy bukja aýratynlygyny ulanyp, host ulgamy bilen wirtual maşynlaryň arasynda faýllary aňsatlyk bilen paýlaşyp bilerler. Bu, öý kompýuteriňiz bilen wirtual gurşawyňyzyň arasynda faýl geçirişini we çeşme paýlaşmagyny aňsatlaşdyrýar.
 
-## Setting up VirtualBox
+## VirtualBox sazlamak
 
-- Download and install the latest version of VirtualBox from the [official website](https://www.virtualbox.org/).
-- Once installed, launch the VirtualBox application.
-- Click on "New" to create a new virtual machine and follow the wizard to configure the VM settings, such as the operating system, memory allocation, and virtual hard disk.
-- Once the VM is configured, click "Start" to launch the virtual machine.
-- Install your desired guest operating system within the virtual machine.
+- VirtualBox-yň iň soňky wersiýasyny [resmi web sahypasyndan] göçürip alyň (https://www.virtualbox.org/).
+- Gurlandan soň, VirtualBox programmasyny işe giriziň.
+- Täze wirtual maşyn döretmek we operasiýa ulgamy, ýadyň paýlanyşy we wirtual gaty disk ýaly VM sazlamalaryny düzmek üçin jadygöýi yzarlaň "Täze" -e basyň.
+- VM düzülenden soň, wirtual maşyny işe girizmek üçin "Başlamak" düwmesine basyň.
+- Wirtual maşynyň içinde isleýän myhman operasiýa ulgamyňyzy guruň.
 
-## Advantages of VirtualBox
+## VirtualBox-nyň artykmaçlyklary
 
-- Open-source software: VirtualBox is free and its source code is available for users to modify and contribute to.
+- Açyk çeşmeli programma üpjünçiligi: VirtualBox mugt we deslapky kody ulanyjylara üýtgetmek we goşant goşmak üçin elýeterlidir.
 
-- Simple user interface: VirtualBox has an intuitive and easy-to-use interface, making it user-friendly for beginners and professionals alike.
+- Ýönekeý ulanyjy interfeýsi: VirtualBox içgin we ulanmaga aňsat interfeýsine eýe bolup, ony täze başlanlar we hünärmenler üçin ulanyjy üçin amatly edýär.
 
-- Regular updates and improvements: Oracle Corporation and the community behind VirtualBox regularly release updates, bug fixes, and new features, ensuring that the software remains up-to-date and dynamic.
+- Yzygiderli täzelenmeler we gowulaşmalar: Oracle Corporation we VirtualBox-yň arkasyndaky jemgyýet, programma üpjünçiliginiň döwrebap we dinamiki bolmagyny üpjün edip, täzelenmeleri, näsazlyklary düzetmegi we täze aýratynlyklary yzygiderli çykarýar.
 
-## Considerations
+## oýlanmalar
 
-While VirtualBox has numerous benefits, there are certain performance limitations when compared to other, more advanced virtualization solutions, such as VMware or Hyper-V. Users working with resource-intensive operating systems or applications may experience some performance differences when utilizing VirtualBox as their choice of virtualization software.
+VirtualBox-yň köp peýdasy bar bolsa, VMware ýa-da Hyper-V ýaly beýleki has ösen wirtuallaşdyrma çözgütleri bilen deňeşdirilende belli bir öndürijilik çäklendirmeleri bar. Resurslary köp talap edýän operasiýa ulgamlary ýa-da amaly programmalar bilen işleýän ulanyjylar, “WirtualBox” -y wirtuallaşdyrma programma üpjünçiligini saýlanlarynda käbir öndürijilik tapawutlaryny başdan geçirip bilerler.
 
 ---
 
-In conclusion, VirtualBox is a powerful and flexible tool for creating and managing virtual environments on a variety of host operating systems. With its open-source nature, cross-platform compatibility, and user-friendly interface, it is an excellent choice for cybersecurity enthusiasts and professionals looking to explore virtualization technologies.
+Sözümiň ahyrynda, “VirtualBox” dürli host operasiýa ulgamlarynda wirtual gurşawy döretmek we dolandyrmak üçin güýçli we çeýe guraldyr. Açyk çeşmeli tebigaty, platforma sazlaşyklylygy we ulanyjy üçin amatly interfeýsi bilen, wirtuallaşdyryş tehnologiýalaryny öwrenmek isleýän kiberhowpsuzlyk höwesjeňleri we hünärmenleri üçin ajaýyp saýlawdyr.

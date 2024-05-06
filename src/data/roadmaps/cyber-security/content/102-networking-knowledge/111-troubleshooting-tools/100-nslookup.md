@@ -1,39 +1,39 @@
 # nslookup
 
-**Nslookup** is a network administration command-line tool designed for retrieving information about Domain Name System (DNS) records. DNS is responsible for translating domain names into IP addresses, allowing users to access websites and resources by using human-readable names (e.g., www.example.com) instead of numerical IP addresses.
+** Nslookup **, Domain Name System (DNS) ýazgylary barada maglumat almak üçin döredilen tor dolandyryş dolandyryş buýruk setiridir. DNS, domen atlaryny IP adreslerine terjime etmek, ulanyjylara san IP adresleriniň ýerine adam okalýan atlary (meselem, www.example.com) ulanyp web sahypalaryna we çeşmelere girmäge mümkinçilik berýär.
 
-## Uses
+## Ulanyş
 
-- Query DNS servers to verify the configuration of domain names
-- Find the IP address of a specific domain name
-- Troubleshoot DNS-related issues and errors
-- Identify the authoritative DNS servers for a domain
+- Domen atlarynyň konfigurasiýasyny barlamak üçin DNS serwerlerinden soraň
+- Belli bir domen adynyň IP adresini tapyň
+- DNS bilen baglanyşykly meseleleri we ýalňyşlyklary çözüň
+- Domen üçin abraýly DNS serwerlerini kesgitläň
 
-## How to Use
+## Nähili ulanmaly
 
-- **Open Command Prompt or Terminal**: Press `Windows key + R`, type `cmd`, and press Enter to open Command Prompt on Windows. On macOS or Linux, open Terminal.
+- ** Buýruk buýrugyny ýa-da terminaly açyň **: "Windows düwmesi + R" basyň, "cmd" ýazyň we Windows-da buýruk buýrugyny açmak üçin Enter basyň. MacOS ýa-da Linux-da Terminal açyň.
 
-- **Running Nslookup**: To start using Nslookup, type `nslookup` and hit Enter. You'll now see the `>` prompt, indicating you are in Nslookup mode.
+- ** Nslookup işledilýär **: Nslookup ulanyp başlamak üçin "nslookup" ýazyň we Enter basyň. Indi Nslookup re inimindedigiňizi görkezýän `>` soragyny görersiňiz.
 
-- **Query DNS Records**: In Nslookup mode, you can query different types of DNS records by typing the record type followed by the domain name. For instance, to find the A (address) record of www.example.com, type `A www.example.com`. To exit Nslookup mode, type `exit`.
+- ** DNS sazgylaryny gözlemek **: Nslookup re Iniminde, domen adynyň yzyndaky ýazgy görnüşini ýazyp, dürli DNS ýazgylaryny sorap bilersiňiz. Mysal üçin, www.example.com sahypasynyň A (salgy) ýazgysyny tapmak üçin "A www.example.com" ýazyň. Nslookup re modeiminden çykmak üçin "çykyş" ýazyň.
 
-## Commonly Used Record Types
+## Köplenç ulanylýan ýazgy görnüşleri
 
-Below are some of the most-commonly queried DNS record types:
+Aşakda iň köp soralýan DNS ýazgy görnüşleri bar:
 
-- **A**: Stands for 'Address'; returns the IPv4 address associated with a domain name
-- **AAAA**: Stands for 'Address', for IPv6; returns the IPv6 address associated with a domain name
-- **NS**: Stands for 'Name Server'; returns the authoritative DNS servers for a specific domain
-- **MX**: Stands for 'Mail Exchange'; returns the mail server(s) responsible for handling email for a specific domain
-- **CNAME**: Stands for 'Canonical Name'; returns the domain name that an alias is pointing to
-- **TXT**: Stands for 'Text'; returns additional text information that can be associated with a domain, like security policies (e.g., SPF)
+- **A**: 'Salgy' diýmekdir; domen ady bilen baglanyşykly IPv4 salgysyny görkezýär
+- **AAAA**: 'Salgy', IPv6 üçin; domen ady bilen baglanyşykly IPv6 salgysyny görkezýär
+- **NS**: 'Ady serwer' diýmekdir; belli bir domen üçin abraýly DNS serwerlerini yzyna berýär
+- **MX**: 'Poçta alyş-çalşygy'; belli bir domen üçin e-poçta bilen işlemek üçin jogapkär poçta serwerini (lerini) yzyna berýär
+- **CNAME**: 'Kanoniki ady' aňladýar; lakamynyň görkezýän domen adyny görkezýär
+- **TXT**: 'Tekst' diýmekdir; howpsuzlyk syýasaty (meselem, SPF) ýaly domen bilen baglanyşykly bolup biljek goşmaça tekst maglumatlary yzyna berýär.
 
-## Example
+## Mysal üçin
 
-If you want to find the A (IPv4) record for example.com, follow these steps:
+Mysal üçin A (IPv4) ýazgysyny tapmak isleseňiz, şu ädimleri ýerine ýetiriň:
 
-- Open Command Prompt or Terminal
-- Type `nslookup` and hit Enter
-- Type `A example.com` and hit Enter
+- Buýruk gyssagly ýa-da terminaly açyň
+- "nslookup" ýazyň we Enter basyň
+- "Mysal.com" ýazyň we Enter düwmesine basyň
 
-This will return the IPv4 address associated with the domain name example.com.
+Bu, mysal.com domen ady bilen baglanyşykly IPv4 salgysyny yzyna gaýtaryp berer.

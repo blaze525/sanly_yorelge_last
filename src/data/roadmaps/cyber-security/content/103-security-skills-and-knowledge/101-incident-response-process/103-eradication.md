@@ -1,21 +1,21 @@
-# Eradication
+# Öçürmek
 
-Eradication is a crucial step in the incident response process where the primary goal is to eliminate any malicious activity from the infected system(s) and halt the attacker's foothold in the network. This step usually follows the detailed analysis and identification of the nature and scope of the incident. Below are some key aspects of the eradication process:
+Inationok etmek, esasy maksat ýokaşan ulgamlardan (ulgamlardan) islendik zyýanly işi ýok etmek we hüjümçiniň torda ýerini saklamak bolan hadysalara jogap bermekde möhüm ädimdir. Bu ädim, adatça, wakanyň häsiýetini we gerimini jikme-jik seljermekden we kesgitlemekden ybaratdyr. Theok etmek prosesiniň käbir möhüm taraplary:
 
-## Delete Malware & Vulnerability Patching
+## Zyýanly programma üpjünçiligini we gowşaklygy ýok etmek
 
-Once the incident has been identified and understood, teams must remove any malicious software, including viruses, worms, and Trojans from the affected systems. Simultaneously, patch any vulnerabilities that were exploited to ensure the effectiveness of the eradication process.
+Waka ýüze çykarylandan we düşünilenden soň toparlar wiruslary, gurçuklary we Troýanlary öz içine alýan zyýanly programma üpjünçiligini zyýanly ulgamlardan aýyrmaly. Şol bir wagtyň özünde, ýok etmek prosesiniň netijeliligini üpjün etmek üçin ulanylan gowşak goralan ýerleri tapyň.
 
-## Enhance Security Measures
+## Howpsuzlyk çärelerini güýçlendiriň
 
-After vulnerabilities have been patched, it's essential to boost the organization's security posture. This may involve updating and strengthening passwords, tightening access controls, or employing advanced security mechanisms like multi-factor authentication (MFA).
+Gowşak goralan ýerlerden soň, guramanyň howpsuzlyk ýagdaýyny ýokarlandyrmak zerurdyr. Bu parollary täzelemegi we berkitmegi, giriş gözegçiligini berkitmegi ýa-da köp faktorly tanamak (MFA) ýaly ösen howpsuzlyk mehanizmlerini ulanmagy öz içine alyp biler.
 
-## System Restoration
+## Ulgamy dikeltmek
 
-In some cases, it may be necessary to restore compromised systems from known backups or clean images to eliminate any lingering threats. Before restoring, verify the integrity and safety of the backups and ensure the security vulnerability is patched to avoid reinfection.
+Käbir ýagdaýlarda howp abanýan ulgamlary belli ätiýaçlyk nusgalaryndan ýa-da uzak wagtlap abanýan howplary ýok etmek üçin arassa suratlardan dikeltmek zerur bolup biler. Dikeltmezden ozal ätiýaçlyk nusgalarynyň bütewiligini we howpsuzlygyny barlaň we gaýtadan dikeltmezlik üçin howpsuzlyk gowşaklygynyň bardygyny anyklaň.
 
-## Retain Evidentiary Data
+## Şahsy maglumatlary saklaň
 
-Be sure to retain any critical artifacts, logs, and other evidence associated with the incident. This information may be needed later for legal or insurance purposes, audit requirements, or continuous improvement of the organization's incident response capabilities.
+Waka bilen baglanyşykly islendik möhüm eserleri, surnallary we beýleki subutnamalary saklamagy unutmaň. Bu maglumatlar kanuny ýa-da ätiýaçlandyryş maksatlary, audit talaplary ýa-da guramanyň hadysalaryna jogap bermek mümkinçiliklerini yzygiderli gowulandyrmak üçin zerur bolup biler.
 
-Remember that each incident is unique, and the eradication strategy must be customized according to the given incident's specifics. Proper documentation and communication should be maintained throughout the process to ensure smooth execution and avoid overlooking critical aspects. After eradication has been completed, it is essential to move forward and strengthen the overall cybersecurity posture to prevent future incidents.
+Her hadysanyň özboluşlydygyny we ýok etmek strategiýasynyň berlen hadysanyň aýratynlyklaryna laýyklykda düzülmelidigini ýadyňyzdan çykarmaň. Dogry ýerine ýetirilmegini üpjün etmek we möhüm taraplara üns bermezlik üçin dogry resminamalar we aragatnaşyk tutuş dowamynda saklanmalydyr. Inationok etmek tamamlanandan soň, öňe gitmek we geljekdäki wakalaryň öňüni almak üçin umumy kiberhowpsuzlyk ýagdaýyny güýçlendirmek zerurdyr.

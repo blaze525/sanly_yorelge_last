@@ -1,1 +1,1 @@
-# Beginner certifications
+# Başlangyç Hünär sertifikatlary

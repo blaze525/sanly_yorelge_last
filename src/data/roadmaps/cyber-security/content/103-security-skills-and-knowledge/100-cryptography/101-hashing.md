@@ -1,35 +1,35 @@
-# Hashing
+# Haşing
 
-In this section, we will discuss the concept of _hashing_, an important cryptographic primitive, and its multiple applications in the realm of cyber security.
+Bu bölümde möhüm kriptografiki başlangyç _hashing_ düşünjesini we kiberhowpsuzlyk ugrundaky köp ulanylyşyny ara alyp maslahatlaşarys.
 
-**What is Hashing?**
+** Haşing näme? **
 
-A _hash function_ is a mathematical algorithm that takes an input (or 'message') and returns a fixed-size string of bytes, usually in the form of a hexadecimal number. The output is called the _hash value_ or simply, the _hash_. Some characteristics of a good hash function are:
+A _hash funksiýasy, giriş (ýa-da 'habar') alýan we adatça alty sanly san görnüşinde kesgitlenen ululykdaky baýtlary yzyna gaýtaryp berýän matematiki algoritmdir. Çykyşa _hash value_ ýa-da ýönekeý _hash_ diýilýär. Gowy hash funksiýasynyň käbir aýratynlyklary:
 
-- _Deterministic_: The same input will always result in the same hash output.
-- _Efficient_: The time taken to compute the hash should be as quick as possible.
-- _Avalanche Effect_: A tiny change in the input should result in a drastically different hash output.
-- _One-way Function_: It should be computationally infeasible to reverse-engineer the input from its hash output.
-- _Collision Resistance_: It should be extremely unlikely to find two different inputs that produce the same hash output.
+- _Deterministic_: Şol bir giriş elmydama şol bir hash çykyşyna getirer.
+- _Efficient_: Haşy hasaplamak üçin alnan wagt mümkin boldugyça çalt bolmaly.
+- _Awalanche Effect_: Girişdäki kiçijik üýtgeşiklik düýpgöter üýtgeşik netije çykarmaly.
+- _ýeke-täk funksiýa_: Hasş çykyşyndan girişini ters inerener etmek hasaplap bolmajak bolup biler.
+- _Collision Resistance_: Şol bir hash çykyşyny öndürýän iki dürli giriş tapmak gaty ähtimal däl.
 
-**Common Hashing Algorithms**
+** Adaty haşing algoritmleri **
 
-There are several widely used hashing algorithms with different strengths and weaknesses. Some of the most common ones include:
+Dürli güýçli we gowşak taraplary bolan giňden ulanylýan ýuwmak algoritmleri bar. Iň ýaýranlaryň arasynda:
 
-- MD5 (Message Digest 5): Produces a 128-bit hash value. It is no longer considered secure due to vulnerability to collision attacks.
-- SHA-1 (Secure Hash Algorithm 1): Generates a 160-bit hash value. Like MD5, it is no longer considered secure due to collision attacks and is being phased out.
-- SHA-256 and SHA-512: Part of the SHA-2 family, SHA-256 produces a 256-bit hash value, while SHA-512 generates a 512-bit hash value. Both are widely adopted and considered secure.
+- MD5 (Message Digest 5): 128 bitli hash bahasyny öndürýär. Çaknyşyk hüjümleriniň gowşaklygy sebäpli indi howpsuz hasap edilmeýär.
+- SHA-1 (Howpsuz Haş algoritmi 1): 160 bitli hash bahasyny döredýär. MD5 ýaly, çaknyşyk hüjümleri sebäpli indi howpsuz hasap edilmeýär we basgançakdan aýrylýar.
+- SHA-256 we SHA-512: SHA-2 maşgalasynyň bir bölegi, SHA-256 256 bitli hash bahasyny öndürýär, SHA-512 bolsa 512 bitli hash bahasyny döredýär. Bularyň ikisi hem giňden kabul edilýär we howpsuz hasaplanýar.
 
-**Applications of Hashing**
+** Haşing programmalary **
 
-Hashing is a versatile mechanism and serves many purposes in cyber security, such as:
+Haşing köpugurly mehanizm bolup, kiberhowpsuzlykda köp maksatlara hyzmat edýär:
 
-- _Data Integrity_: Hashing can be used to ensure that a file or piece of data hasn't been altered or tampered with. Comparing the hash value of the original and received data can determine if they match.
+- _Data Integrity_: Hashing faýlyň ýa-da maglumatlaryň bir böleginiň üýtgedilmezligi ýa-da bozulmazlygy üçin ulanylyp bilner. Asyl we alnan maglumatlaryň hash bahasyny deňeşdirmek, olaryň gabat gelýändigini kesgitläp biler.
 
-- _Password Storage_: Storing users' passwords as hashes makes it difficult for attackers to obtain the plain-text passwords even if they gain access to the stored hashes.
+- _Password Saklaýyş_: Ulanyjylaryň parollaryny heş görnüşinde saklamak hüjümçilere, saklanan heşlere girip bilseler-de aç-açan parollary almagy kynlaşdyrýar.
 
-- _Digital Signatures_: Digital signatures often rely on cryptographic hash functions to verify the integrity and authenticity of a message or piece of data.
+- _Sanly gollar: Sanly gollar, habaryň ýa-da maglumatlaryň birliginiň dogrulygyny we dogrulygyny barlamak üçin köplenç kriptografiki hash funksiýalaryna bil baglaýarlar.
 
-- _Proof of Work_: Hash functions are employed in consensus algorithms like the one used in Bitcoin mining, as they can solve computational challenges.
+- _ Işiň subutnamasy_: Has funksiýalary hasaplaýyş kynçylyklaryny çözüp bilýänligi sebäpli, Bitcoin gazyp almakda ulanylýan ýaly ylalaşyk algoritmlerinde ulanylýar.
 
-In conclusion, hashing is a crucial technique in ensuring data integrity and maintaining security in various areas of cyber security. Understanding and adopting secure hashing algorithms is an essential skill for any cyber security professional.
+Sözümiň ahyrynda, ýuwmak maglumatlaryň bitewiligini üpjün etmekde we kiberhowpsuzlygyň dürli ugurlarynda howpsuzlygy üpjün etmekde möhüm usuldyr. Howpsuz ýuwmak algoritmlerine düşünmek we kabul etmek, islendik kiberhowpsuzlyk hünärmeni üçin möhüm ussatlykdyr.

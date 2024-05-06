@@ -1,37 +1,37 @@
-# SANS Holiday Hack Challenge
+# SANs Holiday Hack Challenge
 
-The **SANs Holiday Hack Challenge** is a popular and engaging annual cybersecurity event that features a unique blend of digital forensics, offensive security, defensive security, and other cybersecurity topics. It is hosted by the SANS Institute, one of the largest and most trusted sources for information security training, certification, and research worldwide.
+**SANs Holiday Hack Challenge** sanly kriminalistika işleriniň, kemsidiji howpsuzlyk, goranmak howpsuzlygy we beýleki kiberhowpsuzlyk temalarynyň özboluşly garyndysyny öz içine alýan meşhur we özüne çekiji her ýyl kiberhowpsuzlyk çäresidir. Dünýädäki maglumat howpsuzlygy okuwlary, sertifikatlar we gözlegler üçin iň uly we iň ygtybarly çeşmelerden biri bolan SANS instituty tarapyndan myhman alynýar.
 
-## Overview
+## Gysgaça syn
 
-The SANs Holiday Hack Challenge incorporates a series of challenging and entertaining cybersecurity puzzles, with a festive holiday theme, for participants of all skill levels. The event typically takes place during the December holiday season, and participants have around a month to complete the challenges. It is free to participate, making the event accessible to a wide range of cybersecurity enthusiasts, from beginners to seasoned professionals.
+SANs Holiday Hack Challenge, ähli hünär derejelerine gatnaşyjylar üçin baýramçylyk baýramçylygy mowzugy bilen bir topar kyn we gyzykly kiberhowpsuzlyk tapmalaryny öz içine alýar. Bu çäre adatça dekabr aýynyň dynç alyş möwsüminde bolup geçýär we gatnaşyjylara kynçylyklary tamamlamak üçin bir aý töweregi wagt bar. Bu çärä başlaýanlardan başlap, tejribeli hünärmenlere çenli köp sanly kiberhowpsuzlyk höwesjeňlerine elýeterli bolmak üçin mugt.
 
 ## Format
 
-The SANs Holiday Hack Challenge presents a compelling storyline where participants assume the role of a security practitioner tasked with solving various security issues and puzzles. Details of the challenges are weaved into the storyline, which may contain videos, images, and other forms of multimedia. Solving the challenges requires creative problem-solving and the application of various cybersecurity skills, including:
+SANs Holiday Hack Challenge, gatnaşyjylara dürli howpsuzlyk meselelerini we bulaşyklary çözmek tabşyrylan howpsuzlyk praktikasynyň wezipesini ýerine ýetirýän täsirli hekaýa hödürleýär. Kynçylyklaryň jikme-jiklikleri wideo, şekil we multimediýanyň beýleki görnüşlerini öz içine alyp biljek hekaýa görnüşine dokaldy. Kynçylyklary çözmek döredijilikli meseläni çözmegi we dürli kiberhowpsuzlyk endiklerini ulanmagy talap edýär, şol sanda:
 
-- Digital Forensics
-- Penetration Testing
-- Reverse Engineering
-- Web Application Security
-- Cryptography
-- Defensive Security Techniques
+- Sanly kazyýet işi
+- Giriş synagy
+- Ters in Inženerçilik
+- Web amaly howpsuzlygy
+- Kriptografiýa
+- Goranyş howpsuzlyk usullary
 
-Each year, the Holiday Hack Challenge presents a new storyline and set of challenges aimed at providing real-world learning opportunities for those looking to improve their cybersecurity skills.
+“Holiday Hack Challenge” her ýyl kiberhowpsuzlyk ukyplaryny ýokarlandyrmak isleýänler üçin hakyky dünýä okuw mümkinçiliklerini hödürlemäge gönükdirilen täze hekaýa we kynçylyklar toplumyny hödürleýär.
 
-## Prizes
+## Baýraklar
 
-Participants have a chance to win prestigious recognition for their performance in the challenge. By successfully solving the holiday-themed cybersecurity puzzles, participants may be awarded prizes, SANS training courses, certifications, or other recognition in the cybersecurity community.
+Gatnaşanlaryň kynçylykdaky çykyşlary üçin abraýly ykrar edilmäge mümkinçilikleri bar. Baýramçylyk temaly kiberhowpsuzlyk bulaşyklaryny üstünlikli çözmek bilen, gatnaşyjylara baýraklar, SANS okuw kurslary, şahadatnamalar ýa-da kiberhowpsuzlyk jemgyýetinde başga ykrar edilip bilner.
 
-## Why Participate
+## Näme üçin gatnaşmaly?
 
-The SANs Holiday Hack Challenge is a valuable experience for people with an interest in cybersecurity, offering an entertaining and educational challenge. Reasons to participate include:
+SANs Holiday Hack Challenge, kiberhowpsuzlyk bilen gyzyklanýan adamlar üçin gyzykly we terbiýeçilik kynçylygy hödürleýän gymmatly tejribe. Gatnaşmagyň sebäpleri:
 
-- **Skill Development**: The challenge provides an opportunity to sharpen your technical skills in various cybersecurity domains.
-- **Networking**: Work with like-minded security enthusiasts to solve problems, share knowledge, and build connections in the industry.
-- **Recognition**: Achieve recognition for your skills and contribution to tackling real-world cybersecurity issues.
-- **Fun**: Experience the thrill of solving complex security problems while enjoying the festive theme and engaging storyline.
+- ** Ussatlygy ösdürmek **: Bu kynçylyk, dürli kiberhowpsuzlyk ugurlarynda tehniki başarnyklaryňyzy artdyrmaga mümkinçilik berýär.
+- ** Networking **: Meseleleri çözmek, bilim paýlaşmak we pudakda aragatnaşyk gurmak üçin meňzeş howpsuzlyk höwesjeňleri bilen işleşiň.
+- ** Ykrar **: Hakyky dünýädäki kiberhowpsuzlyk meselelerini çözmekde başarnygyňyz we goşandyňyz üçin tanalmagy gazanmak.
+- ** Şatlyk **: Baýram mowzugyndan lezzet alýan we gyzykly hekaýa ýazýan wagtyňyz çylşyrymly howpsuzlyk meselelerini çözmegiň tolgunmasyny başdan geçiriň.
 
-In conclusion, the SANs Holiday Hack Challenge offers a unique opportunity to develop your cybersecurity skills in a fun and challenging environment. Whether you are new to the field or an industry veteran, participating in this event will help you grow professionally and make valuable connections in the cybersecurity community. Don't miss the next SANs Holiday Hack Challenge!
+Sözümiň ahyrynda, SANs Holiday Hack Challenge, gyzykly we kyn şertlerde kiberhowpsuzlyk endikleriňizi ösdürmek üçin ajaýyp mümkinçilik hödürleýär. Bu ugurda täze bolsaňyz ýa-da pudak weterany bolsaňyz, bu çärä gatnaşmak size hünär taýdan ösmäge we kiberhowpsuzlyk jemgyýetinde gymmatly aragatnaşyk gurmaga kömek eder. Indiki SANs Holiday Hack Challenge-ni sypdyrmaň!
 
-- [SANS Holiday Hack Challenge](https://www.sans.org/holidayhack)
+- [SANS Holiday Hack Challenge] (https://www.sans.org/holidayhack)

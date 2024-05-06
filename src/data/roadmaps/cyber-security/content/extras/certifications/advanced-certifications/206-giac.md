@@ -1,31 +1,31 @@
 # GIAC
 
-GIAC is a globally recognized organization that provides certifications for information security professionals. Established in 1999, its primary aim is to validate the knowledge and skills of professionals in various cybersecurity domains. GIAC certifications focus on practical and hands-on abilities to ensure that certified individuals possess the necessary expertise to tackle real-world cybersecurity challenges.
+GIAC maglumat howpsuzlygy hünärmenleri üçin şahadatnama berýän dünýä derejesinde ykrar edilen guramadyr. 1999-njy ýylda döredilen esasy maksady, dürli kiberhowpsuzlyk ugurlarynda hünärmenleriň bilimlerini we başarnyklaryny barlamak. GIAC şahadatnamalary, kepillendirilen şahsyýetleriň hakyky dünýädäki kiberhowpsuzlyk meselelerini çözmek üçin zerur tejribä eýe bolmagyny üpjün etmek üçin amaly we iş ukyplaryna ünsi jemleýär.
 
-## GIAC Certification Categories
+## GIAC sertifikat kategoriýalary
 
-GIAC certifications are divided into several categories, catering to different aspects of information security:
+GIAC şahadatnamalary maglumat howpsuzlygynyň dürli taraplaryny göz öňünde tutup birnäçe kategoriýa bölünýär:
 
-- **Cyber Defense**: Certifications tailored to secure an organization's information infrastructure and develop incident response capabilities.
-- **Penetration Testing**: Certifications targeting professionals who conduct penetration tests to identify and mitigate security vulnerabilities.
-- **Incident Response and Forensics**: Certifications focusing on incident handling, forensics, and the legal aspects of cybersecurity.
-- **Management, Audit, Legal and Security Awareness**: Certifications aimed at security managers, auditors, and executives who are responsible for developing and managing security policies and procedures.
-- **Industrial Control Systems**: Certifications addressing the unique security requirements of industrial control systems and critical infrastructure.
-- **Developer**: Certifications targeting software developers and programmers to help them develop secure applications.
+- ** Kiber goranyşy **: Guramanyň maglumat infrastrukturasyny goramak we hadysalara jogap bermek mümkinçiliklerini ösdürmek üçin berlen şahadatnamalar.
+- ** Giriş synagy **: Howpsuzlyk gowşaklyklaryny ýüze çykarmak we azaltmak üçin giriş synaglaryny geçirýän hünärmenlere gönükdirilen şahadatnamalar.
+- ** Wakalara jogap we kazyýet işi **: Wakalara, kazyýet işine we kiberhowpsuzlygyň kanuny taraplaryna gönükdirilen şahadatnamalar.
+- ** Dolandyryş, audit, hukuk we howpsuzlyk habarlylygy **: Howpsuzlyk syýasatlaryny we proseduralaryny işläp düzmek we dolandyrmak üçin jogapkär howpsuzlyk ýolbaşçylaryna, auditorlara we ýolbaşçylara gönükdirilen şahadatnamalar.
+- ** Senagat dolandyryş ulgamlary **: Senagat gözegçilik ulgamlarynyň we möhüm infrastrukturanyň özboluşly howpsuzlyk talaplaryna degişli şahadatnamalar.
+- ** Öndüriji **: Howpsuz programmalary ösdürmäge kömek etmek üçin programma üpjünçiligini we programmistleri nyşana alýan şahadatnamalar.
 
-## GIAC Certification Process
+## GIAC şahadatnama amaly
 
-To obtain a GIAC certification, candidates must pass a comprehensive proctored exam that tests their knowledge and practical skills. The exams are usually associated with corresponding training courses offered by SANS Institute, a leading provider of cybersecurity training. However, taking a SANS course is not mandatory to sit for the exam. Individuals with sufficient knowledge and experience can directly register for a GIAC exam.
+GIAC şahadatnamasyny almak üçin dalaşgärler bilimlerini we amaly başarnyklaryny barlaýan giňişleýin synagdan geçmeli. Synaglar, adatça, kiberhowpsuzlyk okuwynyň öňdebaryjy üpjünçisi SANS instituty tarapyndan hödürlenýän degişli okuw kurslary bilen baglanyşyklydyr. Şeýle-de bolsa, ekzamen üçin oturmak hökmany däl. Sufficienteterlik bilim we tejribä eýe bolan adamlar GIAC ekzamenine gönüden-göni hasaba durup bilerler.
 
-The exams typically consist of multiple-choice questions and can range from 75 to 150 questions, depending on the certification. Candidates are given 2-5 hours to complete the exam, and a passing score varies between 63% and 80%.
+Synaglar, adatça, köp sanly soraglardan durýar we şahadatnama baglylykda 75-den 150-e çenli sorag bolup biler. Dalaşgärlere ekzameni tamamlamak üçin 2-5 sagat berilýär we geçen bal 63% bilen 80% arasynda bolýar.
 
-## Benefits of GIAC Certifications
+## GIAC şahadatnamalarynyň artykmaçlyklary
 
-GIAC-certified professionals are highly sought after due to the rigorous assessment and practical skills they possess. Obtaining a GIAC certification can lead to:
+GIAC tarapyndan tassyklanan hünärmenler, berk baha bermek we amaly başarnyklary sebäpli ýokary gözlenýärler. GIAC şahadatnamasyny almak aşakdakylara sebäp bolup biler:
 
-- Enhanced career prospects
-- Higher salary potential
-- Peer recognition
-- Demonstrated commitment to professional development
+- Karýeranyň geljegi
+- Ýokary aýlyk potensialy
+- Deňdeşleri tanamak
+- Hünär derejesini ýokarlandyrmaga ygrarlylygy
 
-In summary, GIAC certifications are valuable and respected credentials that pave the way for a successful cybersecurity career. By completing a GIAC certification, you validate your expertise and increase your employability in the competitive field of cybersecurity.
+Gysgaça aýtsak, GIAC şahadatnamalary üstünlikli kiberhowpsuzlyk karýerasyna ýol açýan gymmatly we hormatlanýan şahsyýetnamalardyr. GIAC şahadatnamasyny dolduryp, öz tejribäňizi tassyklaýarsyňyz we kiberhowpsuzlygyň bäsdeşlik pudagynda iş mümkinçiligiňizi ýokarlandyrarsyňyz.

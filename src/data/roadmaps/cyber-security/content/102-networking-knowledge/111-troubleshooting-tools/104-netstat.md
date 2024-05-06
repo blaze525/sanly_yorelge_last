@@ -1,25 +1,25 @@
 # netstat
 
-Netstat, short for 'network statistics', is a command-line tool that provides valuable information about the network connections, routing tables, and network interface statistics on a computer system. Netstat can help in diagnosing and troubleshooting network-related issues by displaying real-time data about network traffic, connections, routes, and more.
+Netstat, 'tor statistikasy' üçin gysga, tor ulgamy birikmeleri, marşrut tablisalary we kompýuter ulgamynda tor interfeýs statistikasy barada gymmatly maglumatlary berýän buýruk setiridir. Netstat, tor trafigi, birikmeler, ugurlar we başgalar barada real wagt maglumatlary görkezip, tor bilen baglanyşykly meseleleri anyklamaga we çözmäge kömek edip biler.
 
-## Key Features
+## Esasy aýratynlyklary
 
-- **Network Connections:** Netstat can show open and active network connections, including inbound and outbound, as well as display the ports on which your system is currently listening.
-- **Routing Tables:** Netstat provides information about your system's routing tables, which can help you identify the path a packet takes to reach its destination.
-- **Network Interface Statistics:** Netstat displays statistics for network interfaces, covering details such as packets transmitted, packets received, errors, and more.
+- ** Tor baglanyşyklary: ** Netstat giriş we çykmagy goşmak bilen açyk we işjeň tor birikmelerini görkezip biler, şeýle hem ulgamyňyzyň häzirki wagtda diňleýän portlaryny görkezip biler.
+- ** ingol tablisalary: ** Netstat, paketiň barmaly ýerine barýan ýoluny kesgitlemäge kömek edip biljek ulgamyňyzyň marşrut tablisalary barada maglumat berýär.
+- ** Tor interfeýsiniň statistikasy: ** Netstat, iberilen paketler, alnan paketler, ýalňyşlyklar we başgalar ýaly maglumatlary öz içine alýan tor interfeýsleri üçin statistikany görkezýär.
 
-## Common Netstat Commands
+## Umumy Netstat buýruklary
 
-- `netstat -a`: Displays all active connections and listening ports
-- `netstat -n`: Displays active connections without resolving hostnames (faster)
-- `netstat -r`: Displays the routing table
-- `netstat -i`: Displays network interfaces and their statistics
-- `netstat -s`: Displays network protocol statistics (TCP, UDP, ICMP)
+- "netstat -a": activehli işjeň birikmeleri we diňleýiş portlaryny görkezýär
+- `netstat -n`: host atlaryny çözmezden işjeň birikmeleri görkezýär (has çalt)
+- "netstat -r": marşrut tablisasyny görkezýär
+- "netstat -i": Tor interfeýslerini we olaryň statistikasyny görkezýär
+- "netstat -s": Tor protokolynyň statistikasyny görkezýär (TCP, UDP, ICMP)
 
-## Example Use Cases
+## Mysal ulanylyşy
 
-- **Identify Open Ports:** You can use netstat to determine which ports are open and listening on your system, helping you identify potential security vulnerabilities.
-- **Monitor Network Connections:** Netstat allows you to monitor active connections to ensure that nothing unauthorized or suspicious is connecting to your system.
-- **Troubleshoot Network Issues:** By displaying routing table information, netstat can help you understand the pathways your system takes to reach various destinations, which can be crucial when diagnosing network problems.
+- ** Açyk portlary kesgitläň: ** Haýsy portlaryň açykdygyny we ulgamyňyzda diňleýändigini kesgitlemek üçin netstat ulanyp bilersiňiz, potensial howpsuzlyk gowşaklyklaryny kesgitlemäge kömek edip bilersiňiz.
+- ** Tor birikmelerine gözegçilik: ** Netstat, ulgamyňyza birugsat ýa-da şübheli bir zadyň birikmeýändigine göz ýetirmek üçin işjeň birikmelere gözegçilik etmäge mümkinçilik berýär.
+- ** Tor meselesini çözmek: ** Netstat marşrut tablisasynyň maglumatlaryny görkezmek bilen ulgamyňyzyň dürli ugurlara barýan ýollaryna düşünmäge kömek edip biler, bu ulgam problemalary anyklanylanda möhüm bolup biler.
 
-Netstat is a versatile and powerful tool for gaining insights into your system's network behavior. Armed with this knowledge, you'll be better equipped to address potential vulnerabilities and monitor your system's health in the context of cyber security.
+Netstat, ulgamyňyzyň özüni alyp barşyna düşünmek üçin köpugurly we güýçli guraldyr. Bu bilim bilen ýaraglanan, potensial gowşaklyklary çözmek we kiberhowpsuzlyk şertlerinde ulgamyňyzyň saglygyna gözegçilik etmek üçin has gowy enjamlaşdyrylarsyňyz.

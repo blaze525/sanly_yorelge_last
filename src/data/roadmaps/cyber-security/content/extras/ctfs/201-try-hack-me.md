@@ -1,26 +1,26 @@
 # TryHackMe
 
-[TryHackMe](https://tryhackme.com/) is an online platform for learning and practicing cyber security skills. It offers a wide range of cybersecurity challenges, known as "rooms", which are designed to teach various aspects of cybersecurity, such as ethical hacking, penetration testing, and digital forensics.
+[TryHackMe] (https://tryhackme.com/) kiberhowpsuzlyk endiklerini öwrenmek we amal etmek üçin onlaýn platforma. Bu, "otaglar" diýlip atlandyrylýan kiberhowpsuzlyk meseleleriniň giň toparyny hödürleýär, bu etiki döwmek, aralaşmak synagy we sanly kazyýet işi ýaly kiberhowpsuzlygyň dürli taraplaryny öwretmek üçin niýetlenendir.
 
-## Key Features:
+## Esasy aýratynlyklar:
 
-- **Rooms**: Rooms are tasks and challenges that cover a wide range of topics and difficulty levels. Each room has specific learning objectives, resources, and guidance to help you learn and apply cybersecurity concepts.
+- **Otaglar**: Otaglar dürli mowzuklary we kynçylyk derejelerini öz içine alýan meseleler we kynçylyklardyr. Her otagda kiberhowpsuzlyk düşünjelerini öwrenmäge we ulanmaga kömek etmek üçin aýratyn okuw maksatlary, çeşmeler we görkezmeler bar.
 
-- **Hands-on Learning**: TryHackMe focuses on providing practical, hands-on experience by giving participants access to virtual machines to put their knowledge to the test.
+- **Hands-on Learning**: TryHackMe, gatnaşyjylara bilimlerini synamak üçin wirtual maşynlara girmek arkaly amaly, amatly tejribe bermäge ünsi jemleýär.
 
-- **Gamification**: TryHackMe incorporates gamification elements such as points, badges, and leaderboards to engage users and encourage friendly competition.
+- **Oýun oýnamak**: TryHackMe ulanyjylary çekmek we dostlukly bäsleşigi höweslendirmek üçin nokatlar, nyşanlar we lider tagtalary ýaly oýun elementlerini öz içine alýar.
 
-- **Community Collaboration**: The platform has a strong and supportive community, where users can share knowledge, ask questions, and collaborate on challenges.
+- **Jemgyýetçilik hyzmatdaşlygy**: Platformanyň güýçli we goldaw berýän jemgyýeti bar, bu ýerde ulanyjylar bilim paýlaşyp, sorag berip we kynçylyklarda hyzmatdaşlyk edip bilerler.
 
-- **Educational Pathways**: TryHackMe offers learning pathways to guide users through a series of related rooms, helping them develop specific skills and knowledge in a structured way.
+- **Bilim ýollary**: TryHackMe ulanyjylara degişli otaglaryň üsti bilen belli bir hünärleri we bilimleri gurluşly ösdürmäge kömek etmek üçin okuw ýollaryny hödürleýär.
 
-## Getting Started:
+## Başlamak:
 
-To get started with TryHackMe, follow these steps:
+TryHackMe bilen başlamak üçin şu ädimleri ýerine ýetiriň:
 
-- Sign up for a free account at [tryhackme.com](https://tryhackme.com/).
-- Join a room based on your interests or skill level.
-- Follow the instructions and resources provided in the room to learn new concepts and complete the challenges.
-- Progress through various rooms and pathways to enhance your cybersecurity skills and knowledge.
+- [tryhackme.com] (https://tryhackme.com/) sahypasynda mugt hasabyňyza ýazylyň.
+- Gyzyklanmalaryňyza ýa-da ussatlygyňyza baglylykda bir otaga goşulyň.
+- Täze düşünjeleri öwrenmek we kynçylyklary tamamlamak üçin otagda berlen görkezmelere we çeşmelere eýeriň.
+- Kiberhowpsuzlyk ukyplaryňyzy we bilimleriňizi ýokarlandyrmak üçin dürli otaglarda we ýollarda öňe gidişlik.
 
-By using TryHackMe, you'll have access to a constantly growing repository of cybersecurity challenges, tools, and resources, ensuring that you stay up-to-date with the latest developments in the field.
+“TryHackMe” -ni ulanyp, kiberhowpsuzlyk meseleleriniň, gurallaryň we çeşmeleriň yzygiderli ösýän ammaryna girip bilersiňiz, bu ugurdaky soňky wakalar bilen habarlaşmagyňyzy üpjün edip bilersiňiz.

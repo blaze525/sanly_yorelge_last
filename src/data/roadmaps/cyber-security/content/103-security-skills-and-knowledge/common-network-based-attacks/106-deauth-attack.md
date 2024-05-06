@@ -1,33 +1,33 @@
-# Deauth Attack
+# Deauth hüjümi
 
-A **Deauthentication (Deauth) Attack** is a type of Denial-of-Service (DoS) attack that specifically targets wireless networks. It works by exploiting how Wi-Fi devices communicate with one another, intentionally causing legitimate users to be disconnected from the access point. The attacker sends a flood of deauthentication (Deauth) frames to the targeted access point, effectively overwhelming it and forcing connected clients to disconnect.
+A ** Deauthentication (Deauth) Attack ** simsiz torlary ýörite nyşana alýan Hyzmatdan ýüz öwürmek (DoS) hüjümidir. Wi-Fi enjamlarynyň biri-biri bilen nähili aragatnaşyk saklaýandyklaryny ulanyp, kanuny ulanyjylaryň giriş nokadyndan bilkastlaýyn kesilmegine sebäp bolýar. Hüjümçi maksatly giriş nokadyna deautifikasiýa (Deauth) çarçuwasyny iberýär, ony netijeli basyp alýar we birikdirilen müşderileri kesmäge mejbur edýär.
 
-## How Does a Deauth Attack Work?
+## Deauth hüjümi nähili işleýär?
 
-Deauth attacks take advantage of the management frames used in the 802.11 Wi-Fi standard. These control frames ensure efficient operation of communications between connected devices and include the authentication, association, and deauthentication subtypes. Since management frames are often not encrypted, attackers can easily generate and transmit fake deauthentication frames to force disconnections.
+Deauth hüjümleri 802.11 Wi-Fi standartynda ulanylýan dolandyryş çarçuwalaryndan peýdalanýar. Bu dolandyryş çarçuwalary birikdirilen enjamlaryň arasynda aragatnaşygyň netijeli işlemegini üpjün edýär we tanamak, birleşmek we deautifikasiýa görnüşlerini öz içine alýar. Dolandyryş çarçuwalary köplenç şifrlenmeýänligi sebäpli, hüjümçiler birikmeleri kesmäge mejbur etmek üçin ýasama deautifikasiýa çarçuwalaryny aňsatlyk bilen döredip we iberip bilerler.
 
-When a Deauth frame is received by a user's device, it releases its connection to the access point, and the user must re-connect in order to reestablish data transfer with the Wi-Fi network.
+“Deauth” ramkasy ulanyjynyň enjamy tarapyndan kabul edilende, giriş nokadyna birikmesini goýberýär we ulanyjy Wi-Fi ulgamy bilen maglumat geçirişini täzeden gurmak üçin täzeden birikmeli.
 
-## Impacts and Consequences
+## Täsirleri we netijeleri
 
-Deauth attacks can cause the following problems:
+Deauth hüjümleri aşakdaky problemalara sebäp bolup biler:
 
-- **Loss of connectivity:** The most obvious consequence is that network connectivity is lost, disrupting any network-related activity and potentially causing loss of unsaved data.
+- ** Baglanyşygyň ýitmegi: ** Iň aýdyň netije, tor birikmesiniň ýitmegi, tor bilen baglanyşykly islendik işiň bozulmagy we saklanmadyk maglumatlaryň ýitmegine sebäp bolmagydyr.
 
-- **Network congestion:** As deauthenticated devices try to reconnect, this increased activity can cause network congestion, leading to further performance degradation.
+- ** Tor dyknyşygy: ** Barlanylmadyk enjamlar gaýtadan birikmäge synanyşanlarynda, bu artýan işjeňlik, ulgam dyknyşygyna sebäp bolup, öndürijiligiň peselmegine sebäp bolup biler.
 
-- **Credentials theft:** Deauth attacks can be used in conjunction with fake access points, allowing attackers to trick users into connecting to these malicious networks, and subsequently stealing their credentials and sensitive data.
+- ** Şahadatnamalary ogurlamak: ** Deauth hüjümleri galp giriş nokatlary bilen bilelikde ulanylyp bilner, hüjümçilere ulanyjylary bu zyýanly torlara birikmäge aldap, soňra şahsyýet maglumatlaryny we gizlin maglumatlary ogurlap biler.
 
-## How to Prevent Deauth Attacks
+## Deauth hüjümleriniň öňüni nädip almaly
 
-There isn't a foolproof solution to protect against deauth attacks, particularly due to the inherent lack of encryption in management frames. However, you can take the following steps to reduce your risk:
+Aýratynam dolandyryş çarçuwalarynda şifrlemegiň ýoklugy sebäpli, deauth hüjümlerinden goramak üçin akylsyz çözgüt ýok. Şeýle-de bolsa, töwekgelçiligiňizi azaltmak üçin aşakdaky çäreleri görüp bilersiňiz:
 
-- **Enable 802.11w (Protected Management Frames):** Some routers support the 802.11w standard, which can protect deauthentication and disassociation frames through encryption.
+- ** 802.11w (Goragly dolandyryş çarçuwalary) işlediň: ** Käbir marşrutizatorlar şifrlemek arkaly deautifikasiýa we bölünme çarçuwalaryny gorap bilýän 802.11w standartyny goldaýar.
 
-- **Use a strong authentication method:** Enabling strong methods like WPA3 and EAP-TLS on your network can help ensure that devices are more resistant to malicious disconnections.
+- ** Güýçli tanamak usulyny ulanyň: ** Toruňyzda WPA3 we EAP-TLS ýaly güýçli usullary açmak, enjamlaryň zyýanly birikmelere has çydamlydygyny üpjün edip biler.
 
-- **Monitor your network for suspicious activity:** Utilize a network monitoring tool or Wi-Fi analyzer to detect anomalies and possible deauth attack attempts.
+- ** Şübheli hereketler üçin toruňyza gözegçilik ediň: ** Anomaliýalary we ähtimal deauth hüjüm synanyşyklaryny ýüze çykarmak üçin tor gözegçilik guralyny ýa-da Wi-Fi analizatoryny ulanyň.
 
-- **Secure your access points:** Regularly update your router’s firmware and configure its settings to disable remote management access, applying strong access credentials to minimize unauthorized access.
+- ** Giriş nokatlaryňyzy ygtybarly ediň: ** Routeriňiziň programma üpjünçiligini yzygiderli täzeläň we uzakdan dolandyryş ygtyýaryny ýapmak üçin sazlamalaryny düzüň, rugsatsyz girişi azaltmak üçin güýçli giriş şahsyýetnamalaryny ulanyň.
 
-As an author of this guide, I advise you to stay diligent and follow the best practices in order to safeguard your network from deauth attacks and other security threats.
+Bu gollanmanyň awtory hökmünde, toruňyzy deauth hüjümlerinden we beýleki howpsuzlyk howplaryndan goramak üçin yhlasly bolmagyňyzy we iň oňat tejribelere eýermegiňizi maslahat berýärin.

@@ -1,21 +1,21 @@
 # esxi
 
-VMware ESXi is a Type 1 hypervisor and the core building block for VMware's virtualization technology. It represents a bare-metal hypervisor, which means it is installed directly onto your physical server's hardware, without the need for a supporting operating system. This results in elevated performance, reduced overhead, and efficient resource allocation.
+VMware ESXi 1-nji görnüşli giperwizor we VMware-yň wirtuallaşdyryş tehnologiýasy üçin esasy gurluş blokudyr. Arealaňaç metal giperwizory aňladýar, bu goldaýan operasiýa ulgamynyň zerurlygy bolmazdan gönüden-göni fiziki serweriňiziň enjamyna gurnalan diýmekdir. Bu öndürijiligiň ýokarlanmagyna, üstüňiziň azalmagyna we çeşmeleriň netijeli paýlanmagyna getirýär.
 
-Key features and benefits of ESXi include:
+ESXi-iň esasy aýratynlyklary we peýdalary şulary öz içine alýar:
 
-- **Bare-metal performance**: ESXi can provide better performance by executing directly on the hardware, without the need for an additional operating system layer.
+- **Bare-metal performance**: ESXi goşmaça operasiýa ulgamynyň gatlagynyň zerurlygy bolmazdan, enjamda gönüden-göni ýerine ýetirip has gowy öndürijilik berip biler.
 
-- **Security**: ESXi has a smaller footprint and is more resistant to attacks due to its limited scope and stringent VMware policies.
+- **Security**: ESXi has kiçi aýak yzy bar we çäkli çäkleri we berk VMware syýasaty sebäpli hüjümlere has çydamly.
 
-- **Resource allocation**: ESXi allows for efficient allocation of resources, such as memory and CPU time, as it directly controls hardware.
+- **Resource allocation**:   ESXi enjamy gönüden-göni dolandyrýandygy sebäpli, ýat we CPU wagty ýaly çeşmeleri netijeli paýlamaga mümkinçilik berýär.
 
-- **Scalability**: ESXi provides a simple and efficient environment to run multiple virtual machines (VMs) on a single server, which can reduce the need for additional hardware.
+- **Scalability**: ESXi goşmaça enjamlara zerurlygy azaldyp bilýän bir serwerde birnäçe wirtual maşynlary (VM) işletmek üçin ýönekeý we täsirli gurşaw üpjün edýär.
 
-- **Centralized management**: VMware offers vSphere, a centralized management platform that integrates seamlessly with ESXi, making it easy to deploy, manage, and maintain large-scale virtual infrastructure.
+- **Centralized management**: VMware, ESXi bilen üznüksiz birleşýän, uly göwrümli wirtual infrastrukturany ýerleşdirmegi, dolandyrmagy we goldamagy aňsatlaşdyrýan merkezleşdirilen dolandyryş platformasy vSphere hödürleýär.
 
-- **Compatibility**: ESXi is compatible with a wide variety of hardware, which makes deployment and implementation more flexible and cost-effective.
+- **Compatibility**:  ESXi ýerleşdirmegi we durmuşa geçirmegi has çeýe we tygşytly edýän köp dürli enjam bilen utgaşýar.
 
-To get started with ESXi, you'll need to have compatible hardware and download the ESXi ISO from VMware's website. After installing it on your server, you can manage the virtual machines through VMware vSphere Client or other third-party tools. For more advanced management features, such as high availability, fault tolerance, and distributed resource scheduling, consider investing in VMware vSphere to fully leverage ESXi's potential.
+ESXi bilen başlamak üçin gabat gelýän enjamlar bolmaly we ESXi ISO-ny VMware web sahypasyndan göçürip almaly bolarsyňyz. Serweriňize guranyňyzdan soň, VMware vSphere Client ýa-da beýleki üçünji tarap gurallary arkaly wirtual maşynlary dolandyryp bilersiňiz. Highokary elýeterlilik, näsazlyklara çydamlylyk we paýlanan çeşmeleri meýilleşdirmek ýaly has ösen dolandyryş aýratynlyklary üçin ESXi-iň potensialyndan doly peýdalanmak üçin VMware vSphere maýa goýmagy göz öňünde tutuň.
 
-In summary, VMware's ESXi enables organizations to create, run, and manage multiple virtual machines on a single physical server. With its bare-metal performance, robust security, and seamless integration with management tools, ESXi is a powerful solution for businesses looking to optimize their IT infrastructure through virtualization technologies.
+Gysgaça aýtsak, VMware-nyň ESXi guramalara bir fiziki serwerde birnäçe wirtual maşyn döretmäge, işlemäge we dolandyrmaga mümkinçilik berýär. Ealaňaç metal öndürijiligi, ygtybarly howpsuzlygy we dolandyryş gurallary bilen üznüksiz integrasiýasy bilen ESXi wirtuallaşdyryş tehnologiýalary arkaly IT infrastrukturasyny optimizirlemek isleýän kärhanalar üçin güýçli çözgütdir.

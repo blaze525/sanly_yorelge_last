@@ -1,30 +1,30 @@
 # DoS vs DDoS
 
-In this section, we will discuss the differences between DoS (Denial of Service) and DDoS (Distributed Denial of Service) attacks, two common network-based attacks that can severely impact the availability and performance of targeted systems.
+Bu bölümde, maksatly ulgamlaryň elýeterliligine we işleýşine düýpli täsir edip biljek iki sany umumy ulgamlaýyn hüjüm, DoS (Hyzmatdan ýüz öwürmek) we DDoS (Hyzmatyň paýlanmagy ret edilmegi) arasyndaky tapawutlary ara alyp maslahatlaşarys.
 
-## DoS (Denial of Service) Attack
+## DoS (Hyzmatdan boýun gaçyrmak) hüjüm
 
-A DoS attack is a type of cyber attack where an attacker aims to make a computer or network resource unavailable to its intended users by overwhelming the target system with requests, it essentially becomes inaccessible due to server overloading.
+DoS hüjümi kiber hüjümiň bir görnüşidir, hüjümçi maksatly ulgamy haýyşlar bilen basyp, kompýuter ýa-da tor çeşmesini göz öňünde tutulan ulanyjylara elýeterli etmezligi maksat edinýär, serweriň aşa ýüklenmegi sebäpli aslynda elýeterli bolmaz.
 
-Some common methods employed in DoS attacks include:
+DoS hüjümlerinde ulanylýan käbir umumy usullar:
 
-- **Flooding** - The attacker sends a massive number of requests to the target system, overwhelming its capacity to respond and eventually crashing the system.
-- **Ping of Death** - The attacker sends a large, malformed ICMP packet to the target system, which can cause the system to crash.
+- **Flooding** - Hüjümçi nyşana almak ulgamyna köp sanly haýyş iberýär, jogap bermek ukybyny aşa köpeldýär we netijede ulgamy ýykýar.
+- **Ping of Death**  - Hüjümçi ulgamyň çökmegine sebäp bolup biljek uly, näsaz ICMP paketini nyşana iberýär.
 
-## DDoS (Distributed Denial of Service) Attack
+## DDoS (Hyzmatyň paýlanan ret edilmegi) hüjümi
 
-A DDoS attack is similar to a DoS attack in its intent, but it utilizes multiple computers or devices (usually compromised by malware) to launch the attack. These devices, collectively called a "botnet", send an overwhelming amount of requests to the target system, making it even harder to mitigate the attack and protect the resources.
+DDoS hüjümi niýetindäki DoS hüjümine meňzeýär, ýöne hüjümi başlatmak üçin birnäçe kompýuter ýa-da enjam ulanýar (köplenç zyýanly programma üpjünçiligi tarapyndan zyýan çekýär). Köpçülikleýin "botnet" diýlip atlandyrylýan bu enjamlar nyşana ulgamyna gaty köp haýyş iberýär, bu hüjümi azaltmak we çeşmeleri goramak hasam kynlaşdyrýar.
 
-Some common methods employed in DDoS attacks include:
+DDoS hüjümlerinde ulanylýan käbir adaty usullar:
 
-- **UDP Flood** - A DDoS attack that sends numerous User Datagram Protocol (UDP) packets to the target system, consuming its resources and eventually leading to a crash.
-- **HTTP Flood** - A DDoS attack that generates a large number of HTTP requests to the target server, which exceeds its processing capacity and causes a slowdown or crash.
+- **UDP Flood** - Ulanyjy Datagram Protokoly (UDP) paketlerini nyşana ulgamyna iberýän DDoS hüjümi, çeşmelerini sarp edip, netijede heläkçilige sebäp bolýar.
+- **HTTP Flood** - Maksatnama serwerine köp sanly HTTP haýyşlaryny döredýän DDoS hüjümi, gaýtadan işleýiş kuwwatyndan ýokary bolup, haýallaşmagyna ýa-da ýykylmagyna sebäp bolýar.
 
-## Key Differences
+## Esasy tapawutlar
 
-- **Scale**: While DoS attacks are limited by the resources of a single attacker, DDoS attacks involve multiple attacking devices, making them more effective at overwhelming and disrupting the target system.
-- **Mitigation**: DoS attacks can usually be mitigated with simpler countermeasures, but DDoS attacks often require more sophisticated defense strategies due to their distributed and coordinated nature.
+- **Scale**: DoS hüjümleri bir hüjümçiniň çeşmesi bilen çäklendirilen hem bolsa, DDoS hüjümleri köp sanly hüjüm enjamyny öz içine alýar we olary nyşana almak ulgamyny agdarmakda we bozmakda has täsirli edýär.
+- **Mitigasiýa**: DoS hüjümleri adatça has ýönekeý çäreler bilen ýeňilleşdirilip bilner, ýöne DDoS hüjümleri paýlanan we utgaşdyrylan tebigaty sebäpli köplenç has çylşyrymly goranyş strategiýalaryny talap edýär.
 
-In conclusion, both DoS and DDoS attacks aim to disrupt the availability of a target system by overwhelming its resources. However, their key differences lie in the scale and complexity of the attack, with DDoS attacks being more powerful and more challenging to defend against. It is crucial for organizations to implement robust security measures to detect and mitigate these attacks to maintain the availability and integrity of their systems.
+Sözümiň ahyrynda, DoS we DDoS hüjümleriniň ikisi hem çeşmelerini aşa köpeltmek arkaly maksatly ulgamyň elýeterliligini bozmagy maksat edinýär. Muňa garamazdan, olaryň esasy tapawutlary hüjümiň geriminde we çylşyrymlylygyndadyr, DDoS hüjümleri has güýçli we goranmak has kyn. Guramalar üçin ulgamlarynyň elýeterliligini we bitewiligini saklamak üçin bu hüjümleri ýüze çykarmak we azaltmak üçin ygtybarly howpsuzlyk çärelerini durmuşa geçirmek möhümdir.
 
-- [DDOS Attack](https://www.youtube.com/watch?v=PTJ6UZz1pPQ)
+- [DDOS hüjümi] (https://www.youtube.com/watch?v=PTJ6UZz1pPQ)

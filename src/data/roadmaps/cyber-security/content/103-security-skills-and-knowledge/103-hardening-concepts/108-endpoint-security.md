@@ -1,27 +1,27 @@
-# Endpoint Security
+# Ahyrky nokadyň howpsuzlygy
 
-Endpoint security refers to the practice of protecting individual devices, or "endpoints", that connect to your organization's network from potential cyber threats. These devices include desktop computers, laptops, smartphones, tablets, and servers. With the increase in remote working and the widespread use of personal devices in the workplace, endpoint security has become a critical aspect of a strong cybersecurity strategy.
+Ahyrky nokadyň howpsuzlygy, guramaňyzyň toruna bolup biljek kiber howplardan goraýan aýratyn enjamlary ýa-da "ahyrky nokatlary" goramak praktikasyna degişlidir. Bu enjamlara iş stoly kompýuterler, noutbuklar, smartfonlar, planşetler we serwerler girýär. Uzakdan işlemegiň köpelmegi we iş ýerlerinde şahsy enjamlaryň giňden ulanylmagy bilen ahyrky nokadyň howpsuzlygy güýçli kiberhowpsuzlyk strategiýasynyň möhüm tarapyna öwrüldi.
 
-## Why is Endpoint Security Important?
+## Näme üçin ahyrky nokadyň howpsuzlygy möhüm?
 
-Endpoint devices serve as potential entry points for cybercriminals to access sensitive data and launch attacks against your organization's network. By securing these devices, you can prevent unauthorized access, reduce the risk of data breaches, and maintain the integrity of your network.
+Ahyrky nokat enjamlary kiber jenaýatçylaryň duýgur maglumatlara girmegi we guramaňyzyň toruna garşy hüjümleri amala aşyrmagy üçin giriş nokady bolup hyzmat edýär. Bu enjamlary ygtybarly üpjün etmek bilen, birugsat girmegiň öňüni alyp bilersiňiz, maglumatlaryň bozulmagy howpuny azaldyp we toruňyzyň bitewiligini saklap bilersiňiz.
 
-## Key Components of Endpoint Security
+## Ahyrky nokadyň howpsuzlygynyň esasy komponentleri
 
-To effectively secure your endpoints, consider implementing the following measures:
+Ahyrky nokatlaryňyzy netijeli goramak üçin aşakdaky çäreleri durmuşa geçirmegi göz öňünde tutuň:
 
-- **Antivirus and Malware Protection**: Make sure every endpoint device has up-to-date antivirus and anti-malware software installed. This will help to detect and remove malicious files, preventing them from causing harm to your network.
+- ** Antivirus we zyýanly programma üpjünçiligini goramak **: Her ahyrky nokadyň häzirki zaman antiwirusynyň we zyýanly programma üpjünçiliginiň gurnalandygyna göz ýetiriň. Bu zyýanly faýllary tapmaga we aýyrmaga kömek eder, toruňyza zyýan ýetirmez.
 
-- **Patch Management**: Stay up to date with the latest security patches for your operating systems and third-party applications. Regularly updating your software can help protect against vulnerabilities that cybercriminals may exploit.
+- ** Patch Management **: Operasiýa ulgamlaryňyz we üçünji tarap programmalary üçin iň täze howpsuzlyk programmalary bilen habarlaşyň. Programma üpjünçiligiňizi yzygiderli täzelemek, kiber jenaýatçylaryň ulanyp biljek gowşak ýerlerinden goramaga kömek edip biler.
 
-- **Device Management**: Implement a centralized device management solution that allows administrators to monitor, manage, and secure endpoints. This includes enforcing security policies, tracking device inventory, and remote wiping lost or stolen devices.
+- ** Enjamlary dolandyrmak **: Dolandyryjylara ahyrky nokatlara gözegçilik etmäge, dolandyrmaga we ygtybarly etmäge mümkinçilik berýän merkezleşdirilen enjam dolandyryş çözgüdini durmuşa geçiriň. Bu howpsuzlyk syýasatlaryny ýerine ýetirmegi, enjamlaryň sanawyny yzarlamagy we ýitirilen ýa-da ogurlanan enjamlary uzakdan süpürmegi öz içine alýar.
 
-- **Access Control**: Limit access to sensitive data by implementing a strict access control policy. Only grant necessary permissions to those who require it, and use authentication methods such as multi-factor authentication (MFA) to verify the identity of users.
+- ** Giriş gözegçiligi **: Gaty berk gözegçilik syýasatyny durmuşa geçirip, duýgur maglumatlara girişi çäklendiriň. Diňe talap edýänlere zerur rugsatlary beriň we ulanyjylaryň şahsyýetini barlamak üçin köp faktorly tanamak (MFA) ýaly tanamak usullaryny ulanyň.
 
-- **Encryption**: Encrypt sensitive data stored on endpoint devices to prevent unauthorized access to the data in case of device theft or loss.
+- ** Şifrlemek **: Enjam ogurlanan ýa-da ýitirilen ýagdaýynda maglumatlara birugsat girilmeginiň öňüni almak üçin ahyrky enjamlarda saklanýan duýgur maglumatlary şifrläň.
 
-- **Firewall and Intrusion Prevention**: Deploy firewall and intrusion prevention systems to block external threats and alert administrators of potential attacks.
+- ** Gorag diwary we çozuşyň öňüni almak **: Daşarky howplaryň öňüni almak we potensial hüjümleriň dolandyryjylaryna duýduryş bermek üçin gorag diwary we çozuşyň öňüni alyş ulgamlaryny ýerleşdiriň.
 
-- **User Training**: Educate users about the importance of endpoint security and the best practices for maintaining it. This includes topics like creating strong passwords, avoiding phishing scams, and following safe browsing practices.
+- ** Ulanyjy okuwy **: Ulanyjylara ahyrky nokadyň howpsuzlygynyň ähmiýeti we ony saklamak üçin iň oňat tejribe öwrediň. Bu güýçli parollary döretmek, balykçy aldawlaryndan gaça durmak we ygtybarly gözleg amallaryna eýermek ýaly temalary öz içine alýar.
 
-By taking a comprehensive approach to endpoint security, you can protect your organization's network and sensitive data from the growing threat of cyberattacks.
+Howpsuzlygyň ahyrky nokadyna giňişleýin çemeleşmek bilen, guramaňyzyň ulgamyny we duýgur maglumatlary kiberhüjümleriň howpundan gorap bilersiňiz.

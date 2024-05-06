@@ -2,35 +2,34 @@
 
 ## Offensive Security Certified Professional (OSCP)
 
-The **Offensive Security Certified Professional (OSCP)** is a highly respected and sought-after certification in the field of cybersecurity. This certification is designed to test your practical knowledge and skills in the identification and exploitation of vulnerabilities in a target environment, as well as your ability to effectively implement offensive security techniques to assess the security posture of networks and systems.
+**Offensive Security Certified Professional (OSCP) - Hüjüm howpsuzlygy kepillendirilen hünärmen (OSCP)** kiberhowpsuzlyk pudagynda ýokary hormatlanýan we gözlenýän sertifikat. Bu kepilnama, maksatly gurşawda gowşak goralanlyklary ýüze çykarmak we ulanmak boýunça amaly bilimleriňizi we başarnyklaryňyzy, şeýle hem torlaryň we ulgamlaryň howpsuzlyk ýagdaýyna baha bermek üçin kemsidiji howpsuzlyk usullaryny netijeli durmuşa geçirmek ukybyňyzy barlamak üçin döredildi.
 
-## Key Topics Covered:
+## Esasy mowzuklar:
 
-- Penetration testing methodologies
-- Advanced information gathering techniques
-- Buffer overflow attacks
-- Web application attacks
-- Various exploitation techniques
-- Privilege escalation
-- Client-side attacks
-- Post-exploitation techniques
-- Basic scripting and automation
+- Giriş synag usullary
+- Maglumat ýygnamagyň ösen usullary
+- Bufer artykmaç hüjümler
+- Web programma hüjümleri
+- Dürli ekspluatasiýa usullary
+- ileeňillikleriň ýokarlanmagy
+- Müşderi tarapyndan edilýän hüjümler
+- Ekspluatasiýadan soňky usullar
+- Esasy skript we awtomatlaşdyryş
 
-## Prerequisites:
+## Zerur şertler:
 
-There are no strict prerequisites for the OSCP, but it is recommended that candidates have a solid understanding of networking, system administration, and Linux/Unix command-line environments. Familiarity with basic programming concepts, scripting languages (e.g., Python, Bash), and operating system concepts will also be helpful.
+OSCP üçin berk şertler ýok, ýöne dalaşgärlere tor, ulgam dolandyryşy we Linux / Unix buýruk setiri gurşawyna berk düşünmek maslahat berilýär. Esasy programmirleme düşünjeleri, skript dilleri (meselem, Python, Baş) we operasiýa ulgamy düşünjeleri bilen tanyşlyk hem peýdaly bolar.
 
-## Exam Format:
+## Synag formaty:
 
-To obtain the OSCP certification, you must successfully complete the 24-hour hands-on exam, where you are required to attack and penetrate a target network, compromising several machines and completing specific objectives within the given time frame.
+OSCP şahadatnamasyny almak üçin, birnäçe enjamy bozup, belli bir möhletde belli bir maksatlary ýerine ýetirip, belli bir tora hüjüm etmeli we girmeli bolýan 24 sagatlyk synagdan üstünlikli geçmeli.
 
-Before attempting the exam, candidates must complete the accompanying training course, **Penetration Testing with Kali Linux (PWK)**, which provides the necessary knowledge and practical experience required for the OSCP exam.
+Synag tabşyrmazdan ozal, dalaşgärler OSCP synagy üçin zerur bilimleri we amaly tejribe berýän Kali Linux (PWK) ** bilen bilelikde geçiriljek okuw kursyny tamamlamaly.
 
-## Why Pursue the OSCP Certification?
+## Näme üçin OSCP şahadatnamasyny yzarlamaly?
 
-- **Hands-on Approach:** OSCP emphasizes a practical, hands-on approach, ensuring that certified professionals possess both the theoretical knowledge and practical skills required to succeed in the cybersecurity field.
-- **Industry Recognition:** OSCP is widely recognized and respected within the cybersecurity community as a rigorous and demanding certification that validates a candidate's ability to perform under pressure.
-- **Career Advancement:** With the OSCP certification, you can demonstrate your advanced skills in offensive security techniques, making you a valuable asset to any security team and potentially opening up opportunities for career growth, higher salaries, and challenging roles in the industry.
-- **Continuous Learning:** Pursuing the OSCP certification will help you develop a deeper understanding of underlying vulnerabilities and attack vectors. This knowledge, combined with constantly evolving offensive security techniques, ensures that you stay ahead in the ever-changing cybersecurity landscape.
+- ** Önümçiligiň ykrar edilmegi: ** OSCP kiberhowpsuzlyk jemgyýetinde giňden tanalýar we hormatlanýar, dalaşgäriň basyş astynda çykyş etmek ukybyny tassyklaýan berk we talap ediji şahadatnama.
+- ** Hünär ösüşi: ** OSCP kepilnamasy bilen, islendik howpsuzlyk topary üçin gymmatly baýlyga öwrülip, karýeranyň ösmegi, aýlyklaryň ýokary bolmagy we kyn rol oýnamak üçin hüjüm ediji howpsuzlyk tehnikalarynda ösen başarnyklaryňyzy görkezip bilersiňiz. senagaty.
+- ** Üznüksiz okuw: ** OSCP kepilnamasyny yzarlamak, esasy gowşak goralanlyklara we hüjüm wektorlaryna has çuňňur düşünmäge kömek eder. Bu bilim, yzygiderli ösýän kemsidiji howpsuzlyk usullary bilen utgaşyp, hemişe üýtgeýän kiberhowpsuzlyk şertlerinde öňde durmagyňyzy üpjün edýär.
 
-Obtaining the OSCP certification can be a challenging and rewarding journey that provides you with practical skills and industry recognition, enabling you to stand out as a cybersecurity professional and advance your career in the field.
+OSCP şahadatnamasyny almak, amaly başarnyklary we pudagy tanamagy üpjün edýän, kiberhowpsuzlyk hünärmeni hökmünde tapawutlanmaga we bu ugurda karýeraňyzy ösdürmäge mümkinçilik berýän kyn we peýdaly syýahat bolup biler.

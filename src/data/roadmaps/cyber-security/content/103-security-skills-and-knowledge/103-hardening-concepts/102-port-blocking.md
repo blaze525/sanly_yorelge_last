@@ -1,21 +1,21 @@
-# Port Blocking
+# Portuň petiklenmegi
 
-Port blocking is an essential practice in hardening the security of your network and devices. It involves restricting, filtering, or entirely denying access to specific network ports to minimize exposure to potential cyber threats. By limiting access to certain ports, you can effectively safeguard your systems against unauthorized access and reduce the likelihood of security breaches.
+Porty blokirlemek, toruňyzyň we enjamlaryňyzyň howpsuzlygyny berkitmekde möhüm tejribe. Potensial kiber howplara täsirini azaltmak üçin belli bir tor portlaryna girmegi çäklendirmegi, süzmegi ýa-da düýbünden inkär etmegi öz içine alýar. Käbir portlara girişi çäklendirip, ulgamlaryňyzy rugsatsyz girişden netijeli gorap bilersiňiz we howpsuzlyk düzgünleriniň bozulma ähtimallygyny azaldyp bilersiňiz.
 
-## Why is Port Blocking Important?
+## Portuň petiklenmegi näme üçin möhüm?
 
-- **Reducing attack surface**: Every open port presents a potential entry point for attackers. By blocking unused or unnecessary ports, you shrink the attack surface of your network.
-- **Securing sensitive data**: Limiting access to specific ports can help protect sensitive data by ensuring that only authorized individuals can access certain network services.
-- **Compliance with regulations**: Various regulations such as PCI DSS, HIPAA, and GDPR require organizations to have a secure data protection infrastructure, which includes controlling access to your network.
+- ** Hüjümiň üstüni azaltmak **: Her açyk port hüjümçiler üçin giriş nokadyny görkezýär. Ulanylmaýan ýa-da gereksiz portlary blokirlemek bilen, toruňyzyň hüjüm ýüzüni kiçeldýärsiňiz.
+- ** Duýgur maglumatlary goramak **: Belli portlara girişi çäklendirmek, diňe ygtyýarly şahslaryň belli bir ulgam hyzmatlaryna girip biljekdigini üpjün etmek arkaly duýgur maglumatlary goramaga kömek edip biler.
+- ** Düzgünnamalary berjaý etmek **: PCI DSS, HIPAA we GDPR ýaly dürli düzgünler guramalardan toruňyza girmegi gözegçilikde saklaýan ygtybarly maglumat gorag infrastrukturasynyň bolmagyny talap edýär.
 
-## How to Implement Port Blocking
+## Port blokirlemesini nädip amala aşyrmaly
 
-To implement port blocking, consider the following steps:
+Port blokirlemesini amala aşyrmak üçin aşakdaky ädimleri gözden geçiriň:
 
-- **Identifying necessary ports**: Analyze your network to determine which ports need to remain open for key services and functions, and which can be safely blocked.
-- **Creating a port blocking policy**: Develop a policy that defines which ports should be blocked and why, along with the rationale behind permitting access to specific ports.
-- **Using firewall rules**: Configure the firewall on your devices and network infrastructure to block the ports deemed appropriate by your policy.
-- **Testing**: Test your configuration to ensure that only the necessary ports are accessible, and the blocked ports are indeed blocked.
-- **Monitoring and maintaining**: Regularly monitor and review open ports for any possible changes, and update your port blocking policy and configurations as needed.
+- ** Zerur portlary kesgitlemek **: Esasy hyzmatlar we funksiýalar üçin haýsy portlaryň açyk bolmalydygyny we haýsysynyň ygtybarly blokirlenip biljekdigini kesgitlemek üçin toruňyzy derňäň.
+- ** Porty blokirlemek syýasatyny döretmek **: Haýsy portlaryň petiklenmelidigini we näme üçin belli portlara girmäge rugsat bermegiň esaslary bilen birlikde syýasaty işläp düzüň.
+- ** Gorag diwarynyň düzgünlerini ulanmak **: Syýasatyňyz bilen laýyk hasaplanýan portlary blokirlemek üçin enjamlaryňyza we tor infrastrukturasyna gorag diwaryny sazlaň.
+- ** Synag **: Diňe zerur portlaryň elýeterlidigini we petiklenen portlaryň hakykatdanam petiklenendigini anyklamak üçin konfigurasiýaňyzy barlaň.
+- ** Gözegçilik we hyzmat **: Mümkin bolan üýtgeşmeler üçin açyk portlara yzygiderli gözegçilik ediň we gözden geçiriň we portuňyzy blokirlemek syýasatyny we konfigurasiýalaryny zerur bolanda täzeläň.
 
-Remember, implementing port blocking is just one piece of a comprehensive cybersecurity strategy. Be sure to consider additional hardening concepts and best practices to ensure your network remains secure.
+Portuň petiklenmegini amala aşyrmak, giňişleýin kiberhowpsuzlyk strategiýasynyň diňe bir bölegidigini ýadyňyzdan çykarmaň. Toruňyzyň ygtybarly bolmagyny üpjün etmek üçin goşmaça berkitme düşünjelerini we iň oňat tejribeleri göz öňünde tutuň.

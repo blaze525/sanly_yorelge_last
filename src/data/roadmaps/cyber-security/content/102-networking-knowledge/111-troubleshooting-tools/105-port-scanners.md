@@ -1,36 +1,36 @@
-# Port Scanners
+# Port skanerleri
 
-Port scanners are essential tools in the troubleshooting and cybersecurity landscape. They are designed to detect open or closed network ports on a target system. Network ports serve as communication endpoints for various applications and services running on a device, and knowing the status of these ports can help identify potential security vulnerabilities or confirm that specific services are running as intended.
+Port skanerleri näsazlyklary düzetmek we kiberhowpsuzlyk şertlerinde möhüm gurallardyr. Maksatly ulgamda açyk ýa-da ýapyk tor portlaryny kesgitlemek üçin niýetlenendir. Tor portlary, enjamda işleýän dürli programmalar we hyzmatlar üçin aragatnaşyk nokady bolup hyzmat edýär we bu portlaryň ýagdaýyny bilmek, potensial howpsuzlyk gowşaklyklaryny ýüze çykarmaga ýa-da belli hyzmatlaryň göz öňünde tutulyp işleýändigini tassyklamaga kömek edip biler.
 
-In this section, we will explore the following aspects of port scanners:
+Bu bölümde port skanerleriniň aşakdaky taraplaryny öwreneris:
 
-- **Why port scanners are important**
-- **Types of port scanners**
-- **Popular port scanning tools**
+- ** Port skanerleri näme üçin möhüm **
+- ** Port skanerleriniň görnüşleri **
+- ** Meşhur port skaner gurallary **
 
-## Why port scanners are important
+## Näme üçin port skanerleri möhüm?
 
-Port scanners can help in the following situations:
+Port skanerleri aşakdaky ýagdaýlarda kömek edip biler:
 
-- **Identifying open ports:** Open ports might expose your system to attacks if they are left unsecured. A port scanner can help you identify which network ports are open and need to be secured.
-- **Detecting unauthorized services:** Scanning for open ports can help you find if any unauthorized applications are running on your network, as these services might open ports that you are not aware of.
-- **Testing firewall rules:** Port scanners can also verify if your firewall rules are effective and configured correctly.
-- **Troubleshooting network issues:** By detecting open and closed ports, port scanners can help you diagnose network problems and ensure your applications and services are running smoothly.
+- ** Açyk portlary kesgitlemek: ** Açyk portlar, goragsyz galsa ulgamyňyzy hüjümlere sezewar edip biler. Port skaneri haýsy tor portlarynyň açykdygyny we ygtybarly bolmalydygyny kesgitlemäge kömek edip biler.
+- ** Rugsat berilmedik hyzmatlary tapmak: ** Açyk portlary gözlemek, toruňyzda birugsat programmalaryň işleýändigini ýa-da ýokdugyny anyklamaga kömek edip biler, sebäbi bu hyzmatlar siziň bilmeýän portlaryňyzy açyp biler.
+- ** Gorag diwarynyň düzgünlerini barlamak: ** Port skanerleri, diwar gorag düzgünleriňiziň täsirli we dogry düzülendigini hem barlap biler.
+- ** Tor meselelerini çözmek: ** Açyk we ýapyk portlary ýüze çykarmak bilen port skanerleri tor problemalaryny anyklamaga we amaly programmalaryňyzyň we hyzmatlaryňyzyň kadaly işlemegine kömek edip biler.
 
-## Types of port scanners
+## Port skanerleriniň görnüşleri
 
-There are three main types of port scanners:
+Port skanerleriniň üç esasy görnüşi bar:
 
-- **TCP Connect:** This scanner initiates a full TCP connection between the scanner and the target device. It goes through the entire process of establishing a TCP connection, including a three-way handshake. This type of scan is accurate but more easily detectable.
-- **TCP SYN or Half-Open scan:** This scanner only sends a SYN packet (a request to start a connection) to the target device. If the target device responds with a SYN/ACK packet, the port is considered open. This type of scan is faster and less detectable, as it doesn't establish a full connection.
-- **UDP Scan:** This scanner targets User Datagram Protocol (UDP) ports, which are typically used for streaming and real-time communication applications. It sends UDP packets to the target device, and if there's no response, the port is considered open. This type of scan can be less accurate, as some devices may not respond to UDP probes.
+- ** TCP birikmesi: ** Bu skaner, skaner bilen maksatly enjamyň arasynda doly TCP baglanyşygyny başlaýar. Üç taraplaýyn el çarpmagy goşmak bilen, TCP birikmesini gurmagyň ähli prosesi geçýär. Gözlegiň bu görnüşi takyk, ýöne has aňsat kesgitlenýär.
+- ** TCP SYN ýa-da Halfarym açyk skaner: ** Bu skaner maksatly enjama diňe SYN paketini (birikmäni başlamak haýyşy) iberýär. Maksatly enjam SYN / ACK paketi bilen jogap berse, port açyk hasaplanýar. Gözlegiň bu görnüşi has çalt we az kesgitlenýär, sebäbi doly baglanyşyk gurmaýar.
+- ** UDP skaneri: ** Bu skaner, adatça akym we real wagt aragatnaşyk programmalary üçin ulanylýan Ulanyjy Datagram Protokoly (UDP) portlaryny nyşana alýar. UDP paketlerini maksatly enjama iberýär, jogap bolmasa, port açyk hasaplanýar. Gözlegiň bu görnüşi has takyk bolup biler, sebäbi käbir enjamlar UDP zondlaryna jogap bermezligi mümkin.
 
-## Popular port scanning tools
+## Meşhur port skaner gurallary
 
-Here are some popular and widely used port scanning tools:
+Ine, meşhur we giňden ulanylýan port skaner gurallary:
 
-- **Nmap:** Nmap (Network Mapper) is a free, open-source tool that is highly versatile and powerful. It offers various types of scans, including TCP Connect, TCP SYN, and UDP scans.
-- **Masscan:** Masscan is a high-speed port scanner that is typically used for large-scale scanning, thanks to its ability to scan the entire internet within a few minutes.
-- **Angry IP Scanner:** It is a cross-platform port scanner that is very user-friendly and suitable for beginners. It supports both TCP and UDP scanning.
+- ** Nmap: ** Nmap (Network Mapper), köp taraply we güýçli erkin, açyk çeşme guraldyr. TCP Connect, TCP SYN we UDP skanerleri ýaly dürli görnüşli skanerleri hödürleýär.
+- ** Masscan: ** Masscan, ýokary tizlikli port skaneridir, adatça birnäçe minudyň içinde tutuş internedi skanirlemek ukyby sebäpli uly göwrümli skaner üçin ulanylýar.
+- ** Gaharly IP skaner: ** Ulanyjy üçin amatly we täze başlanlar üçin amatly platforma port skaneri. TCP we UDP skanerini hem goldaýar.
 
-Remember to always use port scanners responsibly and only on your own systems or where you have permission to perform a scan. Unauthorized port scanning can have legal and ethical implications.
+Port skanerlerini elmydama jogapkärçilikli we diňe öz ulgamlaryňyzda ýa-da skanerden geçirmäge rugsat beren ýeriňizde ulanmagy ýatdan çykarmaň. Rugsat berilmedik port skaneri kanuny we ahlak taýdan bolup biler.

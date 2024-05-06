@@ -1,27 +1,27 @@
 # Group Policy
 
-_Group Policy_ is a feature in Windows operating systems that enables administrators to define and manage configurations, settings, and security policies for various aspects of the users and devices in a network. This capability helps you to establish and maintain a consistent and secure environment, which is crucial for organizations of all sizes.
+_ Group Policy_, Windows operasiýa ulgamlarynda dolandyryjylara torda ulanyjylaryň we enjamlaryň dürli taraplary üçin konfigurasiýalary, sazlamalary we howpsuzlyk syýasatlaryny kesgitlemäge we dolandyrmaga mümkinçilik berýän aýratynlykdyr. Bu ukyp, ähli ululykdaky guramalar üçin möhüm bolan yzygiderli we howpsuz gurşawy döretmäge we goldamaga kömek edýär.
 
-## How Group Policy Works
+## Group Policy nähili işleýär
 
-Group Policy works by maintaining a hierarchy of _Group Policy Objects_ (GPOs), which contain multiple policy settings. GPOs can be linked to different levels of the Active Directory (AD) structure, such as domain, site, and organizational unit (OU) levels. By linking GPOs to specific levels, you can create an environment in which different settings are applied to different groups of users and computers, depending on their location in the AD structure.
+Group Policy, birnäçe syýasat sazlamalaryny öz içine alýan _Grup Syýasat Obýektleriniň (GPO) iýerarhiýasyny saklamak arkaly işleýär. GPO-lary domen, sahypa we gurama bölümi (OU) derejeleri ýaly “Active Directory” (AD) gurluşynyň dürli derejeleri bilen baglanyşdyryp bolar. GPO-lary belli bir derejelere birikdirip, AD gurluşynda ýerleşişine baglylykda dürli ulanyjylaryň we kompýuterleriň dürli toparlaryna ulanylýan gurşawy döredip bilersiňiz.
 
-When a user logs in or a computer starts up, the relevant GPOs from the AD structure get evaluated to determine the final policy settings. GPOs are processed in a specific order — local, site, domain, and OUs, with the latter having the highest priority. This order ensures that you can have a baseline set of policies at the domain level, with more specific policies applied at the OU level, as needed.
+Ulanyjy sessiýa açanda ýa-da kompýuter işe başlanda, AD gurluşyndan degişli GPO-lar soňky syýasat sazlamalaryny kesgitlemek üçin baha berilýär. GPO-lar belli bir tertipde işlenýär - ýerli, saýt, domen we OU, ikinjisi iň ýokary ähmiýete eýe. Bu sargyt, zerur bolanda OU derejesinde has anyk syýasatlar bilen domen derejesinde esasy syýasatlar toplumyna eýe bolmagyňyzy üpjün edýär.
 
-## Common Group Policy Scenarios
+## Umumy Group Policy ssenarileri
 
-Here are some typical scenarios in which Group Policy can be utilized to enforce security policies and settings:
+Howpsuzlyk syýasatlaryny we sazlamalaryny ýerine ýetirmek üçin Group Policyny ulanyp boljak käbir adaty ssenariýalar:
 
-- **Password Policies**: You can use Group Policy to define minimum password length, complexity requirements, password history, and maximum password age for all users within the domain. This ensures a consistent level of password security across the organization.
+- ** Parol syýasatlary **: Domeniň içindäki ähli ulanyjylar üçin iň az parol uzynlygyny, çylşyrymly talaplary, parol taryhyny we iň ýokary parol ýaşyny kesgitlemek üçin Group Policyny ulanyp bilersiňiz. Bu, guramanyň içinde parol howpsuzlygynyň yzygiderli derejesini üpjün edýär.
 
-- **Account Lockout Policies**: Group Policy allows you to specify conditions under which user accounts will be locked out, such as after a specific number of failed login attempts. This helps to thwart brute-force attacks.
+- ** Hasaby ýapmak syýasatlary **: Group Policy, ulanyjy hasaplarynyň gulplanjak şertlerini kesgitlemäge mümkinçilik berýär, meselem, belli bir gezek giriş synanyşyklaryndan soň. Bu zalym güýçli hüjümleriň öňüni almaga kömek edýär.
 
-- **Software Deployment**: Deploy and manage the installation of software packages and security updates across the entire network. Ensure that all devices are running the latest, most secure software versions.
+- ** Programma üpjünçiligini ýerleşdirmek **: Programma paketlerini we howpsuzlyk täzelenmelerini tutuş ulgam boýunça ýerleşdiriň we dolandyryň. Deviceshli enjamlaryň iň täze, iň ygtybarly programma wersiýalarynyň işleýändigine göz ýetiriň.
 
-- **Device Security**: Apply configurations to enforce encryption, firewall settings, and other security-related device settings to protect your organization's network and sensitive data.
+- ** Enjam howpsuzlygy **: Şifrlemek, diwar gorag sazlamalary we guramaňyzyň toruny we duýgur maglumatlary goramak üçin howpsuzlyk bilen baglanyşykly enjam sazlamalaryny ýerine ýetirmek üçin konfigurasiýalary ulanyň.
 
-- **User Rights Assignment**: Control various user rights, such as the ability to log in locally or remotely, access this computer from the network, or shut down the system.
+- ** Ulanyjy hukuklaryny bellemek **: locallyerli ýa-da uzakdan girmek, bu kompýutere tordan girmek ýa-da ulgamy ýapmak ýaly dürli ulanyjy hukuklaryna gözegçilik ediň.
 
-- **Restricted Groups**: Manage group memberships, including local administrator groups, to ensure that only authorized users have elevated privileges on targeted devices.
+- ** Çäklendirilen toparlar **: Diňe ygtyýarly ulanyjylaryň maksatly enjamlarda artykmaçlyklara eýe bolmagyny üpjün etmek üçin ýerli dolandyryş toparlaryny goşmak bilen toparyň agzalaryny dolandyryň.
 
-By understanding and leveraging the capabilities of Group Policy, you can establish a robust and secure environment that meets your organization's specific requirements. Keep in mind that maintaining a well-documented, granular, and least-privileged approach to Group Policy settings will help ensure a manageable and resilient security posture.
+Group Policynyň mümkinçiliklerine düşünmek we peýdalanmak bilen, guramaňyzyň aýratyn talaplaryna laýyk gelýän ygtybarly we ygtybarly gurşaw döredip bilersiňiz. Group Policy sazlamalaryna gowy resminamalaşdyrylan, granuliki we iň artykmaç hukukly çemeleşmäni dolandyrmak, dolandyrylýan we çydamly howpsuzlyk ýagdaýyny üpjün etmäge kömek etjekdigini ýadyňyzdan çykarmaň.

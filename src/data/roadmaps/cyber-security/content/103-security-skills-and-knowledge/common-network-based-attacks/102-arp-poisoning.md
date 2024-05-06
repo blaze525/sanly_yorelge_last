@@ -1,26 +1,26 @@
-# ARP Poisoning
+# ARP zäherlenmesi (ARP Poisoning)
 
-**ARP Poisoning**, also known as ARP spoofing or ARP cache poisoning, is a cyber attack technique that exploits the Address Resolution Protocol (ARP) in a computer network. ARP is responsible for mapping an IP address to a corresponding Media Access Control (MAC) address, so that data packets can be correctly transmitted to the intended network device. An attacker can use ARP poisoning to intercept, modify, or disrupt communications between network devices.
+**ARP zäherlenmesi**, ARP zaýalamak ýa-da ARP keş keşinden zäherlenmek diýlip hem atlandyrylýar, kompýuter torunda Salgy çözmek protokolyny (ARP) ulanýan kiber hüjüm usulydyr. ARP, maglumat paketleriniň göz öňünde tutulan ulgam enjamyna dogry geçirilmegi üçin IP adresi degişli Media Access Control (MAC) adresine düzmek üçin jogapkärdir. Hüjümçi tor enjamlarynyň arasyndaky aragatnaşyklary kesmek, üýtgetmek ýa-da kesmek üçin ARP zäherlenmesini ulanyp biler.
 
-**How It Works:**
+**Bu nähili işleýär:**
 
-- The attacker sends falsified ARP messages to the network, associating their MAC address with the IP address of a targeted device (such as a server or gateway).
-- Other devices on the network treat the attacker's MAC address as the legitimate one for the targeted IP address, updating their ARP tables accordingly.
-- As a result, data packets that were meant for the targeted device are now sent to the attacker instead, potentially enabling them to eavesdrop, modify, or disrupt network traffic.
+- Hüjümçi, MAC salgysyny maksatly enjamyň IP serweri (serwer ýa-da şlýuz ýaly) baglanyşdyryp, tora galp ARP habarlaryny iberýär.
+- Tordaky beýleki enjamlar, hüjümçiniň MAC adresini maksatly IP adresi üçin kanuny hasaplaýar we degişlilikde ARP tablisalaryny täzeleýär.
+- Netijede, nyşana alynan enjam üçin niýetlenen maglumat paketleri hüjümçiniň ýerine iberilýär, bu bolsa toruň traffigini diňlemäge, üýtgetmäge ýa-da bozmaga mümkinçilik döredýär.
 
-**Consequences:**
+**Netijeler:**
 
-ARP poisoning can lead to serious security issues, including:
+ARP bilen zäherlenmek, çynlakaý howpsuzlyk meselelerine sebäp bolup biler:
 
-- Data leakage: Attackers can intercept sensitive data exchanged between devices on the network.
-- Man-in-the-middle attacks: Attackers can modify data in transit, potentially inserting malicious content.
-- Denial of Service (DoS) attacks: Attackers can render a targeted device unresponsive by flooding it with traffic or by dropping all packets bound for it.
+- Maglumatlaryň syzmagy: Hüjümçiler tordaky enjamlaryň arasynda alyş-çalyş edilýän duýgur maglumatlary saklap bilerler.
+- Orta hüjümler: Hüjümçiler zyýanly mazmuny goýup, tranzitde maglumatlary üýtgedip bilerler.
+- Hyzmatdan ýüz öwürmek (DoS) hüjümleri: Hüjümçiler maksatly enjamy traffige suw joşmagy ýa-da ähli paketleri taşlamak bilen jogap bermezligi mümkin.
 
-**Prevention and Mitigation:**
+**Öňüni almak we azaltmak:**
 
-Several strategies can help protect networks against ARP poisoning:
+Birnäçe strategiýa torlary ARP zäherlenmesinden goramaga kömek edip biler:
 
-- Static ARP entries: Assign static IP-to-MAC address mappings to prevent attackers from forging ARP responses.
-- ARP inspection tools: Use switches, firewalls, or Intrusion Detection/Prevention Systems (IDS/IPS) that support Dynamic ARP Inspection (DAI) or similar features to validate or filter suspicious ARP traffic.
-- IPsec or SSL/TLS: Encrypt traffic between network devices with secure protocols like IPsec or SSL/TLS to mitigate eavesdropping or tampering risks.
-- Regular monitoring: Continuously monitor network traffic and device ARP tables for anomalies or inconsistencies, possibly using Network Intrusion Detection Systems (NIDS) or other security tools.
+- Statik ARP ýazgylary: Hüjümçileriň ARP jogaplaryny ýalňyşmazlygy üçin statiki IP-to-MAC salgy kartalaryny belläň.
+- ARP gözleg gurallary: Şübheli ARP traffigini barlamak ýa-da süzmek üçin Dinamiki ARP Barlagyny (DAI) ýa-da şuňa meňzeş aýratynlyklary goldaýan wyklýuçateller, diwar diwarlary ýa-da çozuşlary kesgitlemek / Öňüni alyş ulgamlary (IDS / IPS) ulanyň.
+- IPsec ýa-da SSL / TLS: Diňlemek ýa-da töwekgelçiligi azaltmak üçin IPsec ýa-da SSL / TLS ýaly ygtybarly protokollar bilen tor enjamlarynyň arasynda traffigi şifrlemek.
+- Yzygiderli gözegçilik: Anomaliýa ýa-da gapma-garşylyklar üçin tor trafigini we enjam ARP tablisalaryny yzygiderli gözegçilikde saklaň, belki-de Tor çozuşyny kesgitlemek ulgamlaryny (NIDS) ýa-da beýleki howpsuzlyk gurallaryny ulanyp bilersiňiz.

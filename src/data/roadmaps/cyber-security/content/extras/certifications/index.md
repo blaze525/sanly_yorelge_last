@@ -1,1 +1,1 @@
-# Certifications
+# Hünär sertifikatlary

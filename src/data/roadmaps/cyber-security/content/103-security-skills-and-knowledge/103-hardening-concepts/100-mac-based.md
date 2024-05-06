@@ -1,35 +1,35 @@
-# MAC-based
+# MAC esasly (MAC-based)
 
-_Mandatory Access Control (MAC)_ is a robust security model when it comes to hardening, as it enforces strict policies on operating systems and applications regarding system access. In MAC-based hardening, the end-users are not allowed to modify access controls on your system.
+_ Hökmany giriş gözegçiligi (MAC (Mandatory Access Control )) _ gatylaşmak meselesinde ygtybarly howpsuzlyk modelidir, sebäbi operasiýa ulgamlaryna we ulgamlara giriş babatynda berk syýasatlary ýerine ýetirýär. MAC esasly gatylaşdyryşda, ahyrky ulanyjylara ulgamyňyzdaky giriş dolandyryşlaryny üýtgetmäge rugsat berilmeýär.
 
-## How MAC-based Hardening Works
+## MAC esasly gatylaşdyrma nähili işleýär
 
-Typical MAC mechanisms work based on predefined security attributes or labels. These labels determine access permissions and are integrated within the system to classify data, resources, and users. Once these labels are in place, the operating system or a trusted security kernel rigorously enforces the constraints on how they access data.
+Adaty MAC mehanizmleri öňünden kesgitlenen howpsuzlyk atributlaryna ýa-da belliklerine esaslanýar. Bu bellikler giriş rugsatlaryny kesgitleýär we maglumatlary, çeşmeleri we ulanyjylary toparlara bölmek üçin ulgamyň içinde birleşdirilýär. Bu bellikler ýerleşdirilenden soň, operasiýa ulgamy ýa-da ygtybarly howpsuzlyk ýadrosy, maglumatlara girmekdäki çäklendirmeleri berk ýerine ýetirýär.
 
-## Benefits of MAC-Based Hardening
+## MAC esasly gatylaşdyrmagyň peýdalary
 
-MAC-based hardening offers numerous benefits for organizations seeking to improve their cybersecurity posture:
+MAC esasly berkitme, kiberhowpsuzlyk ýagdaýyny gowulaşdyrmak isleýän guramalar üçin köp sanly peýdany hödürleýär:
 
-- **Enforced Security Policies**: MAC policies can be pre-configured in accordance with your organization's security requirements, ensuring consistency on all systems.
-- **Limited Access**: Users have limited access to resources, which reduces the potential for insider threats and accidental leaks of sensitive data.
-- **Protection of Sensitive Data**: By preventing unauthorized users from accessing sensitive data, MAC-based hardening helps protect against data breaches and other cybersecurity risks.
-- **Auditing and Compliance**: MAC-based hardening mechanisms help facilitate audits and compliance with industry regulations.
+- ** Güýçlendirilen howpsuzlyk syýasatlary **: MAC syýasatlary, ähli ulgamlarda yzygiderliligi üpjün edip, guramaňyzyň howpsuzlyk talaplaryna laýyklykda öňünden düzülip bilner.
+- ** Çäklendirilen elýeterlilik **: Ulanyjylaryň çeşmelere elýeterliligi çäklidir, bu içerki howplar we duýgur maglumatlaryň tötänleýin syzmagy mümkinçiligini azaldar.
+- ** Duýgur maglumatlary goramak **: Rugsat berilmedik ulanyjylaryň duýgur maglumatlara girmeginiň öňüni almak bilen, MAC esasly gatylaşdyrma maglumatlaryň bozulmagyndan we beýleki kiberhowpsuzlyk töwekgelçiliklerinden goramaga kömek edýär.
+- ** Gözegçilik we ýerine ýetiriş **: MAC esasly gatylaşdyryş mehanizmleri barlaglary ýeňilleşdirmäge we pudak düzgünlerine laýyk gelmäge kömek edýär.
 
-## Popular MAC-based Models
+## MAC esasly meşhur modeller
 
-There are various MAC models implemented in modern software systems. Some of the most popular models include:
+Häzirki zaman programma üpjünçilik ulgamlarynda durmuşa geçirilýän dürli MAC modelleri bar. Iň meşhur modelleriň arasynda:
 
-- **Bell-LaPadula (BLP) Model**: Designed for confidentiality, the BLP Model enforces the "no read up, no write down" rule, meaning that users may only read data at the same or lower levels of sensitivity, while only allowing data to be written to the same or higher levels of sensitivity.
-- **Biba Model**: Focusing on integrity, the Biba Model enforces the "no write up, no read down" rule, which works opposite to BLP Model.
-- **Clark-Wilson Model**: The Clark-Wilson Model emphasizes well-formed transactions, separation of duties, and certification processes to maintain data integrity and confidentiality.
+- ** Bell-LaPadula (BLP) Model **: Gizlinlik üçin döredilen BLP Model, "okamaň, ýazmaň" düzgünini ýerine ýetirýär, bu ulanyjylaryň diňe bir ýa-da has pes duýgurlyk derejesinde maglumatlary okap biljekdigini aňladýar. maglumatlaryň şol bir ýa-da has ýokary duýgurlyga ýazylmagyna mümkinçilik berýär.
+- ** Biba Model **: Bütewilige ünsi jemläp, Biba Model BLP Modeliň tersine işleýän "ýazmaň, okamaň" düzgünini ýerine ýetirýär.
+- ** Klark-Wilson modeli **: Klark-Wilson modeli maglumatlaryň bitewiligini we gizlinligini saklamak üçin oňat döredilen amallary, borçlaryň bölünmegini we sertifikasiýa amallaryny nygtaýar.
 
-## Implementing MAC-Based Hardening
+## MAC esasly gatylaşdyrmagy amala aşyrmak
 
-To implement MAC-based hardening, it's important to follow these general steps:
+MAC esasly gatylaşdyrmagy amala aşyrmak üçin şu umumy ädimleri ýerine ýetirmek möhümdir:
 
-- **Establish Security Policies**: Define clear policies and guidelines, including security labels, for the various data classifications, users, and resources.
-- **Select an Appropriate MAC Model**: Choose a MAC model suitable for your organization's needs and implement it across your systems.
-- **Train Staff**: Provide training to your staff to ensure understanding and adherence to your organization's MAC-based policies.
-- **Monitor and Audit**: Continually monitor the system for deviations from the MAC policies and perform periodic audits to verify their enforcement.
+- ** Howpsuzlyk Syýasatlaryny dörediň **: Dürli maglumat klassifikasiýalary, ulanyjylar we çeşmeler üçin howpsuzlyk belliklerini goşmak bilen anyk syýasatlary we görkezmeleri kesgitläň.
+- ** Degişli MAC modelini saýlaň **: Guramaňyzyň zerurlyklaryna laýyk MAC modelini saýlaň we ony ulgamlaryňyzda durmuşa geçiriň.
+- ** Otly işgärleri **: Guramaňyzyň MAC esasly syýasatlaryna düşünmegi we berjaý edilmegini üpjün etmek üçin işgärleriňize tälim beriň.
+- ** Gözegçilik we gözegçilik **: MAC syýasatlaryndan gyşarmalar ulgamyna yzygiderli gözegçilik ediň we olaryň ýerine ýetirilişini barlamak üçin döwürleýin barlaglary geçiriň.
 
-In summary, MAC-based hardening offers robust access controls by enforcing strict policies in accordance with your organization's security requirements. In doing so, it reduces the potential for unauthorized access to data and resources, ultimately enhancing your cybersecurity posture.
+Gysgaça aýtsak, MAC esasly berkitme, guramaňyzyň howpsuzlyk talaplaryna laýyklykda berk syýasatlary ýerine ýetirmek arkaly ygtybarly giriş gözegçiligini hödürleýär. Şeýle etmek bilen, maglumatlara we çeşmelere rugsatsyz girmek mümkinçiligini azaldar, netijede kiberhowpsuzlygyňyzy ýokarlandyrar.

@@ -1,63 +1,63 @@
 # iptables
 
-**IPTables** is a command-line utility for configuring and managing packet filtering rules within the Linux operating system. It allows the system administrator to define and manage the firewall rules that control the incoming and outgoing network traffic. IPTables is an essential tool for securing Linux systems and ensuring proper network traffic flow.
+** IPTables ** Linux operasiýa ulgamynyň içinde paket süzgüç düzgünlerini sazlamak we dolandyrmak üçin buýruk setiri. Ulgam dolandyryjysyna gelýän we gidýän tor trafigini dolandyrýan firewall diwar düzgünlerini kesgitlemäge we dolandyrmaga mümkinçilik berýär. IPTables Linux ulgamlaryny üpjün etmek we torlaýyn traffigiň dogry akymyny üpjün etmek üçin möhüm guraldyr.
 
-## How IPTables Works
+## IPTables nähili işleýär
 
-IPTables is built upon a framework called _Netfilter_, which is embedded in the Linux kernel. Netfilter provides various operations on packets, such as filtering, modifying, and redirecting. IPTables makes use of these operations by providing a user-friendly interface to define rules based on various criteria like source IP address, destination IP address, protocol, and port numbers.
+IPTables Linux ýadrosyna ýerleşdirilen _Netfilter_ atly çarçuwada gurulýar. Netfilter, süzmek, üýtgetmek we gönükdirmek ýaly paketlerde dürli amallary üpjün edýär. IPTables bu amallardan çeşme IP adresi, barjak IP adresi, protokol we port belgileri ýaly dürli kriteriýalara esaslanýan düzgünleri kesgitlemek üçin ulanyjy üçin amatly interfeýs bermek arkaly peýdalanýar.
 
-IPTables organizes rules into chains, where each chain consists of a list of rules. There are three default chains: INPUT, OUTPUT, and FORWARD. These chains represent the different stages a packet goes through in the network stack:
+IPTables düzgünleri zynjyrlara düzýär, bu ýerde her zynjyr düzgünleriň sanawyndan durýar. Üç sany esasy zynjyr bar: Giriş, OUTPUT we FORWARD. Bu zynjyrlar, paketiň torda geçýän dürli tapgyrlaryny görkezýär:
 
-- **INPUT**: Applied to incoming packets destined for the local system.
-- **OUTPUT**: Applied to outgoing packets originating from the local system.
-- **FORWARD**: Applied to packets being routed through the local system.
+- **INPUT**: lokal ulgam üçin niýetlenen gelýän paketlere ulanylýar.
+- **OUTPUT**: lokal ulgamdan gelýän çykýan paketlere ulanylýar.
+- **FORWARD**: lokal ulgam arkaly ugrukdyrylýan paketlere ulanylýar.
 
-## Basic IPTables Usage
+## IPTables-iň esasy ulanylyşy
 
-To list the current IPTables rules, use the following command:
+Häzirki IPTables düzgünlerini sanamak üçin aşakdaky buýrugy ulanyň:
 
-```
+``
 iptables -L
-```
+``
 
-To add a new rule to a specific chain, use the `-A` flag followed by the chain name and the rule details:
+Belli bir zynjyra täze düzgün goşmak üçin zynjyryň ady we düzgün jikme-jiklikleri bilen "-A" baýdagyny ulanyň:
 
 ```
 iptables -A INPUT -s 192.168.1.2 -j DROP
 ```
 
-This command adds a rule to the INPUT chain that drops all packets coming from the IP address 192.168.1.2.
+Bu buýruk, IP adresi 192.168.1.2-den gelýän ähli paketleri taşlaýan INPUT zynjyryna düzgün goşýar.
 
-To delete a rule from a specific chain, use the `-D` flag followed by the chain name and the rule number:
+Belli bir zynjyrdan düzgüni aýyrmak üçin zynjyryň ady we düzgün belgisi bilen "-D" baýdagyny ulanyň:
 
 ```
 iptables -D INPUT 3
 ```
 
-This command removes the third rule in the INPUT chain.
+Bu buýruk INPUT zynjyryndaky üçünji düzgüni aýyrýar.
 
-To insert a rule at a specific position in a chain, use the `-I` flag followed by the chain name, rule number, and the rule details:
+Zynjyryň belli bir ýerine düzgün girizmek üçin zynjyryň ady, düzgün belgisi we düzgün jikme-jiklikleri bilen "-I" baýdagyny ulanyň:
 
 ```
 iptables -I INPUT 2 -s 192.168.1.3 -j DROP
 ```
 
-This command inserts a rule at position 2 in the INPUT chain that drops all packets coming from the IP address 192.168.1.3.
+Bu buýruk, 192.168.1.3 IP adresinden gelýän ähli paketleri taşlaýan INPUT zynjyrynda 2-nji ýerde düzgün girizýär.
 
-## Saving and Restoring IPTables Rules
+## IPTables düzgünlerini tygşytlamak we dikeltmek
 
-By default, IPTables rules are temporary and will be lost upon a system reboot. To save the current rules and make them persistent, use the following command:
+Düzgüne görä, IPTables düzgünleri wagtlaýyn bolup, ulgam täzeden açylanda ýitiriler. Häzirki düzgünleri ýatda saklamak we olary dowam etdirmek üçin aşakdaky buýrugy ulanyň:
 
 ```
 iptables-save > /etc/iptables/rules.v4
 ```
 
-To restore the rules from a saved file, use the following command:
+Saklanan faýldan düzgünleri dikeltmek üçin aşakdaky buýrugy ulanyň:
 
 ```
 iptables-restore < /etc/iptables/rules.v4
 ```
 
-## Conclusion
+## Netije
 
-IPTables is a powerful tool for managing packet filtering rules in Linux systems. With proper configuration, it can greatly enhance your system's security and ensure smooth network traffic flow. Understanding IPTables can help you diagnose and resolve network-related issues while providing essential protection from cyber threats.
+IPTables Linux ulgamlarynda paket süzgüç düzgünlerini dolandyrmak üçin güýçli guraldyr. Dogry konfigurasiýa bilen ulgamyňyzyň howpsuzlygyny ep-esli ýokarlandyryp, tor trafiginiň akymyny üpjün edip biler. IPTables-e düşünmek, kiber howplardan möhüm goragy üpjün etmek bilen, tor bilen baglanyşykly meseleleri anyklamaga we çözmäge kömek edip biler.

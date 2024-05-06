@@ -1,26 +1,26 @@
 # MITM
 
-A _Man-In-The-Middle (MITM)_ attack occurs when a malicious actor intercepts the communication between two parties without their consent, with the objective of eavesdropping or manipulating the exchanged data. By this method, attackers may steal sensitive information, tamper with the transmitted data, or impersonate the involved parties to gain unauthorized control or access.
+_Man-In-The-Middle (MITM) _ hüjümi, zyýanly aktýor alyş-çalyş maglumatlaryny diňlemek ýa-da manipulirlemek maksady bilen iki tarapyň razylygyny almazdan aragatnaşygy kesende ýüze çykýar. Bu usul bilen hüjüm edijiler duýgur maglumatlary ogurlap, berlen maglumatlary ýoýup ýa-da rugsatsyz gözegçilik ýa-da ygtyýar almak üçin gatnaşyjy taraplary görkezip bilerler.
 
-## 4.1 Types of MITM Attacks
+## 4.1 MITM hüjümleriniň görnüşleri
 
-Some common types of MITM attacks include:
+MITM hüjümleriniň käbir ýaýran görnüşleri:
 
-- **IP Spoofing:** The attacker impersonates another device's IP address to establish a connection with the victim.
-- **DNS Spoofing:** The attacker modifies the DNS records to redirect the victim to a malicious website instead of the intended one.
-- **ARP Spoofing:** The attacker alters the target's ARP cache to associate their MAC (Media Access Control) address with the victim's IP address, redirecting network traffic through the attacker's device.
-- **SSL and TLS Interception:** The attacker intercepts and decrypts encrypted SSL/TLS communication between the victim and the web server, gaining access to sensitive data.
+- **IP bozmak:** Hüjüm eden adam bilen baglanyşyk gurmak üçin başga bir enjamyň IP adresini görkezýär.
+- **DNS Spoofing:** Hüjümçi pidany göz öňünde tutulan ýerine derek zyýanly web sahypasyna gönükdirmek üçin DNS ýazgylaryny üýtgedýär.
+- **ARP spoofing:** Hüjümçi nyşanyň ARP keşini MAC (Media Access Control) adresini pidanyň IP adresi bilen baglanyşdyrmak üçin hüjümçiniň enjamy arkaly tor trafigini gönükdirýär.
+- **SSL we TLS interfeýsi:** Hüjümçi pidanyň we web serweriniň arasynda kodlanan SSL / TLS aragatnaşygyny saklaýar we şifrleýär, duýgur maglumatlara girýär.
 
-## 4.2 Prevention and Mitigation Strategies
+## 4.2 Öňüni almak we azaltmak strategiýalary
 
-To reduce the risk of MITM attacks, developers, administrators, and users should follow these best practices:
+MITM hüjümleriniň töwekgelçiligini azaltmak üçin işläp düzüjiler, dolandyryjylar we ulanyjylar şu öňdebaryjy tejribä eýermelidirler:
 
-- **Use HTTPS and encryption:** Make sure to encrypt all sensitive data using secure communication protocols like HTTPS, SSL, or TLS.
-- **Validate certificates:** Use a Certificate Authority (CA) to verify digital certificates for secure connections.
-- **Implement HSTS:** Deploy HTTP Strict Transport Security (HSTS), a security policy that enforces browsers to use HTTPS connections only.
-- **Secure DNS:** Use DNS Security Extensions (DNSSEC) to ensure the integrity and authenticity of DNS records.
-- **Enable network segregation:** Segment networks and restrict access between them to prevent malicious actors from gaining access to sensitive data or systems.
-- **Regularly update software and firmware:** Keep all systems, applications, and devices up-to-date to minimize known vulnerabilities.
-- **Educate users:** Provide awareness training and support resources to help users recognize and avoid potential MITM attacks.
+- **HTTPS we şifrlemek ulanyň:** HTTPS, SSL ýa-da TLS ýaly ygtybarly aragatnaşyk protokollaryny ulanyp, ähli duýgur maglumatlary şifrlemegi unutmaň.
+- **Şahadatnamalary tassyklaň:** Howpsuz birikmeler üçin sanly şahadatnamalary barlamak üçin Şahadatnama edarasyny (CA) ulanyň.
+- **HSTS-i durmuşa geçiriň:** Brauzerleri diňe HTTPS birikmelerini ulanmaga mejbur edýän howpsuzlyk syýasaty, HTTP berk transport howpsuzlygy (HSTS) ýerleşdiriň.
+- **Howpsuz DNS:** DNS ýazgylarynyň bitewiligini we hakykylygyny üpjün etmek üçin DNS Howpsuzlyk giňeltmelerini (DNSSEC) ulanyň.
+- **Tor bölünişigini açyň:** Segment torlary we zyýanly aktýorlaryň duýgur maglumatlara ýa-da ulgamlara girmeginiň öňüni almak üçin olaryň arasyndaky girişi çäklendiriň.
+- **Programma üpjünçiligini we programma üpjünçiligini yzygiderli täzeläň:** Belli gowşaklyklary azaltmak üçin ähli ulgamlary, amaly programmalary we enjamlary täzeläň.
+- **Ulanyjylara bilim beriň:** Ulanyjylara MITM hüjümlerini tanamaga we öňüni almaga kömek etmek üçin habarlylyk okuwyny we goldaw çeşmelerini beriň.
 
-By understanding MITM attacks and implementing the appropriate preventive measures, you can significantly reduce the risk of falling victim to these types of cyber threats.
+MITM hüjümlerine düşünmek we degişli öňüni alyş çärelerini durmuşa geçirmek bilen, kiber howplaryň bu görnüşleriniň pidasy bolmak howpuny ep-esli azaldyp bilersiňiz.

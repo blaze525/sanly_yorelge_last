@@ -1,35 +1,35 @@
 # War-driving/dialing
 
-## War Driving
+## War-driving/dialing
 
-War driving is a technique in which an attacker physically drives around attempting to discover open or poorly secured wireless networks. This practice allows the attacker to exploit network vulnerabilities and gain unauthorized access to sensitive information. The goal of war driving is to identify targets, typically homes, offices, or businesses, with WLANs.
+War-driving/dialing, hüjümçiniň açyk ýa-da gowşak goragly simsiz torlary tapmaga synanyşmak üçin fiziki taýdan sürýän usulydyr. Bu tejribe hüjümçä toruň gowşak ýerlerinden peýdalanmaga we duýgur maglumatlara rugsatsyz girmäge mümkinçilik berýär. War-driving/dialing maksady, WLAN-lary bilen, adatça öýleri, ofisleri ýa-da kärhanalary kesgitlemek.
 
-## Key elements of War Driving
+## War-driving/dialing esasy elementleri
 
-- **Detection**: War driving begins with the detection of nearby wireless access points using laptops, mobile devices, or any device with WiFi scanning capabilities.
-- **Mapping**: After detecting the wireless signals, the attacker maps them using GPS or other location-based services.
-- **Analysis**: Once the target is identified, the attacker analyzes the network security to find the weakness and vulnerabilities.
-- **Exploitation**: Finally, the attacker exploits the discovered vulnerabilities to gain unauthorized access to the network.
+- **Ýüze çykarmak**: War-driving/dialing, noutbuklary, ykjam enjamlary ýa-da WiFi skanerlemek mümkinçiligi bolan islendik enjamy ýakyn simsiz giriş nokatlaryny kesgitlemekden başlaýar.
+- **Kartalaşdyrmak**: Simsiz signallary tapandan soň, hüjümçi olary GPS ýa-da beýleki ýerleşiş hyzmatlaryny ulanyp kartalaşdyrýar.
+- **Analiz**: Maksat kesgitlenenden soň, hüjümçi gowşaklygy we gowşak taraplary tapmak üçin tor howpsuzlygyny seljerýär.
+- **Ekspluatasiýa**: Netijede, hüjümçi tora rugsatsyz girmek üçin ýüze çykarylan gowşak goralanlyklardan peýdalanýar.
 
-## War Dialing
+## War-driving/dialing
 
-War dialing is a similar attack method but involves calling numerous phone lines in search of modems and fax machines. War dialing allows the attacker to identify insecure phone lines and unauthorized access points.
+War-driving/dialing şuňa meňzeş hüjüm usulydyr, ýöne modemleri we faks enjamlaryny gözlemek üçin köp sanly telefon liniýalaryna jaň etmegi öz içine alýar. War-driving/dialing hüjümçä ygtybarly telefon liniýalaryny we rugsatsyz giriş nokatlaryny kesgitlemäge mümkinçilik berýär.
 
-## Key elements of War Dialing
+## War-driving/dialingnyň esasy elementleri
 
-- **Detection**: War dialing starts by automating the process of calling a range of phone numbers using software, searching for modem or fax machine-tones.
-- **Mapping**: The attacker collects the list of phone numbers that responded with an appropriate connection tone.
-- **Analysis**: The attacker will analyze the phone lines to assess their security and vulnerabilities.
-- **Exploitation**: The attacker exploits the discovered vulnerabilities to gain unauthorized access to the systems connected to the modems or fax machines.
+- **Ýüze çykarmak**: War-driving/dialing programma üpjünçiligini ulanyp, bir topar telefon belgilerine jaň etmek, modem ýa-da faks enjamlaryny gözlemekden başlaýar.
+- **Kartalaşdyrmak**: Hüjümçi degişli baglanyşyk äheňi bilen jogap beren telefon belgileriniň sanawyny ýygnaýar.
+- **Analiz**: Hüjümçi olaryň howpsuzlygyna we gowşak taraplaryna baha bermek üçin telefon liniýalaryny seljerer.
+- **Ekspluatasiýa**: Hüjümçi modemlere ýa-da faks enjamlaryna birikdirilen ulgamlara rugsatsyz girmek üçin ýüze çykarylan gowşak goralanlyklardan peýdalanýar.
 
-## Prevention Strategies
+## Öňüni alyş strategiýalary
 
-To protect your network against war driving or war dialing, it's important to:
+Toruňyzy War-driving/dialingden ýa-da War-driving/dialingndan goramak üçin möhümdir:
 
-- Implement strong security measures such as WPA3 or WPA2-Enterprise for WiFi networks.
-- Employ proper firewall configurations.
-- Disable broadcasting your SSID (network name) to make your WiFi network invisible to casual passersby.
-- Use strong authentication methods for remote access systems.
-- Regularly update your network devices with the latest security patches.
-- Periodically conduct vulnerability assessments to stay ahead of potential weaknesses.
-- Educate employees and users about the risks of unsecured networks and the importance of following security guidelines.
+- WiFi torlary üçin WPA3 ýa-da WPA2-Enterprise ýaly berk howpsuzlyk çärelerini durmuşa geçiriň.
+- Gorag diwar gorag sazlamalaryny ulanyň.
+- WiFi toruňyzy tötänleýin geçip barýanlara görünmezlik üçin SSID-iňizi (toruň ady) ýaýlymy öçüriň.
+- Uzakdan giriş ulgamlary üçin güýçli tanamak usullaryny ulanyň.
+- Ulgam enjamlaryňyzy iň soňky howpsuzlyk ýamalary bilen yzygiderli täzeläň.
+- Potensial gowşaklyklardan öňe geçmek üçin gowşak goralanlyklary wagtal-wagtal geçiriň.
+- Işgärlere we ulanyjylara goragsyz torlaryň töwekgelçiligi we howpsuzlyk görkezmelerine eýermegiň ähmiýeti barada bilim beriň.

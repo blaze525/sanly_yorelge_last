@@ -1,38 +1,38 @@
-# Common Virtualization Technologies
+# Umumy wirtuallaşdyryş tehnologiýalary
 
-Virtualization technologies play a critical role in improving the efficiency, flexibility, and resilience of IT infrastructure. These technologies allow multiple operating systems and applications to run simultaneously on a single physical machine, enhancing the utilization of hardware resources and reducing costs. In the context of cybersecurity, virtualization tools provide additional layers of security and isolation, making it more difficult for attackers to compromise the entire system.
+Wirtuallaşdyryş tehnologiýalary IT infrastrukturasynyň netijeliligini, çeýeligini we çydamlylygyny ýokarlandyrmakda möhüm rol oýnaýar. Bu tehnologiýalar birnäçe operasiýa ulgamlaryna we amaly programmalaryna bir fiziki enjamda bir wagtda işlemäge mümkinçilik berýär, enjam çeşmeleriniň ulanylyşyny güýçlendirýär we çykdajylary azaldýar. Kiberhowpsuzlyk nukdaýnazaryndan wirtuallaşdyrma gurallary goşmaça howpsuzlyk we izolýasiýa gatlaklaryny üpjün edýär, bu hüjümçilere tutuş ulgamy bozmagy kynlaşdyrýar.
 
-In this section, we will discuss the following aspects of virtualization technologies:
+Bu bölümde wirtuallaşdyrma tehnologiýalarynyň aşakdaky taraplaryny ara alyp maslahatlaşarys:
 
-## What is Virtualization?
+## Wirtuallaşdyrma näme?
 
-Virtualization is the process of creating virtual instances of physical resources, such as hardware platforms, storage devices, or network resources. It enables operating systems, applications, and data to run on a shared pool of resources, which can be dynamically allocated and managed according to the needs of the system.
+Wirtuallaşdyrma, enjam platformalary, ammar enjamlary ýa-da tor çeşmeleri ýaly fiziki çeşmeleriň wirtual mysallaryny döretmek prosesi. Operasiýa ulgamlaryna, amaly programmalara we maglumatlara ulgamyň zerurlyklaryna görä dinamiki bölünip we dolandyrylyp bilinýän umumy çeşmelerde işlemäge mümkinçilik berýär.
 
-## Types of Virtualization
+## Wirtuallaşdyrmagyň görnüşleri
 
-There are various types of virtualization, such as:
+Wirtuallaşdyrmagyň dürli görnüşleri bar, meselem:
 
-- **Server virtualization**: The creation of multiple virtual servers on a single physical server to optimize resource utilization and facilitate fault isolation.
-- **Desktop virtualization**: The separation of a user's computer environment from the physical device, enabling centralized management, improved security, and simplified maintenance.
-- **Network virtualization**: The process of combining multiple physical networks into a single virtual network, offering better performance, security, and ease of management.
-- **Storage virtualization**: The pooling of physical storage resources from multiple storage devices into a single, virtualized storage environment, allowing for simplified management, improved efficiency, and enhanced scalability.
+- ** Serweriň wirtuallaşdyrylmagy **: Resurslaryň ulanylyşyny optimallaşdyrmak we ýalňyş izolýasiýany ýeňilleşdirmek üçin bir fiziki serwerde birnäçe wirtual serwer döretmek.
+- ** Iş stoly wirtuallaşdyrma **: Ulanyjynyň kompýuter gurşawyny fiziki enjamdan bölmek, merkezleşdirilen dolandyryşy üpjün etmek, howpsuzlygy gowulandyrmak we ýönekeýleşdirilen tehniki hyzmat.
+- ** Tor wirtuallaşdyrmasy **: Birnäçe fiziki torlary bir wirtual tora birleşdirmek, has gowy öndürijilik, howpsuzlyk we dolandyryş aňsatlygyny hödürlemek prosesi.
+- ** Saklaýyş wirtuallaşdyrmasy **: Fiziki saklaýyş çeşmelerini köp saklaýjy enjamlardan ýeke, wirtuallaşdyrylan ammar gurşawyna jemlemek, ýönekeýleşdirilen dolandyryşa, netijeliligi ýokarlandyrmaga we ulalmaga mümkinçilik berýär.
 
-## Benefits of Virtualization
+## Wirtuallaşdyrmagyň peýdalary
 
-Some of the key benefits of virtualization technologies include:
+Wirtuallaşdyrma tehnologiýalarynyň esasy artykmaçlyklary:
 
-- **Improved resource utilization**: By virtualizing resources, organizations can make better use of their hardware and IT infrastructure, ultimately reducing costs and environmental impact.
-- **Increased agility**: Virtualization allows IT teams to provision resources quickly, enabling them to respond rapidly to changing business needs.
-- **Enhanced security**: By isolating virtual environments, organizations can prevent the spread of malware and minimize the impact of security breaches.
-- **Disaster recovery and business continuity**: Virtualization simplifies backup, replication, and recovery processes, ensuring that businesses can resume operations quickly after a disaster.
+- ** Resurslaryň ulanylyşynyň gowulaşmagy **: Resurslary wirtuallaşdyrmak arkaly guramalar enjamlaryny we IT infrastrukturasyny has gowy ulanyp bilerler, netijede çykdajylary we daşky gurşawa täsirini azaldyp bilerler.
+- ** Çeýeligiň ýokarlanmagy **: Wirtuallaşdyrma IT toparlaryna üýtgeýän iş zerurlyklaryna çalt jogap bermäge mümkinçilik berýän çeşmeleri çalt üpjün etmäge mümkinçilik berýär.
+- ** Giňeldilen howpsuzlyk **: Wirtual gurşawy izolirlemek bilen guramalar zyýanly programma üpjünçiliginiň ýaýramagynyň öňüni alyp biler we howpsuzlyk düzgünleriniň täsirini azaldyp biler.
+- ** Betbagtçylyklaryň öwezini dolmak we işiň dowamlylygy **: Wirtuallaşdyrma ätiýaçlyk nusgasyny, köpeltmegi we dikeldiş amallaryny ýönekeýleşdirýär, betbagtçylykdan soň kärhanalaryň işini tiz dowam etdirip biljekdigini üpjün edýär.
 
-## Popular Virtualization Software and Solutions
+## Meşhur wirtuallaşdyrma programma üpjünçiligi we çözgütleri
 
-There are several virtualization software and solutions available in the market, such as:
+Bazarda birnäçe wirtuallaşdyrma programma üpjünçiligi we çözgütler bar, meselem:
 
-- **VMware**: A leader in virtualization technology, offering solutions for server, desktop, storage, and network virtualization.
-- **Microsoft Hyper-V**: A built-in virtualization solution for Windows Server, allowing for server, desktop, and storage virtualization.
-- **Citrix XenServer**: An open-source virtualization platform that supports server, desktop, and network virtualization.
-- **Oracle VM VirtualBox**: A free and open-source virtualization solution that supports server, desktop, and storage virtualization.
+- ** VMware **: Serwer, iş stoly, saklamak we tor wirtuallaşdyrmagy üçin çözgütleri hödürleýän wirtuallaşdyrma tehnologiýasynda öňdebaryjy.
+- ** Microsoft Hyper-V **: Serwer, iş stoly we ammar wirtuallaşdyrmagyna mümkinçilik berýän Windows Server üçin gurlan wirtuallaşdyrma çözgüdi.
+- ** Citrix XenServer **: Serweri, iş stoluny we tor wirtuallaşdyrmagyny goldaýan açyk çeşme wirtuallaşdyrma platformasy.
+- ** Oracle VM VirtualBox **: Serweri, iş stoly we ammar wirtuallaşdyrmasyny goldaýan erkin we açyk çeşme wirtuallaşdyrma çözgüdi.
 
-To protect your organization's information assets and ensure the security of your virtualized environments, it's essential to understand virtualization technologies and implement best practices. In the sections that follow, we will discuss essential security measures and techniques to improve the overall cybersecurity posture of your virtualized infrastructure.
+Guramaňyzyň maglumat aktiwlerini goramak we wirtuallaşdyrylan gurşawyňyzyň howpsuzlygyny üpjün etmek üçin wirtuallaşdyrma tehnologiýalaryna düşünmek we öňdebaryjy tejribäni durmuşa geçirmek zerurdyr. Ondan soňky bölümlerde, wirtuallaşdyrylan infrastrukturaňyzyň umumy kiberhowpsuzlyk ýagdaýyny gowulandyrmak üçin möhüm howpsuzlyk çäreleri we usullary barada maslahat ederis.

@@ -73,7 +73,7 @@ function ContributionInput(props: ContributionInputProps) {
         type="url"
         required
         className="block w-full rounded-md border p-2 text-sm focus:border-gray-400 focus:outline-none"
-        placeholder="e.g. https://roadmap.sh/guides/some-url"
+        placeholder="e.g. https://localhost:3000"
         onFocus={() => setFocused('link')}
         onBlur={() => setFocused('')}
         onChange={(e) => setLink((e.target as any).value)}
@@ -88,7 +88,7 @@ function ContributionInput(props: ContributionInputProps) {
             }}
             className="rounded-md text-sm font-semibold text-red-500 underline underline-offset-2 hover:text-red-800"
           >
-            - Remove Link
+            - Link Pozmak
           </button>
         )}
 
@@ -100,7 +100,7 @@ function ContributionInput(props: ContributionInputProps) {
             }}
             className="rounded-md text-sm font-semibold text-gray-600 underline underline-offset-2 hover:text-black"
           >
-            + Add another Link
+            + Täze Link Goşmak
           </button>
         )}
       </div>

@@ -1,27 +1,27 @@
 # Typo Squatting
 
-**Typo Squatting**, also known as **URL hijacking** or **domain squatting**, is a malicious cyber-attack technique that targets internet users who mistakenly enter an incorrect website address into their web browsers. When this occurs, the users are directed to a fake website that closely resembles a legitimate one. The attackers create these fake websites by registering domain names similar to the target website, but with common typographical errors. The goal of typo squatting is often to spread malware, steal personal information or financial details, sell counterfeit products, or promote phishing scams.
+**“Typo Squatting**”, şeýle hem **URL ogurlamak** ýa-da **domen skatting** diýlip hem bilinýär, web brauzerlerine nädogry web salgysyny ýalňyş girizen internet ulanyjylaryny nyşana alýan zyýanly kiber-hüjüm usulydyr. Bu ýüze çykanda, ulanyjylar kanuny web sahypasyna ýakyndan meňzeýän galp web sahypasyna ugrukdyrylýar. Hüjüm edenler maksat web sahypasyna meňzeş, ýöne umumy tipografiki ýalňyşlyklar bilen domen atlaryny hasaba almak bilen bu galp web sahypalaryny döredýärler. Typazuwdan ýykmagyň maksady köplenç zyýanly programma üpjünçiligini ýaýratmak, şahsy maglumatlary ýa-da maliýe maglumatlaryny ogurlamak, galp önümleri satmak ýa-da fişing aldawlaryny öňe sürmek.
 
-## How Typo Squatting Works
+## Typo Squatting nähili işleýär
 
-- **Domain Registration**: Attackers register domain names that are similar to popular websites, but with slight typos, such as missing or swapped characters. For example, if the intended website is `example.com`, the attacker may register `exapmle.com` or `exampl.com`.
+- **Domen hasaba alyş**: Hüjümçiler meşhur web sahypalaryna meňzeş, ýöne ýitirilen ýa-da çalşylan simwollar ýaly domen atlaryny hasaba alýarlar. Mysal üçin, göz öňünde tutulan web sahypasy "example.com" bolsa, hüjümçi "exapmle.com" ýa-da "exampl.com" -y hasaba alyp biler.
 
-- **Creating Fake Websites**: Attackers create a website that visually resembles the targeted website. This can include using the same logos, images, and layout, making it difficult for users to distinguish the fake site from the real one.
+- **Galp web sahypalaryny döretmek**: Hüjümçiler nyşana alnan web sahypasyna wizual görnüşde web sahypasyny döredýärler. Bu, birmeňzeş logotipleri, suratlary we tertibi ulanmagy öz içine alyp biler, ulanyjylara galp sahypany hakyky sahypadan tapawutlandyrmagy kynlaşdyrar.
 
-- **Luring Victims**: Unsuspecting users who make typographical errors while typing the URL are redirected to the fake website, where they may unknowingly provide their personal or financial information, download malware, or fall victim to phishing scams.
+**
 
-- **Exploitation**: Attackers may use the gathered information for identity theft, financial fraud, or sell the data on the dark web. They may also use the malware-infected devices to create botnets or perform further attacks on other targets.
+- **Ekspluatasiýa**: Hüjümçiler ýygnan maglumatlary şahsyýet ogurlygy, maliýe galplygy üçin ulanyp bilerler ýa-da maglumatlary garaňky webde satyp bilerler. Şeýle hem, zyýanly programma üpjünçiligi ýokaşan enjamlary botnet döretmek ýa-da beýleki nyşanalara hüjüm etmek üçin ulanyp bilerler.
 
-## Prevention and Mitigation
+## Öňüni almak we azaltmak
 
-- **Double-check URLs**: Always double-check the URL you type into your browser to ensure you are accessing the intended website.
+- **URL-leri iki gezek barlaň**: Göz öňünde tutulan web sahypasyna girýändigiňizi anyklamak üçin elmydama brauzeriňize ýazan URL-ni iki gezek barlaň.
 
-- **Use Bookmarks**: Bookmark frequently visited websites to avoid typing the URL manually every time.
+- **Bellikleri ulanyň**: Bellik her gezek URL-ni el bilen ýazmazlyk üçin ýygy-ýygydan girilýän web sahypalary.
 
-- **Search Engines**: If unsure about the correct URL, use search engines to locate the desired website.
+- **Gözleg motorlary**: Dogry URL-ni bilmeýän bolsaňyz, islenýän web sahypasyny tapmak üçin gözleg motorlaryny ulanyň.
 
-- **Use Security Software**: Install and maintain up-to-date security software on your devices, such as anti-virus, anti-phishing, and anti-malware tools, to protect against potential threats from typo squatting.
+**
 
-- **Enable Browser Protection**: Many web browsers offer built-in security features that help identify and block malicious websites. Ensure these features are enabled and configured correctly.
+- **Brauzeri goramagy işjeňleşdiriň**: Köp web brauzerleri zyýanly web sahypalaryny ýüze çykarmaga we blokirlemäge kömek edýän içerki howpsuzlyk aýratynlyklaryny hödürleýär. Bu aýratynlyklaryň açyk we dogry düzülendigine göz ýetiriň.
 
-In conclusion, while typo squatting presents a significant risk to internet users, awareness and vigilance can significantly reduce the chances of becoming a victim. Always verify that you're visiting the correct website before entering any personal or sensitive information.
+Sözümiň ahyrynda, ýalňyş ýazmak internet ulanyjylary üçin ep-esli töwekgelçilik döredýän hem bolsa, habarlylyk we hüşgärlik gurban bolmak mümkinçiligini ep-esli azaldyp biler. Şahsy ýa-da duýgur maglumatlary girizmezden ozal dogry web sahypasyna girýändigiňizi barlaň.

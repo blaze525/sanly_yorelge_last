@@ -1,25 +1,25 @@
-# proxmox
+# Proksmoks (proxmox)
 
-Proxmox is an open-source platform for enterprise-level virtualization. It is a complete server virtualization management solution that allows system administrators to create and manage virtual machines in a unified environment.
+“Proxmox” kärhana derejesinde wirtuallaşdyrmak üçin açyk çeşme platformasydyr. Ulgam dolandyryjylaryna bitewi gurşawda wirtual maşynlary döretmäge we dolandyrmaga mümkinçilik berýän doly serwer wirtuallaşdyryş dolandyryş çözgüdi.
 
-## Key Features
+## Esasy aýratynlyklary
 
-- **Server Virtualization**: Proxmox enables you to turn your physical server into multiple virtual servers, each running its own operating system, applications, and services. This helps to maximize server usage and reduce operating costs.
+- ** Serweriň wirtuallaşdyrylmagy **: Proxmox fiziki serweriňizi birnäçe wirtual serwere öwürmäge mümkinçilik berýär, hersiniň öz operasiýa ulgamy, amaly programmalary we hyzmatlary. Bu serweriň ulanylyşyny ýokarlandyrmaga we operasiýa çykdajylaryny azaltmaga kömek edýär.
 
-- **High Availability**: Proxmox VE supports high availability and failover. In case of hardware or software failure, automatic migration of virtual machines can prevent downtime for critical applications and services.
+- ** Ýokary elýeterlilik **: Proxmox VE ýokary elýeterliligi we ýalňyşlygy goldaýar. Apparat ýa-da programma üpjünçiligi näsazlygy ýüze çykan halatynda wirtual maşynlaryň awtomatiki göçmegi möhüm programmalar we hyzmatlar üçin iş wagtynyň öňüni alyp biler.
 
-- **Storage**: Proxmox offers a variety of storage solution options, including local (LVM, ZFS, directories), network (iSCSI, NFS, GlusterFS, Ceph), and distributed storage (Ceph RBD).
+- ** Saklaýyş **: Proxmox ýerli (LVM, ZFS, kataloglar), tor (iSCSI, NFS, GlusterFS, Ceph) we paýlanan ammar (Ceph RBD) ýaly dürli çözgüt çözgütlerini hödürleýär.
 
-- **Live Migration**: Live migration is a crucial feature that allows you to move running virtual machines from one host to another with minimal downtime.
+- ** Göni göçmek **: Göni göçmek, işleýän wirtual maşynlary iň az iş wagty bilen bir öý eýesinden beýlekisine geçirmäge mümkinçilik berýän möhüm aýratynlykdyr.
 
-- **Operating System Support**: Proxmox VE supports a wide range of guest operating systems, including Linux, Windows, BSD, and others.
+- ** Operasiýa ulgamynyň goldawy **: Proxmox VE Linux, Windows, BSD we başgalar ýaly köp sanly myhman operasiýa ulgamyny goldaýar.
 
-- **Web Interface**: Proxmox offers a powerful and user-friendly web interface for managing your virtual environment. This allows you to create, start, stop or delete virtual machines, monitor their performance, manage their storage, and more from any web browser.
+- ** Web interfeýsi **: Proxmox wirtual gurşawyňyzy dolandyrmak üçin güýçli we ulanyjy üçin amatly web interfeýsini hödürleýär. Bu, wirtual maşynlary döretmäge, başlamaga, duruzmaga ýa-da ýoklamaga, olaryň işine gözegçilik etmäge, ammarlaryny dolandyrmaga we başga-da islendik web brauzerinden mümkinçilik berýär.
 
-- **Role-based Access Control**: Proxmox VE provides a role-based access control system, allowing you to create users with specific permissions and assign them to different parts of the Proxmox system.
+- ** Rol esasly giriş gözegçiligi **: Proxmox VE, belli bir rugsatlary bolan ulanyjylary döretmäge we olary Proxmox ulgamynyň dürli böleklerine bellemäge mümkinçilik berýän rol esasly giriş dolandyryş ulgamyny üpjün edýär.
 
-- **Backup and Restore**: Proxmox offers built-in backup and restore functionality, allowing you to easily create full, incremental, or differential backups of your virtual machines and easily restore them when needed.
+- ** Ätiýaçlyk we dikeltmek **: Proxmox içerki ätiýaçlyk nusgasyny hödürleýär we wirtual maşynlaryňyzyň doly, artýan ýa-da diferensial ätiýaçlyk nusgalaryny aňsatlyk bilen döretmäge we zerur bolanda aňsatlyk bilen dikeltmäge mümkinçilik berýär.
 
-## Conclusion
+## Netije
 
-As a powerful and feature-rich virtualization solution, Proxmox Virtual Environment enables administrators to manage their virtual infrastructure more efficiently and reliably. Boasting an easy-to-use web interface, comprehensive storage options, and support for multiple operating systems, Proxmox VE is an excellent choice for managing your virtual environment.
+Güýçli we aýratynlyga baý wirtuallaşdyrma çözgüdi hökmünde “Proxmox Wirtual Environment” dolandyryjylara wirtual infrastrukturasyny has netijeli we ygtybarly dolandyrmaga mümkinçilik berýär. Ulanylyşy aňsat web interfeýsi, giňişleýin saklaýyş opsiýalary we köp operasiýa ulgamlaryny goldamak bilen buýsanýan Proxmox VE, wirtual gurşawyňyzy dolandyrmak üçin ajaýyp saýlawdyr.

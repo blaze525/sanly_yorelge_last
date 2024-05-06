@@ -1,33 +1,30 @@
-# Social Engineering
+# Sosial in Inženerçilik
 
-Social engineering is a subtle yet highly effective method of manipulation that plays on human emotions and behavior to gain unauthorized access to sensitive information. It relies on psychological tactics, rather than technical ones, to deceive people into providing confidential data, allowing unauthorized access, or performing actions that compromise cybersecurity.
+Jemgyýetçilik in engineeringenerligi, duýgur maglumatlara rugsatsyz girmek üçin adam duýgularyny we özüni alyp barşyny oýnaýan inçe, ýöne gaty täsirli usul. Adamlary gizlin maglumatlary bermäge, rugsatsyz girmäge rugsat bermäge ýa-da kiberhowpsuzlyga zyýan berýän hereketleri etmäge aldamak üçin tehniki däl-de, psihologiki taktikalara daýanýar.
 
-## Types of Social Engineering
+## Sosial in Inženerçiligiň görnüşleri
 
-There are various forms of social engineering, including:
+Sosial in Inženerçilik dürli görnüşleri bar, şol sanda:
 
-- **Phishing**: A widespread technique where attackers create fake emails and websites, imitating legitimate organizations, to deceive victims into sharing sensitive data such as login credentials or financial information.
+- **Phishing**: Hüjümçiler, kanuny guramalara öýkünip, giriş şahsyýetnamalary ýa-da maliýe maglumatlary ýaly duýgur maglumatlary paýlaşmak üçin pidalary aldamak üçin galp e-poçta we web sahypalaryny döredýän giň ýaýran usul.
 
-- **Pretexting**: This method involves the attacker fabricating a believable scenario or pretext to establish trust with the target and trick them into divulging sensitive information.
+- **Baiting**: Zyýanly programma üpjünçiligini gurmak ýa-da rugsatsyz girmek maksady bilen programma üpjünçiligi, göçürip almak ýa-da özüne çekiji arzanladyş ýaly mugt ýa-da gaýtaryp bolmajak teklipler bilen pidany synamak.
 
-- **Baiting**: Tempting the victim with free or irresistible offers such as software, downloads, or attractive discounts, with the intention of installing malware or gaining unauthorized access.
+- **Quid pro quo**: Pidanyň duýgur maglumatlarynyň ýa-da ulgamyň elýeterliliginiň deregine hyzmat, maglumat ýa-da kömek bermek.
 
-- **Quid pro quo**: Offering a service, information, or assistance in exchange for the victim's sensitive information or system access.
 
-- **Tailgating/piggybacking**: Attacker gains unauthorized physical access to restricted areas by closely following an authorized individual or posing as an employee or contractor.
+## Öňüni alyş çäreleri
 
-## Preventive Measures
+Özüňizi we guramaňyzy sosial in Inženerçilik hüjümlerinden goramak üçin aşakdaky maslahatlary ýatda saklaň:
 
-To protect yourself and your organization against social engineering attacks, keep the following tips in mind:
+- Işgärlere dürli sosial in Inženerçilik usullary, bolup biljek hüjümleriň alamatlary we gurban bolmazlygy üçin iň oňat tejribeler barada bilim beriň.
 
-- Educate employees about the various social engineering methods, signs of potential attacks, and best practices to avoid falling victim.
+- Köp faktorly tanamak, parol syýasaty we gymmatly maglumatlara çäklendirilen giriş ýaly ygtybarly howpsuzlyk protokollaryny ýerine ýetiriň.
 
-- Implement robust security protocols, including multi-factor authentication, password policies, and restricted access to valuable data.
+- Islegleriň, e-poçta we aragatnaşyklaryň hakykylygyny üpjün etmek üçin barlamak we tassyklamak medeniýetini höweslendiriň.
 
-- Encourage a culture of verification and validation to ensure the authenticity of requests, emails, and communication.
+- Hüjümçiler tarapyndan ulanylyp bilinjek gowşaklyklary azaltmak üçin programma üpjünçiligini we howpsuzlyk çözgütlerini täzeläň.
 
-- Keep software and security solutions up-to-date to minimize vulnerabilities that can be exploited by attackers.
+- Maglumatlary yzygiderli ätiýaçlaň we üstünlikli hüjümleriň täsirini azaltmak üçin hadysalara jogap meýilnamasyny düzüň.
 
-- Regularly back up data and have an incident response plan in place to mitigate the impact of successful attacks.
-
-Remember, social engineering preys on human psychology and behavior. Therefore, awareness, vigilance, and adherence to best practices are crucial to defend against such threats.
+Ýadyňyzdan çykarmaň, sosial in Inženerçilik adam psihologiýasyna we özüni alyp barşyna zyýan berýär. Şonuň üçin habarlylyk, hüşgärlik we öňdebaryjy tejribä boýun bolmak şeýle howplardan goramak üçin möhümdir.

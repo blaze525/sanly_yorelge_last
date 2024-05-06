@@ -1,34 +1,34 @@
 # GWAPT
 
-The **GIAC Web Application Penetration Tester (GWAPT)** certification validates an individual's ability to perform in-depth web application security assessments and exploit vulnerabilities. GWAPT focuses on using ethical hacking methodologies to conduct web application penetration testing with the goal of identifying, evaluating, and mitigating security risks.
+** GIAC Web Programma Giriş Synagçysy (GWAPT) ** şahadatnamasy, şahsyýetiň web programmasynyň howpsuzlygyna çuňňur baha bermek we gowşak goralanlyklary ulanmak ukybyny tassyklaýar. GWAPT, howpsuzlyk töwekgelçiligini ýüze çykarmak, baha bermek we azaltmak maksady bilen web programmasyna aralaşmak synagyny geçirmek üçin etiki haker usullaryny ulanmaga ünsi jemleýär.
 
-## Key Concepts
+## Esasy düşünjeler
 
-The GWAPT certification covers several key concepts and areas, including but not limited to:
+GWAPT şahadatnamasy birnäçe esasy düşünjeleri we ugurlary öz içine alýar, emma çäklendirilmeýär:
 
-- **Web Application Security:** Knowledge of various web application security concepts, such as authentication mechanisms, session management, input validation, and access control.
-- **Testing Methodologies:** Understanding and application of web application penetration testing methodologies, such as OWASP Testing Guide and OWASP ASVS.
-- **Vulnerability Identification and Exploitation:** Identifying, exploiting, and assessing the impact of common web application vulnerabilities such as XSS, CSRF, SQL Injection, and others.
-- **Tools and Techniques:** Mastery of various web application testing tools, such as Burp Suite, WebInspect, and others.
-- **Report Preparation and Presentation:** Ability to document and present findings in a clear, concise manner, which can be understood by both technical and non-technical audiences.
+- ** Web Programma Howpsuzlygy: ** Hakyky tanamak mehanizmleri, sessiýa dolandyryşy, giriş tassyklamasy we giriş gözegçiligi ýaly dürli web programma howpsuzlyk düşünjelerini bilmek.
+- ** Synag usullary: ** OWASP Synag gollanmasy we OWASP ASVS ýaly web programmasyna aralaşmagyň synag usullaryna düşünmek we ulanmak.
+- ** Gowşaklygy kesgitlemek we ulanmak: ** XSS, CSRF, SQL Injection we başgalar ýaly umumy web programma gowşaklyklarynyň täsirini kesgitlemek, ulanmak we baha bermek.
+- ** Gurallar we usullar: ** Burp Suite, WebInspect we başgalar ýaly dürli web programma synag gurallarynyň ussatlygy.
+- ** Hasabatyň taýýarlanylyşy we tanyşdyrylyşy: ** Tehniki we tehniki däl tomaşaçylar tarapyndan düşünilip bilinjek netijeleri anyk, gysga görnüşde resminamalaşdyrmak we hödürlemek ukyby.
 
-## Certification Process
+## Şahadatnama prosesi
 
-To attain the GWAPT certification, candidates must:
+GWAPT şahadatnamasyny almak üçin dalaşgärler:
 
-- Register for the GWAPT exam through the GIAC website (www.giac.org).
-- Prepare for the exam by undergoing various training methods, such as attending the SEC542: Web App Penetration Testing and Ethical Hacking course by SANS, self-study, attending workshops, or gaining hands-on experience.
-- Pass the proctored 75-question multiple-choice exam with a minimum score of 68% within the 2-hour time limit.
-- Maintain the certification by earning 36 Continuing Professional Experience (CPE) credits every four years and paying the renewal fee.
+- GIAP web sahypasy (www.giac.org) arkaly GWAPT synagyna ýazylyň.
+- SEC542: Web App Penetration Testing we SANS tarapyndan etiki haker kursyna gatnaşmak, öz-özüňi öwrenmek, seminarlara gatnaşmak ýa-da tejribe toplamak ýaly dürli okuw usullaryny geçip, ekzamene taýynlyk görüň.
+- 2 sagatlyk möhletde iň az bal 68% bilen 75 soragly köp saýlawly synagdan geçiň.
+- Her dört ýylda 36 üznüksiz hünär tejribesi (CPE) karzyny almak we täzeleniş tölegini tölemek bilen şahadatnamany saklaň.
 
-## Who Should Pursue GWAPT Certification?
+## GWAPT şahadatnamasyny kim yzarlamaly?
 
-The GWAPT certification is aimed at professionals who are involved in web application security, such as penetration testers, security analysts, or application developers. Obtaining this certification demonstrates a high level of technical skill and knowledge in web application security testing, making it a valuable addition to any cybersecurity professional's credentials.
+GWAPT kepilnamasy, giriş synaglary, howpsuzlyk analitikleri ýa-da programma döredijiler ýaly web programma howpsuzlygy bilen meşgullanýan hünärmenlere gönükdirilendir. Bu şahadatnamany almak, web amaly howpsuzlygy synagynda ýokary tehniki ussatlygy we bilimleri görkezýär, bu bolsa islendik kiberhowpsuzlyk hünärmeniniň şahsyýetnamalaryna gymmatly goşundy bolýar.
 
-## Benefits of GWAPT Certification
+## GWAPT şahadatnamasynyň artykmaçlyklary
 
-- Validates your skills and knowledge in web application security testing.
-- Enhances your professional credibility and marketability in the cybersecurity industry.
-- Provides a competitive edge over non-certified individuals.
-- Demonstrates a commitment to staying current with industry advancements and best practices.
-- Assists in advancing your career by meeting employer or client requirements for certified professionals.
+- Web programma howpsuzlygy synagynda başarnygyňyzy we bilimiňizi tassyklaýar.
+- Kiberhowpsuzlyk pudagynda hünär derejäňizi we bazara ukyplylygyňyzy ýokarlandyrýar.
+- Kepilnamasyz şahslardan bäsdeşlik ukybyny üpjün edýär.
+- Senagatyň ösüşi we öňdebaryjy tejribesi bilen häzirki akymy saklamaga ygrarlydygyny görkezýär.
+- Kepillendirilen hünärmenler üçin iş berijiniň ýa-da müşderiniň talaplaryny kanagatlandyryp, karýeraňyzy ösdürmäge kömek edýär.

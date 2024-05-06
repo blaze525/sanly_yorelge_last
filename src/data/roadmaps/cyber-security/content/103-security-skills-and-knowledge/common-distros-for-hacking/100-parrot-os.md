@@ -1,21 +1,21 @@
 # ParrotOS
 
-Parrot OS, also known as Parrot Security OS, is a powerful Linux-based distribution designed for penetration testing, digital forensics, and ethical hacking. Developed by Frozenbox, this Debian-based operating system comes with a wide range of tools for cyber security enthusiasts, making it one of the most popular choices among hackers and security professionals.
+Parrot OS, “Parrot Security OS” diýlip hem atlandyrylýan, giriş synaglary, sanly kazyýet işi we ahlak taýdan döwmek üçin döredilen güýçli Linux esasly paýlanyşdyr. “Frozenbox” tarapyndan işlenip düzülen bu Debian esasly operasiýa ulgamy, kiberhowpsuzlyk höwesjeňleri üçin dürli gurallar bilen üpjün edilýär we bu hakerleriň we howpsuzlyk hünärmenleriniň arasynda iň meşhur saýlamalaryň birine öwrülýär.
 
-## Key Features
+## Esasy aýratynlyklary
 
-- **MATE Desktop Environment**: Parrot OS uses the customizable, lightweight MATE desktop environment, providing a seamless and user-friendly interface.
-- **Wide Range of Hacking Tools**: Parrot OS comes preloaded with a variety of hacking tools, such as Metasploit, Wireshark, Aircrack-ng, Armitage, and more. This ensures users have access to the necessary tools for pentesting and security assessments without needing to install them separately.
-- **Regular Updates**: The distribution receives frequent updates, ensuring its tools and features stay current with the latest developments in the cyber security field.
-- **Anonymity and Privacy**: Parrot OS comes with built-in tools like Anonsurf and TOR to enhance user privacy and anonymity, which are commonly used by cyber criminals as well as ethical hackers.
-- **Resource Efficient**: Parrot OS is designed to be lightweight, consuming fewer system resources compared to other hacking-oriented distros, making it suitable for low-spec devices or hardware.
+- **MATE iş stoly gurşawy**: Parrot OS özleşdirilip bilinýän, ýeňil MATE iş stoly gurşawyny ulanýar, bökdençsiz we ulanyjy üçin amatly interfeýs üpjün edýär.
+- **Hacking gurallarynyň giň gerimi**: Parrot OS, Metasploit, Wireshark, Aircrack-ng, Armitage we başgalar ýaly dürli haker gurallary bilen öňünden ýüklenýär. Bu, ulanyjylaryň pentestasiýa we howpsuzlygy bahalandyrmak üçin zerur gurallara aýratyn gurnamagynyň zerurlygyny üpjün edýär.
+- **Yzygiderli täzelenmeler**: Paýlaýyş ýygy-ýygydan täzelenmeleri alýar, gurallarynyň we aýratynlyklarynyň kiberhowpsuzlyk pudagyndaky soňky wakalar bilen üýtgewsiz bolmagyny üpjün edýär.
+- **Anonimlik we Gizlinlik**: Parrot OS, ulanyjylaryň şahsy durmuşyny we gizlinligini ýokarlandyrmak üçin Anonsurf we TOR ýaly içerki gurallar bilen üpjün edilýär, adatça kiber jenaýatçylar we ahlakly hakerler tarapyndan ulanylýar.
+- **Resurslaryň netijeliligi**: Parrot OS ýeňil bolmak üçin döredilip, beýleki hakerlere gönükdirilen distrolar bilen deňeşdirilende has az ulgam çeşmelerini sarp edip, pes enjamlar ýa-da enjamlar üçin amatly bolar.
 
-## Use Cases
+## Bölümleri ulanyň
 
-- **Penetration Testing**: Parrot OS is equipped with numerous tools for network scanning, vulnerability assessment, and exploitation that facilitate comprehensive security testing in various environments.
-- **Digital Forensics**: With a range of digital forensics tools, Parrot OS enables performing detailed analysis of computers and networks for potential evidence of cybercrime.
-- **Reverse Engineering**: The OS also includes tools for reverse engineering, assisting security professionals in examining and analyzing software or malware designs.
+- **Giriş synagy**: Parrot OS, dürli gurşawda giňişleýin howpsuzlyk synagyny ýeňilleşdirýän tor gözlemek, gowşak goralanlygy bahalandyrmak we ekspluatasiýa üçin köp sanly gural bilen enjamlaşdyrylandyr.
+- **Sanly kazyýet işi**: Birnäçe sanly kazyýet gurallary bilen Parrot OS kiberjenaýatçylygyň subutnamalary üçin kompýuterleri we torlary jikme-jik seljermäge mümkinçilik berýär.
+- **Ters in Inženerçilik**: OS, tersine in engineeringenerçilik, howpsuzlyk hünärmenlerine programma üpjünçiligini ýa-da zyýanly programma üpjünçiliginiň dizaýnlaryny barlamakda we derňemekde kömek bermek üçin gurallary hem öz içine alýar.
 
-Overall, Parrot OS is a reliable, versatile, and user-friendly cyber security distribution, ideal for both beginners and advanced users engaged in ethical hacking, penetration testing, and digital forensics.
+Umuman aýdanyňda, Parrot OS ygtybarly, köptaraply we ulanyjylara amatly kiberhowpsuzlyk paýlanyşy bolup, ahlak taýdan döwmek, aralaşmak synagy we sanly kazyýet işi bilen meşgullanýanlar we ösen ulanyjylar üçin ideal.
 
-- [Link to Download Parrot OS ](https://www.parrotsec.org/download/)
+- [Parrot OS-y göçürip almak üçin baglanyşyk] (https://www.parrotsec.org/download/)

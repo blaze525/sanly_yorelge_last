@@ -1,33 +1,33 @@
-# Brute Force vs Password Spray
+# Brute Force vs Parol spray
 
-In this section, we will discuss two common techniques employed by cybercriminals to gain unauthorized access to a victim's system or account: **Brute Force** and **Password Spray** attacks. By understanding these attack types, you will be better equipped to protect your systems and recognize potential threats.
+Bu bölümde, kiber jenaýatçylaryň pidanyň ulgamyna ýa-da hasabyna rugsatsyz girmek üçin ulanýan iki sany umumy usulyny ara alyp maslahatlaşarys: **Brute Force** we **Parol spreý** hüjümleri. Bu hüjüm görnüşlerine düşünmek bilen ulgamlaryňyzy goramak we bolup biljek howplary tanamak üçin has gowy enjamlaşdyrylarsyňyz.
 
-## Brute Force Attacks
+## Brute Force hüjümleri
 
-**Brute Force attacks** are a trial-and-error method used by attackers to discover the correct credential combinations (username and password) to gain unauthorized access to an account or system. This is done by systematically trying as many possibilities as possible until the correct combination is found.
+** Brute Force hüjümleri hüjümçiler tarapyndan hasaby ýa-da ulgamy birugsat girmek üçin dogry şahsyýet kombinasiýalaryny (ulanyjy ady we paroly) tapmak üçin ulanylýan synag-ýalňyşlyk usulydyr. Bu dogry kombinasiýa tapylýança mümkin boldugyça köp mümkinçiligi yzygiderli synap görmek arkaly amala aşyrylýar.
 
-In a Brute Force attack, the attacker usually utilizes automated tools to generate and test numerous password combinations. This strategy can be time-consuming, resource-intensive, and potentially detectable due to the massive number of login attempts made in a short period.
+Brute Force hüjüminde hüjümçi köplenç köp sanly parol birikmelerini döretmek we barlamak üçin awtomatiki gurallary ulanýar. Bu strategiýa, gysga wagtyň içinde köp sanly giriş synanyşygy sebäpli köp wagt talap edýän, serişde talap edýän we ýüze çykarylyp bilner.
 
-## Protecting Against Brute Force Attacks
+## Brute Force hüjümlerinden goramak
 
-To mitigate the risks of a Brute Force attack, implement the following best practices:
+Brute Force hüjüminiň töwekgelçiligini azaltmak üçin aşakdaky iň oňat tejribäni durmuşa geçiriň:
 
-- **Strong password policies:** Encourage users to create complex and unique passwords, combining upper and lower case letters, numbers, and special characters.
-- **Account lockout policies:** Lock user accounts temporarily after a set number of unsuccessful login attempts.
-- **Multi-factor authentication (MFA):** Implement MFA to make it more difficult for attackers to gain access, even if they obtain the correct credentials.
+- **Güýçli parol syýasaty:** Ulanyjylary uly we kiçi harplary, sanlary we ýörite nyşanlary birleşdirip, çylşyrymly we üýtgeşik parollary döretmäge höweslendiriň.
+- **Hasaby gulplamak syýasaty:** Birnäçe giriş synanyşyklaryndan soň ulanyjy hasaplaryny wagtlaýyn gulplaň.
+- **Köp faktorly autentifikasiýa (MFA):** Hüjümçilere dogry şahsyýetnamalary alsalar-da, girişlerini has kynlaşdyrmak üçin MFA-ny durmuşa geçiriň.
 
-## Password Spray Attacks
+## Parol Spray hüjümleri
 
-**Password Spray attacks** take a more sophisticated approach to compromise accounts. Instead of attempting various passwords against one account, as in Brute Force attacks, attackers try a single (often commonly used) password against multiple accounts. This method minimizes the risk of detection by spreading the attempts over many accounts and making them appear as ordinary user login attempts.
+** Parol Spray hüjümleri ** hasaplary bozmak üçin has çylşyrymly çemeleşýär. Hüjümçiler, Brute Force hüjümlerinde bolşy ýaly, bir hasapda dürli parollary synap görmegiň ýerine, köp hasaplara garşy ýekeje (köplenç ulanylýan) paroly synap görýärler. Bu usul, köp hasaplara synanyşyklary ýaýratmak we adaty ulanyjy giriş synanyşyklary ýaly görünmek arkaly ýüze çykarmak töwekgelçiligini azaldýar.
 
-In a Password Spray attack, the attacker typically uses a list of known usernames and tries a small set of commonly used passwords against each username. As many individuals still use weak and common passwords, this attack type can be surprisingly effective.
+Parol Spray hüjüminde hüjümçi adatça belli ulanyjy atlarynyň sanawyny ulanýar we her ulanyjy adyna garşy köp ulanylýan parollaryň kiçi toplumyny synap görýär. Köp adam henizem gowşak we umumy parollary ulanýandygy sebäpli, bu hüjüm görnüşi geň galdyryjy täsir edip biler.
 
-## Protecting Against Password Spray Attacks
+## Parol Spray hüjümlerinden goramak
 
-To defend against Password Spray attacks, follow these best practices:
+Parol Spray hüjümlerinden goramak üçin şu iň oňat amallara eýeriň:
 
-- **Educate users on password choice:** Teach users about the importance of choosing strong, unique passwords that are not easily guessed or found in password dictionaries.
-- **Monitor for unusual login patterns:** Use monitoring tools to detect unusual login patterns, such as numerous successful logins with specific (common) passwords.
-- **Implement multi-factor authentication (MFA):** Require users to provide an additional layer of authentication when logging in.
+- **Ulanyjylara parol saýlamagy öwrediň:** Ulanyjylara parol sözlüklerinde aňsatlyk bilen çak edilmeýän ýa-da tapylmaýan güýçli, üýtgeşik parollary saýlamagyň möhümdigini öwrediň.
+- **Adaty bolmadyk giriş nagyşlaryna gözegçilik:** Aýratyn (umumy) parollary bolan köp sanly üstünlikli giriş ýaly adaty bolmadyk giriş nagyşlaryny ýüze çykarmak üçin gözegçilik gurallaryny ulanyň.
+- **Köp faktorly autentifikasiýa (MFA) amala aşyryň:** Ulanyjylardan gireniňizde goşmaça tanamaklyk gatlagyny üpjün etmegini talap ediň.
 
-In conclusion, understanding the differences between Brute Force and Password Spray attacks, as well as adopting strong security measures, can help protect your systems and accounts from unauthorized access. Encourage the use of strong, unique passwords and implement multi-factor authentication to improve overall cybersecurity.
+Sözümiň ahyrynda, “Brute Force” we “Parol spreý” hüjümleriniň arasyndaky tapawutlara düşünmek, şeýle hem berk howpsuzlyk çäreleri görmek, ulgamlaryňyzy we hasaplaryňyzy rugsatsyz girişden goramaga kömek edip biler. Güýçli, üýtgeşik parollary ulanmagy höweslendiriň we umumy kiberhowpsuzlygy gowulandyrmak üçin köp faktorly tassyklamany durmuşa geçiriň.

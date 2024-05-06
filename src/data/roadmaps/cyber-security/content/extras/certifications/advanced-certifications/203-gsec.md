@@ -1,32 +1,32 @@
 # GSEC
 
-The **GIAC Security Essentials Certification (GSEC)** is an advanced cybersecurity certification that demonstrates an individual's knowledge and skills in addressing security threats and vulnerabilities in various systems. Developed by the Global Information Assurance Certification (GIAC), this certification is suitable for security professionals, IT managers, and network administrators who want to enhance their expertise in the core cybersecurity concepts and practices.
+**GIAC Security Essentials Certification (GSEC) - GIAC Howpsuzlyk Esasy Şahadatnamasy (GSEC)**, dürli ulgamlardaky howpsuzlyk howplaryny we gowşak goralanlyklary çözmekde şahsyýetiň bilimini we başarnygyny görkezýän ösen kiberhowpsuzlyk şahadatnamasydyr. Global maglumat kepillendiriş sertifikaty (GIAC) tarapyndan işlenip düzülen bu şahadatnama, esasy kiberhowpsuzlyk düşünjelerinde we tejribelerinde tejribelerini artdyrmak isleýän howpsuzlyk hünärmenleri, IT dolandyryjylary we tor dolandyryjylary üçin amatlydyr.
 
-## Key Features of GSEC
+## GSEC-iň esasy aýratynlyklary
 
-- **Comprehensive coverage of security concepts**: GSEC covers a wide range of cybersecurity topics, including risk management, cryptography, access control, authentication, network security, wireless security, web application security, and incident response.
-- **Hands-on approach**: GSEC focuses on practical, real-world situations and encourages students to develop problem-solving skills through hands-on labs and exercises.
-- **Vendor-neutral**: Unlike other certifications that focus on specific technologies or tools, GSEC is vendor-neutral and teaches concepts and techniques that can be applied in various environments and platforms.
-- **Globally recognized**: GSEC is a widely acknowledged certification among security professionals, and receiving it can help boost an individual's career in the cybersecurity industry.
+- ** Howpsuzlyk düşünjelerini hemmetaraplaýyn gurşap almak **: GSEC kiberhowpsuzlyk temalarynyň köpüsini öz içine alýar, töwekgelçiligi dolandyrmak, kriptografiýa, giriş gözegçiligi, tassyklamak, tor howpsuzlygy, simsiz howpsuzlyk, web amaly howpsuzlygy we hadysalara jogap.
+- ** El bilen işlemek **: GSEC amaly, hakyky ýagdaýlara ünsi jemleýär we okuwçylary el laboratoriýalary we maşklar arkaly meseläni çözmek endiklerini ösdürmäge höweslendirýär.
+- ** Satyjy bitarap **: Belli tehnologiýalara ýa-da gurallara gönükdirilen beýleki şahadatnamalardan tapawutlylykda, GSEC satyjy bitarap we dürli gurşawda we platformalarda ulanyp boljak düşünjeleri we usullary öwredýär.
+- ** Bütin dünýäde ykrar edilen **: GSEC howpsuzlyk hünärmenleriniň arasynda giňden ykrar edilen şahadatnama we ony almak şahsyýetiň kiberhowpsuzlyk pudagynda karýerasyny ýokarlandyryp biler.
 
-## GSEC Exam Details
+## GSEC synag maglumatlary
 
-The GSEC exam consists of 180 questions, and candidates have a total of 5 hours to complete the test. The minimum passing score is 73%. The exam covers the following domains:
+GSEC synagy 180 soragdan ybarat we dalaşgärleriň synagy tamamlamak üçin jemi 5 sagat wagty bar. Iň pes bal 73%. Synag aşakdaky domenleri öz içine alýar:
 
-- Active defense concepts
-- Authentication and access control
-- Basic understanding of cryptographic concepts
-- Incident handling and response
-- IP networking concepts and network security
-- Security policy and contingency planning
+- Işjeň goranyş düşünjeleri
+- Hakyky tanamak we giriş gözegçiligi
+- Kriptografiki düşünjelere esasy düşünmek
+- Wakalary dolandyrmak we jogap bermek
+- IP ulgam düşünjeleri we tor howpsuzlygy
+- Howpsuzlyk syýasaty we gyssagly meýilnamalaşdyrmak
 
-## Preparing for the GSEC Exam
+## GSEC ekzamenine taýýarlyk
 
-To prepare for the GSEC exam, you can use the following resources:
+GSEC synagyna taýýarlyk görmek üçin aşakdaky çeşmeleri ulanyp bilersiňiz:
 
-- **GIAC's official training courses**: GIAC offers a comprehensive training course, known as "SEC401: Security Essentials Boot- camp Style," to help students develop the necessary knowledge and skills for the GSEC certification exam. This course is available in various formats, including online, classroom-based, and on-demand.
-- **Study materials**: You can find several study guides, practice exams, and books specifically designed for GSEC exam preparation. These resources can help you deepen your understanding of the GSEC exam objectives and practice your skills through hands-on exercises.
-- **Online forums and study groups**: Participate in online forums and study groups related to GSEC and cybersecurity in general. These platforms can provide valuable insights, tips, and experiences from other security professionals and candidates preparing for the exam.
-- **GSEC Practice Exams**: GIAC offers two practice exams for the GSEC certification, which are an excellent way to assess your knowledge and identify areas that may require further attention.
+- ** GIAC-yň resmi okuw kurslary **: GIAC okuwçylara GSEC sertifikat synagy üçin zerur bilimleri we endikleri ösdürmäge kömek etmek üçin "SEC401: Security Essentials Boot-lager stili" diýlip atlandyrylýan giňişleýin okuw kursuny hödürleýär. Bu kurs onlaýn, synp otagy we isleg boýunça dürli formatlarda elýeterlidir.
+- ** Okuw materiallary **: GSEC ekzamenine taýýarlyk görmek üçin ýörite okuw gollanmalaryny, tejribe synaglaryny we kitaplary tapyp bilersiňiz. Bu çeşmeler, GSEC synag synaglarynyň maksatlaryna düşünmegiňizi çuňlaşdyrmaga we el-aýak maşklary arkaly başarnygyňyzy ulanmaga kömek edip biler.
+- ** Onlaýn forumlar we okuw toparlary **: GSEC we umuman kiberhowpsuzlyk bilen baglanyşykly onlaýn forumlara we okuw toparlaryna gatnaşyň. Bu platformalar, beýleki howpsuzlyk hünärmenlerinden we ekzamene taýynlanýan dalaşgärlerden gymmatly düşünjeleri, maslahatlary we tejribeleri berip biler.
+- ** GSEC tejribe synaglary **: GIAC GSEC kepilnamasy üçin iki tejribe synagyny hödürleýär, bu bilimleriňize baha bermegiň we has köp ünsi talap edip biljek ugurlary kesgitlemegiň ajaýyp usulydyr.
 
-By obtaining the GSEC certification, you will demonstrate your advanced knowledge and skills in cybersecurity, showcasing your ability to protect information systems and networks effectively. This certification can be a significant asset to your career and help you stand out in the competitive cybersecurity job market.
+GSEC kepilnamasyny almak bilen, maglumat ulgamlaryny we torlaryny netijeli goramak ukybyňyzy görkezip, kiberhowpsuzlyk boýunça ösen bilimleriňizi we başarnyklaryňyzy görkezersiňiz. Bu kepilnama, karýeraňyz üçin möhüm baýlyk bolup biler we bäsdeşlige ukyply kiberhowpsuzlyk iş bazarynda tapawutlanmaga kömek edip biler.

@@ -1,42 +1,42 @@
 # Kali Linux
 
-Kali Linux is one of the most popular Linux distributions used by cybersecurity professionals, ethical hackers, and penetration testers. This operating system is designed specifically for advanced security tasks such as penetration testing, exploit development, and digital forensics.
+Kali Linux, kiberhowpsuzlyk hünärmenleri, ahlakly hakerler we aralaşmak synagçylary tarapyndan ulanylýan iň meşhur Linux paýlamalarynyň biridir. Bu operasiýa ulgamy, aralaşmak synagy, ösüşi peýdalanmak we sanly kazyýet işi ýaly ösen howpsuzlyk meseleleri üçin ýörite döredildi.
 
-## Features
+## Aýratynlyklary
 
-Developed and maintained by Offensive Security, Kali Linux provides an extensive toolkit that comes pre-installed with numerous security tools, including:
+Offensive Security tarapyndan işlenip düzülen we goldanylýan Kali Linux, köp sanly howpsuzlyk gurallary bilen öňünden gurlan giň gurallar toplumyny hödürleýär:
 
-- Metasploit: A powerful exploit development framework
-- Nmap: A network scanning utility
-- Wireshark: A network protocol analyzer
-- John the Ripper: A password-cracking tool
-- Aircrack-ng: A suite for wireless network assessment
-- SQLmap: An automated SQL injection tool
+- Metasploit: Güýçli ekspluatasiýa ösüş çarçuwasy
+- Nmap: Tor gözlemek üçin kömekçi
+- Wireshark: Tor protokol analizatory
+- Jon Ripper: Paroly döwýän gural
+- Aircrack-ng: Simsiz tora baha bermek üçin toplum
+- SQLmap: Awtomatlaşdyrylan SQL sanjym guraly
 
-## Advantages
+## artykmaçlyklary
 
-The main advantages of using Kali Linux are:
+Kali Linux ulanmagyň esasy artykmaçlyklary:
 
-- **Specialized Tools**: As mentioned above, Kali Linux comes with a plethora of pre-installed tools dedicated to cybersecurity, making it an ideal choice for professionals in the field.
+- **Ýöriteleşdirilen gurallar**: aboveokarda belläp geçişimiz ýaly, Kali Linux kiberhowpsuzlyga bagyşlanan öňünden gurlan gurallaryň köpüsi bilen üpjün edilýär we bu ugurdaky hünärmenler üçin iň oňat saýlaw bolýar.
 
-- **Regular Updates**: Kali Linux receives continuous updates to ensure its tools, features, and capabilities are up-to-date, catering to the ever-evolving cybersecurity landscape.
+- **Adaty täzelenmeler**: Kali Linux, hemişe ösýän kiberhowpsuzlyk landşaftyna laýyk gelýän gurallarynyň, aýratynlyklarynyň we mümkinçilikleriniň döwrebap bolmagyny üpjün etmek üçin üznüksiz täzelenmeleri alýar.
 
-- **Extensive Documentation**: The Kali Linux community offers comprehensive documentation, making it easy to learn and understand the tools and features provided with the distribution.
+- **Giňişleýin resminamalar**: Kali Linux jemgyýeti paýlama bilen üpjün edilen gurallary we aýratynlyklary öwrenmegi we düşünmegi aňsatlaşdyrýan giňişleýin resminamalary hödürleýär.
 
-- **Customization**: Kali Linux can be customized according to individual requirements, allowing users to tailor the operating system to fit their specific objectives.
+- **Düzeltmek**: Kali Linux ulanyjylara operasiýa ulgamyny aýratyn maksatlaryna laýyklaşdyrmaga mümkinçilik berýän aýratyn talaplara laýyklykda düzülip bilner.
 
-## Limitations
+## Çäklendirmeler
 
-While Kali Linux is widely used and respected in the cybersecurity community, it has some limitations that users should be aware of:
+Kali Linux kiberhowpsuzlyk jemgyýetinde giňden ulanylsa we hormatlanylsa-da, ulanyjylaryň bilmeli käbir çäklendirmeleri bar:
 
-- **Not for beginners**: Kali Linux is designed specifically for skilled professionals familiar with Linux systems and cybersecurity concepts, and may be overwhelming for those new to Linux or cybersecurity.
+- **Täze başlanlar üçin däl**: Kali Linux ýörite Linux ulgamlary we kiberhowpsuzlyk düşünjeleri bilen ökde hünärmenler üçin döredildi we Linux ýa-da kiberhowpsuzlyk üçin täze bolanlar üçin gaty kyn bolup biler.
 
-- **Resource Intensive**: Kali Linux may have higher system requirements compared to other lightweight distributions, potentially impacting performance on older or resource-constrained devices.
+- **Resurslary intensiw**: Kali Linux beýleki ýeňil paýlamalar bilen deňeşdirilende has uly ulgam talaplaryna eýe bolup biler, köne ýa-da çeşme çäklendirilen enjamlarda öndürijilige täsir edip biler.
 
-- **Potential Legal Issues**: Since Kali Linux contains tools that can break into systems and networks, it's crucial to use them responsibly and ethically, always obtaining proper authorization for any penetration testing activity to avoid legal repercussions.
+- **Mümkin bolan hukuk meseleleri**: Kali Linux ulgamlara we torlara bölünip bilýän gurallary öz içine alýandygy sebäpli, olary jogapkärçilikli we ahlak taýdan ulanmak möhümdir, kanuny netijelerden gaça durmak üçin islendik synag synaglary üçin hemişe dogry ygtyýarnama alýar.
 
-## Conclusion
+## Netije
 
-Kali Linux is a powerful and widely used distribution tailored for cybersecurity experts and penetration testers. Its extensive collection of tools, combined with regular updates and customization options, make it an attractive choice for those seeking a reliable and feature-rich operating system geared towards cybersecurity tasks. However, it is essential for users to remain mindful of the responsibility and legality associated with using these tools.
+Kali Linux kiberhowpsuzlyk hünärmenleri we aralaşmak synagçylary üçin niýetlenen güýçli we giňden ulanylýan paýlanyşdyr. Giňişleýin gurallar ýygyndysy, yzygiderli täzelenmeler we özleşdirme opsiýalary bilen bilelikde, kiberhowpsuzlyk meselelerine gönükdirilen ygtybarly we aýratynlyklara baý operasiýa ulgamyny gözleýänler üçin özüne çekiji saýlama edýär. Şeýle-de bolsa, ulanyjylaryň bu gurallary ulanmak bilen baglanyşykly jogapkärçiligi we kanunylygy ýatdan çykarmaly däldir.
 
-- [kali Linux](https://www.kali.org/)
+- [kali Linux] (https://www.kali.org/)

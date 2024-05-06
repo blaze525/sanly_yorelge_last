@@ -1,32 +1,32 @@
-# Zero Day
+# Nol gün (Zero day)
 
-A **zero day attack** is an exploit that takes advantage of an unknown software vulnerability that has not been discovered, disclosed or patched by the software's developer. This type of attack, also known as an _exploit_, is particularly dangerous because it exploits a security gap that the vendor is not aware of, meaning there is no existing fix or protection against it.
+- **Zero day** programma üpjünçiligini tapmadyk, açylmadyk ýa-da tapylmadyk näbelli programma üpjünçiliginiň gowşaklygyndan peýdalanýar. _Eksploit_ diýlip hem atlandyrylýan bu hüjüm, satyjynyň bilmeýän howpsuzlyk boşlugyndan peýdalanýar, bu sebäpli hiç hili düzediş ýa-da gorag ýok.
 
-## Characteristics
+## Aýratynlyklary
 
-There are certain characteristics that make zero day attacks particularly dangerous, such as:
+Günüň dowamynda nol hüjümlerini aýratyn howply edýän käbir aýratynlyklar bar:
 
-- **Undetected vulnerability**: Attackers target vulnerabilities in software that developers or manufacturers are not aware of, making it difficult for defenders to protect against the attack.
-- **Speed**: Zero day attacks are quickly executed, often before any security measures can be implemented, resulting in a higher success rate for attackers.
-- **Stealth**: Attackers usually exploit these vulnerabilities quietly, making their intrusion hard to detect, and can maintain undetected access to a network or system.
+- **Gözlenilmedik gowşaklyk**: Hüjümçiler programma üpjünçiligindäki gowşak goralanlyklary nyşana alýarlar ýa-da öndürijiler bilmeýär, goragçylara hüjümden goramagy kynlaşdyrýar.
+- **Tizlik**: Howpsuzlyk çäreleri amala aşyrylmazdan ozal hüjümçiler üçin has ýokary üstünlik gazanmak üçin nol günlük hüjümler çalt ýerine ýetirilýär.
+- **Gizlin**: Hüjümçiler adatça bu gowşak goralan ýerlerden arkaýyn peýdalanýarlar, çozuşlaryny ýüze çykarmagy kynlaşdyrýarlar we tora ýa-da ulgama göz ýetirilmedik ygtyýary saklap bilýärler.
 
-## Consequences
+## Netijeler
 
-Zero day attacks can have serious consequences, including:
+Gündelik nol hüjümleri, şol sanda:
 
-- Data theft or loss
-- Damaged systems or infrastructure
-- Financial losses
-- Reputation damage
+- Maglumatlaryň ogurlanmagy ýa-da ýitmegi
+- Zeper ýeten ulgamlar ýa-da infrastruktura
+- Maliýe ýitgileri
+- Abraýyň zaýalanmagy
 
-Organizations should invest in proactive security measures to protect against such attacks, as reactive measures alone may not be enough.
+Guramalar şeýle hüjümlerden goramak üçin işjeň howpsuzlyk çärelerine maýa goýmalydyrlar, sebäbi diňe reaktiw çäreler ýeterlik bolmaz.
 
-## Mitigation Strategies
+## Mitigasiýa strategiýalary
 
-- **Keep software up-to-date**: Regularly update software and apps, as developers often release patches and fixes for known vulnerabilities.
-- **Implement multi-layered security**: Employ a combination of robust security solutions, including firewalls, intrusion detection and prevention systems, anti-malware software, and more.
-- **Monitor network and device activity**: Regularly monitor and analyze network and device activities to spot any unusual behavior, potentially indicating an exploit.
-- **Encrypt sensitive data**: By encrypting sensitive data, it becomes harder for hackers to steal and misuse it.
-- **Segment networks**: Segment your networks to limit access to sensitive information and systems, minimizing the damage in case of a breach.
-- **Educate employees**: Provide training for employees about the threat landscape, good security practices, and how to avoid falling victim to phishing or social engineering attacks.
-- **Regular backups and disaster recovery planning**: Routinely and securely back up data and develop a disaster recovery plan to mitigate damages from security breaches or attacks.
+- **Programma üpjünçiligini täzeläp duruň**: Programma üpjünçiligini we programmalary yzygiderli täzeläň, sebäbi döredijiler köplenç belli gowşak goralan ýerleri düzedýärler we düzedýärler.
+- **Köp gatly howpsuzlygy durmuşa geçiriň**: Gorag diwarlary, çozuşlary ýüze çykarmak we öňüni alyş ulgamlary, zyýanly programma üpjünçiligi we ş.m. ýaly ygtybarly howpsuzlyk çözgütleriniň kombinasiýasyny ulanyň.
+- **Tor we enjamyň işine gözegçilik**: Ulgamyň we enjamyň işine yzygiderli gözegçilik ediň we derňäň, haýsydyr bir üýtgeşik hereketi görmek, ekspluatasiýany görkezip biler.
+- **Duýgur maglumatlary şifrlemek**: Duýgur maglumatlary şifrlemek bilen hakerleriň ogurlamagy we nädogry ulanylmagy kynlaşýar.
+- **Segment torlary**: Duýgur maglumatlara we ulgamlara girişi çäklendirmek üçin ulgamlaryňyzy bölüň, bozulan halatynda zyýany azaldyň.
+- **Işgärlere bilim beriň**: Işgärlere howp abanýan ýerler, gowy howpsuzlyk tejribeleri we fişing ýa-da sosial in engineeringenerçilik hüjümleriniň pidasy bolmazlygy barada okuw beriň.
+- **Yzygiderli ätiýaçlyk nusgalary we betbagtçylykdan halas etmegi meýilleşdirmek**: Maglumatlary yzygiderli we ygtybarly ätiýaçlaň we howpsuzlyk bozulmalaryndan ýa-da hüjümlerden ýetirilen zyýany azaltmak üçin betbagtçylykdan halas ediş meýilnamasyny düzüň.

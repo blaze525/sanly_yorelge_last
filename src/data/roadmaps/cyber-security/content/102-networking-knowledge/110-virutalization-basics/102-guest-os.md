@@ -1,27 +1,27 @@
 # GuestOS
 
-A Guest OS (Operating System) is an essential component in virtualization. It is an operating system that runs within a virtual machine (VM) created by a host operating system or a hypervisor. In this scenario, multiple guest operating systems can operate on a single physical host machine, sharing resources provided by the host.
+GuestOS OS (Operasiýa ulgamy) wirtuallaşdyrmagyň möhüm bölegi. Hoster eýesi operasiýa ulgamy ýa-da giperwizor tarapyndan döredilen wirtual maşynyň (VM) içinde işleýän operasiýa ulgamy. Bu ssenariýada, GuestOS tarapyndan üpjün edilýän çeşmeleri paýlaşyp, köp sanly GuestOS operasiýa ulgamy bir fiziki host enjamynda işläp biler.
 
-## Key Features of Guest OS
+## GuestOS operasiýa ulgamynyň esasy aýratynlyklary
 
-- **Resource Sharing**: The guest OS shares the host's resources, such as CPU, memory, and storage, while having a virtualized environment of its own.
-- **Isolation**: Each guest OS operates independently of others on the same host machine, ensuring that the performance or security of one system does not affect the others.
-- **Customization**: You can install and manage different types of guest operating systems on the same host, catering to specific requirements or user preferences.
-- **Portability**: The guest OS and its associated data can be easily moved to another host machine, simplifying the management of multiple systems for businesses and individuals.
+- ** Resurslary paýlaşmak **: Guest OS, wirtuallaşdyrylan gurşaw bilen bir hatarda, CPU, ýat we ammar ýaly öý eýesiniň çeşmelerini paýlaşýar.
+- ** Izolýasiýa **: Her bir Guest OS, bir ulgamyň işleýşiniň ýa-da howpsuzlygynyň beýlekilere täsir etmezligini üpjün edip, şol bir öý enjamynda beýlekilerden garaşsyz işleýär.
+- ** Özbaşdaklaşdyrma **: Belli bir talaplara ýa-da ulanyjy isleglerine laýyklykda bir hostda dürli görnüşli GuestOS operasiýa ulgamlaryny gurup we dolandyryp bilersiňiz.
+- ** Ykjamlyk **: Guest OS we oňa degişli maglumatlar, kärhanalar we şahsyýetler üçin birnäçe ulgamyň dolandyrylyşyny ýönekeýleşdirip, başga bir öý enjamyna aňsatlyk bilen geçirilip bilner.
 
-## Use Cases for Guest OS
+## GuestOS operasiýa ulgamlary üçin ýagdaýlary ulanyň
 
-- **Testing and Development**: By providing a separate environment to experiment with different applications, guest operating systems are appropriate for testing and development.
-- **Security**: Sandbox environments can be created within the guest OS for analyzing malware or executing potentially unsafe applications, without affecting the host machine's performance or security.
-- **Legacy Applications**: Some older applications may not be compatible with modern operating systems. Having a guest OS with an older OS version helps to run these legacy applications.
-- **Resource Optimization**: Virtualization enables businesses to make the most of their hardware investments, as multiple guest OS can share the resources of a single physical machine.
+- ** Synag we ösüş **: Dürli programmalar bilen synag etmek üçin aýratyn gurşaw bermek bilen, GuestOS operasiýa ulgamlary synag we ösüş üçin amatlydyr.
+- ** Howpsuzlyk **: Zyýanly programma üpjünçiligini seljermek ýa-da kabul ediji enjamyň işine ýa-da howpsuzlygyna täsir etmezden, zyýanly programma üpjünçiligini seljermek ýa-da howply programmalary ýerine ýetirmek üçin sandbox gurşawy döredilip bilner.
+- ** Miras goýmalary **: Käbir köne programmalar häzirki zaman operasiýa ulgamlaryna laýyk gelmezligi mümkin. Has köne OS wersiýasy bolan GuestOS OS bolmagy bu miras goýmalaryny işletmäge kömek edýär.
+- ** Resurslary optimizasiýa **: Wirtuallaşdyrma kärhanalara apparat maýa goýumlaryndan has köp peýdalanmaga mümkinçilik berýär, sebäbi köp GuestOS OS bir fiziki enjamyň çeşmelerini paýlaşyp biler.
 
-## Guest OS Management
+## GuestOS ulgamynyň dolandyryşy
 
-To manage guest operating systems effectively, you must use virtualization software or a hypervisor. Some popular options include:
+GuestOS operasiýa ulgamlaryny netijeli dolandyrmak üçin wirtuallaşdyrma programma üpjünçiligini ýa-da giperwizor ulanmaly. Käbir meşhur wariantlar:
 
-- **VMware**: VMware provides tools like VMware Workstation and Fusion to create, manage, and run guest OS within virtual machines.
-- **Oracle VirtualBox**: Oracle's VirtualBox is an open-source hypervisor that supports the creation and management of guests operating systems across multiple host OS platforms.
-- **Microsoft Hyper-V**: Microsoft's free hypervisor solution, Hyper-V, is capable of creating and managing guest operating systems on Windows-based host machines.
+- ** VMware **: VMware wirtual maşynlaryň içinde Guest OS döretmek, dolandyrmak we işletmek üçin VMware Workstation we Fusion ýaly gurallary üpjün edýär.
+- ** Oracle VirtualBox **: Oracle-yň VirtualBox köp sanly OS platformalarynda GuestOS operasiýa ulgamlaryny döretmegi we dolandyrmagy goldaýan açyk çeşme giperwizordyr.
+- ** Microsoft Hyper-V **: Microsoft-yň mugt giperwizor çözgüdi Hyper-V, Windows esasly host enjamlarynda GuestOS operasiýa ulgamlaryny döretmäge we dolandyrmaga ukyply.
 
-In conclusion, a guest operating system plays a vital role in virtualization, allowing users to operate multiple OS within virtual machines on a single host, optimizing resources, and providing the flexibility to work with a variety of applications and environments.
+Sözümiň ahyrynda, ulanyjy operasiýa ulgamy wirtuallaşdyrmakda möhüm rol oýnaýar, ulanyjylara bir hostda wirtual maşynlaryň içinde köp OS işlemäge, çeşmeleri optimizirlemäge we dürli programmalar we gurşawlar bilen işlemek üçin çeýeligi üpjün etmäge mümkinçilik berýär.

@@ -1,1 +1,1 @@
-# Advanced certifications
+# Ýokary Hünär sertifikatlary 

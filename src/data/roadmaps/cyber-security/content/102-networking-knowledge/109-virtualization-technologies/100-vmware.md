@@ -1,35 +1,35 @@
 # VMWare
 
-_VMware_ is a global leader in virtualization and cloud infrastructure solutions. Established in 1998, they have been at the forefront of transforming the IT landscape. VMware's virtualization platform can be applied to a wide range of areas such as data centers, desktops, and applications.
+_VMware_ wirtuallaşdyrma we bulut infrastrukturasy çözgütleri boýunça global liderdir. 1998-nji ýylda döredilen, IT landşaftyny özgertmekde öňdäki hatarda boldular. VMware-yň wirtuallaşdyryş platformasy maglumat merkezleri, iş stollary we amaly programmalar ýaly giň ugurlara ulanylyp bilner.
 
-## VMware Products and Technologies
+## VM programma önümleri we tehnologiýalary
 
-Some of the popular VMware products include the following:
+Meşhur VMware önümleriniň arasynda aşakdakylar bar:
 
-- **VMware vSphere**: It is the most well-known VMware product, and it forms the foundation of the virtual infrastructure. vSphere enables you to create, manage and run multiple virtual machines on a single physical server. It essentially provides better utilization of hardware resources and enhanced server management.
+- ** VMware vSphere **: Iň belli VMware önümidir we wirtual infrastrukturanyň esasyny düzýär. vSphere bir fiziki serwerde birnäçe wirtual maşyn döretmäge, dolandyrmaga we işletmäge mümkinçilik berýär. Aslynda apparat çeşmelerinden has gowy peýdalanmagy we serwer dolandyryşyny güýçlendirýär.
 
-- **VMware Workstation**: This desktop virtualization product allows you to run multiple isolated operating systems on a single Windows or Linux PC. It enables you to create and manage virtual machines effortlessly and is primarily targeted at developers and IT professionals.
+- ** VMware Workstation **: Bu iş stoly wirtuallaşdyrma önümi, bir Windows ýa-da Linux kompýuterinde birnäçe izolirlenen operasiýa ulgamyny işletmäge mümkinçilik berýär. Wirtual maşynlary aňsatlyk bilen döretmäge we dolandyrmaga mümkinçilik berýär we ilkinji nobatda işläp düzüjilere we IT hünärmenlerine gönükdirilýär.
 
-- **VMware Fusion**: Similar to the Workstation but designed specifically for Mac users, Fusion allows you to run Windows and Linux applications on a Mac without requiring a reboot.
+- ** VMware Fusion **: Workstation-a meňzeş, ýöne Mac ulanyjylary üçin ýörite döredilen Fusion, Windows we Linux programmalaryny Mac-da gaýtadan açmagy talap etmezden işlemäge mümkinçilik berýär.
 
-- **VMware Horizon**: This product focuses on providing remote access to virtual desktops and applications. It helps organizations to securely deliver resources to users, improve desktop management, and reduce costs associated with maintaining traditional PCs.
+- ** VMware Horizon **: Bu önüm wirtual iş stollaryna we amaly programmalara uzakdan girmegi üpjün edýär. Guramalara ulanyjylara çeşmeleri ygtybarly ýetirmäge, iş stolunyň dolandyrylyşyny gowulandyrmaga we adaty kompýuterleri saklamak bilen baglanyşykly çykdajylary azaltmaga kömek edýär.
 
-- **VMware NSX**: NSX is VMware's network virtualization and security platform. It is designed to work in tandem with VMware vSphere and other virtualization platforms, providing advanced networking and security features like micro-segmentation, distributed firewalling, and load balancing.
+- ** VMware NSX **: NSX VMware toruny wirtuallaşdyrma we howpsuzlyk platformasydyr. VMware vSphere we beýleki wirtuallaşdyryş platformalary bilen bilelikde işlemek, mikro segmentasiýa, paýlanan diwar goragy we ýük balansy ýaly ösen ulgam we howpsuzlyk aýratynlyklaryny üpjün etmek üçin döredildi.
 
-- **VMware vSAN**: vSAN is a software-defined storage solution that allows you to decouple storage functions from the underlying hardware. With vSAN, you can pool together direct-attached storage devices across multiple vSphere servers and create a shared datastore that can be easily managed and scaled.
+- ** VMware vSAN **: vSAN programma üpjünçiligi bilen kesgitlenen saklaýyş çözgüdi bolup, esasy enjamdan saklaýyş funksiýalaryny çözmäge mümkinçilik berýär. VSAN bilen, köp sanly vSphere serwerinde gönüden-göni birikdirilen ammar enjamlaryny birleşdirip, aňsatlyk bilen dolandyryp we ulaldyp boljak umumy maglumat bazasyny döredip bilersiňiz.
 
-## Benefits of VMware Virtualization
+## VMware wirtuallaşdyrmagyň peýdalary
 
-VMware's virtualization technologies offer various advantages, such as:
+VMware-yň wirtuallaşdyryş tehnologiýalary dürli artykmaçlyklary hödürleýär:
 
-- **Increased efficiency**: By consolidating multiple physical servers into virtual machines running on fewer physical servers, resource utilization is improved, which reduces energy and hardware costs.
+- ** Netijeliligi ýokarlandyrmak **: Birnäçe fiziki serwerleri az fiziki serwerlerde işleýän wirtual maşynlara birleşdirmek bilen, energiýa we enjam çykdajylaryny azaldýan çeşmeleriň ulanylyşy gowulaşýar.
 
-- **Flexibility**: Virtualization allows you to run multiple operating systems and applications simultaneously, which increases productivity and enables you to switch between tasks more quickly.
+- ** Çeýeligi **: Wirtuallaşdyrma birnäçe operasiýa ulgamyny we amaly programmany bir wagtda işletmäge mümkinçilik berýär, bu öndürijiligi ýokarlandyrýar we meseleleriň arasynda has çalt geçmäge mümkinçilik berýär.
 
-- **Scalability**: VMware makes it easy to add or remove virtual machines and resources as needed, allowing you to scale your IT infrastructure efficiently.
+- ** Göwrümlilik **: VMware, wirtual maşynlary we çeşmeleri zerur bolanda goşmagy ýa-da aýyrmagy aňsatlaşdyrýar, bu bolsa IT infrastrukturaňyzy netijeli giňeltmäge mümkinçilik berýär.
 
-- **Business continuity**: Virtualization ensures high availability and disaster recovery by replicating your virtual machines and enabling automatic failover to other servers in case of any hardware failure.
+- ** Işewürligiň dowamlylygy **: Wirtuallaşdyrma, wirtual maşynlaryňyzy köpeltmek we islendik enjam näsazlygy ýüze çykan halatynda beýleki serwerlere awtomatiki usulda işlemegi üpjün etmek arkaly ýokary elýeterliligi we betbagtçylygyň dikeldilmegini üpjün edýär.
 
-- **Simplified management**: Virtualized environments can be managed from a central location, reducing the time and effort required to maintain and monitor IT resources.
+- ** Ýönekeýleşdirilen dolandyryş **: Wirtuallaşdyrylan gurşaw merkezi ýerlerden dolandyrylyp, IT çeşmelerini saklamak we gözegçilik etmek üçin zerur wagty we güýji azaldyp bolar.
 
-In conclusion, VMware is an industry-leading company providing various virtualization products and services that cater to different types of users and environments. As a user, you should evaluate your requirements and choose the right VMware product for your needs to fully reap the benefits of virtualization.
+Sözümiň ahyrynda, “VMware” dürli ulanyjylara we gurşawlara laýyk gelýän dürli wirtuallaşdyrma önümlerini we hyzmatlaryny hödürleýän pudakda öňdebaryjy kompaniýa. Ulanyjy hökmünde, wirtuallaşdyrmagyň artykmaçlyklaryny doly gazanmak üçin zerurlyklaryňyza baha bermeli we zerur VMware önümini saýlamaly.

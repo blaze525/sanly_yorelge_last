@@ -1,24 +1,24 @@
-# Reconnaissance
+# Gözleg
 
-Reconnaissance is a crucial stage in any cyber attack and refers to the process of gathering information about potential targets, their systems, networks, and vulnerabilities. This information is used by attackers to select which tactics, techniques, or tools will be most effective when attempting to compromise a target system or organization. Reconnaissance can be divided into two primary methods: active and passive.
+Gözleg islendik kiber hüjüminde möhüm tapgyr bolup, potensial nyşanlar, ulgamlar, torlar we gowşak goralanlyklar barada maglumat ýygnamak prosesine degişlidir. Bu maglumatlar, haýsydyr bir taktikanyň, usulyň ýa-da guralyň maksatly ulgam ýa-da gurama howp saljak bolanda has täsirli boljakdygyny saýlamak üçin hüjümçiler tarapyndan ulanylýar. Gözleg iki esasy usula bölünip bilner: işjeň we passiw.
 
-## Active Reconnaissance
+## Işjeň gözlemek
 
-In active reconnaissance, attackers directly engage with their target to gather information. This may include scanning networks for open ports or services, attempting to query servers or probing for vulnerabilities. Since the attacker is actively interacting with target systems, it has higher chances of being detected by intrusion detection systems, firewalls or security teams.
+Işjeň gözlegde, hüjümçiler maglumat ýygnamak maksady bilen gönüden-göni gatnaşýarlar. Bu açyk portlar ýa-da hyzmatlar üçin torlary skanirlemegi, serwerleri soramaga synanyşmagy ýa-da gowşak ýerleri barlamagy öz içine alyp biler. Hüjümçi maksatly ulgamlar bilen işjeň aragatnaşyk saklaýandygy sebäpli, çozuşy kesgitlemek ulgamlary, gorag diwarlary ýa-da howpsuzlyk toparlary tarapyndan ýüze çykarylmagy has ýokary.
 
-Common active reconnaissance tools include:
+Umumy işjeň gözleg gurallary şulary öz içine alýar:
 
-- Nmap: A network scanner that can discover hosts, services, and open ports.
-- Nessus: A vulnerability assessment tool that allows attackers to scan for known vulnerabilities in target systems.
+- Nmap: Hostlary, hyzmatlary we açyk portlary açyp bilýän tor skaneri.
+- Nessus: Hüjümçilere nyşan ulgamlarynda belli gowşaklyklary barlamaga mümkinçilik berýän gowşaklygy bahalandyrmak guraly.
 
-## Passive Reconnaissance
+## Passiw gözleg
 
-In passive reconnaissance, the attacker seeks to gather information about the target without making any contact or directly engaging with target systems. Passive reconnaissance is often harder to detect and involves activities such as social engineering, open-source intelligence (OSINT) gathering, or analyzing leaked data.
+Passiw gözlegde, hüjümçi hiç hili habarlaşmazdan ýa-da maksatly ulgamlar bilen gönüden-göni gatnaşmazdan nyşana barada maglumat ýygnamaga synanyşýar. Passiw gözleg köplenç sosial in engineeringenerçilik, açyk çeşmeli intellekt (OSINT) ýygnamak ýa-da syzdyrylan maglumatlary seljermek ýaly çäreleri ýüze çykarmak kyn bolýar.
 
-Common passive reconnaissance techniques include:
+Umumy passiw gözleg usullary şulary öz içine alýar:
 
-- Searching public forums, social media profiles, or websites for information about an organization or its employees.
-- Using search engines to find exposed or inadvertently leaked data.
-- Sifting through DNS records and WHOIS information to discover sub-domains and email addresses that might be used in further attacks.
+- Bir gurama ýa-da onuň işgärleri barada maglumat almak üçin köpçülikleýin forumlary, sosial media profillerini ýa-da web sahypalaryny gözlemek.
+- Açylan ýa-da bilmän syzdyrylan maglumatlary tapmak üçin gözleg motorlaryny ulanmak.
+- DNS ýazgylaryny we WHOIS maglumatlaryny gözden geçirip, indiki hüjümlerde ulanyp boljak kiçi domenleri we e-poçta salgylaryny tapmak.
 
-Defensive measures against reconnaissance include monitoring network traffic for unusual patterns or repeated probing attempts, regularly updating and patching systems, providing employee training on social engineering awareness, and implementing network segmentation to limit access to sensitive information.
+Gözleg işlerine garşy gorag çäreleri, adaty bolmadyk nagyşlar ýa-da yzygiderli synanyşyklar üçin ulgam traffigine gözegçilik etmek, ulgamlary yzygiderli täzelemek we ýamamak, sosial in engineeringenerçilik habardarlygy boýunça işgärlere tälim bermek we duýgur maglumatlaryň elýeterliligini çäklendirmek üçin tor segmentasiýasyny amala aşyrmagy öz içine alýar.

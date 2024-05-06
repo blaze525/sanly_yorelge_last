@@ -1,17 +1,17 @@
 # picoCTF
 
-[PicoCTF](https://picoctf.org/) is a popular online Capture The Flag (CTF) competition designed for beginners and experienced cyber security enthusiasts alike. It is organized annually by the [Plaid Parliament of Pwning (PPP)](https://ppp.cylab.cmu.edu/) team, a group of cyber security researchers and students from Carnegie Mellon University.
+[PicoCTF] (https://picoctf.org/) täze başlaýanlar we tejribeli kiberhowpsuzlyk höwesjeňleri üçin döredilen meşhur onlaýn Capture The Flag (CTF) bäsleşigi. Her ýyl [Pwning Plaid Mejlisi (PPP)] (https://ppp.cylab.cmu.edu/) topary, kibernetik gözlegçiler topary we Karnegi Mellon uniwersitetiniň talyplary tarapyndan gurnalýar.
 
-## Features
+## Aýratynlyklar
 
-- **Level-based Challenges**: PicoCTF offers a wide range of challenges sorted by difficulty levels. You will find challenges in topics like cryptography, web exploitation, forensics, reverse engineering, binary exploitation, and much more. These challenges are designed to build practical cybersecurity skills and engage in real-world problem-solving.
+- ** Derejä esaslanýan kynçylyklar **: PicoCTF kynçylyk derejeleri boýunça tertiplenen dürli kynçylyklary hödürleýär. Kriptografiýa, web ekspluatasiýasy, kazyýet işi, ters in engineeringenerçilik, ikilik ekspluatasiýasy we başga-da köp meselelerde kynçylyklara duşarsyňyz. Bu kynçylyklar amaly kiberhowpsuzlyk endiklerini ösdürmek we real dünýädäki meseleleri çözmek bilen meşgullanýar.
 
-- **Learning Resources**: The platform includes a collection of learning resources to help participants better understand the topics they are tackling. This allows you to quickly learn the necessary background information to excel in each challenge.
+- ** Okuw çeşmeleri **: Gatnaşýanlara özleriniň gyzyklanýan mowzuklaryna has gowy düşünmekleri üçin platforma okuw çeşmeleriniň ýygyndysyny öz içine alýar. Bu, her kynçylykda üstünlik gazanmak üçin zerur fon maglumatlary çalt öwrenmäge mümkinçilik berýär.
 
-- **Collaborative Environment**: Users can collaborate with a team or join a group to work together and share ideas. Working with others allows for hands-on practice in communication, organization, and critical thinking skills that are vital in the cybersecurity field.
+- ** Bilelikdäki gurşaw **: Ulanyjylar bir topar bilen işleşip ýa-da bilelikde işlemek we pikir alyşmak üçin bir topara goşulyp bilerler. Beýlekiler bilen işlemek, kiberhowpsuzlyk pudagynda möhüm ähmiýete eýe bolan aragatnaşykda, guramaçylykda we tankydy pikirleniş ukyplarynda tejribe almaga mümkinçilik berýär.
 
-- **Leaderboard and Competitive Spirit**: PicoCTF maintains a growing leaderboard where participants can see their ranking, adding an exciting competitive aspect to the learning experience.
+- ** Lider tagtasy we bäsdeşlik ruhy **: PicoCTF ösýän lider tagtasyny saklaýar, bu ýerde gatnaşyjylar öz derejelerini görüp bilerler, okuw tejribesine gyzykly bäsdeşlik tarapy goşarlar.
 
-- **Open for All Ages**: The competition is open to individuals of all ages, with a focus on students in middle and high school in order to cultivate the next generation of cybersecurity professionals.
+- ** Ähli ýaşlar üçin açyk **: Bäsleşik, geljekki nesli kiberhowpsuzlyk hünärmenlerini ösdürmek maksady bilen orta we orta mekdep okuwçylaryna gönükdirilen dürli ýaşdaky adamlar üçin açykdyr.
 
-In conclusion, PicoCTF is an excellent platform for beginners to start learning about cybersecurity, as well as for experienced individuals looking to improve their skills and compete. By participating in PicoCTF, you can enhance your knowledge, engage with the cyber security community, and hone your skills in this ever-growing field.
+Sözümiň ahyrynda, PicoCTF täze başlanlar üçin kiberhowpsuzlygy öwrenip başlamak üçin, şeýle hem başarnyklaryny ýokarlandyrmak we bäsleşmek isleýän tejribeli adamlar üçin ajaýyp platforma bolup durýar. PicoCTF-e gatnaşyp, bilimleriňizi artdyryp, kiberhowpsuzlyk jemgyýeti bilen işleşip we ösüp barýan bu ugurda başarnygyňyzy ösdürip bilersiňiz.

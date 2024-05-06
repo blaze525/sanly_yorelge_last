@@ -1,39 +1,39 @@
-# CompTIA A+
+# CompTIA A +
 
-CompTIA A+ is an entry-level certification for IT professionals that focuses on essential knowledge and skills in computer hardware, software, and troubleshooting. This certification is widely recognized in the IT industry and can serve as a stepping stone for individuals looking to start a career in the field of information technology.
+CompTIA A +, kompýuter enjamlary, programma üpjünçiligi we näsazlyklary düzetmek boýunça möhüm bilimlere we başarnyklara gönükdirilen IT hünärmenleri üçin giriş derejesindäki şahadatnama. Bu şahadatnama IT pudagynda giňden tanalýar we maglumat tehnologiýasy pudagynda karýerany başlamak isleýän şahsyýetler üçin ilkinji ädim bolup biler.
 
-## Objectives
+## Maksady
 
-The CompTIA A+ certification aims to test and validate foundational IT knowledge and skills, including:
+CompTIA A + şahadatnamasy, esasan IT bilimlerini we başarnyklaryny barlamagy we tassyklamagy maksat edinýär:
 
-- Installation, configuration, and upgrading of computer hardware, peripherals, and operating systems
-- Basic networking concepts and maintenance of wired and wireless networks
-- Troubleshooting and repair of computer hardware, software, and networks
-- Understanding the basics of mobile device hardware and networking
-- Familiarity with security concepts, operating system maintenance, and disaster recovery
+- Kompýuter enjamlaryny, periferiýa enjamlaryny we operasiýa ulgamlaryny gurmak, düzmek we kämilleşdirmek
+- Torlaýyn esasy düşünjeler we simli we simsiz torlara hyzmat etmek
+- Kompýuter enjamlaryny, programma üpjünçiligini we torlary näsazlyklary düzetmek we abatlamak
+- Jübi enjamlarynyň enjamlarynyň we torlaýyn esaslaryna düşünmek
+- Howpsuzlyk düşünjeleri, operasiýa ulgamyna hyzmat etmek we betbagtçylykdan halas bolmak
 
-## Exams
+## Synaglar
 
-To earn the CompTIA A+ certification, you'll need to pass two exams:
+CompTIA A + şahadatnamasyny almak üçin iki synagdan geçmeli bolarsyňyz:
 
-- **CompTIA A+ 220-1001 (Core 1)**: This exam covers topics like mobile devices, networking technology, hardware, virtualization, and cloud computing.
-- **CompTIA A+ 220-1002 (Core 2)**: This exam focuses on topics such as operating systems, security, software troubleshooting, and operational procedures.
+- ** CompTIA A + 220-1001 (1-nji ýadro) **: Bu synag ykjam enjamlar, tor tehnologiýasy, enjamlar, wirtuallaşdyrma we bulut hasaplamasy ýaly mowzuklary öz içine alýar.
+- ** CompTIA A + 220-1002 (Esasy 2) **: Bu synag, operasiýa ulgamlary, howpsuzlyk, programma üpjünçiliginiň näsazlyklaryny düzetmek we amaly proseduralar ýaly mowzuklara gönükdirilýär.
 
-Both exams consist of 90 questions each, which you'll need to complete within 90 minutes. The passing score is 675 for Core 1 and 700 for Core 2 (on a scale of 100-900).
+Synaglaryň ikisi-de 90 soragdan ybarat bolup, 90 minudyň içinde tamamlamaly bolarsyňyz. Geçen bal 1-nji ýadro üçin 675, 2-nji ýadro üçin 700 (100-900 şkalada).
 
-## Recommended Experience
+## Maslahat berilýän tejribe
 
-Though the CompTIA A+ certification is designed for beginners, it's recommended that you have at least 9-12 months of hands-on experience in the lab or field before attempting the exams. If you don't have prior experience, you could consider taking a training course or working through hands-on labs to gain the required knowledge and skills.
+“CompTIA A +” şahadatnamasy täze başlanlar üçin döredilen hem bolsa, ekzamenlere synanyşmazdan ozal laboratoriýada ýa-da meýdançada azyndan 9-12 aý tejribe toplamak maslahat berilýär. Öň tejribäňiz ýok bolsa, zerur bilimleri we başarnyklary gazanmak üçin okuw kursyny ýa-da laboratoriýalarda işlemegi göz öňünde tutup bilersiňiz.
 
-## Benefits
+## Peýdalary
 
-Achieving a CompTIA A+ certification can offer several benefits, such as:
+CompTIA A + şahadatnamasyna eýe bolmak, birnäçe ýeňillikleri hödürläp biler:
 
-- Establishing your credibility as an IT professional with a strong foundation in hardware, software, and networking
-- Demonstrating your commitment to continuing education and career growth in the IT industry
-- Improving your employability and widening your job prospects, especially for entry-level IT roles
-- Serving as a prerequisite for more advanced certifications, such as CompTIA Network+ and CompTIA Security+
+- Apparat, programma üpjünçiligi we torlaýyn ulgamda berk binýady bolan IT hünärmeni hökmünde abraýyňyzy berkitmek
+- IT pudagynda bilimi we karýerany dowam etdirmäge ygrarlydygyňyzy görkezmek
+- Iş mümkinçiligiňizi ýokarlandyrmak we iş mümkinçilikleriňizi giňeltmek, esasanam IT derejesindäki IT rollary üçin
+- CompTIA Network + we CompTIA Security + ýaly has ösen şahadatnamalar üçin zerur şert hökmünde hyzmat etmek
 
-Overall, if you're an aspiring IT professional, the CompTIA A+ certification is a great starting point to kick off your IT career and begin acquiring the skills and knowledge needed to thrive in this ever-evolving industry.
+Umuman aýdanyňda, isleýän IT hünärmeni bolsaňyz, CompTIA A + şahadatnamasy, IT karýeraňyza başlamak we bu ösýän pudakda ösmek üçin zerur hünärleri we bilimleri ele almak üçin ajaýyp başlangyç nokady.
 
-- [CompTIA A+ 220-1101 - Professor Messer](https://www.youtube.com/@professormesser/search?query=CompTIA%20220-1101%20A%2B)
+- [CompTIA A + 220-1101 - Professor Messer] (https://www.youtube.com/@professormesser/search?query=CompTIA%20220-1101%20A%2B)

@@ -1,15 +1,15 @@
 # HostOS
 
-A **Host Operating System (OS)** is the primary operating system installed on a computer that runs directly on the hardware. It serves as the base layer for virtualization, providing resources and an environment for virtual machines (also known as guest operating systems) to operate.
+A ** Host Operating System (OS) ** enjamda gönüden-göni işleýän kompýuterde gurlan esasy operasiýa ulgamydyr. Wirtuallaşdyrmagyň esasy gatlagy bolup, wirtual maşynlaryň (myhman operasiýa ulgamlary hem diýilýär) işlemegi üçin çeşmeler we gurşaw üpjün edýär.
 
-In virtualization, the host OS allows you to run multiple guest OSs on a single physical hardware system simultaneously, which share resources (such as memory, storage, and CPU) managed by the host OS.
+Wirtuallaşdyryşda, kabul ediji OS size bir wagtyň özünde baş OS tarapyndan dolandyrylýan çeşmeleri (ýat, ýatda saklamak we CPU ýaly) paýlaşýan bir fiziki enjam ulgamynda birnäçe myhman OS işlemäge mümkinçilik berýär.
 
-Some key points regarding Host OS in virtualization include:
+Wirtuallaşdyrmakda Host OS bilen baglanyşykly käbir möhüm nokatlar:
 
-- _Responsibilities_: The host OS manages hardware resources, including the allocation of those resources to the guest operating systems. It is also responsible for running the virtualization software or hypervisor that creates, manages, and interacts with the virtual machines.
+- _ Jogapkärçilikler_: Öý eýesi OS, bu çeşmeleri myhman operasiýa ulgamlaryna paýlamagy goşmak bilen apparat çeşmelerini dolandyrýar. Şeýle hem wirtual maşynlary döredýän, dolandyrýan we özara täsirleşýän wirtuallaşdyrma programma üpjünçiligini ýa-da giperwizory işletmek üçin jogapkärdir.
 
-- _Types of Virtualization_: Host OS can be used in two types of virtualization: full virtualization and paravirtualization. In full virtualization, guest operating systems run unmodified, while in paravirtualization, guest operating systems need to be modified to efficiently run on the host OS.
+- _ Wirtuallaşdyrmagyň görnüşleri_: Host OS wirtuallaşdyrmagyň iki görnüşinde ulanylyp bilner: doly wirtuallaşdyrma we paravirtualizasiýa. Doly wirtuallaşdyrmada myhman operasiýa ulgamlary kodlanman işleýär, parawirtualizasiýa wagtynda myhman operasiýa ulgamlaryny kabul ediji OS-da netijeli işlemek üçin üýtgetmeli.
 
-- _Security Considerations_: Protecting the host OS is crucial since its vulnerability can potentially affect every virtual machine running on the host. To secure the host, ensure that it is regularly updated, uses strong authentication measures, follows strict access controls, and employs network security best practices.
+- _ Howpsuzlyk pikirleri_: hoster eýesi OS-ny goramak örän möhümdir, sebäbi onuň gowşaklygy öý eýesinde işleýän her wirtual maşyna täsir edip biler. Öý eýesini goramak üçin, yzygiderli täzelenýändigine, güýçli tanamaklyk çärelerini ulanýandygyna, berk gözegçilik gözegçiligine eýerýändigine we tor howpsuzlygynyň öňdebaryjy tejribesini ulanýandygyna göz ýetiriň.
 
-By understanding host OS and its roles in virtualization, you can better manage your virtual environment and ensure optimal performance and security for your virtual machines.
+Hoster eýesi OS we wirtuallaşdyrmakdaky rollaryna düşünmek bilen, wirtual gurşawyňyzy has gowy dolandyryp bilersiňiz we wirtual maşynlaryňyz üçin amatly öndürijiligi we howpsuzlygy üpjün edip bilersiňiz.

@@ -1,35 +1,35 @@
 # ping
 
-**Ping** is a fundamental networking tool that helps users to check the connectivity between two devices, typically a source computer, and a remote device, such as a server or another computer. The name "ping" comes from the sonar terminology, where a signal is sent out and a response is expected to verify the presence of an object.
+** Ping ** ulanyjylara iki enjamyň, adatça çeşme kompýuteriniň we serwer ýa-da başga bir kompýuter ýaly uzakdaky enjamyň arasyndaky baglanyşygy barlamaga kömek edýän esasy ulgam guralydyr. "Ping" ady, signal iberilýän we obýektiň bardygyny barlamak üçin jogap garaşylýan sonar terminologiýasyndan gelýär.
 
-The ping command operates by sending Internet Control Message Protocol (ICMP) Echo Request packets to the target host and waiting for an ICMP Echo Reply. By sending multiple requests and calculating the time interval between sending the request and receiving a reply, the tool provides valuable information about the quality and reliability of the network connection.
+Ping buýrugy, maksatly öý eýesine Internet Dolandyryş Habar Protokoly (ICMP) Echo Talap paketlerini ibermek we ICMP Echo Jogapyna garaşmak arkaly işleýär. Birnäçe haýyş ibermek we haýyşy ibermek bilen jogap almagyň arasyndaky wagt aralygyny hasaplamak bilen, gural tor birikmesiniň hili we ygtybarlylygy barada gymmatly maglumatlary berýär.
 
-## Using Ping
+## Ping ulanmak
 
-To use the ping command, open a command prompt or terminal window, and type `ping` followed by the IP address or hostname of the target device. For example:
+Ping buýrugyny ulanmak üçin buýruk buýrugyny ýa-da terminal penjiresini açyň we nyşanyň nyşanynyň IP adresi ýa-da host ady bilen "ping" ýazyň. Mysal üçin:
 
 ```
 ping example.com
 ```
 
-## Interpreting Ping Results
+## Ping netijelerini düşündirmek
 
-The output of the ping command will display the following information:
+Ping buýrugynyň çykyşy aşakdaky maglumatlary görkezer:
 
-- **Sent**: The number of packets sent to the target device.
-- **Received**: The number of packets received from the target device (if connectivity is successful).
-- **Lost**: The number of packets that did not reach the target device, indicating a problem in the connection.
-- **Minimum, Maximum, and Average Round Trip Time (RTT)**: Provides an estimate of the time it takes for a single packet to travel from the source device to the destination and back again.
+- ** Iberilen **: Maksatly enjama iberilen paketleriň sany.
+- ** Alnan **: Maksatly enjamdan alnan paketleriň sany (birikmek üstünlikli bolsa).
+- ** ostitirilen **: Baglanyşykda näsazlygy görkezýän maksatly enjama ýetmedik paketleriň sany.
+- ** Minimal, Maksimum we Ortaça gezelenç wagty (RTT) **: Bir paketiň çeşme enjamyndan barmaly ýerine we yzyna gaýdyp gelmek üçin näçe wagt sarp ediljekdigini görkezýär.
 
-## Troubleshooting with Ping
+## Ping bilen näsazlyklary düzetmek
 
-Ping is particularly useful for diagnosing and troubleshooting network connectivity issues. Some common scenarios in which it can help include:
+Ping, tor birikdiriş meselelerini anyklamak we näsazlyklary düzetmek üçin aýratyn peýdalydyr. Kömek edip biljek käbir umumy ssenariýalar:
 
-- Verifying if a remote device is active and responding.
-- Identifying network latency or slow network connections.
-- Troubleshooting routing problems and packet loss.
-- Testing the resolution of domain names to IP addresses.
+- Uzakdaky enjamyň işjeňdigini ýa-da jogap berýändigini barlamak.
+- Toruň gijä galmagyny ýa-da haýal tor birikmelerini kesgitlemek.
+- marşrutlaşdyryş meselelerini we paket ýitgilerini çözmek.
+- Domen atlarynyň IP adreslerine çözgüdini barlamak.
 
-By understanding and utilizing the ping command, users can diagnose and resolve various network-related issues to ensure a stable and secure online experience.
+Ping buýrugyna düşünmek we ulanmak arkaly ulanyjylar durnukly we ygtybarly onlaýn tejribäni üpjün etmek üçin tor bilen baglanyşykly dürli meseleleri anyklap we çözüp bilerler.
 
-Remember that some devices or servers may be configured not to respond to ICMP requests, which might result in no response or a "Request timed out" message after using the ping command. This behavior is usually configured to prevent potential security risks or attacks, so don't panic if you encounter this while troubleshooting.
+Käbir enjamlaryň ýa-da serwerleriň ICMP haýyşlaryna jogap bermezlik üçin düzülip bilinjekdigini ýadyňyzdan çykarmaň, ping buýrugyny ulananyňyzdan soň hiç hili jogap ýa-da "Wagtyň geçmegi" habary bolmaz. Bu özüňi alyp barmak, adatça bolup biljek howplaryň ýa-da hüjümleriň öňüni almak üçin düzülendir, şonuň üçin näsazlyklary düzetmek bilen ýüzbe-ýüz bolsaňyz gorkmaň.

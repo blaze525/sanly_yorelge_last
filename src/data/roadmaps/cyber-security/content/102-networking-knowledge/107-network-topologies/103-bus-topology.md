@@ -1,21 +1,21 @@
 # Bus
 
-A **bus topology** is a type of network configuration where all the devices or nodes in the network are connected to a single, central cable known as the bus, backbone or trunk. This common shared path serves as the medium for data transmission and communication amongst the nodes.
+A ** Bus topologiýasy **, tordaky ähli enjamlar ýa-da düwünler, Bus, oňurga ýa-da magistral diýlip atlandyrylýan ýeke, merkezi kabele birikdirilen tor konfigurasiýasynyň bir görnüşidir. Bu umumy paýlaşylýan ýol, düwünleriň arasynda maglumat geçirmek we aragatnaşyk üçin serişde bolup hyzmat edýär.
 
-## How Bus Topology Works
+## Bus topologiýasy nähili işleýär
 
-In a bus topology, every node has a unique address that identifies it on the network. When a node wants to communicate with another node in the network, it broadcasts a message containing the destination node's address as well as its own address. All the nodes connected to the bus receive the message, but only the intended recipient with the matching address responds.
+Bus topologiýasynda her düwüniň torda kesgitleýän özboluşly salgysy bar. Düwün tordaky başga bir düwün bilen aragatnaşyk gurmak islese, niýetlenen düwüniň salgysyny we öz salgysyny öz içine alýan habary ýaýradýar. Busa birikdirilen düwünleriň hemmesi habary alýar, ýöne gabat gelýän salgy bilen niýetlenen alyjy jogap berýär.
 
-## Advantages of Bus Topology
+## Bus topologiýasynyň artykmaçlyklary
 
-- **Easy to set up**: Bus topology is relatively simple in terms of installation, as it requires less cable and minimal hardware.
-- **Cost-effective**: Due to its simplicity and reduced cabling requirements, it's typically more affordable to implement than other topologies.
-- **Expandable**: New nodes can be easily added to the network by connecting them to the bus.
+- ** Gurmak aňsat **: Bus topologiýasy gurnamak nukdaýnazaryndan has ýönekeý, sebäbi az kabel we minimal enjamlary talap edýär.
+- ** Çykdajyly **: itsönekeýligi we kabel talaplarynyň azalmagy sebäpli, beýleki topologiýalara garanyňda adatça has amatly.
+- ** Giňeldilip bilinýän **: Täze düwünleri Busa birikdirip tora aňsatlyk bilen goşup bolýar.
 
-## Disadvantages of Bus Topology
+## Bus topologiýasynyň kemçilikleri
 
-- **Limited Scalability**: As the number of nodes increases, network performance may decrease due to increased collisions and data transmission time.
-- **Single point of failure**: If the central cable (bus) fails or gets damaged, the entire network will be affected and may result in a complete breakdown.
-- **Maintenance difficulty**: Troubleshooting and identifying issues within the network can be challenging due to the shared path for data transmission.
+- ** Çäklendirilen göwrümlilik **: Düwünleriň sanynyň köpelmegi bilen, çaknyşyklaryň we maglumat geçiriş wagtynyň köpelmegi sebäpli toruň işleýşi peselip biler.
+- ** failureeke-täk şowsuzlyk nokady **: Merkezi kabel (Bus) işlemese ýa-da zaýalansa, tutuş tora täsir ediler we doly kesilmegine sebäp bolup biler.
+- ** Bejeriş kynçylygy **: Maglumat geçirmek üçin umumy ýol sebäpli setdäki näsazlyklary düzetmek we kesgitlemek kyn bolup biler.
 
-Bus topology can be an effective solution for small networks with minimal devices. However, as network size and complexity increase, other topologies such as star, ring, or mesh may be more suitable for maintaining efficiency and reliability.
+Bus topologiýasy minimal enjamlary bolan kiçi torlar üçin täsirli çözgüt bolup biler. Şeýle-de bolsa, toruň ululygy we çylşyrymlylygy artdygyça, ýyldyz, halka ýa-da tor ýaly beýleki topologiýalar netijeliligi we ygtybarlylygy saklamak üçin has amatly bolup biler.

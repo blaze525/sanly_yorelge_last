@@ -1,25 +1,25 @@
-# default gateway
+# Default şlýuz
 
-In our journey through IP terminology, we now arrive at the topic of **Default Gateway**. Understanding the role and importance of the default gateway in a network is crucial for grasping the fundamentals of cyber security and data routing.
+IP terminologiýasy bilen syýahatymyzda, indi ** Bellenen şlýuz ** mowzugyna gelýäris. Torda deslapky şlýuzyň roluna we ähmiýetine düşünmek, kiberhowpsuzlygyň we maglumatlary marşrutlaşdyrmagyň esaslaryna düşünmek üçin möhümdir.
 
-## Overview
+## Gysgaça syn
 
-The default gateway is basically a device (usually a router) on a network which serves as an access point for data traffic to travel from the local network to other networks, such as the internet. This device acts as a "middleman" between your computer and external networks, and is often set up by your internet service provider (ISP) or during the configuration of your own router.
+Adaty şlýuz, esasan, torda enjam (adatça marşrutizator) bolup, ýerli trafikden internet ýaly beýleki torlara maglumat trafiginiň giriş nokady bolup hyzmat edýär. Bu enjam, kompýuteriňiz bilen daşarky torlaryňyzyň arasynda "araçy" hökmünde çykyş edýär we köplenç internet hyzmat üpjün edijiňiz (ISP) ýa-da öz marşrutizatoryňyzyň sazlamasy wagtynda gurulýar.
 
-## Role in Networks
+## Torlardaky orny
 
-In a nutshell, the default gateway plays the following roles:
+Gysgaça aýdylanda, deslapky şlýuz aşakdaky rollary ýerine ýetirýär:
 
-- **Packet Routing**: It directs the network packets from your local computer or device to their ultimate destination. When a packet with a destination IP address is not on the same network as the source device, the default gateway routes the packet to the appropriate external network.
+- ** Paket marşruty **: Tor paketlerini ýerli kompýuteriňizden ýa-da enjamyňyzdan iň soňky barjak ýerine ugrukdyrýar. Niýetlenen IP adresi bolan paket deslapky enjam bilen bir ulgamda bolmasa, deslapky şlýuz paketini degişli daşarky tora ugrukdyrýar.
 
-- **Address Resolution Protocol (ARP)**: The default gateway obtains the physical address (MAC address) of a computer that is located on another network by using ARP.
+- ** Salgy çözmek protokoly (ARP) **: Adaty şlýuz, ARP ulanyp, başga bir torda ýerleşýän kompýuteriň fiziki salgysyny (MAC salgysyny) alýar.
 
-- **Protection**: In many cases, the default gateway also serves as a layer of network protection by restricting access to certain external networks, as well as regulating traffic from the internet.
+- ** Gorag **: Köp halatlarda deslapky şlýuz käbir daşarky ulgamlara girmegi çäklendirmek, şeýle hem internetden traffigi kadalaşdyrmak arkaly tor goragynyň gatlagy bolup hyzmat edýär.
 
-## Configuration
+## Konfigurasiýa
 
-To benefit from the services of a default gateway, your device needs to be properly configured. Most devices and operating systems obtain their network settings (including the default gateway address) automatically using DHCP. But you can also configure network settings manually if needed.
+Adaty şlýuzyň hyzmatlaryndan peýdalanmak üçin enjamyňyzy dogry sazlamaly. Enjamlaryň we operasiýa ulgamlarynyň köpüsi, DHCP ulanyp, tor sazlamalaryny (deslapky şlýuz salgysyny goşmak bilen) alýarlar. Networköne zerur bolsa tor sazlamalaryny el bilen düzüp bilersiňiz.
 
-**Note**: Each device connected to a network must have a unique IP address. Also, remember that devices on the same network should use the same default gateway address.
+** Bellik **: Tora birikdirilen her enjamyň özboluşly IP adresi bolmaly. Şeýle hem, şol bir setdäki enjamlaryň birmeňzeş şlýuz salgysyny ulanmalydygyny ýadyňyzdan çykarmaň.
 
-In conclusion, recognizing the significance of the default gateway and having a working knowledge of how it functions is an essential part of IP terminology, affecting both cyber security and efficient data routing. Continuing your education on the subject will better equip you to take advantage of your devices' networking features, as well as protect your valuable data from potential cyber threats.
+Sözümiň ahyrynda, deslapky şlýuzyň ähmiýetini bilmek we onuň nähili işleýändigi barada iş bilmek, kibernetik howpsuzlyga we netijeli maglumat marşrutyna täsir edýän IP terminologiýasynyň möhüm bölegi bolup durýar. Bu ugurda okuwyňyzy dowam etdirmek, enjamlaryňyzyň aragatnaşyk aýratynlyklaryndan peýdalanmaga, şeýle hem gymmatly maglumatlaryňyzy kiber howplaryndan goramaga has gowy enjamlaşdyrar.

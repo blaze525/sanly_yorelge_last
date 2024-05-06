@@ -1,45 +1,45 @@
-# Recovery
+# Dikeltmek
 
-The recovery phase of the incident response process is a critical step in regaining normalcy after a cyber security incident. This phase focuses on restoring the affected systems and data, implementing necessary improvements to prevent future occurrences, and getting back to normal operations. In this section, we will discuss the key components and best practices for the recovery phase.
+Waka jogap bermek prosesiniň dikeldiş tapgyry, kiberhowpsuzlyk hadysasyndan soň kadaly ýagdaýa gelmek üçin möhüm ädimdir. Bu etap, täsir eden ulgamlary we maglumatlary dikeltmäge, geljekde ýüze çykmagynyň öňüni almak üçin zerur kämilleşdirmeleri amala aşyrmaga we adaty amallara dolanmaga gönükdirilendir. Bu bölümde dikeldiş tapgyry üçin esasy komponentleri we iň oňat tejribeleri ara alyp maslahatlaşarys.
 
-## Restoring Systems and Data
+## Ulgamlary we maglumatlary dikeltmek
 
-The primary objective of the recovery phase is to restore affected systems and data to their pre-incident status. This process may involve:
+Dikeldiş tapgyrynyň esasy maksady, täsir eden ulgamlary we maglumatlary wakadan öňki ýagdaýyna getirmek. Bu amal aşakdakylary öz içine alyp biler:
 
-- Cleaning and repairing infected systems
-- Restoring data from backups
-- Reinstalling compromised software and applications
-- Updating system configurations and patching vulnerabilities
+- ýokaşan ulgamlary arassalamak we bejermek
+- ätiýaçlyk nusgalardan maglumatlary dikeltmek
+- Çekilen programma üpjünçiligini we goýmalary täzeden gurmak
+- Ulgam konfigurasiýalaryny täzelemek we gowşak ýerleri ýapmak
 
-## Post-Incident Analysis
+## Wakadan soňky derňew
 
-Once systems are back in operation, it is vital to analyze the incident thoroughly to understand the root cause, impact, and lessons learned. This analysis will assess the effectiveness of your incident response process and identify areas for improvement. Post-incident analysis may include:
+Ulgamlar gaýtadan işe başlansoň, düýp sebäbine, täsirine we alnan sapaklara düşünmek üçin wakany düýpli seljermek möhümdir. Bu derňew, hadysalara jogap bermek prosesiniň netijeliligine baha berer we gowulaşmak üçin ugurlary kesgitlär. Wakadan soňky derňew aşakdakylary öz içine alyp biler:
 
-- Reviewing logs, incident reports, and other evidence collected during the investigation
-- Interviewing staff involved in the response
-- Examining the attacker's tools, tactics, and procedures
-- Evaluating any potential legal or regulatory implications of the incident
+- Derňew wagtynda ýygnan ýazgylary, waka hasabatlaryny we beýleki subutnamalary gözden geçirmek
+- Jogap bilen baglanyşykly işgärler bilen söhbetdeşlik
+- Hüjümçiniň gurallaryny, taktikalaryny we proseduralaryny gözden geçirmek
+- Wakanyň bolup biljek kanuny ýa-da kadalaşdyryjy netijelerine baha bermek
 
-## Implementing Improvements
+## Ösüşleri amala aşyrmak
 
-Based on the findings of the post-incident analysis, take proactive measures to strengthen your security posture and harden your defenses. These improvements may involve:
+Wakadan soňky derňewiň netijelerine esaslanyp, howpsuzlyk ýagdaýyňyzy berkitmek we goragyňyzy berkitmek üçin işjeň çäreleri görüň. Bu gowulaşmalar aşakdakylary öz içine alyp biler:
 
-- Updating policies, procedures, and security controls
-- Enhancing monitoring and detection capabilities
-- Conducting security training and awareness programs for employees
-- Engaging external cyber security experts for consultation and guidance
+- Syýasatlary, proseduralary we howpsuzlyk gözegçiligini täzelemek
+- Gözegçilik we ýüze çykarmak mümkinçiliklerini güýçlendirmek
+- Işgärler üçin howpsuzlyk okuwlaryny we habarlylyk maksatnamalaryny geçirmek
+- Maslahat we ýol görkezmek üçin daşarky kiberhowpsuzlyk hünärmenlerini çekmek
 
-## Documenting and Communicating
+## Resminamalaşdyrmak we aragatnaşyk
 
-Thorough documentation of the incident, response actions, and post-incident analysis is essential for internal and external communication, legal and regulatory compliance, and continued improvement. Documentation should be concise, accurate, and easily accessible. It may include:
+Wakany jikme-jik resminamalaşdyrmak, jogap çäreleri we wakadan soňky derňew içerki we daşarky aragatnaşyk, kanuny we kadalaşdyryjy talaplar we dowamly gowulaşmak üçin zerurdyr. Resminamalar gysga, takyk we aňsat elýeterli bolmaly. Ol öz içine alyp biler:
 
-- Incident response reports and action items
-- Updated policies, procedures, and guidelines
-- Security awareness materials for employees
-- Executive summaries for senior management
+- Wakalara jogap hasabaty we hereket elementleri
+- Syýasat, proseduralar we görkezmeler täzelendi
+- Işgärler üçin howpsuzlyk habarlylygy materiallary
+- seniorolbaşçylar üçin gysgaça mazmun
 
-## Continuous Review and Improvement
+## Üznüksiz syn we gowulaşma
 
-Lastly, it is important to never consider the recovery process as "finished." Just as the threat landscape evolves, your organization should maintain a proactive approach to cyber security by regularly reviewing, updating, and enhancing your incident response process.
+Netijede, dikeldiş işini hiç haçan "gutardy" diýip hasaplamaly däldiris. Howp landşaftynyň ösşi ýaly, guramaňyz hem wakalara jogap bermek prosesini yzygiderli gözden geçirip, täzeläp we güýçlendirip, kiberhowpsuzlyga işjeň çemeleşmeli.
 
-In summary, the recovery phase of the incident response process involves the restoration of affected systems and data, post-incident analysis, implementing improvements, documenting the incident, and maintaining a continuous improvement mindset. By following these steps, you will be better equipped to handle and recover from future cyber security incidents.
+Gysgaça aýtsak, hadysalara jogap bermek prosesiniň dikeldiş tapgyry täsir eden ulgamlary we maglumatlary dikeltmegi, wakadan soňky derňewi, gowulaşmalary amala aşyrmagy, wakany resminamalaşdyrmagy we üznüksiz gowulaşmak pikirini saklamagy öz içine alýar. Bu ädimleri ýerine ýetirmek bilen, geljekdäki kiberhowpsuzlyk hadysalaryny çözmek we dikeltmek üçin has gowy enjamlaşdyrylarsyňyz.

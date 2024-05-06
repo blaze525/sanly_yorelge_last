@@ -1,43 +1,43 @@
-# IP Terminology
+# IP terminologiýasy
 
-Understanding IP Terminology is essential in grasping the fundamentals of networking and cybersecurity. In this section, we'll cover essential terms in the world of IP networks.
+IP terminologiýasyna düşünmek, toruň we kiberhowpsuzlygyň esaslaryna düşünmekde möhümdir. Bu bölümde, IP torlary dünýäsinde möhüm terminleri ara alyp maslahatlaşarys.
 
-## Internet Protocol (IP)
+## Internet protokoly (IP)
 
-IP is a protocol that enables data exchange between computers over a network. Each device in the network has a unique IP address, enabling data packets to be sent correctly.
+IP tor arkaly kompýuterleriň arasynda maglumat alyş-çalşyny üpjün edýän protokoldyr. Tordaky her enjamyň özboluşly IP adresi bolup, maglumat paketleriniň dogry iberilmegine mümkinçilik berýär.
 
-## IPv4 and IPv6
+## IPv4 we IPv6
 
-_IPv4_: It's the fourth version of IP, using 32-bit addresses and allowing a total of about 4.3 billion unique addresses.
+_IPv4_: 32 bitli salgylary ulanyp we jemi 4,3 milliard özboluşly adrese rugsat berýän IP-iň dördünji wersiýasy.
 
-_IPv6_: To overcome the exhaustion of IPv4 addresses, IPv6 was introduced. It expands the number of unique addresses by using 128-bit addresses, providing a virtually limitless pool of addresses.
+_IPv6_: IPv4 salgylarynyň tükenmegini ýeňip geçmek üçin IPv6 girizildi. 128 bitli salgylary ulanyp, adresleriň çäksiz diýen ýaly howuzyny üpjün edip, özboluşly salgylaryň sanyny giňeldýär.
 
-## IP Address
+## IP salgy
 
-An IP address is a unique identifier for devices on the internet or a local network. It helps in routing the data packets between different devices in the network.
+IP adresi internetdäki ýa-da ýerli ulgamdaky enjamlar üçin özboluşly kesgitleýji. Ulgamdaky dürli enjamlaryň arasynda maglumat paketlerini ugrukdyrmaga kömek edýär.
 
-## Subnets
+## Subnetler
 
-A subnet is a smaller, designated portion of a network. Subnet masks help to define and isolate each subnet to manage traffic.
+Subnet toruň kiçi, bellenen bölegi. Subnet maskalary traffigi dolandyrmak üçin her subnet kesgitlemäge we izolirlemäge kömek edýär.
 
-## DHCP (Dynamic Host Configuration Protocol)
+## DHCP (Dinamiki Host konfigurasiýasy protokoly)
 
-DHCP is a protocol that assigns IP addresses dynamically to devices when they connect to a network, as opposed to static IP addresses.
+DHCP, statiki IP adreslerinden tapawutlylykda, tora birikdirilende enjamlara IP adreslerini dinamiki belleýän protokoldyr.
 
-## DNS (Domain Name System)
+## DNS (Domen ady ulgamy)
 
-DNS is the system responsible for translating human-readable domain names like www.example.com into IP addresses so that data can be routed correctly.
+DNS, maglumatlaryň dogry ugrukdyrylmagy üçin www.example.com ýaly adam tarapyndan okalýan domen atlaryny IP adreslerine terjime etmek üçin jogapkär ulgamdyr.
 
-## Ports
+## Portlar
 
-A port is a communication endpoint within a networking device. It allows the device to differentiate multiple connections and applications. Protocols, such as HTTP and FTP, have assigned default ports (80 and 21, respectively).
+Port, ulgam enjamynyň içindäki aragatnaşyk nokadydyr. Enjamyň birnäçe baglanyşygy we goýmany tapawutlandyrmagyna mümkinçilik berýär. HTTP we FTP ýaly teswirnamalar deslapky portlary bellediler (degişlilikde 80 we 21).
 
-## NAT (Network Address Translation)
+## NAT (Tor salgysynyň terjimesi)
 
-NAT allows multiple devices in a private network to share a single public IP address when connecting to the internet. This conserves the number of IP addresses and adds an additional layer of privacy.
+NAT, hususy setdäki birnäçe enjama internete birikdirilende bir umumy IP adresini paýlaşmaga mümkinçilik berýär. Bu IP adresleriň sanyny tygşytlaýar we goşmaça gizlinlik gatlagyny goşýar.
 
 ## Firewall
 
-A firewall is a security measure that filters, monitors, and controls incoming and outgoing traffic in a network. It helps to protect devices and data from unauthorized access or malicious activities.
+Gorag diwary, torda gelýän we çykýan traffigi süzýän, gözegçilik edýän we gözegçilikde saklaýan howpsuzlyk çäresidir. Enjamlary we maglumatlary rugsatsyz girişden ýa-da zyýanly işlerden goramaga kömek edýär.
 
-By understanding these IP terminologies, you'll be better equipped to handle networking and cybersecurity tasks.
+Bu IP terminologiýalaryna düşünmek bilen, ulgam we kiberhowpsuzlyk meselelerini çözmek üçin has gowy enjamlaşdyrylarsyňyz.

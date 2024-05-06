@@ -1,67 +1,67 @@
 # ipconfig
 
-**IPConfig** is a command-line tool that is available on Windows operating systems. It is used to display the current network configuration settings of a computer, such as IP address, subnet mask, and default gateway. This tool helps users diagnose and troubleshoot network connectivity issues by providing essential details about the system's network connections.
+** IPConfig **, Windows operasiýa ulgamlarynda elýeterli buýruk setiridir. IP adresi, subnet maskasy we deslapky şlýuz ýaly kompýuteriň häzirki tor konfigurasiýa sazlamalaryny görkezmek üçin ulanylýar. Bu gural ulanyjylara ulgamyň baglanyşyklary barada möhüm maglumatlary bermek arkaly tor birikmesi meselelerini anyklamaga we çözmäge kömek edýär.
 
-## Using IPConfig
+## IPConfig ulanmak
 
-To use IPConfig, open the Command Prompt or PowerShell and enter the following command:
+IPConfig ulanmak üçin Command Prompt ýa-da PowerShell açyň we aşakdaky buýrugy giriziň:
 
-```
+``
 ipconfig
-```
+``
 
-This command will display the network configuration details for all the active network connections on your system.
+Bu buýruk ulgamyňyzdaky ähli işjeň ulgam birikmeleri üçin tor konfigurasiýa jikme-jikliklerini görkezer.
 
-## IPConfig Options
+## IPConfig opsiýalary
 
-IPConfig has several options that can provide more comprehensive information or perform different tasks, such as:
+IPConfig-de has giňişleýin maglumat berip biljek ýa-da dürli meseleleri ýerine ýetirip bilýän birnäçe wariant bar:
 
-- **/all**: This option displays the full configuration data for all the network connections, including DHCP (Dynamic Host Configuration Protocol) server and lease information.
+- **/ all**: Bu opsiýa, DHCP (Dynamic Host Configuration Protocol) serweri we kärende maglumatlary ýaly ähli ulgam birikmeleri üçin doly konfigurasiýa maglumatlary görkezýär.
 
-  ```
-  ipconfig /all
-  ```
+   ``
+   ipconfig / all
+   ``
 
-- **/release**: This command releases the IP address obtained from the DHCP server for the specified network adapter or all network adapters if none is specified.
+- **/release** Bu buýruk, görkezilen tor adapteri ýa-da hiç biri görkezilmedik bolsa, ähli tor adapterleri üçin DHCP serwerinden alnan IP adresi çykarýar.
 
   ```
   ipconfig /release
   ```
 
-- **/renew**: This command requests a new IP address from the DHCP server for the specified network adapter or all network adapters if none is specified.
+- **/renew**:  Bu buýruk, görkezilen tor adapteri ýa-da hiç biri görkezilmedik bolsa ähli tor adapterleri üçin DHCP serwerinden täze IP adresi soraýar.
 
   ```
   ipconfig /renew
   ```
 
-- **/flushdns**: This option clears the DNS (Domain Name System) resolver cache, which stores the recent DNS queries and their corresponding IP addresses.
+- **/ flushdns**: Bu opsiýa soňky DNS talaplaryny we degişli IP adreslerini saklaýan DNS (Domain Name System) çözüji keşini arassalaýar.
 
-  ```
-  ipconfig /flushdns
-  ```
+   ``
+   ipconfig / flushdns
+   ``
 
-- **/registerdns**: This command refreshes all DHCP leases and re-registers DNS names for your system.
+- **/ registerdns**: Bu buýruk ähli DHCP kärendesini täzeleýär we ulgamyňyz üçin DNS atlaryny gaýtadan hasaba alýar.
 
   ```
   ipconfig /registerdns
   ```
 
-- **/displaydns**: This option displays the contents of the DNS resolver cache, allowing you to view recently resolved domain names and IP addresses.
+- **/ displaydns**: Bu opsiýa, ýakynda çözülen domen atlaryny we IP adreslerini görmäge mümkinçilik berýän DNS çözüji keş keşbini görkezýär.
 
-  ```
-  ipconfig /displaydns
-  ```
+   ``
+   ipconfig / displaydns
+   ``
 
-- **/setclassid**: This command allows you to modify the DHCP class ID for the specified network adapter.
+- **/setclassid**: Bu buýruk, görkezilen tor adapteri üçin DHCP synp ID-ni üýtgetmäge mümkinçilik berýär.
 
-  ```
-  ipconfig /setclassid
-  ```
+   ``
+   ipconfig / setclassid
+   ``
 
-- **/showclassid**: This option displays the DHCP class ID for the specified network adapter.
+- **/ showclassid**: Bu opsiýa görkezilen tor adapteri üçin DHCP synp ID-ni görkezýär.
 
-  ```
-  ipconfig /showclassid
-  ```
+   ``
+   ipconfig / showclassid
+   ``
 
-In conclusion, IPConfig is a powerful and handy tool for managing and troubleshooting network connections on Windows systems. It allows you to view and modify network configuration settings, lease IP addresses, and interact with the DNS resolver cache easily.
+Sözümiň ahyrynda, IPConfig Windows ulgamlaryndaky ulgam birikmelerini dolandyrmak we näsazlyklary düzetmek üçin güýçli we amatly guraldyr. Tor konfigurasiýa sazlamalaryny görmäge we üýtgetmäge, IP adreslerini kärendesine almaga we DNS çözüji keşi bilen aňsat aragatnaşyk saklamaga mümkinçilik berýär.

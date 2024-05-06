@@ -1,43 +1,43 @@
 # Spam vs Spim
 
-When discussing cyber security, it's essential to be aware of the various attack types that one might face in the digital world. In this section, we'll compare two common attacks: **spam** and **spim**. By understanding the differences between these two methods, you can better protect yourself from these types of attacks.
+Kiberhowpsuzlyk meselesini ara alyp maslahatlaşanyňyzda, sanly dünýäde ýüzbe-ýüz bolup biljek dürli hüjüm görnüşlerinden habarly bolmak zerurdyr. Bu bölümde iki sany umumy hüjümi deňeşdireris: **spam** we **spim**. Bu iki usulyň arasyndaky tapawutlara düşünip, özüňizi bu hüjümlerden gorap bilersiňiz.
 
 ## Spam
 
-Spam refers to any unwanted, unsolicited, or irrelevant messaging sent over the internet, usually to a large number of users, for the purposes of advertising, phishing, or spreading malware. These messages are typically sent via email, which is why they are often called "spam emails." Spam may contain malicious attachments or links that, when clicked, download malware or lead users to compromised websites.
+Spam, mahabat, balyk tutmak ýa-da zyýanly programma üpjünçiligini ýaýratmak maksady bilen, adatça köp sanly ulanyja internet arkaly iberilýän islenilmeýän, soralmaýan ýa-da ähmiýetsiz habarlaşmalary aňladýar. Bu habarlar adatça e-poçta arkaly iberilýär, şonuň üçin köplenç "spam e-poçta" diýilýär. Spam zyýanly goşundylary ýa-da baglanyşyklary öz içine alyp biler, basylanda zyýanly programma üpjünçiligini göçürip alyň ýa-da ulanyjylary web sahypalaryna alyp barýar.
 
-Spammers often use automated systems to send these messages to a large number of recipients. Some common characteristics of spam emails include:
+Spamerler bu habarlary köp sanly alyjylara ibermek üçin köplenç awtomatlaşdyrylan ulgamlary ulanýarlar. Spam hatlarynyň käbir umumy häsiýetnamalary şulary öz içine alýar:
 
-- Suspicious sender addresses
-- Generic greeting
-- Unusual or unexpected attachments or links
-- Urgent or threatening language
-- Requests for personal information
+- Şübheli iberiji salgylar
+- Umumy salam
+- Adaty däl ýa-da garaşylmadyk goşundylar ýa-da baglanyşyklar
+- Gyssagly ýa-da howp salýan dil
+- Şahsy maglumat üçin haýyşlar
 
-To protect yourself from spam, you should:
+Spamdan goramak üçin:
 
-- Set up effective email filters
-- Never share your email address publicly
-- Avoid clicking on suspicious links or attachments
-- Report spam to your email provider
+- Netijeli e-poçta süzgüçlerini düzüň
+- E-poçta salgyňyzy hiç wagt aç-açan paýlaşmaň
+- Şübheli baglanyşyklara ýa-da goşundylara basmakdan gaça duruň
+- E-poçta üpjün edijiňize spam habar beriň
 
 ## Spim
 
-Spim, or "spam over instant messaging," is similar to spam but occurs over instant messaging (IM) services, such as Facebook Messenger, WhatsApp, and others. The main difference between spam and spim is the medium through which the unwanted messages are sent. Just like spam, spim can be used for advertising, spreading malware, or conducting phishing attacks.
+Spim ýa-da "gyssagly habarlaşma arkaly spam" spama meňzeýär, ýöne Facebook Messenger, WhatsApp we başgalar ýaly gyssagly habarlaşma (IM) hyzmatlarynda ýüze çykýar. Spam bilen spimiň arasyndaky esasy tapawut, islenmeýän habarlaryň iberilýän serişdesidir. Spam ýaly, spim mahabat, zyýanly programma üpjünçiligini ýaýratmak ýa-da balykçy hüjümlerini amala aşyrmak üçin ulanylyp bilner.
 
-Some common characteristics of spim messages include:
+Spim habarlarynyň käbir umumy häsiýetnamalary şulary öz içine alýar:
 
-- Unknown or suspicious sender accounts
-- Messages containing links or attachments
-- Unsolicited promotions or offers
-- Requests for personal information
-- Unexpected urgency or threats
+- Näbelli ýa-da şübheli iberiji hasaplary
+- Salgylary ýa-da goşundylary öz içine alýan habarlar
+- Soralmaýan mahabat ýa-da teklipler
+- Şahsy maglumat üçin haýyşlar
+- Garaşylmadyk gyssaglylyk ýa-da howp
 
-To protect yourself from spim, you should:
+Özüňizi spimden goramak üçin:
 
-- Set your IM service's privacy settings to limit who can message you
-- Be cautious when clicking on links or attachments from unknown or suspicious accounts
-- Block or report spim accounts
-- Keep your IM client software updated
+- Size kimiň habar berip biljekdigini çäklendirmek üçin IM hyzmatyňyzyň gizlinlik sazlamalaryny düzüň
+- Näbelli ýa-da şübheli hasaplardan baglanyşyklara ýa-da goşundylara basanyňyzda seresap boluň
+- Spim hasaplaryny blokirläň ýa-da hasabat beriň
+- IM müşderi programma üpjünçiligiňizi täzeläň
 
-In conclusion, **spam** and **spim** are two distinct types of unwanted messages, with the primary difference being the medium through which they are delivered. Both can pose significant risks to your digital security, so it's crucial to be vigilant, maintain proper security measures, and educate yourself about the various attack types you may encounter.
+Sözümiň ahyrynda, ** spam ** we ** spim ** islenmeýän habarlaryň iki dürli görnüşidir, esasy tapawut olaryň iberilýän serişdesidir. Bularyň ikisi hem sanly howpsuzlygyňyza uly howp döredip biler, şonuň üçin hüşgär bolmak, degişli howpsuzlyk çäreleri saklamak we duş gelip biljek dürli hüjüm görnüşleri barada özüňizi öwretmek möhümdir.

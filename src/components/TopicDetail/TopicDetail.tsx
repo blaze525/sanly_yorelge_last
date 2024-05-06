@@ -94,13 +94,13 @@ export function TopicDetail(props: TopicDetailProps) {
             resourceId,
             resourceType,
           },
-          oldIsDone ? 'pending' : 'done',
+          oldIsDone ? 'geçilen' : 'ýerineýetirildi',
         ),
       )
       .then(({ done = [] }) => {
         renderTopicProgress(
           topicId,
-          done.includes(topicId) ? 'done' : 'pending',
+          done.includes(topicId) ? 'geçilen' : 'ýerineýetirildi',
         );
         refreshProgressCounters();
       })
@@ -292,9 +292,9 @@ export function TopicDetail(props: TopicDetailProps) {
             {canSubmitContribution && !hasEnoughLinks && contributionUrl && (
               <div className="mt-8 flex-1 border-t">
                 <p className="mb-2 mt-2 text-sm leading-relaxed text-gray-400">
-                  Help us improve this introduction and submit a link to a good
-                  article, podcast, video, or any other resource that helped you
-                  understand this topic better.
+                Bu ulgamy gowulaşdyrmaga we bu mowzuga has gowy düşünmäge kömek 
+                etjek gowy makala, podkast, wideo ýa-da başga bir çeşmä baglanyşyk 
+                ibermekçi bolsaňyz şu salgydan görüp bilersiňiz.
                 </p>
                 <a
                   href={contributionUrl}
@@ -302,7 +302,7 @@ export function TopicDetail(props: TopicDetailProps) {
                   className="flex w-full items-center justify-center rounded-md bg-gray-800 p-2 text-sm text-white transition-colors hover:bg-black hover:text-white disabled:bg-green-200 disabled:text-black"
                 >
                   <GitHubIcon className="mr-2 inline-block h-4 w-4 text-white" />
-                  Edit this Content
+                  Goşmaça maglumat goşmak üçin!
                 </a>
               </div>
             )}

@@ -1,25 +1,25 @@
-# localhost
+# lokalhost
 
-Localhost (also known as loopback address) is a term used to define a network address that is used by a device (usually a computer or a server) to refer to itself. In other words, it's a way for your device to establish a network connection to itself. The most commonly used IP address for localhost is `127.0.0.1`, which is reserved as a loopback address in IPv4 networks. For IPv6 networks, it's represented by `::1`.
+“Localhost” (loopback adresi hem diýilýär) enjamyň (köplenç kompýuter ýa-da serwer) özüne ýüzlenmek üçin ulanylýan tor salgysyny kesgitlemek üçin ulanylýan termin. Başgaça aýdylanda, enjamyňyzyň özüne tor birikmesini gurmagyň usulydyr. “Localhost” üçin iň köp ulanylýan IP adresi “IPv4” ulgamlarynda yzygiderli salgy hökmünde saklanýan “127.0.0.1”. IPv6 torlary üçin ":: 1" bilen görkezilýär.
 
-## Purpose and Usage of Localhost
+## “Localhost” -yň maksady we ulanylyşy
 
-Localhost is useful for a variety of reasons, such as:
+“Localhost” dürli sebäplere görä peýdalydyr:
 
-- **Testing and Development**: Developers can use localhost to develop and test web applications or software without the need for connecting to external network resources.
+- ** Synag we ösüş **: Döredijiler daşarky ulgam çeşmelerine birikmezden web programmalaryny ýa-da programma üpjünçiligini döretmek we synagdan geçirmek üçin ýerlihost ulanyp bilerler.
 
-- **Network Services**: Some applications and servers use localhost to provide network services to the local system only, optimizing performance and security.
+- ** Ulgam hyzmatlary **: Käbir programmalar we serwerler ýerli ulgamy ulgam hyzmatlaryny bermek üçin öndürijiligi we howpsuzlygy optimizirlemek üçin localhost ulanýarlar.
 
-- **Troubleshooting**: Localhost can be used as a diagnostic tool to test if the network stack on the device is functioning correctly.
+- ** Näsazlyklary düzetmek **: “Localhost” enjamdaky setiň dogry işleýändigini ýa-da ýokdugyny barlamak üçin diagnostika guraly hökmünde ulanylyp bilner.
 
-## Connecting to Localhost
+## “Localhost” -a birikmek
 
-To connect to localhost, you can use several methods depending on the tasks you want to accomplish:
+“Localhost” -a birikmek üçin ýerine ýetirmek isleýän meseleleriňize baglylykda birnäçe usuly ulanyp bilersiňiz:
 
-- **Web Browser**: If you're running a local web server, you can simply enter `http://127.0.0.1` or `http://localhost` in your browser's address bar and access the locally hosted web application.
+- ** Web brauzeri **: weberli web serwerini işleýän bolsaňyz, brauzeriňiziň salgy setirine "http: // 127.0.0.1" ýa-da "http: // localhost" girizip, ýerli ýerleşdirilen web-e girip bilersiňiz. amaly.
 
-- **Command Line**: You can use utilities like `ping`, `traceroute`, or `telnet` at the command prompt to verify connectivity and network functionality using localhost.
+- ** Buýruk setiri **: Lokalhost ulanyp, birikmäni we toruň işleýşini barlamak üçin buýruk buýrugynda "ping", "traceroute" ýa-da "telnet" ýaly kömekçi enjamlary ulanyp bilersiňiz.
 
-- **Application Settings**: Some applications, such as web servers or database servers, may have configuration settings that allow you to bind them to the loopback address (`127.0.0.1` or `::1`). This will restrict the services to the local system and prevent them from being accessed by external sources.
+- ** Programma sazlamalary **: Web serwerleri ýa-da maglumat bazasy serwerleri ýaly käbir programmalarda, yzyna gaýdyp gelýän adrese ("127.0.0.1" ýa-da ":: 1") baglamaga mümkinçilik berýän konfigurasiýa sazlamalary bolup biler. Bu hyzmatlary ýerli ulgam bilen çäklendirer we daşarky çeşmelerden peýdalanmagynyň öňüni alar.
 
-Remember, connections to localhost do not pass through your computer's physical network interfaces, and as such, they're not subject to the same security risks or performance limitations that a real network connection might have.
+Hostadyňyzdan çykarmaň, ýerlihost bilen baglanyşyk kompýuteriňiziň fiziki ulgam interfeýslerinden geçmeýär we şonuň üçin hakyky ulgam birikmesi bolup biljek howpsuzlyk töwekgelçiligine ýa-da öndürijilik çäklendirmelerine sezewar bolmaýar.

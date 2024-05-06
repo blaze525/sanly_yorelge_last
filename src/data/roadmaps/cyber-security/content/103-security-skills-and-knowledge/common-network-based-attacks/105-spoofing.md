@@ -1,29 +1,29 @@
 # Spoofing
 
-Spoofing is a type of cyber attack where an attacker impersonates or masquerades as another entity (person or system) to gain unauthorized access to sensitive information, manipulate communications or bypass network security measures. Spoofing can come in various forms, including:
+Spoofing kiber hüjümiň bir görnüşidir, onda hüjümçi duýgur maglumatlara birugsat girmek, aragatnaşyklary dolandyrmak ýa-da tor howpsuzlygy çärelerinden aýlanyp geçmek üçin başga bir gurama (adam ýa-da ulgam) hökmünde özüni görkezýär ýa-da maskarad edýär. Zyýan bermek dürli görnüşlerde bolup biler, şol sanda:
 
 ## IP Spoofing
 
-IP Spoofing refers to when an attacker sends fake packets with a forged source IP address. This is often done to bypass IP-based security measures or to make an attack seem like it's coming from another source. Potential consequences of a successful IP spoofing attack include unauthorized access to systems, data manipulation and denial of service attacks.
+IP Spoofing, hüjümçiniň galp çeşme IP adresi bilen galp paketleri iberendigini aňladýar. Bu köplenç IP esasly howpsuzlyk çärelerinden aýlanyp geçmek ýa-da hüjümi başga bir çeşmeden gelýän ýaly etmek üçin edilýär. Üstünlikli IP bozmak hüjüminiň potensial netijeleri ulgamlara birugsat girmegi, maglumatlary manipulirlemegi we hyzmat hüjümlerini inkär etmegi öz içine alýar.
 
-To protect against IP spoofing, organizations can implement ingress and egress filtering and adopt network protocols that include authentication for incoming packets.
+IP Spoofingdan goramak üçin guramalar giriş we ýalňyş süzgüçleri amala aşyryp bilerler we gelýän paketleriň hakykylygyny öz içine alýan tor protokollaryny kabul edip bilerler.
 
-## Email Spoofing
+## E-poçta Spoofing
 
-Email spoofing involves forging the header information of an email to make it appear as if it's sent from a legitimate source. Attackers often use this tactic in phishing attacks, where emails are made to look like they are from trusted sources, prompting recipients to click on malicious links or share sensitive information.
+E-poçta bilen baglanyşyk, e-poçta sözbaşysynyň kanuny çeşmeden iberilen ýaly görünmegi üçin esasy maglumatlary ýasamagy öz içine alýar. Hüjümçiler köplenç bu taktikany balykçy hüjümlerinde ulanýarlar, bu ýerde e-poçta habarlary ygtybarly çeşmelerden gelýän ýaly bolup, alyjylary zyýanly baglanyşyklara basmaga ýa-da gizlin maglumatlary paýlaşmaga mejbur edýär.
 
-To defend against email spoofing, it is essential to use email authentication protocols, such as Sender Policy Framework (SPF), Domain Key Identified Mail (DKIM), and Domain-based Message Authentication, Reporting, and Conformance (DMARC).
+E-poçta ýalňyşlaryndan goramak üçin Iberiji Syýasat Çarçuwasy (SPF), Domain Key Identified Mail (DKIM) we Domain esasly Habar tassyklamasy, hasabat we ýerine ýetiriş (DMARC) ýaly e-poçta tassyklamak protokollaryny ulanmak zerurdyr.
 
 ## Caller ID Spoofing
 
-In caller ID spoofing, an attacker changes the caller ID information to deceive the recipient. This technique is commonly used in phone scams, where the attacker disguises their identity to create a sense of trust, convince the recipient to share personal information or execute malicious activities.
+Caller ID Spoofingda, hüjümçi alyjyny aldamak üçin jaň edijiniň şahsyýet maglumatyny üýtgedýär. Bu usul, köplenç telefon aldawlarynda ulanylýar, bu ýerde hüjümçi ynam duýgusyny döretmek, alyjyny şahsy maglumatlary paýlaşmak ýa-da zyýanly işler etmek üçin şahsyýetini gizleýär.
 
-To reduce the risk of caller ID spoofing, be cautious of unexpected calls from unknown numbers, never share sensitive information over the phone, and implement call-blocking services.
+Caller ID Spoofing howpuny azaltmak üçin näbelli belgilerden garaşylmadyk jaňlardan ägä boluň, hiç haçan telefonda duýgur maglumatlary paýlaşmaň we jaňy petiklemek hyzmatlaryny ýerine ýetiriň.
 
 ## Address Resolution Protocol (ARP) Spoofing
 
-ARP Spoofing, also known as ARP poisoning, involves an attacker forging ARP messages to associate their MAC address with the IP address of a legitimate network device. This allows the attacker to intercept and modify network traffic, potentially leading to man-in-the-middle attacks or denial of service.
+ARP zäherlenmesi diýlip hem atlandyrylýan ARP Spoofing, MAC adresini kanuny ulgam enjamynyň IP adresi bilen baglanyşdyrmak üçin ARP habarlaryny ýasaýan bir hüjümçini öz içine alýar. Bu, hüjümçä toruň traffigini saklamaga we üýtgetmäge mümkinçilik berýär, bu bolsa ortadaky hüjümlere ýa-da hyzmatdan ýüz öwürmegine sebäp bolup biler.
 
-To defend against ARP spoofing, organizations can employ dynamic ARP inspection, static ARP entries, and intrusion detection systems that monitor for unusual ARP activity.
+ARP bozulmalaryndan goramak üçin guramalar dinamiki ARP barlagyny, statiki ARP ýazgylaryny we adaty bolmadyk ARP işjeňligine gözegçilik edýän çozuşlary kesgitlemek ulgamlaryny ulanyp bilerler.
 
-In summary, spoofing attacks can impact various aspects of digital communication, whether it be IP-based, email, phone, or network traffic. To protect against spoofing, be vigilant and employ defensive measures, such as network authentication protocols, monitoring suspicious activities, and educating users about potential risks.
+Gysgaça aýtsak, bulaşyk hüjümler IP esasly, e-poçta, telefon ýa-da tor trafigi bolsun, sanly aragatnaşygyň dürli taraplaryna täsir edip biler. Galplykdan goramak üçin hüşgär boluň we torda tanamak protokollary, şübheli çärelere gözegçilik etmek we ulanyjylara bolup biljek töwekgelçilikler barada bilim bermek ýaly gorag çärelerini ulanyň.

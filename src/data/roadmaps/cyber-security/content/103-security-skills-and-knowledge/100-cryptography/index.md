@@ -1,35 +1,35 @@
-# Basics of Cryptography
+# Kriptografiýanyň esaslary
 
-Cryptography is a critical aspect of cyber security, essential for ensuring the confidentiality, integrity, and authenticity of data exchanged across digital networks. It involves the use of mathematical algorithms and techniques to encrypt and decrypt data, making it almost impossible for unauthorized users to access or modify the information.
+Kriptografiýa, kiberhowpsuzlygyň möhüm tarapy bolup, sanly torlar arkaly alyş-çalyş edilýän maglumatlaryň gizlinligini, bitewiligini we hakykylygyny üpjün etmek üçin zerurdyr. Maglumatlary şifrlemek we şifrlemek üçin matematiki algoritmleri we usullary ulanmagy öz içine alýar, rugsatsyz ulanyjylaryň maglumata girmegi ýa-da üýtgemegi mümkin däl diýen ýaly.
 
-## Types of Cryptography
+## Kriptografiýanyň görnüşleri
 
-There are three main types of cryptography in the context of cyber security:
+Kiberhowpsuzlyk nukdaýnazaryndan kriptografiýanyň üç esasy görnüşi bar:
 
-- **Symmetric cryptography**: In this method, the same key, known as a secret key, is used to encrypt and decrypt the data. Examples of symmetric encryption algorithms include AES, DES, and Blowfish.
+- ** Simmetrik kriptografiýa **: Bu usulda maglumatlary şifrlemek we şifrlemek üçin gizlin açar diýlip atlandyrylýan şol bir açar ulanylýar. Simmetrik şifrlemek algoritmlerine mysal hökmünde AES, DES we Blowfish degişlidir.
 
-- **Asymmetric cryptography**: This approach uses two keys, known as a public key and a private key, for encryption and decryption. Data encrypted with one key can only be decrypted with the other key. Examples of asymmetric encryption algorithms include RSA, ECC, and ElGamal.
+- ** Asimmetrik kriptografiýa **: Bu çemeleşme, şifrlemek we açarlamak üçin açyk açar we şahsy açar hökmünde bilinýän iki açary ulanýar. Bir açar bilen şifrlenen maglumatlar diňe beýleki açar bilen şifrlenip bilner. Asimmetrik şifrlemek algoritmlerine mysal hökmünde RSA, ECC we ElGamal degişlidir.
 
-- **Hash functions**: These are cryptographic algorithms that produce a fixed-size output (usually called a hash or digest) from an input of any size, ensuring the integrity of data. A small change in the input data leads to a significant change in the output hash. Examples of widely used hash functions include SHA-256, MD5, and RIPEMD-160.
+- ** Haş funksiýalary **: Bular maglumatlaryň bitewiligini üpjün edip, islendik ululykdan girişden belli bir ölçegli çykyş (adatça hash ýa-da digest diýilýär) öndürýän kriptografiki algoritmlerdir. Giriş maglumatlarynyň ujypsyz üýtgemegi, çykyş hashiniň düýpli üýtgemegine getirýär. Giňden ulanylýan hash funksiýalaryna SHA-256, MD5 we RIPEMD-160 degişlidir.
 
-## Cryptographic Protocols
+## Kriptografiki teswirnamalar
 
-Various cryptographic protocols define how cryptographic algorithms are applied to data and how the data is securely exchanged between different parties. Some of the most common protocols include:
+Dürli kriptografiki protokollar, kriptografiki algoritmleriň maglumatlara nähili ulanylýandygyny we maglumatlaryň dürli taraplaryň arasynda ygtybarly alyş-çalşygyny kesgitleýär. Iň ýaýran teswirnamalaryň käbiri:
 
-- **Secure Sockets Layer (SSL) and Transport Layer Security (TLS)**: These protocols are used to provide encrypted communication over the internet. TLS, the successor to SSL, is widely used for secure web browsing, email, and other data exchanges.
+- ** Howpsuz rozetkalar gatlagy (SSL) we transport gatlagynyň howpsuzlygy (TLS) **: Bu teswirnamalar internet arkaly kodlanan aragatnaşyk üpjün etmek üçin ulanylýar. SSL-iň mirasdüşeri TLS, ygtybarly web sahypalaryna seretmek, e-poçta we beýleki maglumat alyş-çalyşlary üçin giňden ulanylýar.
 
-- **Secure Shell (SSH)**: SSH is a protocol that allows secure login to remote machines and the encrypted transfer of data between systems.
+- ** Howpsuz gabyk (SSH) **: SSH uzakdaky maşynlara ygtybarly girmäge we ulgamlaryň arasynda maglumatlary şifrlenen geçirmäge mümkinçilik berýän protokoldyr.
 
-- **Pretty Good Privacy (PGP)**: PGP is a protocol used for encrypting and digitally signing messages, providing confidentiality and authenticity in digital communication.
+- ** Örän gowy gizlinlik (PGP) **: PGP habarlary şifrlemek we sanly gol çekmek üçin ulanylýan protokol, sanly aragatnaşykda gizlinligi we hakykylygyny üpjün edýär.
 
-## Key Management
+## Açar dolandyryş
 
-Proper key management is crucial to maintain the security of encrypted data. Key management involves the creation, distribution, storage, and disposal of cryptographic keys. It is essential to ensure that keys are securely distributed, regularly updated, and stored in secure locations to prevent unauthorized access.
+Şifrlenen maglumatlaryň howpsuzlygyny saklamak üçin dogry açar dolandyryş möhümdir. Esasy dolandyryş kriptografiki açarlary döretmegi, paýlamagy, saklamagy we ýok etmegi öz içine alýar. Rugsat berilmedik girişleriň öňüni almak üçin açarlaryň ygtybarly paýlanmagyny, yzygiderli täzelenmegini we howpsuz ýerlerde saklanmagyny üpjün etmek zerurdyr.
 
-## Cryptanalysis
+## Kriptanaliz
 
-Cryptanalysis is the process of attempting to break cryptographic systems, often by exploiting weaknesses in the algorithms, protocols, or key management processes. The strength of a cryptographic system lies in its resistance to cryptanalysis. As a cyber security professional, understanding cryptanalysis techniques can help you identify and protect against potential vulnerabilities in your organization's cryptographic infrastructure.
+Kriptanaliz, köplenç algoritmlerde, protokollarda ýa-da esasy dolandyryş amallarynda gowşak ýerleri ulanyp, kriptografiki ulgamlary döwmäge synanyşmak prosesi. Kriptografiki ulgamyň güýji, kriptografiýa garşylygyndadyr. Kiberhowpsuzlyk hünärmeni hökmünde kriptografiýa usullaryna düşünmek, guramaňyzyň kriptografiki infrastrukturasyndaky gowşak goralanlyklary ýüze çykarmaga we goramaga kömek edip biler.
 
-In conclusion, cryptography is a fundamental aspect of cyber security, offering a layer of protection for sensitive data in digital networks. To effectively implement cryptography in your organization, you should be familiar with the various types of cryptography, cryptographic protocols, and key management best practices, and understand the potential threats posed by cryptanalysis.
+Sözümiň ahyrynda, kriptografiýa sanly ulgamlardaky duýgur maglumatlar üçin gorag gatlagyny hödürläp, kiberhowpsuzlygyň esasy tarapydyr. Guramaňyzda kriptografiýany netijeli durmuşa geçirmek üçin dürli kriptografiýa, kriptografiki protokollar we esasy dolandyryş usullary bilen tanyş bolmaly we kriptografiýa howpy abanýan howplara düşünmeli.
 
-- [Cryptography for Dummies (TryHackMe)](https://tryhackme.com/room/cryptographyfordummies)
+- [Dummi üçin kriptografiýa (TryHackMe)] (https://tryhackme.com/room/cryptographyfordummies)

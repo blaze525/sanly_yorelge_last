@@ -1,22 +1,22 @@
 # loopback
 
-Loopback is an essential concept in IP terminology that refers to a test mechanism used to validate the operation of various network protocols, and software or hardware components. The primary function of the loopback feature is to enable a device to send a data packet to itself to verify if the device's network stack is functioning correctly.
+Loopback IP terminologiýasynda möhüm düşünje bolup, dürli ulgam protokollarynyň, programma üpjünçiliginiň ýa-da enjam bölekleriniň işleýşini barlamak üçin ulanylýan synag mehanizmine degişlidir. Yza gaýdyp gelmek aýratynlygynyň esasy wezipesi, enjamyň tor toplumynyň dogry işleýändigini ýa-da ýokdugyny barlamak üçin enjamyň özüne maglumat paketini ibermegine mümkinçilik bermekdir.
 
-## Importance of Loopback
+## Gaýtadan işlemegiň ähmiýeti
 
-The concept of loopback is critical for the following reasons:
+Yza gaýdyp gelmek düşünjesi aşakdaky sebäplere görä möhümdir:
 
-- **Troubleshooting**: Loopback helps in diagnosing and detecting network connectivity issues. It can also help ascertain whether an application or device is correctly processing and responding to incoming network traffic.
-- **Testing**: Loopback can be used extensively by developers to test software applications or components without external network access. This ensures that the software behaves as expected even without a working network connection.
+- ** Näsazlyklary düzetmek **: Loopback tor birikmesi meselelerini anyklamaga we tapmaga kömek edýär. Şeýle hem, bir programmanyň ýa-da enjamyň gelýän ulgam trafigine dogry işleýändigini we jogap berýändigini anyklamaga kömek edip biler.
+- ** Synag **: Loopback programma üpjünçiligi programmalaryny ýa-da böleklerini daşarky tora girmezden barlamak üçin döredijiler tarapyndan giňden ulanylyp bilner. Bu, programma üpjünçiliginiň hatda işleýän ulgam birikmesi bolmazdan garaşylşy ýaly hereket etmegini üpjün edýär.
 
-## Loopback Address
+## Yzyna gaýtmak salgysy
 
-In IP terminology, there's a pre-allocated IP address for loopback. For IPv4, the reserved address is `127.0.0.1`. For IPv6, the loopback address is `::1`. When a device sends a packet to either of these addresses, the packet is rerouted to the local device, making it the source and destination simultaneously.
+IP terminologiýasynda gaýdyp gelmek üçin öňünden bölünen IP adresi bar. IPv4 üçin ätiýaçlandyrylan salgy "127.0.0.1". IPv6 üçin aýlaw adresi `:: 1`. Haçan-da bir enjam bu salgylaryň ikisine-de bir paket iberende, paket ýerli enjama ugrukdyrylýar we şol bir wagtyň özünde çeşme we barjak ýeri bolýar.
 
-## Loopback Interface
+## Gaýtadan işlemek interfeýsi
 
-Apart from loopback addresses, there's also a network device known as the "loopback interface." This interface is a virtual network interface implemented in software. The loopback interface is assigned a loopback address and can be used to emulate network connections for various purposes, such as local services or inter-process communications.
+Gaýtadan işleýän salgylardan başga-da, “aýlaw interfeýsi” diýlip atlandyrylýan tor enjamy hem bar. Bu interfeýs programma üpjünçiliginde ýerine ýetirilen wirtual tor interfeýsi. “Loopback” interfeýsine “loopback” adresi berilýär we ýerli hyzmatlar ýa-da prosesara aragatnaşyk ýaly dürli maksatlar üçin tor birikmelerini öýkünmek üçin ulanylyp bilner.
 
-## Summary
+## Gysgaça mazmun
 
-Loopback plays a crucial role in IP technology by enabling devices to run diagnostic tests and validate the correct functioning of software and hardware components. Using the loopback addresses for IPv4 (`127.0.0.1`) and IPv6 (`::1`), it allows network packets to circulate internally within the local device, facilitating developers to test and verify network operations.
+Loopback enjamlara diagnostika synaglaryny geçirmäge we programma üpjünçiliginiň we enjam bölekleriniň dogry işleýşini tassyklamaga mümkinçilik bermek arkaly IP tehnologiýasynda möhüm rol oýnaýar. IPv4 (`127.0.0.1`) we IPv6 (` :: 1`) üçin aýlaw salgylaryny ulanyp, tor paketlerini ýerli enjamyň içinde aýlanmaga mümkinçilik berýär, döredijilere tor amallaryny barlamaga we barlamaga kömek edýär.

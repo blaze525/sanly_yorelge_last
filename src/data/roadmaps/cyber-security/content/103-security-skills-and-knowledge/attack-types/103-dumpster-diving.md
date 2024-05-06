@@ -1,16 +1,16 @@
 # Dumpster Diving
 
-**Dumpster diving** is a low-tech but potentially effective method used by attackers to gather sensitive and valuable information by physically searching through an organization's trash. Dumpster divers often target discarded documents such as old memos, printouts, and reports that may still contain sensitive information like usernames, passwords, credit card numbers, and other confidential details.
+**Dumpster Diving** hüjümçiler tarapyndan bir guramanyň hapasyndan fiziki taýdan gözlemek arkaly duýgur we gymmatly maglumatlary ýygnamak üçin ulanylýan pes tehnologiýaly, ýöne täsirli usul. Dumpster çümdürijileri köplenç ulanyjy atlary, parollar, kredit kartoçkalarynyň belgileri we beýleki gizlin maglumatlar ýaly köne maglumatlary öz içine alyp bilýän köne ýatlamalar, çaplar we hasabatlar ýaly taşlanan resminamalary nyşana alýarlar.
 
-## How it works
+## Bu nähili işleýär
 
-Attackers search public and private trash receptacles to find information that may be helpful in their attack strategy. By piecing together various details from discarded documents, attackers may piece together a complete understanding of the organization's internal workings and gain access to protected systems.
+Hüjümçiler hüjüm strategiýasynda peýdaly bolup biljek maglumatlary tapmak üçin jemgyýetçilik we hususy hapalary gözleýärler. Hüjümçiler taşlanan resminamalardan dürli jikme-jiklikleri birleşdirip, guramanyň içerki işlerine doly düşünip bilerler we goralýan ulgamlara girip bilerler.
 
-## Countermeasures
+## Garşylyk çäreleri
 
-- **Implement a 'shred-all' policy**: Ensure that all sensitive documents are shredded before being discarded. Make it a standard company policy, and ensure that all employees are trained in this practice.
-- **Raise awareness**: Train employees to recognize the potential risks of improper disposal and encourage them to be diligent in disposing of sensitive documents.
-- **Secure disposal**: Use lockable bins and trash bags or dispose of sensitive documents in a designated, secured place where they will be safely destroyed.
-- **Periodic audits**: Conduct regular audits of your physical security measures, including trash receptacles and disposal methods.
+- **'Bölek-bölek' syýasatyny durmuşa geçiriň**: ähli duýgur resminamalaryň taşlanmazdan ozal kesilendigine göz ýetiriň. Adaty kompaniýa syýasaty ediň we ähli işgärleriň bu tejribede tälim almagyny üpjün ediň.
+- **Habarlylygy ýokarlandyrmak**: Işgärleri nädogry taşlamagyň bolup biljek töwekgelçiliklerini tanamaga we duýgur resminamalary ýok etmekde yhlasly bolmaga höweslendiriň.
+- **Howpsuz Dumpster Diving**: Gulplanyp bilinýän gaplary we hapa torbalaryny ulanyň ýa-da ygtybarly resminamalary howpsuz weýran boljak ýerlerde ygtybarly resminamalary taşlaň.
+- **Döwürleýin barlaglar**: Zibil kabul edijileri we Dumpster Diving usullaryny goşmak bilen fiziki howpsuzlyk çäreleriňizi yzygiderli barlaň.
 
-By implementing these countermeasures, your organization can significantly reduce its risk of exposing sensitive information through dumpster diving.
+Bu garşy çäreleri durmuşa geçirmek bilen, guramaňyz zibil suwa çümmek arkaly duýgur maglumatlary paş etmek howpuny ep-esli azaldyp biler.

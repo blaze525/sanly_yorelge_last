@@ -1,43 +1,43 @@
-# Obfuscation
+# Obfuskasiýa
 
-Obfuscation is the practice of making something difficult to understand or find by altering or hiding its appearance or content. In the context of cyber security and cryptography, obfuscation refers to the process of making data, code, or communication less readable and harder to interpret or reverse engineer.
+Obfuskasiýa, daşky görnüşini ýa-da mazmunyny üýtgetmek ýa-da gizlemek arkaly düşünmek ýa-da tapmak kyn bir zat etmekdir. Kiberhowpsuzlyk we kriptografiýa kontekstinde obfuskasiýa maglumatlary, kody ýa-da aragatnaşygy az okalýan we inereneriň manysyny düşündirmek ýa-da tersleşdirmek kynlaşdyrýar.
 
-## 5.1 Why Use Obfuscation?
+## 5.1 Näme üçin obfuskasiýa ulanmaly?
 
-The primary purpose of obfuscation is to enhance security by:
+Obfusasiýa etmegiň esasy maksady, howpsuzlygy ýokarlandyrmak:
 
-- Concealing sensitive information from unauthorized access or misuse.
-- Protecting intellectual property (such as proprietary algorithms and code).
-- Preventing or impeding reverse engineering, tampering, or analysis of code or data structures.
+- Rugsat berilmedik girişden ýa-da nädogry ulanmakdan duýgur maglumatlary gizlemek.
+- Intellektual eýeçiligi goramak (eýeçilik algoritmleri we kod ýaly).
+- Ters in engineeringenerçiligiň öňüni almak ýa-da päsgel bermek, kod ýa-da maglumat gurluşlarynyň derňewi ýa-da derňewi.
 
-Obfuscation can complement other security measures such as encryption, authentication, and access control, but it should not be relied upon as the sole line of defense.
+Obfuskasiýa şifrlemek, tassyklamak we giriş gözegçiligi ýaly beýleki howpsuzlyk çäreleriniň üstüni ýetirip biler, ýöne ýeke-täk goranyş ugry hökmünde bil baglamaly däldir.
 
-## 5.2 Techniques for Obfuscation
+## 5.2 Obfuskasiýa usullary
 
-There are several techniques for obfuscating data or code, including:
+Maglumatlary ýa-da kody gizlemek üçin birnäçe usul bar, şol sanda:
 
-- **Identifier renaming**: This technique involves changing the names of variables, functions, or objects in code to make it harder for an attacker to understand their purpose or behavior.
+- ** Identifikatoryň adyny üýtgetmek **: Bu usul, hüjümçiniň maksadyna ýa-da özüni alyp barşyna düşünmegini kynlaşdyrmak üçin koddaky üýtgeýänleriň, funksiýalaryň ýa-da obýektleriň atlaryny üýtgetmegi öz içine alýar.
 
-  _Example: Renaming `processPayment()` to `a1b2c3()`._
+   _Mesele: "processPayment ()" adyny "a1b2c3 ()" diýip üýtgetmek ._
 
-- **Control flow alteration**: This involves modifying the structure of code to make it difficult to follow or analyze, without affecting its functionality. This can include techniques such as inserting dummy loops or conditionals, or changing the order of instructions.
+- ** Dolandyryş akymynyň üýtgemegi **: Bu, işleýşine täsir etmezden, yzarlamagy ýa-da derňemegi kynlaşdyrmak üçin koduň gurluşyny üýtgetmegi öz içine alýar. Muňa aç-açan aýlawlary ýa-da şertleri goýmak ýa-da görkezmeleriň tertibini üýtgetmek ýaly usullar girip biler.
 
-  _Example: Changing a straightforward loop into a series of nested loops with added conditional statements._
+   _Mesele: Goşmaça şertli jümleler bilen gönüden-göni aýlawy öýjükli aýlawlaryň hataryna üýtgetmek ._
 
-- **Data encoding**: Transforming or encoding data can make it less legible and harder to extract or manipulate. This can involve encoding strings or data structures, or splitting data across multiple variables or containers.
+- ** Maglumatlary kodlamak **: Maglumatlary üýtgetmek ýa-da kodlamak, has düşnükli we çykarmak ýa-da dolandyrmak kynlaşdyryp biler. Bu kodlama setirleri ýa-da maglumat gurluşlaryny ýa-da maglumatlary köp üýtgeýänlere ýa-da konteýnerlere bölüp biler.
 
-  _Example: Encoding a string as a series of character codes or a base64-encoded binary string._
+   _Mesele: Bir setiri simwol kodlary ýa-da esasy 64 kodlanan ikili setir hökmünde kodlamak ._
 
-- **Code encryption**: Encrypting portions of code or entire programs can prevent reverse engineering, tampering, or analysis. The code is decrypted at runtime, either by an interpreter or within the application itself.
+- ** Kod şifrlemek **: Kod ýa-da tutuş programmalaryň böleklerini şifrlemek ters in engineeringenerçiligiň, tampingiň ýa-da derňewiň öňüni alyp biler. Kod iş wagty terjimeçi ýa-da programmanyň içinde şifrlenýär.
 
-  _Example: Using a cryptographically secure encryption algorithm, such as AES, to encrypt the main logic of a program._
+   _Mesele: Programmanyň esasy logikasyny şifrlemek üçin AES ýaly kriptografiki taýdan ygtybarly şifrlemek algoritmini ulanmak ._
 
-## 5.3 Limitations and Considerations
+## 5.3 Çäklendirmeler we pikirler
 
-While obfuscation can be an effective deterrent against casual or unskilled attackers, it's important to recognize its limitations:
+Obfusasiýa tötänleýin ýa-da hünärsiz hüjümçilere garşy täsirli päsgelçilik bolup bilse-de, çäklendirmelerini ykrar etmek möhümdir:
 
-- It is not foolproof: Determined and skilled attackers can often reverse-engineer or deobfuscate code or data if they are motivated enough.
-- Obfuscation can impact performance and maintainability: The added complexity and overhead can make code slower to execute and harder to maintain or update.
-- Relying solely on obfuscation is not recommended: It should be used as one layer in a comprehensive security strategy that includes encryption, authentication, and access control.
+- Bu akmak däl: Kesgitli we ökde hüjümçiler, ýeterlik derejede höweslendirilen bolsa, köplenç in engineener ýa-da kod ýa-da maglumatlary tersleşdirip bilerler.
+- Obfuskasiýa öndürijilige we durnuklylyga täsir edip biler: Goşulan çylşyrymlylyk we üstki kody ýerine ýetirmek üçin has haýal we saklamak ýa-da täzelemek kynlaşdyryp biler.
+- Diňe obfusasiýa bil baglamak maslahat berilmeýär: Şifrlemek, tassyklamak we giriş gözegçiligini öz içine alýan giňişleýin howpsuzlyk strategiýasynda bir gatlak hökmünde ulanylmaly.
 
-In conclusion, obfuscation can be a useful tool to improve the security posture of a system, but it should not be relied upon as the only means of protection.
+Sözümiň ahyrynda, obfusasiýa ulgamyň howpsuzlyk ýagdaýyny gowulandyrmak üçin peýdaly gural bolup biler, ýöne goramagyň ýeke-täk serişdesi hökmünde oňa bil baglamaly däldir.

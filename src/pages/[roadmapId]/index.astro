@@ -40,7 +40,7 @@ if (roadmapData.schema) {
   const roadmapSchema = roadmapData.schema;
   jsonLdSchema.push(
     generateArticleSchema({
-      url: `#/${roadmapId}`,
+      url: `http://localhost:3000/${roadmapId}`,
       headline: roadmapSchema.headline,
       description: roadmapSchema.description,
       datePublished: roadmapSchema.datePublished,
@@ -94,7 +94,7 @@ if (roadmapFAQs.length) {
         <div class='container relative !max-w-[1000px]'>
           <ShareIcons
             description={roadmapData.briefDescription}
-            pageUrl={`#/${roadmapId}`}
+            pageUrl={`http://localhost:3000/${roadmapId}`}
           />
           <TopicDetail client:idle canSubmitContribution={true} />
 

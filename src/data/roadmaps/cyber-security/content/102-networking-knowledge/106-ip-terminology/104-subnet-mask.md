@@ -1,26 +1,26 @@
-# subnet mask
+# subnet maska
 
-A **subnet mask** is a crucial component of Internet Protocol (IP) addressing, acting as a "mask" to separate the network portion of an IP address from the host portion. It is a 32-bit number representing a sequence of 1's followed by a sequence of 0's, used to define the boundary of a subnet within a given IP address.
+A ** subnet maska **, IP adresiniň tor bölegini öý eýesinden aýyrmak üçin "maska" hökmünde çykyş edýän Internet Protocol (IP) salgysynyň möhüm bölegi. Berlen IP adresiň içinde subnetiň araçägini kesgitlemek üçin ulanylýan 1-iň yzygiderliligini görkezýän 0-dan ybarat yzygiderliligi görkezýän 32 bitli san.
 
-The primary purpose of a subnet mask is to:
+Subnet maskasynyň esasy maksady:
 
-- Define network boundaries
-- Facilitate IP routing
-- Break down large IP networks into smaller, manageable subnetworks (subnets)
+- Tor araçäklerini kesgitläň
+- IP marşrutlaşdyrmagy ýeňilleşdiriň
+- Uly IP torlaryny kiçi, dolandyrylýan subnet işlerine (subnetlere) bölüň
 
 ## Format
 
-The subnet mask is written in the same dotted-decimal format as IP addresses (i.e., four octets separated by dots). For instance, the default subnet mask for a Class A IP address is `255.0.0.0`, for Class B is `255.255.0.0`, and for Class C is `255.255.255.0`.
+Subnet maskasy IP salgylary bilen birmeňzeş nokat-onluk formatda ýazylýar (ýagny nokatlar bilen bölünen dört oktet). Mysal üçin, A synp IP adresi üçin deslapky subnet maska "255.0.0.0", B synp üçin "255.255.0.0", C synp üçin "255.255.255.0".
 
-## Importance in Cybersecurity
+## Kiberhowpsuzlygyň ähmiýeti
 
-Understanding and configuring subnet masks correctly is crucial in cybersecurity, as they:
+Subnet maskalaryna dogry düşünmek we düzmek kiberhowpsuzlykda möhümdir, sebäbi olar:
 
-- Help to isolate different segments of your network, leading to greater security control and more efficient usage of resources
-- Facilitate the division of IP networks into smaller subnets, which can then be assigned to different departments, groups, or functions within an organization
-- Enhance network efficiency by preventing unnecessary broadcast traffic
-- Improve the overall network stability and monitoring capabilities
+- Toruňyzyň dürli segmentlerini izolirlemäge kömek ediň, bu has uly howpsuzlyk gözegçiligine we çeşmeleriň has netijeli ulanylmagyna sebäp bolýar
+- IP torlarynyň kiçi subnetlere bölünmegini ýeňilleşdiriň, soňra bir guramanyň içinde dürli bölümlere, toparlara ýa-da funksiýalara bellenip bilner.
+- Gereksiz ýaýlym traffiginiň öňüni alyp, toruň netijeliligini ýokarlandyrmak
+- Toruň umumy durnuklylygyny we gözegçilik mümkinçiliklerini gowulandyrmak
 
-To determine the appropriate subnet mask for different requirements, you can use various subnetting tools available online. Proper management of subnet masks is crucial for maintaining a secure, efficient, and well-functioning network.
+Dürli talaplar üçin degişli subnet maskasyny kesgitlemek üçin, onlaýn elýeterli dürli subnetting gurallaryny ulanyp bilersiňiz. Subnet maskalaryny dogry dolandyrmak ygtybarly, täsirli we gowy işleýän ulgamy saklamak üçin möhümdir.
 
-- [Wildcard mask](https://en.wikipedia.org/wiki/Wildcard_mask)
+- [Wildcard maskasy] (https://en.wikipedia.org/wiki/Wildcard_mask)

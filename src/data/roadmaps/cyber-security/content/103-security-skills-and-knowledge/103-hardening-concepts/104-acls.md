@@ -1,39 +1,39 @@
-# ACLs
+# ACL
 
-Access Control Lists (ACLs) act as an essential part of an organization's security infrastructure by helping to manage access rights to resources and maintain security between users, groups, and systems.
+Elýeterlilige gözegçilik sanawlary (ACL), çeşmelere giriş hukuklaryny dolandyrmaga we ulanyjylaryň, toparlaryň we ulgamlaryň arasynda howpsuzlygy saklamaga kömek edip, guramanyň howpsuzlyk infrastrukturasynyň möhüm bölegi hökmünde çykyş edýär.
 
-In this section, we will discuss the following:
+Bu bölümde aşakdakylary ara alyp maslahatlaşarys:
 
-- What are Access Control Lists
-- Types of ACLs
-- How to implement and administer ACLs
+- Giriş dolandyryş sanawlary näme
+- ACL-leriň görnüşleri
+- ACL-leri nädip durmuşa geçirmeli we dolandyrmaly
 
-## What are Access Control Lists
+## Giriş gözegçilik sanawlary näme
 
-Access Control Lists are rule sets that define which user, group, or system has access to specific resources and determine what type of access they have (e.g., read or write). ACLs act as a barrier to prevent unauthorized access to sensitive data and systems; this can help maintain confidentiality, integrity, and availability of your organization's critical assets.
+Giriş dolandyryş sanawlary haýsy ulanyjynyň, toparyň ýa-da ulgamyň belli bir çeşmelere elýeterliligini kesgitleýän we haýsy elýeterliligiň bardygyny kesgitleýän düzgünler toplumydyr (meselem, okaň ýa-da ýazyň). ACL-ler duýgur maglumatlara we ulgamlara birugsat girilmeginiň öňüni almak üçin päsgelçilik hökmünde çykyş edýärler; bu, guramaňyzyň möhüm baýlyklarynyň gizlinligini, bitewiligini we elýeterliligini saklamaga kömek edip biler.
 
-## Types of ACLs
+## ACL-leriň görnüşleri
 
-There are two primary types of ACLs: Discretionary and Mandatory.
+ACL-leriň iki esasy görnüşi bar: Düşünjeli we hökmany.
 
-- **Discretionary Access Control Lists (DACLs)**  
-  DACLs allow the owner of a resource to determine who can gain access to the resource, and the level of access they can have. For example, a user or a group of users may have read access rights to a particular file, whereas another group may have full control over the file.
+- ** Aýratyn elýeterlilige gözegçilik sanawlary (DACL) **
+   DACL-ler çeşmäniň eýesine çeşmä kimiň girip biljekdigini we elýeterlilik derejesini kesgitlemäge mümkinçilik berýär. Mysal üçin, ulanyjy ýa-da bir topar ulanyjy belli bir faýla girmek hukugyny okap biler, başga bir topar bolsa faýla doly gözegçilik edip biler.
 
-- **Mandatory Access Control Lists (MACLs)**  
-  MACLs rely on predefined security labels or classifications to enforce access control. In this case, resources are assigned security labels, and users or systems are given security clearances. Access is granted only if the user's security clearance level matches the resource label.
+- ** Hökmany giriş gözegçilik sanawlary (MACLs) **
+   MACL-ler giriş gözegçiligini güýçlendirmek üçin öňünden kesgitlenen howpsuzlyk belliklerine ýa-da klassifikasiýalaryna bil baglaýarlar. Bu ýagdaýda çeşmelere howpsuzlyk bellikleri berilýär, ulanyjylara ýa-da ulgamlara howpsuzlyk ygtyýarlyklary berilýär. Giriş diňe ulanyjynyň howpsuzlyk arassalaýyş derejesi çeşme belligine gabat gelýän ýagdaýynda berilýär.
 
-## Implementing and Administering ACLs
+## ACL-leri durmuşa geçirmek we dolandyrmak
 
-Here are some best practices you can follow when implementing and administering Access Control Lists:
+Giriş dolandyryş sanawlaryny ýerine ýetireniňizde we dolandyranyňyzda ýerine ýetirip boljak iň oňat tejribeler:
 
-- **Define clear access policies**: Establish clear rules and guidelines for accessing resources, such as who can access specific resources and what type of access they can have.
+- ** Açyk giriş syýasatlaryny kesgitläň **: Resurslara girmek üçin anyk düzgünleri we görkezmeleri kesgitläň, meselem, belli çeşmelere kimiň girip biljekdigi we haýsy görnüşe girip biljekdigi.
 
-- **Use Role-Based Access Control (RBAC)**: Assign permissions to roles instead of individual users. This will help simplify the ACL management process.
+- ** Rol esasly giriş gözegçiligini (RBAC) ulanyň **: Aýry-aýry ulanyjylaryň ýerine rollara rugsat beriň. Bu ACL dolandyryş işini ýönekeýleşdirmäge kömek eder.
 
-- **Regular audits and reviews**: Periodically review and update the ACLs to ensure that access permissions are aligned with business requirements and security policies.
+- ** Yzygiderli barlaglar we synlar **: Giriş rugsatlarynyň iş talaplaryna we howpsuzlyk syýasatlaryna laýyk gelýändigine göz ýetirmek üçin ACL-leri wagtal-wagtal gözden geçiriň we täzeläň.
 
-- **Apply the principle of least privilege**: Grant users the minimum privileges they need to perform their tasks.
+- ** Iň az artykmaçlyk ýörelgesini ulanyň **: Ulanyjylara öz wezipelerini ýerine ýetirmek üçin zerur bolan iň az artykmaçlyklary beriň.
 
-- **Maintain a change management process**: Document all changes to ACLs, including the date of change, the reason for the change, and the individual responsible for executing the change.
+- ** Üýtgeşmäni dolandyrmak işini dowam etdiriň **: ACL-lerdäki ähli üýtgeşmeleri, şol sanda üýtgeşmäniň senesini, üýtgeşmäniň sebäbini we üýtgeşmäni amala aşyrmak üçin jogapkär şahsyýeti resminama ediň.
 
-Remember that a well-implemented and maintained ACL system can significantly reduce the risks associated with unauthorized access to your organization's critical assets.
+Gowy ornaşdyrylan we goldanylýan ACL ulgamy, guramaňyzyň möhüm aktiwlerine rugsatsyz girmek bilen baglanyşykly töwekgelçiligi ep-esli azaldyp biljekdigini ýadyňyzdan çykarmaň.

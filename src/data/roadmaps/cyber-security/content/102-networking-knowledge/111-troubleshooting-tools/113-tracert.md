@@ -1,34 +1,34 @@
 # tracert
 
-Tracert, short for "Trace Route", is a command-line utility that helps in diagnosing network connectivity issues by displaying the route taken by data packets to reach a specific destination. It identifies each hop along the path and calculates the time it takes for the data packets to travel from one point to another. Tracert can be particularly useful in determining potential delays or interruptions in network communication.
+"Trace Route" üçin gysga bolan Tracert, buýruk setiri bolup, belli bir ýere ýetmek üçin maglumat paketleri tarapyndan alnan ugry görkezip, tor birikmesi meselelerini anyklamaga kömek edýär. Alongoluň ugrundaky her bir hopy kesgitleýär we maglumat paketleriniň bir nokatdan beýlekisine gitmek üçin näçe wagt sarp edýändigini hasaplaýar. Tracert, tor aragatnaşygynda bolup biljek gijikdirmeleri ýa-da bökdençlikleri kesgitlemekde aýratyn peýdaly bolup biler.
 
-## How to Use Tracert
+## Tracert-i nähili ulanmaly?
 
-- Open `Command Prompt` on your Windows computer or `Terminal` on Linux or macOS.
-- Type `tracert` followed by the target destination, which can either be an IP address or a domain name. For example: `tracert example.com`
+- Windows kompýuteriňizde "Command Prompt" ýa-da Linux ýa-da macOS-da "Terminal" açyň.
+- IP adresi ýa-da domen ady bolup bilýän maksatly maksat bilen yzarlanylýan "yzarlaýjy" ýazyň. Mysal üçin: `tracert example.com '
 
-The output will show a list of hops in sequential order, with each line representing a single hop, its IP address, hostname, and the round-trip time (in milliseconds) for the data packets to reach that point.
+Çykyş, yzygiderli tertipde hoplaryň sanawyny görkezer, her setirde bir hop, IP adresi, host ady we maglumat paketleriniň şol nokada ýetmek üçin gezelenç wagty (millisekuntda) görkeziler.
 
-## Interpreting Tracert Results
+## Tracert-ň işleýiş netijelerine düşündirmek
 
-When analyzing the results of a tracert command, consider the following:
+Gözegçilik buýrugynyň netijeleri seljerilende aşakdakylary göz öňünde tutuň:
 
-- _Hops_: These are the individual steps the data packets take to reach the destination. If the route appears excessively long, there may be an issue with the network configuration or an inefficient routing path.
-- _Round-trip Time (RTT)_: This measures how long it takes for data packets to travel from the source to the destination and back. If the RTT is consistently high or increases significantly between specific hops, there could be a network delay, bottleneck, or congestion.
-- _Request Timed Out_: If you see this error, it means that a data packet failed to reach a specific hop within the given time. This could be an indication of a connection failure, firewall blocking, or packet loss.
+- _Hops_: Maglumat paketleriniň barmaly ýerine ýetmek üçin edýän aýratyn ädimleri. Routeol aşa uzyn görünse, tor konfigurasiýasy ýa-da netijesiz marşrut ýoly bilen baglanyşykly bir mesele bolup biler.
+- _ Gezelenç wagty (RTT) _: Maglumat paketleriniň çeşmeden barmaly ýerine we yza gaýdyp näçe wagt gerekdigini kesgitleýär. RTT yzygiderli ýokary bolsa ýa-da belli bir hopsyň arasynda ep-esli artsa, torda gijä galmak, päsgelçilik ýa-da dyknyşyk bolup biler.
+- _Request Wagty Out_: Bu ýalňyşlygy görseňiz, maglumat paketiniň belli bir möhletde belli bir hopa ýetip bilmeýändigini aňladýar. Bu, birikmäniň näsazlygynyň, diwar diwarynyň blokirlemeginiň ýa-da paketiň ýitmeginiň alamaty bolup biler.
 
-However, note that some routers may be configured to discard or de-prioritize ICMP echo requests (the packets used by tracert) due to security reasons or traffic management, which might result in incomplete or inaccurate tracert results.
+Şeýle-de bolsa, käbir marşrutizatorlaryň howpsuzlyk ýa-da doly däl ýa-da nädogry netijelere sebäp bolup biläýjek howpsuzlyk sebäpleri ýa-da ýol dolandyryşy sebäpli ICMP echo talaplaryny (yzarlaýjy tarapyndan ulanylýan paketler) ret etmek ýa-da ileri tutmak üçin düzülip bilinjekdigini unutmaň.
 
-## Limitations and Alternatives
+## Çäklendirmeler we alternatiwalar
 
-While tracert is a handy troubleshooting tool, it has some limitations:
+Tracert näsazlyklary düzetmek üçin amatly gural bolsa-da, onuň käbir çäklendirmeleri bar:
 
-- It relies on ICMP (Internet Control Message Protocol) packets, which may be filtered or blocked by firewalls or other network devices.
-- The results might be affected by short-lived network congestions or latency spikes which are not necessarily representative of the average performance.
-- It provides limited insight into the underlying causes of network issues (e.g., hardware failures, software misconfigurations).
+- Diwar diwarlary ýa-da beýleki ulgam enjamlary tarapyndan süzülip ýa-da petiklenip bilinjek ICMP (Internet Control Message Protocol) paketlerine daýanýar.
+- Netijelere ortaça öndürijiligiň hökmany suratda gysga möhletli tor dyknyşyklary ýa-da gijä galmagy täsir edip biler.
+- Ulgam meseleleriniň esasy sebäpleri (meselem, enjamlaryň näsazlyklary, programma üpjünçiliginiň ýalňyş sazlamalary) barada çäkli düşünje berýär.
 
-For more advanced network troubleshooting and analysis, you may consider other tools such as:
+Has ösen ulgam näsazlyklaryny düzetmek we derňemek üçin beýleki gurallary göz öňünde tutup bilersiňiz:
 
-- `ping`: To test basic connectivity and latency towards a specific host or IP address.
-- `nslookup` or `dig`: To look up DNS records, diagnose DNS problems, or verify proper domain name resolution.
-- `mtr` (My Traceroute): Available on Linux and macOS, it combines the functionality of both "traceroute" and "ping," providing real-time, continuous statistics on each hop's performance.
+- "ping": Belli bir öý eýesine ýa-da IP adrese esasy baglanyşygy we gijä galmagy barlamak.
+- "nslookup" ýa-da "dig": DNS ýazgylaryny gözlemek, DNS meselelerini anyklamak ýa-da domen adynyň dogry çözgüdini barlamak.
+- "mtr" (My Traceroute): Linux we macOS-da bar, her "hoperoute" we "ping" -iň işleýşini birleşdirýär, her hopuň ýerine ýetirişine real wagt, üznüksiz statistika berýär.

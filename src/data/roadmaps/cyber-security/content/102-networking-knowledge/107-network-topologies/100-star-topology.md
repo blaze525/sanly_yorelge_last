@@ -1,20 +1,20 @@
-# Star
+# Ýyldyz (star) topologiýa
 
-In a star network topology, all devices (nodes) are connected to a central device, called a hub or switch. The central device manages the data transmission between the devices connected to it, creating a star-like structure.
+Ýyldyz (star) tor topologiýasynda ähli enjamlar (düwünler) merkezi ýa-da wyklýuçatel diýilýän merkezi enjama birikdirilýär. Merkezi enjam, ýyldyz ýaly gurluşy döredip, özüne birikdirilen enjamlaryň arasynda maglumat geçirişini dolandyrýar.
 
-## Advantages
+## Artykmaçlyklary
 
-- **Easy to Install and Configure**: Adding new devices or removing existing ones is quite simple, as they only have to connect or disconnect from the central hub or switch.
-- **Fault-Tolerance**: If a device fails or a connection is broken, the rest of the devices can continue to communicate with each other without any major impact.
-- **Centralized Management**: The central hub or switch can easily manage and monitor the network devices, which makes troubleshooting and maintenance more efficient.
-- **Scalability**: It is easy to expand a star network by connecting additional devices to the central hub or switch, allowing for network growth without affecting performance.
+- ** Gurmak we konfigurasiýa etmek aňsat **: Täze enjamlary goşmak ýa-da bar bolanlary aýyrmak gaty ýönekeý, sebäbi diňe merkezi merkezden ýa-da wyklýuçatelden birikdirmeli ýa-da aýyrmaly.
+- ** Ýalňyşlyga-çydamlylyk **: Enjam şowsuz bolsa ýa-da birikme kesilse, galan enjamlar hiç hili täsir etmezden biri-biri bilen aragatnaşyk saklap bilerler.
+- ** Merkezleşdirilen dolandyryş **: Merkezi merkez ýa-da switche, näsazlyklary düzetmek we tehniki hyzmat etmegi has netijeli edýän tor enjamlaryny aňsatlyk bilen dolandyryp we gözegçilik edip biler.
+- ** Göwrümlilik **: Goşmaça enjamlary merkezi merkeze ýa-da switche birikdirip, öndürijilige täsir etmezden toruň ösmegine mümkinçilik döredip, ýyldyz toruny giňeltmek aňsat.
 
-## Disadvantages
+## Ýetmezçilikleri
 
-- **Dependency on Central Hub or Switch**: If the central device fails, the entire network becomes inoperable. It is essential to ensure the reliability of the central device in a star network.
-- **Cost**: Since a central hub or switch is required, star topologies can be more expensive compared to other network topologies, especially when dealing with larger networks. Additionally, cabling costs can be higher due to individual connections to the central device.
-- **Limited Range**: The distance between devices is determined by the length of the cables connecting to the central hub or switch. Longer cable runs can increase latency and decrease network performance.
+- ** Merkezi merkeze ýa-da wyklýuçatele baglylyk **: Merkezi enjam şowsuz bolsa, tutuş ulgam işlemeýär. Staryldyz torundaky merkezi enjamyň ygtybarlylygyny üpjün etmek möhümdir.
+- ** Bahasy **: Merkezi merkez ýa-da wyklýuçatel zerur bolansoň, ýyldyz topologiýalary beýleki tor topologiýalary bilen deňeşdirilende has gymmat bolup biler, esasanam has uly torlar bilen iş salyşanyňyzda. Mundan başga-da, merkezi enjama aýratyn birikmeler sebäpli kabel çykdajylary has ýokary bolup biler.
+- ** Çäkli aralyk **: Enjamlaryň arasyndaky aralyk merkezi merkeze ýa-da wyklýuçatele birikdirilen kabelleriň uzynlygy bilen kesgitlenýär. Uzyn kabel işlemegi gijä galmagy we toruň işleýşini peseldip biler.
 
-## Applications
+## Programmalar
 
-Star topology is commonly used in home and office networks, as well as in local area networks (LANs). It is a suitable choice when centralized control and easier network management are necessary, or when scalability and easy addition of new devices are priority.
+Topyldyz topologiýasy köplenç öý we ofis torlarynda, şeýle hem ýerli ulgamlarda (LAN) ulanylýar. Merkezleşdirilen gözegçilik we torlary has aňsat dolandyrmak zerur bolanda, ýa-da ulalmak we täze enjamlary aňsat goşmak ileri tutulanda, bu amatly saýlawdyr.

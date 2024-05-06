@@ -1,25 +1,25 @@
 # VLAN Hopping
 
-VLAN hopping is a common network-based attack that exploits the vulnerabilities of the VLAN trunking protocols in a local area network (LAN). The objective of this attack is to gain unauthorized access to other VLANs or to bypass the network's security protocols by hopping between VLANs.
+VLAN atmak, ýerli ulgamda (LAN) VLAN magistral protokollarynyň gowşak ýerlerinden peýdalanýan umumy tor esasly hüjümdir. Bu hüjümiň maksady, beýleki VLAN-lara rugsatsyz girmek ýa-da VLAN-laryň arasynda bökmek arkaly toruň howpsuzlyk protokollaryndan aýlanyp geçmek.
 
-## How VLAN Hopping Works
+## VLAN Hopping nähili işleýär
 
-There are two primary methods of VLAN hopping:
+VLAN atmagyň iki esasy usuly bar:
 
-- **Switch Spoofing:** In this approach, an attacker configures their device to act as a switch and establish a trunk link with the actual network switch. Since trunk links are designed to carry traffic from multiple VLANs, the attacker can then access traffic from all the VLANs that are allowed on the trunk.
+- **Switch Spoofing:** Bu çemeleşmede, hüjümçi enjamyny wyklýuçatel hökmünde hereket edýär we hakyky tor wyklýuçateli bilen magistral baglanyşygyny döredýär. Magistral baglanyşyklary birnäçe VLAN-dan traffigi daşamak üçin niýetlenendigi sebäpli, hüjümçi magistralda rugsat edilen ähli VLAN-lardan traffige girip biler.
 
-- **Double Tagging:** This method involves sending frames with multiple 802.1Q VLAN tags. By adding an extra tag, an attacker can confuse the switch and cause it to forward the frame to another VLAN, providing unauthorized access to that VLAN's traffic.
+- **Iki gezek bellik etmek:** Bu usul birnäçe 802.1Q VLAN belligi bolan ramkalary ibermegi öz içine alýar. Goşmaça bellik goşmak bilen, hüjümçi wyklýuçateli bulaşdyryp, çarçuwany başga bir VLAN-a ugrukdyryp, şol VLAN-yň traffigine rugsatsyz girip biler.
 
-## Preventing VLAN Hopping
+## VLAN atmagyň öňüni almak
 
-To secure your network from VLAN hopping attacks, consider implementing the following best practices:
+Toruňyzy VLAN hüjümlerinden goramak üçin aşakdaky iň oňat tejribäni durmuşa geçirmegi göz öňünde tutuň:
 
-- **Disable Unused Ports:** Shut down any unused ports on your switches and configure them as access ports instead of trunk ports. This will limit the opportunity for an attacker to establish a trunk link.
+- **Ulanylmaýan portlary öçüriň:** Switçleriň ulanylmadyk portlary ýapyň we magistral portlarynyň ýerine giriş portlary hökmünde düzüň. Bu hüjümçiniň magistral baglanyşygyny döretmek mümkinçiligini çäklendirer.
 
-- **Configure Allowed VLANs on Trunk Links:** Restrict the VLANs that can be carried on trunk links by explicitly specifying the allowed VLANs. This will prevent an attacker from accessing unauthorized VLANs through a trunk link.
+- **Rugsat berlen VLAN-lary magistral baglanyşyklarynda sazlaň:** Rugsat berlen VLAN-lary aç-açan görkezmek bilen magistral baglanyşyklarynda amala aşyrylyp bilinjek VLAN-lary çäklendiriň. Bu hüjümçiniň magistral baglanyşygy arkaly birugsat VLAN-lara girmeginiň öňüni alar.
 
-- **Implement VLAN Access Control Lists (VACLs):** VACLs can be used to filter traffic at the VLAN level, preventing unauthorized traffic from entering or leaving a VLAN.
+- **VLAN giriş gözegçilik sanawlaryny (VACL) ýerine ýetiriň:** VACL-ler VLAN derejesinde traffigi süzmek üçin ulanylyp bilner, birugsat traffigiň VLAN-a girmeginiň ýa-da çykmagynyň öňüni alar.
 
-- **Enable 802.1Q Native VLAN Tagging:** By enabling native VLAN tagging and assigning a unique, unused VLAN ID as the native VLAN, you can prevent double tagging attacks.
+- **802.1Q Verli VLAN belligini işletmek:** Lokal VLAN belligini açmak we özboluşly, ulanylmadyk VLAN ID-ni ýerli VLAN hökmünde bellemek bilen, goşa bellik hüjümleriniň öňüni alyp bilersiňiz.
 
-Remember that implementing these security practices is crucial in protecting your network from VLAN hopping and other types of network-based attacks. Always stay vigilant and keep your network's security protocols up-to-date to minimize the chances of a successful cyber attack.
+Bu howpsuzlyk amallaryny durmuşa geçirmek, toruňyzy VLAN bökmekden we tor esasly hüjümlerden goramakda möhüm ähmiýete eýe. Üstünlikli kiberhüjüm ähtimallygyny azaltmak üçin elmydama hüşgär boluň we toruňyzyň howpsuzlyk protokollaryny täzeläň.

@@ -1,64 +1,64 @@
 # tcpdump
 
-Tcpdump is a powerful command-line packet analyzer tool that allows you to monitor and intercept network traffic on your system. This utility is beneficial for troubleshooting network connectivity problems and analyzing network protocols. Tcpdump can capture and display the packet headers on a particular network interface or a specific port.
+Tcpdump ulgamyňyzdaky tor trafigine gözegçilik etmäge we saklamaga mümkinçilik berýän güýçli buýruk setiri paket analizatorydyr. Bu kömek, tor birikdiriş meselelerini çözmek we tor protokollaryny seljermek üçin peýdalydyr. Tcpdump paket sözbaşylaryny belli bir ulgam interfeýsinde ýa-da belli bir portda görkezip we görkezip biler.
 
-## Key Features
+## Esasy aýratynlyklar
 
-- Capture packets in real-time
-- Display captured packets in a human-readable format
-- Write packets to a file and read saved packet files
-- Filter packets based on specific conditions such as IP addresses, protocol, or port
+- Paketleri hakyky wagtda alyň
+- Alnan paketleri adam tarapyndan okalýan görnüşde görkeziň
+- Paketleri bir faýla ýazyň we saklanan paket faýllaryny okaň
+- IP adresleri, protokol ýa-da port ýaly aýratyn şertlere esaslanýan paketleri süzüň
 
-## Basic Usage
+## Esasy ulanyş
 
-To start using Tcpdump, open your terminal/command line and enter the following command:
+Tcpdump ulanyp başlamak üçin terminaly / buýruk setirini açyň we aşakdaky buýrugy giriziň:
 
-```bash
-tcpdump -i any
-```
+`` bash
+tcpdump -i islendik
+``
 
-This command will capture packets on all network interfaces. The output will display source and destination IP addresses, port numbers, and packet length.
+Bu buýruk ähli tor interfeýslerinde paketleri ele alar. Çykyş çeşmesini we barjak IP adreslerini, port belgilerini we paketiň uzynlygyny görkezer.
 
-## Common Tcpdump Commands
+## Umumy Tcpdump buýruklary
 
-Here are some essential tcpdump commands for different tasks:
+Dürli meseleler üçin käbir möhüm tcpdump buýruklary:
 
-- **Monitor a specific interface**: To monitor a specific network interface, replace `<INTERFACE>` with the name of the interface you want to monitor:
+- ** Belli bir interfeýsine gözegçilik **: Belli bir tor interfeýsine gözegçilik etmek üçin, "<INTERFACE>" gözegçilik etmek isleýän interfeýsiňiziň ady bilen çalşyň:
 
-  ```bash
-  tcpdump -i <INTERFACE>
-  ```
+   `` bash
+   tcpdump -i <INTERFACE>
+   ``
 
-- **Capture specific number of packets:** To capture a specific number of packets, use the `-c` option followed by the number of packets you want to capture:
+- ** Aýratyn paketleriň sanyny alyň: ** Belli bir mukdarda paket almak üçin, "-c" opsiýasyny ulanyň, soň bolsa almak isleýän paketleriňiziň sany:
 
-  ```bash
-  tcpdump -i any -c 10
-  ```
+   `` bash
+   tcpdump -i islendik -c 10
+   ``
 
-- **Save captured packets to a file:** Tcpdump can save the captured packets to a file for further analysis. To save the packets in a file, use the `-w` option followed by the file name:
+- ** Alnan paketleri bir faýla ýazdyryň: ** Tcpdump ele alnan paketleri goşmaça derňew üçin faýla ýazdyryp biler. Paketleri faýlda saklamak üçin faýlyň adyndan soň "-w" opsiýasyny ulanyň:
 
-  ```bash
-  tcpdump -i any -w capture.pcap
-  ```
+   `` bash
+   tcpdump -i any -w capture.pcap
+   ``
 
-- **Filter captured packets**: You can filter the captured packets by various parameters such as IP addresses, protocol, or port numbers. Some examples of the filter are:
+- ** Surata alnan paketleri süzüň **: Alnan paketleri IP adresleri, protokol ýa-da port belgileri ýaly dürli parametrler boýunça süzüp bilersiňiz. Süzgüjiň käbir mysallary:
 
-  - Capture packets from/to a specific IP address:
+   - Paketleri belli bir IP adrese alyň:
 
-    ```bash
-    tcpdump -i any host 192.168.1.1
-    ```
+     `` bash
+     tcpdump -i islendik host 192.168.1.1
+     ``
 
-  - Capture packets related to a specific port:
+   - Belli bir port bilen baglanyşykly paketleri alyň:
 
-    ```bash
-    tcpdump -i any port 80
-    ```
+     `` bash
+     tcpdump -i islendik port 80
+     ``
 
-  - Capture packets by protocol (e.g., icmp, tcp, or udp):
+   - Paketleri protokol arkaly alyň (meselem, icmp, tcp ýa-da udp):
 
-    ```bash
-    tcpdump -i any icmp
-    ```
+     `` bash
+     tcpdump -i islendik icmp
+     ``
 
-You can learn more about tcpdump filters and advanced options from its official documentation or by typing `man tcpdump` in your terminal. Tcpdump is an invaluable tool for any network administrator and will help you get to the root of any network issues.
+Tcpdump süzgüçleri we ösen opsiýalary barada resmi resminamalaryndan ýa-da terminalyňyza "man tcpdump" ýazyp bilersiňiz. Tcpdump islendik ulgam dolandyryjysy üçin bahasyna ýetip bolmajak guraldyr we islendik ulgam meseleleriniň köküne çykmaga kömek eder.

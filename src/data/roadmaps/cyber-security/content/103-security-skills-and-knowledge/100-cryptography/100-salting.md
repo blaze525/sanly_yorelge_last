@@ -1,52 +1,52 @@
-# Salting
+# Duzlaşdyrmak
 
-Salting is a crucial concept within the realm of cryptography. It is a technique employed to enhance the security of passwords or equivalent sensitive data by adding an extra layer of protection to safeguard them against hacking attempts, such as brute-force attacks or dictionary attacks.
+Duzlamak kriptografiýa pudagynda möhüm düşünje. Bu, parollaryň ýa-da şoňa meňzeş duýgur maglumatlaryň howpsuzlygyny ýokarlandyrmak üçin ulanylýan usul, zalym güýç hüjümleri ýa-da sözlük hüjümleri ýaly haker synanyşyklaryndan goramak üçin goşmaça gorag gatlagyny goşmak arkaly ulanylýar.
 
-In this section, we will dive deeper into the following topics:
+Bu bölümde aşakdaky mowzuklara has çuňňur öwreneris:
 
-- [What is salting?](#what-is-salting)
-- [Why is salting important?](#why-is-salting-important)
-- [How does salting work?](#how-does-salting-work)
-- [Best practices for salting](#best-practices-for-salting)
-
----
-
-## What is salting?
-
-A _salt_ is a random string of data that is generated and combined with a user's password (or any other sensitive data) before hashing. The primary purpose of a salt is to make the hashed output of a password unique, even if two users use the exact same password. Since salts are typically randomly generated for each user, the likelihood of two users having the same salt is minimal.
-
-## Why is salting important?
-
-Salting is essential in enhancing password security for the following reasons:
-
-- **Prevents the use of precomputed tables:** Attackers often use precomputed tables, such as rainbow tables or lookup tables, to efficiently crack password hashes. By introducing unique salts, these tables are rendered ineffective, as they do not account for the variations in the password hash resulting from the added salt.
-
-- **Defends against dictionary attacks:** As salts create unique password hashes for identical passwords, attackers can no longer rely on simple dictionary attacks to crack multiple hashes simultaneously. They must instead attempt to crack each salted hash individually, which is significantly more time-consuming and resource-intensive.
-
-## How does salting work?
-
-When implementing salting, keep in mind the following steps:
-
-- **Generation of a unique salt:** When a user creates or updates their password, a unique salt is generated using a cryptographically secure random number generator.
-
-- **Combining the salt and password:** The generated salt is then combined with the user's password through concatenation or another similar method.
-
-- **Hashing the salt and password:** The salted password is hashed using a secure hashing algorithm, producing a unique hash output.
-
-- **Storing the salt and hashed password:** Both the salt and hashed password are stored securely in the database alongside the user's account information. The salt is required for verifying the password during future authentication attempts.
-
-## Best practices for salting
-
-These suggested best practices can maximize the effectiveness of salting:
-
-- **Use a unique salt for each user:** Generating a distinct salt for every user ensures that identical passwords yield unique password hashes.
-
-- **Employ a secure random number generator:** Using a cryptographically secure random number generator minimizes the likelihood of pattern repetition and enhances the robustness of salts.
-
-- **Combine salts with a strong hashing algorithm:** Pairing salting with an established and secure hashing algorithm—such as bcrypt, scrypt, or Argon2—can significantly improve password security.
-
-- **Consider peppering:** In addition to salting, consider incorporating a _pepper_—a secret key stored separately from the database—for extra security. Hashing a combination of the password, salt, and pepper can dramatically increase the difficulty of password hash cracking.
+- [Duzlamak näme?] (# Duzlamak näme)
+- [Näme üçin duzlamak möhüm?] (# Näme üçin duzlamak möhüm)
+- [Duzlamak nähili işleýär?] (# Duzlamak nähili işleýär)
+- [Duzlamak üçin iň oňat tejribe] (# iň oňat tejribe-duzlamak üçin)
 
 ---
 
-In summary, salting is a vital technique that enhances password security by adding a unique and random element to each password hash. This added layer of protection defends against precomputed tables and dictionary attacks, ensuring the security of user credentials in the face of persistent hacking efforts. Paired with best practices, salting can provide a robust defense against the ever-evolving threats in the cybersecurity landscape.
+## Duzlamak näme?
+
+A _salt_, ýuwulmazdan ozal ulanyjynyň paroly (ýa-da başga bir duýgur maglumatlar) bilen döredilýän we birleşdirilen tötänleýin maglumatlar setiridir. Duzyň esasy maksady, iki ulanyjy şol bir paroly ulansa-da, parolyň ýuwulan çykyşyny üýtgeşik etmekdir. Duzlar adatça her ulanyjy üçin tötänleýin döredilýändigi sebäpli, iki ulanyjynyň bir duzuň bolmagy ähtimallygy gaty az.
+
+## Näme üçin duzlamak möhüm?
+
+Aşakdaky sebäplere görä parol howpsuzlygyny ýokarlandyrmakda duzlamak möhümdir:
+
+- ** Öňünden hasaplanan tablisalaryň ulanylmagynyň öňüni alýar: ** Hüjümçiler parol hasalaryny netijeli döwmek üçin köplenç älemgoşar stollary ýa-da gözleg tablisalary ýaly hasaplanan tablisalary ulanýarlar. Üýtgeşik duzlary girizmek bilen, bu tablisalar netijesiz bolýar, sebäbi goşulan duzuň netijesinde parol hashiniň üýtgemelerini hasaba almaýar.
+
+- ** Sözlük hüjümlerinden goraýar: ** Duzlar birmeňzeş parollar üçin özboluşly parol heşlerini döredýänligi sebäpli, hüjümçiler bir wagtyň özünde birnäçe hasy döwmek üçin ýönekeý sözlük hüjümlerine bil baglap bilmeýärler. Muňa derek her köp duzlanan heşi aýratynlykda döwmäge synanyşmaly, bu bolsa has köp wagt talap edýär we serişde talap edýär.
+
+## Duzlamak nähili işleýär?
+
+Duzlamak amala aşyrylanda aşakdaky ädimleri ýadyňyzdan çykarmaň:
+
+- ** Üýtgeşik duzuň emele gelmegi: ** Ulanyjy parolyny döredeninde ýa-da täzeläninde, kriptografiki taýdan ygtybarly tötänleýin generator ulanyp, özboluşly duz emele gelýär.
+
+- ** Duz bilen paroly birleşdirmek: ** Döredilen duz, ulanyjynyň paroly bilen birleşmek ýa-da başga bir usul bilen birleşdirilýär.
+
+- ** Duzy we paroly ýuwmak: ** Duzlanan parol, ygtybarly hash algoritmini ulanyp ýuwulýar we özboluşly hash çykaryşyny döredýär.
+
+- ** Duz we ýuwulan paroly saklamak: ** Duz we ýuwulan parol, ulanyjynyň hasaby maglumatlary bilen birlikde maglumatlar bazasynda ygtybarly saklanýar. Geljekki tanamak synanyşyklarynda paroly barlamak üçin duz talap edilýär.
+
+## Duzlamak üçin iň oňat tejribe
+
+Bu teklip edilen iň oňat tejribe duzlamagyň netijeliligini ýokarlandyryp biler:
+
+- ** Her ulanyjy üçin özboluşly duz ulanyň: ** Her ulanyjy üçin aýratyn duz öndürmek, birmeňzeş parollaryň özboluşly parol haslaryny bermegini üpjün edýär.
+
+- ** Ygtybarly tötänleýin san generatoryny işlediň: ** Kriptografiki taýdan ygtybarly tötänleýin san generatoryny ulanmak nagşyň gaýtalanmagyny azaldýar we duzlaryň berkligini ýokarlandyrýar.
+
+- ** Duzlary güýçli ýuwmak algoritmi bilen birleşdiriň: ** Düzmek, şifrlemek, skript ýa-da Argon2 ýaly kesgitlenen we ygtybarly ýuwmak algoritmi bilen jübütlemek, parol howpsuzlygyny ep-esli ýokarlandyryp biler.
+
+- ** Burç etmegi göz öňünde tutuň: ** Duzlamakdan başga-da, goşmaça howpsuzlyk üçin _pepper_ - maglumatlar bazasyndan aýratyn saklanýan gizlin açary goşmagy göz öňünde tutuň. Parolyň, duzuň we burçuň birleşmesini ýuwmak, parolyň hash döwülmeginiň kynlygyny ep-esli ýokarlandyryp biler.
+
+---
+
+Gysgaça aýtsak, duzlamak her parol hashine özboluşly we tötänleýin element goşmak bilen parol howpsuzlygyny ýokarlandyrýan möhüm usuldyr. Bu goşmaça gorag gatlagy, dowamly haker tagallalary sebäpli ulanyjy şahsyýet maglumatlarynyň howpsuzlygyny üpjün edýän deslapky tablisalardan we sözlük hüjümlerinden goraýar. Iň oňat tejribe bilen jübütlenen duzlamak, kiberhowpsuzlyk landşaftynda hemişe ösýän howplardan berk gorag üpjün edip biler.

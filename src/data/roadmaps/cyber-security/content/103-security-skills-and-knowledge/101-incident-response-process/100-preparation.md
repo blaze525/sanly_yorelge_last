@@ -1,33 +1,33 @@
-# Preparation
+# Taýýarlyk
 
-The **preparation** stage of the incident response process is crucial to ensure the organization's readiness to effectively deal with any type of security incidents. This stage revolves around establishing and maintaining an incident response plan, creating an incident response team, and providing proper training and awareness sessions for the employees. Below, we'll highlight some key aspects of the preparation stage.
+Wakalara jogap bermek prosesiniň ** taýýarlyk tapgyry, guramanyň islendik howpsuzlyk hadysalaryna netijeli çemeleşmäge taýýardygyny üpjün etmek üçin möhümdir. Bu etap, hadysalara jogap meýilnamasyny döretmek we goldamak, hadysalara jogap topary döretmek we işgärler üçin degişli okuw we habar beriş sapaklaryny öz içine alýar. Aşakda taýýarlyk tapgyrynyň käbir möhüm taraplaryny belläris.
 
-## Incident Response Plan
+## Wakalara jogap meýilnamasy
 
-An _Incident Response Plan_ is a documented set of guidelines and procedures for identifying, investigating, and responding to security incidents. It should include the following components:
+_ Tötänleýin jogap meýilnamasy_ howpsuzlyk hadysalaryny ýüze çykarmak, derňemek we olara jogap bermek üçin resminamalaşdyrylan görkezmeler we proseduralardyr. Aşakdaky bölekleri öz içine almalydyr:
 
-- **Roles and Responsibilities**: Define the roles within the incident response team and the responsibilities of each member.
-- **Incident Classification**: Establish criteria to classify incidents based on their severity, impact, and type.
-- **Escalation Procedures**: Define a clear path for escalating incidents depending on their classification, involving relevant stakeholders when necessary.
-- **Communication Guidelines**: Set up procedures to communicate about incidents internally within the organization, as well as externally with partners, law enforcement, and the media.
-- **Response Procedures**: Outline the steps to be taken for each incident classification, from identification to resolution.
+- ** Rollar we jogapkärçilikler **: Waka jogap toparynyň içindäki rollary we her agzanyň jogapkärçiligini kesgitläň.
+- ** Wakalaryň klassifikasiýasy **: Wakalary agyrlygyna, täsirine we görnüşine görä toparlara bölmek üçin ölçegleri kesgitläň.
+- ** Eskalasiýa proseduralary **: Zerur bolanda degişli gyzyklanýan taraplary çekmek bilen, toparlara baglylykda hadysalaryň köpelmeginiň anyk ýoluny kesgitläň.
+- ** Aragatnaşyk görkezmeleri **: Guramanyň içinde, şeýle hem daşarky hyzmatdaşlar, hukuk goraýjy edaralar we habar beriş serişdeleri bilen bolup geçýän wakalar barada habarlaşmak üçin proseduralary düzüň.
+- ** Jogap beriş proseduralary **: Her hadysanyň klassifikasiýasy üçin şahsyýeti kesgitlemekden başlap çözülýän ädimleri görkeziň.
 
-## Incident Response Team
+## Wakalara jogap topary
 
-An _Incident Response Team_ is a group of individuals within an organization that have been appointed to manage security incidents. The team should be comprised of members with diverse skillsets and backgrounds, including but not limited to:
+_ Tötänleýin jogap topary - howpsuzlyk hadysalaryny dolandyrmak üçin bellenen guramanyň içindäki şahsyýetler topary. Topar dürli başarnyklary we derejesi bolan agzalardan ybarat bolmaly, şol sanda:
 
-- Security Analysts
-- Network Engineers
-- IT Managers
-- Legal Counsel
-- Public Relations Representatives
+- Howpsuzlyk Analitikleri
+- Tor inersenerleri
+- IT dolandyryjylary
+- Hukuk geňeşçisi
+- Jemgyýetçilik gatnaşyklary wekilleri
 
-## Training and Awareness
+## Okuw we habardar bolmak
 
-Employee training and awareness is a crucial component of the preparation stage. This includes providing regular training sessions on security best practices and the incident response process, as well as conducting simulated incident exercises to evaluate the efficiency of the response plan and the team's readiness.
+Işgärleri taýýarlamak we habarlylyk taýýarlyk tapgyrynyň möhüm bölegidir. Munuň özi howpsuzlygyň iň oňat tejribeleri we hadysalara jogap bermek prosesi boýunça yzygiderli okuw sapaklaryny bermegi, şeýle hem jogap meýilnamasynyň netijeliligini we toparyň taýýarlygyny bahalandyrmak üçin simulýasiýa hadysalaryny geçirmegi öz içine alýar.
 
-## Continuous Improvement
+## Üznüksiz kämilleşdiriş
 
-The preparation phase is not a one-time activity; it should be regularly revisited, evaluated, and updated based on lessons learned from previous incidents, changes in the organization's structure, and emerging threats in the cybersecurity landscape.
+Taýýarlyk tapgyry bir gezeklik iş däl; öňki wakalardan alnan sapaklara, guramanyň düzümindäki üýtgeşmelere we kiberhowpsuzlyk şertlerinde ýüze çykýan howplara esaslanyp yzygiderli gözden geçirilmeli, baha berilmeli we täzelenmeli.
 
-In summary, the preparation stage is the foundation of an effective incident response process. By establishing a comprehensive plan, assembling a skilled team, and ensuring ongoing employee training and awareness, organizations can minimize the potential damage of cybersecurity incidents and respond to them quickly and effectively.
+Gysgaça aýdylanda, taýýarlyk tapgyry täsirli hadysalara jogap bermek prosesiniň esasyny düzýär. Giňişleýin meýilnama döretmek, ökde topar ýygnamak we işgärleriň yzygiderli taýýarlanmagyny we habardarlygyny üpjün etmek bilen guramalar kiberhowpsuzlyk hadysalarynyň bolup biljek zyýanyny azaldyp, olara çalt we täsirli jogap berip bilerler.

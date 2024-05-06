@@ -1,34 +1,34 @@
-# DNS Poisoning
+# DNS zäherlenmesi
 
-**DNS Poisoning**, also known as **DNS Cache Poisoning** or **DNS Spoofing**, is a type of cyberattack where cyber-criminals manipulate the Domain Name System (DNS) responses to redirect users to malicious websites. Let's dive deeper to understand how it works and its potential impact.
+** DNS Zäherlenmesi **, şeýle hem ** DNS Keş Zäherlenmesi ** ýa-da ** DNS Spoofing ** diýlip hem bilinýär, kiber jenaýatçylar ulanyjylary zyýanly web sahypalaryna gönükdirmek üçin Domain Name System (DNS) jogaplaryny dolandyrýan kiberhüjümiň bir görnüşidir. Onuň nähili işleýändigini we bolup biljek täsirine düşünmek üçin has çuňňur çümeliň.
 
-## How DNS Poisoning Works
+## DNS zäherlenmesi nähili işleýär
 
-The DNS is like the internet's phonebook; it translates human-readable domain names (e.g., www.example.com) into their corresponding IP addresses for computers to understand. This process involves a DNS resolver, which refers to a cached DNS database to find the correct IP address. In a DNS poisoning attack, an attacker exploits vulnerabilities in the DNS to inject false or malicious data into a DNS resolver's cache.
+DNS internetiň telefon kitabyna meňzeýär; kompýuterlere düşünmek üçin adam okalýan domen atlaryny (meselem, www.example.com) degişli IP adreslerine terjime edýär. Bu amal, dogry IP adresi tapmak üçin keş görnüşli DNS maglumatlar bazasyna degişli DNS çözüjisini öz içine alýar. DNS zäherlenme hüjüminde hüjümçi DNS çözgüdiniň keşine ýalan ýa-da zyýanly maglumatlary girizmek üçin DNS-de gowşak goralanlyklardan peýdalanýar.
 
-Here's a quick outline of the process:
+Ine, prosesiň gysgaça beýany:
 
-- User requests the IP address for a legitimate website (e.g., www.example.com).
-- The DNS resolver sends a request to a DNS server to resolve the domain name into the IP address.
-- The attacker intercepts the DNS request and injects false DNS information into the DNS resolver's cache.
-- The DNS resolver then returns the falsified IP address to the user.
-- The user unknowingly accesses the attacker-controlled malicious website instead of the intended legitimate site.
+- Ulanyjy kanuny web sahypasy üçin IP adresini soraýar (meselem, www.example.com).
+- DNS çözüjisi, domen adyny IP adresine çözmek üçin DNS serwerine haýyş iberýär.
+- Hüjümçi DNS haýyşyny kabul edýär we DNS çözüjiniň keşine ýalan DNS maglumatlary girizýär.
+- DNS çözgüdi soňra galp IP adresi ulanyja gaýtaryp berýär.
+- Ulanyjy göz öňünde tutulan kanuny sahypanyň ýerine hüjümçiniň gözegçiligindäki zyýanly web sahypasyna bilmän girýär.
 
-## Impacts of DNS Poisoning
+## DNS zäherlenmesiniň täsiri
 
-DNS poisoning has several potential impacts on both users and organizations:
+DNS zäherlenmesi ulanyjylara we guramalara birnäçe täsir edip biler:
 
-- **Phishing and Identity Theft**: By redirecting users to malicious websites, attackers can steal sensitive information, such as login credentials or personal details, to be used for identity theft or other fraudulent activities.
-- **Malware Distribution**: Malicious websites may expose users to malware, ransomware, or other cyber threats.
-- **Loss of Trust**: If an organization's domain is targeted in a DNS poisoning attack, its customers may lose trust and doubt the security of the organization's online services.
+- ** Balyk tutmak we şahsyýet ogurlygy **: Ulanyjylary zyýanly web sahypalaryna gönükdirmek bilen, hüjümçiler şahsyýet maglumatlary ogurlamak ýa-da beýleki galp işler üçin ulanmak üçin giriş şahsyýetnamasy ýa-da şahsy maglumatlar ýaly duýgur maglumatlary ogurlap bilerler.
+- ** Zyýanly programma üpjünçiliginiň paýlanyşy **: Zyýanly web sahypalary ulanyjylara zyýanly programma üpjünçiligine, töleg programma üpjünçiligine ýa-da beýleki kiber howplara sezewar bolup biler.
+- ** Ynamy ýitirmek **: DNS zäherlenmesi bilen bir guramanyň domeni nyşana alynsa, müşderileri ynamyny ýitirip, guramanyň onlaýn hyzmatlarynyň howpsuzlygyna şübhelenip bilerler.
 
-## Preventing and Mitigating DNS Poisoning
+## DNS zäherlenmeginiň öňüni almak we azaltmak
 
-Here are some steps you can take to prevent and mitigate the risk of DNS poisoning:
+DNS zäherlenmeginiň öňüni almak we azaltmak üçin käbir ädimler:
 
-- **Use DNSSEC**: DNSSEC (Domain Name System Security Extensions) is a security protocol that adds an additional layer of authentication and integrity to DNS responses, making it harder for attackers to corrupt DNS data.
-- **Keep Software Updated**: Regularly update your DNS software, operating systems, and other network tools to ensure they're protected against known vulnerabilities.
-- **Use Secure DNS Resolvers**: Choose a secure DNS resolver that has built-in mechanisms to prevent DNS poisoning, such as validating DNSSEC signatures.
-- **Monitor Your DNS Traffic**: Regularly monitoring DNS query logs can help you identify suspicious patterns or unusual activities, which may indicate DNS poisoning attempts.
+- ** DNSSEC ulanyň **: DNSSEC (Domain Name System Security Extensions), DNS jogaplaryna goşmaça tassyklama we bitewilik goşýan howpsuzlyk protokoly bolup, hüjümçileriň DNS maglumatlaryny zaýalamagyny kynlaşdyrýar.
+- ** Programma üpjünçiligini täzeläň **: DNS programma üpjünçiligiňizi, operasiýa ulgamlaryňyzy we beýleki ulgam gurallaryňyzy belli gowşak goralanlyklardan goramagyny üpjün etmek üçin yzygiderli täzeläň.
+- ** Howpsuz DNS çözüjilerini ulanyň **: DNSSEC gollaryny tassyklamak ýaly DNS zäherlenmeginiň öňüni almak üçin gurlan mehanizmleri bolan ygtybarly DNS çözüjini saýlaň.
+- ** DNS traffigiňyza gözegçilik ediň **: DNS talap ýazgylaryna yzygiderli gözegçilik etmek, DNS zäherlenmelerini görkezip biljek şübheli nagyşlary ýa-da adaty bolmadyk çäreleri kesgitlemäge kömek edip biler.
 
-In summary, DNS poisoning is a potent cyber threat that manipulates DNS data to redirect users to malicious websites. By implementing security measures such as DNSSEC, keeping software updated, and closely monitoring DNS traffic, you can significantly reduce the risk of falling victim to DNS poisoning attacks.
+Gysgaça aýtsak, DNS zäherlenmesi ulanyjylary zyýanly web sahypalaryna gönükdirmek üçin DNS maglumatlaryny dolandyrýan güýçli kiber howpudyr. DNSSEC ýaly howpsuzlyk çärelerini durmuşa geçirip, programma üpjünçiligini täzeläp, DNS traffigine ýakyndan gözegçilik edip, DNS zäherlenmeleriniň pidasy bolmak howpuny ep-esli azaldyp bilersiňiz.

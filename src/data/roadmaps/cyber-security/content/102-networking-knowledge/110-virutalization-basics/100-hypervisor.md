@@ -1,29 +1,29 @@
-# Hypervisor
+# Giperwizor
 
-A **hypervisor** is a software component that plays a vital role in virtualization technology. It enables multiple operating systems to run simultaneously on a single physical host. In the context of cybersecurity, using a hypervisor allows users to create and manage multiple isolated virtual environments, commonly known as **virtual machines (VMs)**, which can help protect sensitive data and applications from threats.
+A ** giperwizor ** wirtuallaşdyrma tehnologiýasynda möhüm rol oýnaýan programma üpjünçiligi komponentidir. Birnäçe operasiýa ulgamynyň bir fiziki hostda bir wagtda işlemegine mümkinçilik berýär. Kiberhowpsuzlyk nukdaýnazaryndan, giperwizor ulanmak ulanyjylara duýgur maglumatlary we programmalary howplardan goramaga kömek edip biljek ** wirtual maşynlar (VM) ** diýlip atlandyrylýan birnäçe izolirlenen wirtual gurşawy döretmäge we dolandyrmaga mümkinçilik berýär.
 
-There are two primary types of hypervisors:
+Giperwizorlaryň esasy iki görnüşi bar:
 
-- **Type 1 hypervisors** (_Bare-metal Hypervisors_) - These hypervisors run directly on the host's hardware, without the need for an underlying operating system, offering better performance and security. Examples of type 1 hypervisors include VMware ESXi, Microsoft Hyper-V, and Xen.
+- ** 1-nji tipli giperwizorlar ** (_Bare-metal giperwizorlar_) - Bu giperwizorlar has gowy öndürijilik we howpsuzlyk hödürleýän esasy operasiýa ulgamynyň zerurlygy bolmazdan gönüden-göni öý eýesiniň enjamynda işleýär. 1-nji görnüşli giperwizorlara mysal hökmünde VMware ESXi, Microsoft Hyper-V we Xen degişlidir.
 
-- **Type 2 hypervisors** (_Hosted Hypervisors_) - These hypervisors run as an application on an existing operating system, which makes them less performant and potentially less secure. However, they are generally easier to set up and manage. Examples of type 2 hypervisors include Oracle VirtualBox, VMware Workstation, and Parallels Desktop.
+- ** 2 görnüşli giperwizorlar ** (_Hosted giperwizorlar_) - Bu giperwizorlar bar bolan operasiýa ulgamynda programma hökmünde işleýär, bu bolsa olary has az öndürijilikli we potensial has ygtybarly edýär. Şeýle-de bolsa, olary gurmak we dolandyrmak has aňsat. 2-nji görnüşli giperwizorlara mysal hökmünde Oracle VirtualBox, VMware Workstation we Parallels Desktop degişlidir.
 
-## Benefits of using a Hypervisor
+## Giperwizor ulanmagyň peýdalary
 
-Utilizing a hypervisor in your cybersecurity strategy can provide several benefits, such as:
+Kiberhowpsuzlyk strategiýasynda giperwizoryň ulanylmagy birnäçe peýdany üpjün edip biler, meselem:
 
-- **Isolation:** Each VM operates in a separate environment, decreasing the chance that a security breach on one VM will affect the others.
-- **Flexibility:** VMs can be easily created, modified, or destroyed, allowing for easy management and reduced downtime.
-- **Resource Management:** Hypervisors can effectively manage resources among the various VMs, ensuring that no single VM monopolizes the available resources.
-- **Snapshotting:** Hypervisors can create snapshots of a VM's state, allowing for easy recovery and rollback in case of a security incident or system failure.
+- ** Izolýasiýa: ** Her VM aýratyn gurşawda işleýär, bir VM-de howpsuzlyk düzgüniniň beýlekisine täsir etmek mümkinçiligini azaldar.
+- ** Çeýeligi: ** VM-ler aňsat döredilip, üýtgedilip ýa-da ýok edilip bilner, bu aňsat dolandyryşa we iş wagtynyň azalmagyna mümkinçilik berýär.
+- ** Resurslary dolandyrmak: ** Giperwizorlar dürli VM-leriň arasynda çeşmeleri netijeli dolandyryp bilerler, hiç bir VM-iň bar bolan çeşmeleri monopoliýa etmezligini üpjün edip bilerler.
+- ** Surata düşürmek: ** Giperwizorlar, VM hadysasynyň suratlaryny döredip bilerler, howpsuzlyk hadysasy ýa-da ulgam näsazlygy ýüze çykan halatynda aňsat dikeldiş we yzyna dolanmaga mümkinçilik berer.
 
-## Hypervisor Security Considerations
+## Giperwizor howpsuzlygy barada pikirler
 
-Though hypervisors can enhance your cybersecurity posture, it's essential to be aware of potential security risks and best practices. Some security considerations include:
+Giperwizorlar kiberhowpsuzlygyňyzy güýçlendirip bilse-de, potensial howpsuzlyk töwekgelçiliklerinden we öňdebaryjy tejribeden habarly bolmak zerurdyr. Käbir howpsuzlyk pikirleri şulary öz içine alýar:
 
-- **Secure configuration and patch management:** Ensure that the hypervisor is configured securely, and patches are applied promptly to protect against known vulnerabilities.
-- **Limiting hypervisor access:** Restrict access to the hypervisor by allowing only authorized users and implementing strong authentication and access controls.
-- **Monitoring:** Implement continuous monitoring and logging mechanisms to detect and respond to potential security threats in the virtual environment.
-- **Network Segmentation:** Isolate sensitive VMs on separate networks or virtual LANs (VLANs) to minimize the risk of unauthorized access or lateral movement within the virtualized environment.
+- ** Howpsuz konfigurasiýa we patch dolandyryşy: ** Giperwizoryň ygtybarly düzülendigine göz ýetiriň we belli gowşak goralan ýerlerden goramak üçin ýamalar derrew ulanylýar.
+- ** Giperwizoryň girişini çäklendirmek: ** Diňe ygtyýarly ulanyjylara rugsat bermek we güýçli tanamak we giriş gözegçiliklerini amala aşyrmak arkaly giperwizoryň girişini çäklendiriň.
+- ** Gözegçilik: ** Wirtual gurşawda bolup biljek howpsuzlyk howplaryny ýüze çykarmak we olara jogap bermek üçin üznüksiz gözegçilik we hasaba alyş mehanizmlerini durmuşa geçiriň.
+- ** Tor segmentasiýasy: ** Wirtuallaşdyrylan gurşawda birugsat girmek ýa-da gapdal hereket etmek howpuny azaltmak üçin duýgur VM-leri aýratyn torlarda ýa-da wirtual LAN-larda (VLAN) izolirläň.
 
-In conclusion, a hypervisor is a powerful tool in cybersecurity and virtualization. By understanding its types, benefits, and security considerations, you can make informed decisions on how to best leverage hypervisor technology to protect your digital assets.
+Sözümiň ahyrynda, giperwizor kiberhowpsuzlyk we wirtuallaşdyrmak üçin güýçli guraldyr. Onuň görnüşlerine, peýdalaryna we howpsuzlyk pikirlerine düşünmek bilen, sanly aktiwleriňizi goramak üçin giperwizor tehnologiýasyny nädip has gowy ulanmalydygy barada habarly karar berip bilersiňiz.

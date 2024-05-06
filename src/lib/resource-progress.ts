@@ -7,7 +7,7 @@ import { roadmapProgress, totalRoadmapNodes } from '../stores/roadmap.ts';
 
 export type ResourceType = 'roadmap' | 'best-practice';
 export type ResourceProgressType =
-  | 'ýerine ýetirildi'
+  | 'ýerineýetirildi'
   | 'öwrenilýär'
   | 'dowamynda'
   | 'geçilen'
@@ -34,7 +34,7 @@ export async function getTopicStatus(
   const progressResult = await getResourceProgress(resourceType, resourceId);
 
   if (progressResult?.done?.includes(topicId)) {
-    return 'ýerine ýetirildi';
+    return 'ýerineýetirildi';
   }
 
   if (progressResult?.learning?.includes(topicId)) {
@@ -244,26 +244,26 @@ export function renderTopicProgress(
 ) {
   const isLearning = topicProgress === 'öwrenilýär';
   const isSkipped = topicProgress === 'geçilen';
-  const isDone = topicProgress === 'ýerine ýetirildi';
+  const isDone = topicProgress === 'ýerineýetirildi';
   const isRemoved = topicProgress === 'pozulan';
 
   const matchingElements: Element[] = topicSelectorAll(topicId);
 
   matchingElements.forEach((element) => {
     if (isDone) {
-      element.classList.add('ýerine ýetirildi');
+      element.classList.add('ýerineýetirildi');
       element.classList.remove('öwrenilýär', 'geçilen');
     } else if (isLearning) {
       element.classList.add('öwrenilýär');
-      element.classList.remove('ýerine ýetirildi', 'geçilen');
+      element.classList.remove('ýerineýetirildi', 'geçilen');
     } else if (isSkipped) {
       element.classList.add('geçilen');
-      element.classList.remove('ýerine ýetirildi', 'öwrenilýär');
+      element.classList.remove('ýerineýetirildi', 'öwrenilýär');
     } else if (isRemoved) {
       element.classList.add('pozulan');
-      element.classList.remove('ýerine ýetirildi', 'öwrenilýär', 'geçilen');
+      element.classList.remove('ýerineýetirildi', 'öwrenilýär', 'geçilen');
     } else {
-      element.classList.remove('ýerine ýetirildi', 'geçilen', 'öwrenilýär', 'pozulan');
+      element.classList.remove('ýerineýetirildi', 'geçilen', 'öwrenilýär', 'pozulan');
     }
   });
 }
@@ -277,7 +277,7 @@ export function clearResourceProgress() {
     '.react-flow__node-subtopic',
   ]);
   for (const clickableElement of matchingElements) {
-    clickableElement.classList.remove('ýerine ýetirildi', 'geçilen', 'öwrenilýär', 'pozulan');
+    clickableElement.classList.remove('ýerineýetirildi', 'geçilen', 'öwrenilýär', 'pozulan');
   }
 }
 
@@ -292,7 +292,7 @@ export async function renderResourceProgress(
   } = (await getResourceProgress(resourceType, resourceId)) || {};
 
   done.forEach((topicId) => {
-    renderTopicProgress(topicId, 'ýerine ýetirildi');
+    renderTopicProgress(topicId, 'ýerineýetirildi');
   });
 
   learning.forEach((topicId) => {

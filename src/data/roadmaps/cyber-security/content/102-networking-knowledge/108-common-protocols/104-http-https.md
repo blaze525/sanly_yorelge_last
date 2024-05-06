@@ -1,23 +1,23 @@
 # HTTP / HTTPS
 
-HTTP (Hypertext Transfer Protocol) and HTTPS (Hypertext Transfer Protocol Secure) are two important protocols that are crucial for transferring data over the internet. They form the primary means of communication between web servers and clients (browsers).
+HTTP (Gipertekst Transfer Protokoly) we HTTPS (Gipertekst Transfer Protokoly Howpsuzlygy) maglumatlary internet arkaly geçirmek üçin möhüm iki protokoldyr. Web serwerleri we müşderiler (brauzerler) arasynda esasy aragatnaşyk serişdesini emele getirýärler.
 
 ## HTTP
 
-HTTP is an application-layer protocol that allows clients and servers to exchange information, such as web pages, images, and other content. When you visit a website, your browser sends an HTTP request to the server, which then responds with the requested data. This data is then rendered by your browser.
+HTTP, müşderilere we serwerlere web sahypalary, suratlar we beýleki mazmun ýaly maglumat alyşmaga mümkinçilik berýän programma gatlagy protokolydyr. Web sahypasyna gireniňizde, brauzeriňiz serwere HTTP haýyşyny iberýär, soň bolsa talap edilýän maglumatlar bilen jogap berýär. Soňra bu maglumatlar brauzeriňiz tarapyndan görkezilýär.
 
-HTTP operates on a stateless, request-response model. This means that each request is independent of the others, making it a fast and efficient way of transmitting data.
+HTTP raýatsyz, haýyş-jogap modelinde işleýär. Bu, her haýyşyň beýlekilerden garaşsyzdygyny, maglumatlary geçirmegiň çalt we täsirli usulydygyny aňladýar.
 
-However, HTTP has one significant drawback — it's not secure. Since it's transmitted in plain text, anyone intercepting the traffic can easily read the content of the messages. This makes HTTP unsuitable for sensitive information like passwords or credit card numbers.
+Şeýle-de bolsa, HTTP-iň bir möhüm kemçiligi bar - bu howpsuz däl. Adaty tekstde berilýändigi sebäpli, traffige päsgel berýän her bir adam habarlaryň mazmunyny aňsatlyk bilen okap biler. Bu, parol ýa-da kredit kartoçkasynyň belgileri ýaly duýgur maglumatlar üçin HTTP-ni ýaramsyz edýär.
 
 ## HTTPS
 
-To address the security concerns of HTTP, HTTPS was introduced as a secure alternative. HTTPS uses encryption to ensure that data transmitted between the client and server is confidential and cannot be deciphered by a third-party.
+HTTP-iň howpsuzlyk meselelerini çözmek üçin ygtybarly alternatiwa hökmünde HTTPS girizildi. HTTPS, müşderi bilen serweriň arasynda iberilýän maglumatlaryň gizlin we üçünji tarap tarapyndan kesgitlenip bilinmejekdigini üpjün etmek üçin şifrlemäni ulanýar.
 
-HTTPS uses either SSL (Secure Sockets Layer) or TLS (Transport Layer Security) to encrypt data. These cryptographic protocols provide end-to-end security, ensuring data integrity and authentication. When you visit a website with HTTPS, you can be confident that your information is being securely transmitted.
+HTTPS maglumatlary şifrlemek üçin SSL (Secure Sockets Layer) ýa-da TLS (Transport Layer Security) ulanýar. Bu kriptografiki protokollar, maglumatlaryň bitewiligini we hakykylygyny üpjün edip, ahyrky howpsuzlygy üpjün edýär. HTTPS bilen bir web sahypasyna gireniňizde, maglumatlaryňyzyň ygtybarly berilýändigine arkaýyn bolup bilersiňiz.
 
-To implement HTTPS, websites need to obtain an SSL/TLS certificate from a trusted Certificate Authority (CA). This certificate authenticates the website's identity and helps establish a secure connection between the client and server.
+HTTPS-i durmuşa geçirmek üçin web sahypalary ygtybarly şahadatnama edarasyndan (CA) SSL / TLS şahadatnamasyny almaly. Bu şahadatnama, web sahypasynyň şahsyýetini tassyklaýar we müşderi bilen serweriň arasynda ygtybarly baglanyşyk gurmaga kömek edýär.
 
-## In Summary
+## Gysgaça mazmunda
 
-When browsing the internet, always look for the padlock icon in the address bar, which indicates a secure HTTPS connection. This helps protect your personal information from being intercepted by attackers. As a website owner or developer, it's crucial to prioritize implementing HTTPS, to provide a secure and trustworthy experience for your users.
+Internete göz aýlanyňyzda, elmydama ygtybarly HTTPS birikmesini görkezýän salgy setirinde gulplama nyşanyny gözläň. Bu, şahsy maglumatlaryňyzy hüjümçiler tarapyndan saklanmagyna kömek edýär. Web sahypasynyň eýesi ýa-da dörediji hökmünde, HTTPS-i durmuşa geçirmegi ileri tutmak, ulanyjylaryňyz üçin ygtybarly we ygtybarly tejribe bermek möhümdir.

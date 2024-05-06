@@ -1,54 +1,54 @@
-# CompTIA Linux+
+# CompTIA Linux +
 
-The CompTIA Linux+ certification is an entry-level certification aimed at individuals who are seeking to learn and demonstrate their skills and knowledge of the Linux operating system. This certification is widely recognized in the IT industry as an essential qualification for entry-level Linux administrators and helps them gain a strong foundation in Linux system administration tasks.
+CompTIA Linux + kepilnamasy, Linux operasiýa ulgamyndaky başarnyklaryny we bilimlerini öwrenmek we görkezmek isleýän adamlara gönükdirilen giriş derejesindäki sertifikatdyr. Bu kepilnama, giriş derejesindäki Linux dolandyryjylary üçin möhüm kär hökmünde IT pudagynda giňden tanalýar we Linux ulgamynyň dolandyryş meselelerinde berk binýady gazanmaga kömek edýär.
 
-## Overview
+## Gysgaça syn
 
-- **Difficulty Level:** Beginner
-- **Certification Type:** Professional
-- **Exam Format:** Multiple-choice and performance-based
-- **Duration:** 90 minutes
-- **Number of Questions:** Maximum of 90
-- **Passing Score:** 720 (on a scale of 100-900)
+- ** Kynçylyk derejesi: ** Başlangyç
+- ** Şahadatnamanyň görnüşi: ** Hünärmen
+- ** Synag formaty: ** Köp saýlawly we öndürijilikli
+- ** Dowamlylygy: ** 90 minut
+- ** Soraglaryň sany: ** Iň köp 90
+- ** Geçen bal: ** 720 (100-900 şkalada)
 
-## Topics Covered
+## Mowzuklar
 
-The CompTIA Linux+ certification covers various aspects related to Linux, including:
+CompTIA Linux + şahadatnamasy Linux bilen baglanyşykly dürli taraplary öz içine alýar:
 
-- **System Architecture:** Hardware settings, boot sequence, kernel modules, and system boot.
-- **Linux Installation and Package Management:** Designing hard disk layout, installing a boot manager, managing shared libraries, using Debian and RPM package management.
+- ** Ulgam arhitekturasy: ** Enjam sazlamalary, ýükleme yzygiderliligi, ýadro modullary we ulgam ýüklemesi.
+- ** Linux gurnama we paket dolandyryşy: ** Gaty disk düzülişini dizaýn etmek, boot menejeri gurmak, umumy kitaphanalary dolandyrmak, Debian we RPM paket dolandyryşyny ulanmak.
 
-- **GNU and Unix Commands:** Bash commands, text processing, redirection and pipes, and managing processes.
-- **Devices, Linux Filesystems, and Filesystem Hierarchy Standard:** Creating and configuring filesystems, maintaining the integrity of filesystems, managing disk quotas, and using file permissions to control access.
+- ** GNU we Unix buýruklary: ** Baş buýruklar, teksti gaýtadan işlemek, gönükdirmek we turbalar we amallary dolandyrmak.
+- ** Enjamlar, Linux faýl ulgamlary we faýl ulgamynyň iýerarhiýa standarty: ** Faýl ulgamlaryny döretmek we düzmek, faýl ulgamlarynyň bitewiligini saklamak, disk kwotalaryny dolandyrmak we giriş ygtyýaryna gözegçilik etmek üçin faýl rugsatlaryny ulanmak.
 
-- **Shells, Scripting, and Data Management:** Customizing and writing shell scripts, managing SQL data, and using regular expressions.
-- **User Interfaces and Desktops:** Installing X11, setting up display managers, and managing accessibility settings.
+- ** Gabyklar, skriptler we maglumatlary dolandyrmak: ** Gabyk skriptlerini özleşdirmek we ýazmak, SQL maglumatlaryny dolandyrmak we yzygiderli aňlatmalary ulanmak.
+- ** Ulanyjy interfeýsleri we iş stollary: ** X11 gurmak, displeý dolandyryjylaryny gurmak we elýeterlilik sazlamalaryny dolandyrmak.
 
-- Administrative Tasks: Managing user and group accounts, automating system administration tasks, localization, and system logging.
-- Essential System Services: Configuring, managing, and troubleshooting network services, time synchronization, and system logging.
+- Dolandyryş wezipeleri: Ulanyjy we topar hasaplaryny dolandyrmak, ulgam dolandyryş meselelerini awtomatlaşdyrmak, lokalizasiýa we ulgam ýazgylary.
+- Esasy ulgam hyzmatlary: Tor hyzmatlaryny düzmek, dolandyrmak we näsazlyklary düzetmek, wagt sinhronizasiýasy we ulgam ýazgylary.
 
-- Network Fundamentals: Addressing and routing fundamentals, troubleshooting network issues, and configuring DNS clients.
-- Security: Perform security administration tasks, set up host security, and secure data with encryption.
+- Tor esaslary: Esasy meselelere ýüzlenmek we marşrutlaşdyrmak, tor meselelerini çözmek we DNS müşderilerini düzmek.
+- Howpsuzlyk: Howpsuzlyk dolandyryş meselelerini ýerine ýetiriň, ýer eýesiniň howpsuzlygyny düzüň we şifrlemek bilen maglumatlary ygtybarly ediň.
 
-## Skills Gained
+## Başarnyklar
 
-By earning the CompTIA Linux+ certification, you will be equipped with the knowledge and skills to:
+CompTIA Linux + şahadatnamasyny gazanyp, size bilim we başarnyklar berler:
 
-- Install, configure, and maintain Linux systems.
-- Perform essential Linux system administration tasks.
-- Troubleshoot and resolve issues related to Linux systems.
-- Implement basic security measures on Linux systems.
+- Linux ulgamlaryny guruň, sazlaň we hyzmat ediň.
+- Linux ulgamynyň dolandyryş meselelerini ýerine ýetiriň.
+- Linux ulgamlary bilen baglanyşykly meseleleri çözüň we çözüň.
+- Linux ulgamlarynda esasy howpsuzlyk çärelerini durmuşa geçiriň.
 
-## Exam Preparation
+## Synaga taýýarlyk
 
-CompTIA provides a range of study materials and resources, including:
+CompTIA okuw materiallaryny we çeşmelerini öz içine alýar:
 
-- CompTIA Linux+ Study Guide: Thoroughly covers the exam objectives to help you prepare for the certification.
-- CompTIA Linux+ CertMaster Practice: A comprehensive online practice platform that helps you assess your knowledge and identify areas for improvement.
-- CompTIA Linux+ CertMaster Learn: Interactive learning experience offering a customizable learning path, flashcards, quizzes, and assessments.
+- CompTIA Linux + Okuw gollanmasy: Şahadatnama taýýarlanmaga kömek etmek üçin synag synaglarynyň maksatlaryny doly öz içine alýar.
+- “CompTIA Linux + CertMaster Practice”: bilimleriňize baha bermäge we gowulaşmak üçin ugurlary kesgitlemäge kömek edýän giňişleýin onlaýn tejribe platformasy.
+- CompTIA Linux + CertMaster Öwreniň: Düzülip bilinýän okuw ýoluny, fleşkartlary, wiktorinalary we bahalandyrmalary hödürleýän interaktiw okuw tejribesi.
 
-## Conclusion
+## Netije
 
-The CompTIA Linux+ certification is an excellent starting point for aspiring Linux professionals, as it validates essential skills required for entry-level Linux administration roles. By obtaining this certification, you can enhance your career prospects and demonstrate your competence to potential employers. So, buckle up and start your Linux journey with the CompTIA Linux+ certification!
+CompTIA Linux + sertifikaty, isleýän Linux hünärmenleri üçin ajaýyp başlangyç nokady, sebäbi giriş derejeli Linux dolandyryş rollary üçin zerur hünärleri tassyklaýar. Bu şahadatnamany almak bilen, kär derejäňizi ösdürip we potensial iş berijilere öz başarnygyňyzy görkezip bilersiňiz. Şeýlelik bilen, “CompTIA Linux +” şahadatnamasy bilen Linux syýahatyňyzy başlaň!
 
-- [Linux Basics](https://linuxjourney.com/)
+- [Linux esaslary] (https://linuxjourney.com/)

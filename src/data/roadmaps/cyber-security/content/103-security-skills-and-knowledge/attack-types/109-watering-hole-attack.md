@@ -1,22 +1,22 @@
-# Watering Hole Attack
+# Suw çukury hüjümi
 
-A **watering hole attack** is a targeted cyber attack in which an attacker observes the websites frequently visited by a specific group or organization and seeks to compromise those sites in order to infect their desired targets. These attacks are named after the natural predator-prey relationship; much like how predators wait near a watering hole to hunt their prey.
+**Watering Hole Attack** nyşana alyjy, belli bir topar ýa-da gurama tarapyndan ýygy-ýygydan girilýän web sahypalaryna syn edýär we islenýän nyşanlaryna ýokaşmak üçin şol saýtlardan ýüz öwürmäge synanyşýar. Bu hüjümler ýyrtyjy-ýyrtyjy tebigy gatnaşyklaryň adyny göterýär; ýyrtyjylary awlaryny awlamak üçin suw çukurynyň ýanynda nädip garaşýandyklary ýaly.
 
-In this type of attack, the attacker does not directly target the victims; instead, they focus on the websites that the targeted users commonly visit. Here's a step-by-step breakdown of a typical watering hole attack:
+Hüjümiň bu görnüşinde hüjümçi pidalary gönüden-göni nyşana almaýar; tersine, maksatly ulanyjylaryň köplenç girýän web sahypalaryna ünsi jemleýärler. Ine, adaty Watering Hole Attackniň ädimme-ädim bölünişi:
 
-- **Identify Target**: The attacker identifies a specific organization or group they want to target, like a government agency or a corporation.
-- **Study Behavior**: The attacker studies the internet browsing behavior of the target users, observing which websites they frequently visit.
-- **Compromise Website**: The attacker exploits vulnerabilities in one or more of the target websites and injects malicious code into them. This could be through a vulnerable plugin, weak passwords, or even by gaining access to the site's hosting platform.
-- **Infect Victims**: When the target users visit the compromised websites, they unknowingly download the malicious code onto their machines, allowing the attacker to further exploit the infected devices.
+- **Maksady kesgitläň**: Hüjümçi, döwlet edarasy ýa-da korporasiýa ýaly nyşana almak isleýän belli bir guramasyny ýa-da toparyny kesgitleýär.
+- **Okuw häsiýeti**: Hüjümçi, haýsy web sahypalaryna ýygy-ýygydan girýändiklerine gözegçilik edip, maksatly ulanyjylaryň internetde gezmek häsiýetini öwrenýär.
+- **Ylalaşyk web sahypasy**: Hüjümçi maksatly web sahypalarynyň birinde ýa-da köpüsinde gowşak goralanlyklardan peýdalanýar we olara zyýanly kod girizýär. Bu gowşak bir plugin, gowşak parollar ýa-da sahypanyň hosting platformasyna girmek arkaly bolup biler.
+- **Ýokanç pidalar**: Maksatly ulanyjylar bozulan web sahypalaryna girenlerinde, bilgeşleýin zyýanly kody maşynlaryna göçürip alýarlar, hüjümçä ýokaşan enjamlary mundan beýläk ulanmaga mümkinçilik berýär.
 
-## Detection and Prevention
+## Ýüze çykarmak we öňüni almak
 
-To protect against watering hole attacks, it is important to adopt best practices, including:
+Watering Hole Attack hüjümlerinden goramak üçin iň oňat tejribeleri kabul etmek möhümdir, şol sanda:
 
-- Regularly updating software on both servers and user devices.
-- Installing robust security plugins for websites.
-- Adopting a strong password policy and using multi-factor authentication.
-- Conducting cybersecurity awareness training to educate your employees.
-- Implementing network and endpoint security solutions to detect and prevent intrusions.
+- Serwerlerde we ulanyjy enjamlarynda programma üpjünçiligini yzygiderli täzeläp durmak.
+- Web sahypalary üçin ygtybarly howpsuzlyk plaginlerini gurmak.
+- Güýçli parol syýasatyny kabul etmek we köp faktorly tanamaklygy ulanmak.
+- Işgärleriňize bilim bermek üçin kiberhowpsuzlyk boýunça okuw geçirmek.
+- Çozuşlary ýüze çykarmak we olaryň öňüni almak üçin tor we ahyrky howpsuzlyk çözgütlerini durmuşa geçirmek.
 
-In conclusion, a watering hole attack is a subtle yet dangerous vector for cybercriminals to infiltrate their targets' systems. Organizations should prioritize cybersecurity hygiene and user education to minimize the risks posed by these attacks.
+Sözümiň ahyrynda, Watering Hole Attack kiber jenaýatçylaryň nyşanalarynyň ulgamlaryna aralaşmagy üçin inçe, ýöne howply wektor. Guramalar, bu hüjümlerden döreýän töwekgelçilikleri azaltmak üçin kiberhowpsuzlyk arassaçylygyny we ulanyjy bilimini ileri tutmalydyrlar.

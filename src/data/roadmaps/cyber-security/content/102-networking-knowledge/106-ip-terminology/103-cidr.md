@@ -1,23 +1,23 @@
 # CIDR
 
-CIDR, or Classless Inter-Domain Routing, is a method of allocating IP addresses and routing Internet Protocol packets in a more flexible and efficient way, compared to the older method of Classful IP addressing. Developed in the early 1990s, CIDR helps to slow down the depletion of IPv4 addresses and reduce the size of routing tables, resulting in better performance and scalability of the Internet.
+CIDR, ýa-da Klassyz domenara marşrutlaşdyrma, IP adresleri paýlamagyň we Internet Protocol paketlerini Klassiki IP adresiniň köne usuly bilen deňeşdirilende has çeýe we täsirli usulda ugrukdyrmagyň usulydyr. 1990-njy ýyllaryň başynda işlenip düzülen CIDR, IPv4 salgylarynyň könelmegini haýallatmaga we marşrut tablisalarynyň göwrümini azaltmaga kömek edýär, netijede internetiň has gowy işlemegine we ulalmagyna sebäp bolýar.
 
-## How CIDR works
+## CIDR nähili işleýär
 
-CIDR achieves its goals by replacing the traditional Class A, B, and C addressing schemes with a system that allows for variable-length subnet masking (VLSM). In CIDR, an IP address and its subnet mask are written together as a single entity, referred to as a _CIDR notation_.
+CIDR adaty A, B we C synp shemalaryny üýtgeýän uzynlykdaky subnet maskasyna (VLSM) mümkinçilik berýän ulgam bilen çalyşmak arkaly öz maksatlaryna ýetýär. CIDR-de, IP adresi we subnet maskasy, _CIDR belligi_ diýlip atlandyrylýan ýeke birlik hökmünde ýazylýar.
 
-A CIDR notation looks like this: `192.168.1.0/24`. Here, `192.168.1.0` is the IP address, and `/24` represents the subnet mask. The number after the slash (/) is called the _prefix length_, which indicates how many bits of the subnet mask should be set to 1 (bitmask). The remaining bits of the subnet mask are set to 0.
+CIDR belligi şuňa meňzeýär: "192.168.1.0 / 24". Bu ýerde "192.168.1.0" IP adresi, "/ 24" bolsa subnet maskasyny görkezýär. Çyzgydan (/) sana _prefix uzynlygy_ diýilýär, bu subnet maskasynyň näçe bitiniň 1 (bitmask) bolmalydygyny görkezýär. Subnet maskasynyň galan bölekleri 0-a düzüldi.
 
-For example, a `/24` prefix length corresponds to a subnet mask of `255.255.255.0`, because the first 24 bits are set to 1. This allows for 256 total IP addresses in the subnet, with 254 of these IPs available for devices (The first and last IP are reserved for the network address and broadcast address, respectively).
+Mysal üçin, "/ 24" prefiks uzynlygy "255.255.255.0" subnet maskasyna gabat gelýär, sebäbi ilkinji 24 bit 1-e gabat gelýär, bu subnetdäki jemi 256 IP adresi üpjün edýär, bu IP-leriň 254-si bar enjamlar (Birinji we soňky IP degişlilikde tor salgysy we ýaýlym salgysy üçin saklanýar).
 
-## Advantages of CIDR
+## CIDR-iň artykmaçlyklary
 
-- **Efficient IP allocation:** CIDR allows for more granular allocation of IPv4 addresses, reducing wasted IP space.
-- **Reduction of routing table size:** CIDR enables route aggregation (route summarization), which combines multiple network routes to a single routing table entry.
-- **Decreased routing updates:** By allowing routers to share more generalized routing information, the number of routing updates gets significantly reduced, improving network stability and reducing router workload.
+- ** Netijeli IP paýlanyşy: ** CIDR IPv4 salgylaryny has köp granulirlemäge mümkinçilik berýär, biderek IP boşlugyny azaldýar.
+- ** marşrutlaşdyryş tablisasynyň ululygynyň azalmagy: ** CIDR birnäçe marşrut marşrutyny bir marşrut tablisasynyň girişine birleşdirýän marşrutlary jemlemäge mümkinçilik berýär.
+- ** marşrutlaşdyryş täzelenmeleriniň azalmagy: ** Marşrutizatorlara has umumylaşdyrylan marşrut maglumatlary paýlaşmaga rugsat bermek bilen, marşrut täzelenmeleriniň sany ep-esli azalýar, toruň durnuklylygyny ýokarlandyrýar we marşrutizatoryň iş ýüküni azaldýar.
 
-## CIDR in IPv6
+## IPv6-da CIDR
 
-CIDR also plays a crucial role in the IPv6 addressing system, where the use of CIDR notation and address aggregation has become even more critical in managing the immense address space of IPv6 efficiently.
+Şeýle hem, CIDR IPv6 salgy ulgamynda möhüm rol oýnaýar, bu ýerde IPv6-nyň ägirt uly salgy giňişligini netijeli dolandyrmakda CIDR belligini we adresi jemlemek has möhüm bolup durýar.
 
-In conclusion, CIDR is an essential component of modern IP networking systems, enabling better utilization of IP address space and improving the overall scalability and performance of the Internet. It's crucial for network administrators and security professionals to have a solid understanding of CIDR, as it plays a significant role in configuring, managing, and securing IP networks.
+Sözümiň ahyrynda, CIDR häzirki zaman IP ulgam ulgamlarynyň möhüm bölegi bolup, IP adres giňişligini has gowy ulanmaga mümkinçilik berýär we internetiň umumy göwrümini we işleýşini gowulandyrýar. Tor dolandyryjylary we howpsuzlyk hünärmenleri üçin CIDR-ä berk düşünmek möhümdir, sebäbi IP torlaryny sazlamakda, dolandyrmakda we üpjün etmekde möhüm rol oýnaýar.
