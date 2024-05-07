@@ -1,4 +1,4 @@
-## CLI Tools
+## CLI Toolss
 
 > A bunch of CLI scripts to make the development easier
 
