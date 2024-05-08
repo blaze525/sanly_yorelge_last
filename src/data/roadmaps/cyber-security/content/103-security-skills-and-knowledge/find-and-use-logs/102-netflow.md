@@ -1,26 +1,26 @@
 # netflow
 
-NetFlow is a network protocol developed by Cisco that collects and monitors network traffic flow data. It provides valuable information about network usage, performance, and potential security threats, which can be helpful in cyber security analysis and incident response.
+NetFlow, Cisco tarapyndan işlenip düzülen tor protokoly bolup, tor trafigi baradaky maglumatlary ýygnaýar we gözegçilikde saklaýar. Toruň ulanylyşy, öndürijiligi we potensial howpsuzlyk howplary barada gymmatly maglumatlary berýär, bu kiberhowpsuzlyk derňewinde we hadysalara jogap bermekde peýdaly bolup biler.
 
-## How NetFlow Works
+## NetFlow nähili işleýär
 
-NetFlow-enabled devices (such as routers, switches, and firewalls) analyze the IP packets passing through them and generate flow records. A flow record is a set of key field values that characterize the traffic flow, including source and destination IP addresses, source and destination ports, protocol type, and more. These flow records are then periodically exported to a NetFlow collector, which aggregates, analyzes, and stores the data for further processing.
+NetFlow bilen işleýän enjamlar (marşrutizatorlar, switchler we diwar diwarlary ýaly) olaryň içinden geçýän IP paketleri derňeýär we akym ýazgylaryny döredýär. Akym ýazgysy, çeşme we barjak IP adresleri, çeşme we barjak portlar, protokol görnüşi we başgalary öz içine alýan traffigi häsiýetlendirýän esasy meýdan bahalarynyň toplumydyr. Soňra bu akym ýazgylary wagtal-wagtal maglumatlary ýygnamak, derňemek we saklamak üçin NetFlow kollektoryna wagtal-wagtal eksport edilýär.
 
-## Benefits of Using NetFlow Data for Cyber Security
+## Kiberhowpsuzlyk üçin NetFlow maglumatlary ulanmagyň artykmaçlyklary
 
-- **Visibility**: NetFlow data provides greater visibility into your network traffic, allowing you to monitor who is accessing your network, what resources they are using, and when they are doing so.
-- **Threat Detection**: By analyzing NetFlow data, you can uncover anomalous behaviors, detect security incidents, and identify potential insider threats.
-- **Forensics**: NetFlow logs can serve as evidence for forensic investigations when a security breach occurs.
-- **Optimization**: Analyzing NetFlow data can help optimize network performance by identifying bandwidth hogs, misconfigurations, or bottlenecks.
-- **Compliance**: NetFlow data can be used to demonstrate compliance with regulatory requirements or internal policies by proving that specific controls are in place.
+- **Gözegçilik**: NetFlow maglumatlary toruňyza kimiň girýändigini, haýsy çeşmeleri ulanýandygyny we haçan edýändigine gözegçilik etmäge mümkinçilik berýän tor trafigiňizde has görnükliligi üpjün edýär.
+- **Howplary ýüze çykarmak**: NetFlow maglumatlaryny seljermek bilen, anomal hereketleri açyp bilersiňiz, howpsuzlyk hadysalaryny ýüze çykaryp we içerki howplary kesgitläp bilersiňiz.
+- **Kriminalistika**: NetFlow loglary, howpsuzlyk bozulanda kazyýet derňewleri üçin subutnama bolup biler.
+- **Optimizasiýa**: NetFlow maglumatlaryny seljermek, geçirijilik giňligini, ýalňyş konfigurasiýalary ýa-da päsgelçilikleri kesgitlemek arkaly toruň işleýşini optimizirlemäge kömek edip biler.
+- **Ylalaşyk**: NetFlow maglumatlary, belli bir gözegçilikleriň bardygyny subut etmek bilen kadalaşdyryjy talaplaryň ýa-da içerki syýasatlaryň berjaý edilişini görkezmek üçin ulanylyp bilner.
 
-## How to Get Started with NetFlow
+## NetFlow bilen nädip başlamaly
 
-To implement NetFlow in your organization, you need to follow these steps:
+NetFlow-y guramaňyzda durmuşa geçirmek üçin şu ädimleri ýerine ýetirmeli:
 
-- **Enable NetFlow**: Configure NetFlow on your routers, switches, and firewalls. Most vendors support NetFlow or an equivalent flow-based protocol.
-- **Set up a NetFlow Collector**: Deploy a NetFlow collector server that receives, aggregates, and stores the exported flow records. There are both open-source (such as ntopng, Flowalyzer) and commercial solutions (such as SolarWinds, Plixer) available.
-- **Analyze and Monitor**: Use a NetFlow analysis tool or platform to filter, visualize, and explore your network traffic data. This can be the same tool as your NetFlow collector, or a separate solution that integrates with it.
-- **Integrate with Other Security Tools**: Enhance your security posture by correlating NetFlow data with other security tools such as intrusion detection systems, security information, and event management (SIEM), threat intelligence, and more.
+- **NetFlow-y işletmek**: NetFlow-yňyzy marşrutizatorlarda, wyklýuçatellerde we diwar diwarlarynda sazlaň. Satyjylaryň köpüsi NetFlow ýa-da şoňa meňzeş akym esasly protokoly goldaýarlar.
+- **NetFlow kollektoryny gurmak**: Eksport edilen akym ýazgylaryny alýan, jemleýän we saklaýan NetFlow kollektor serwerini ýerleşdiriň. Açyk çeşme (ntopng, Flowalyzer ýaly) we täjirçilik çözgütleri (SolarWinds, Plixer ýaly) bar.
+- **Analiz we gözegçilik**: Tor trafik maglumatlaryňyzy süzmek, wizuallaşdyrmak we öwrenmek üçin NetFlow derňew guralyny ýa-da platformasyny ulanyň. Bu, NetFlow kollektoryňyz bilen birmeňzeş gural ýa-da onuň bilen birleşýän aýratyn çözgüt bolup biler.
+- **Beýleki howpsuzlyk gurallary bilen birleşdirmek**: NetFlow maglumatlaryny çozuşy kesgitlemek ulgamlary, howpsuzlyk maglumatlary we hadysalary dolandyrmak (SIEM), howp howpy we ş.m. ýaly beýleki howpsuzlyk gurallary bilen korrelýasiýa edip, howpsuzlyk ýagdaýyňyzy ýokarlandyryň.
 
-By incorporating NetFlow into your cyber security strategy, you can greatly improve your network visibility, threat detection capabilities, and overall security posture.
+NetFlow-ny kiberhowpsuzlyk strategiýaňyza goşmak bilen, toruňyzyň görnükliligini, howpy ýüze çykarmak mümkinçiliklerini we umumy howpsuzlyk ýagdaýyny ep-esli ýokarlandyryp bilersiňiz.

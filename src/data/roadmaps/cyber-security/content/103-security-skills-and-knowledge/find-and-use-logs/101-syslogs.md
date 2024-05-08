@@ -1,28 +1,28 @@
-# syslogs
+# Syslogs
 
-Syslogs, short for System Logs, are essential components in the world of cybersecurity as they represent a consolidated logging system that operates on a central server. It collects and stores log messages from various devices and applications within an organization's network. Syslogs provide insights into system events, errors, and activities occurring within the network, enabling administrators and security teams to monitor and analyze the data.
+Ulgam loglary üçin gysga bolan “Syslogs”, kiberhowpsuzlyk dünýäsinde möhüm bölekler bolup durýar, sebäbi olar merkezi serwerde işleýän jebisleşdirilen hasaba alyş ulgamyny görkezýärler. Guramanyň torundaky dürli enjamlardan we amaly programmalardan gündelik habarlary ýygnaýar we saklaýar. Syslogs ulgam dolandyryjylary we howpsuzlyk toparlaryna maglumatlary gözegçilikde saklamaga we seljermäge mümkinçilik berýän ulgam hadysalary, ýalňyşlyklar we torda bolup geçýän işler barada düşünje berýär.
 
-## Benefits of Syslogs
+## Syslogs-yň peýdalary
 
-- Centralized Logging: Syslogs are centralized repositories for log data, making it easier to monitor multiple devices and applications from a single location.
-- Troubleshooting & Analysis: The data from syslogs can be used to troubleshoot issues or discover potential security breaches, allowing for a faster resolution and improved overall network security.
-- Regulatory Compliance: Syslogs can help organizations meet industry-specific standards and guidelines by keeping a record of system events and data.
-- Efficient Storage: Centralized storage allows for efficient data management, reducing the need for manual log management across different devices.
+- Merkezleşdirilen hasaba alyş: Syslogs, hasaba alyş maglumatlary üçin merkezleşdirilen ammar bolup, bir ýerden birnäçe enjamy we goýmany gözegçilikde saklamagy aňsatlaşdyrýar.
+- Näsazlyklary düzetmek we seljermek: sysloglardan alnan maglumatlar has çalt çözülmäge we umumy ulgam howpsuzlygyny ýokarlandyrmaga mümkinçilik berýän meseleleri çözmek ýa-da howpsuzlyk bozulmalaryny ýüze çykarmak üçin ulanylyp bilner.
+- Düzgünleşdiriji ylalaşyk: Syslogs guramalara ulgam hadysalaryny we maglumatlary ýazga almak arkaly pudaga mahsus standartlara we görkezmelere laýyk gelmäge kömek edip biler.
+- Netijeli ammar: Merkezleşdirilen ammar, dürli enjamlar boýunça el bilen dolandyrmak zerurlygyny azaldyp, maglumatlary netijeli dolandyrmaga mümkinçilik berýär.
 
-## Types of Syslog Messages
+## Syslog habarlarynyň görnüşleri
 
-Syslog messages can be categorized into three parts:
+Syslog habarlaryny üç bölege bölmek bolar:
 
-- **Facility**: The source of the log entry, usually a system process, daemon or application.
-- **Severity**: A numeric code that denotes the level of urgency of the logged event or message (0-7) where 0 is the highest (most urgent) and 7 is the lowest (least urgent).
-- **Message**: The actual descriptive text of the log entry.
+- **Enjam**: entryurnal ýazgysynyň çeşmesi, adatça ulgam prosesi, daemon ýa-da programma.
+- **Göterijiligi**: 0 iň ýokary (iň gyssagly) we 7 iň pes (iň gyssagly) bolan hasaba alnan hadysanyň ýa-da habaryň (0-7) gyssaglylyk derejesini aňladýan san kody.
+- **Habar görnüşi**: Gündeligiň ýazgysynyň hakyky düşündiriş teksti.
 
-## Syslog Configuration
+## Syslog konfigurasiýasy
 
-Setting up a syslog server usually involves installing a syslog daemon, configuring it to listen for incoming log messages, and defining the log storage location. Popular syslog server software includes `rsyslog`, `syslog-ng`, and `Windows Event Collector`. Configuring syslog clients is done by specifying the IP address or hostname of the syslog server and the protocol used for communication. Once the setup is complete, the syslog server will begin receiving and storing log messages from the configured clients.
+Syslog serwerini gurmak, adatça syslog daemonyny gurmagy, gelýän gündelik habarlary diňlemek üçin sazlamagy we gündeligiň saklanýan ýerini kesgitlemegi öz içine alýar. Meşhur syslog serwer programma üpjünçiligine "rsyslog", "syslog-ng" we "Windows Event Collector" girýär. Syslog müşderilerini sazlamak, syslog serweriniň IP adresini ýa-da host adyny we aragatnaşyk üçin ulanylýan protokoly görkezmek arkaly amala aşyrylýar. Gurnama tamamlanandan soň, syslog serweri sazlanan müşderilerden gündelik habarlary alyp we saklap başlar.
 
-## Analyzing Syslog Data
+## Syslog maglumatlary analiz etmek
 
-Syslog data analysis can be complicated due to the volume and variety of log messages. However, various log analysis tools, such as Graylog, Logstash, and Splunk, simplify this process by providing features like data visualization, filtering, and alerting. These syslog analysis tools extract valuable information from raw log data and help identify patterns, trends, and potential threats.
+Syslog maglumat derňewi, gündelik habarlaryň göwrümi we dürlüligi sebäpli çylşyrymly bolup biler. Şeýle-de bolsa, “Graylog”, “Logstash” we “Splunk” ýaly dürli gündelik derňew gurallary maglumatlary görmek, süzmek we duýduryş ýaly aýratynlyklary bermek arkaly bu prosesi aňsatlaşdyrýar. Bu syslog derňew gurallary çig gündelik maglumatlaryndan gymmatly maglumatlary çykarýar we nagyşlary, ugurlary we bolup biljek howplary kesgitlemäge kömek edýär.
 
-In conclusion, syslogs are a powerful resource for monitoring, troubleshooting, and securing your organization's network. By utilizing syslog servers and analysis tools, security teams can gather and analyze valuable data to maintain compliance and ensure the overall health of their network.
+Sözümiň ahyrynda, sysloglar gözegçilik etmek, näsazlyklary düzetmek we guramaňyzyň ulgamyny goramak üçin güýçli çeşme bolup durýar. Syslog serwerlerini we derňew gurallaryny ulanmak bilen, howpsuzlyk toparlary laýyklygy saklamak we torunyň umumy saglygyny üpjün etmek üçin gymmatly maglumatlary ýygnap we derňäp bilerler.

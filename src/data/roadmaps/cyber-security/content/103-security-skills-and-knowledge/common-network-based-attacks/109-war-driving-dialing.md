@@ -15,7 +15,7 @@ War-driving/dialing, hüjümçiniň açyk ýa-da gowşak goragly simsiz torlary 
 
 War-driving/dialing şuňa meňzeş hüjüm usulydyr, ýöne modemleri we faks enjamlaryny gözlemek üçin köp sanly telefon liniýalaryna jaň etmegi öz içine alýar. War-driving/dialing hüjümçä ygtybarly telefon liniýalaryny we rugsatsyz giriş nokatlaryny kesgitlemäge mümkinçilik berýär.
 
-## War-driving/dialingnyň esasy elementleri
+## War-driving/dialing-nyň esasy elementleri
 
 - **Ýüze çykarmak**: War-driving/dialing programma üpjünçiligini ulanyp, bir topar telefon belgilerine jaň etmek, modem ýa-da faks enjamlaryny gözlemekden başlaýar.
 - **Kartalaşdyrmak**: Hüjümçi degişli baglanyşyk äheňi bilen jogap beren telefon belgileriniň sanawyny ýygnaýar.

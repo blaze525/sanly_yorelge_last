@@ -1,19 +1,19 @@
 # Duzlaşdyrmak
 
-Duzlamak kriptografiýa pudagynda möhüm düşünje. Bu, parollaryň ýa-da şoňa meňzeş duýgur maglumatlaryň howpsuzlygyny ýokarlandyrmak üçin ulanylýan usul, zalym güýç hüjümleri ýa-da sözlük hüjümleri ýaly haker synanyşyklaryndan goramak üçin goşmaça gorag gatlagyny goşmak arkaly ulanylýar.
+Duzlamak kriptografiýa ylymynda esasy düşünjeleriň biri. Bu, parollaryň ýa-da şoňa meňzeş duýgur maglumatlaryň howpsuzlygyny ýokarlandyrmak üçin ulanylýan usul, brute force hüjümleri ýa-da sözlükli brute force hüjümleri ýaly haker synanyşyklaryndan goramak üçin goşmaça gorag gatlagyny goşmak arkaly ulanylýar.
 
-Bu bölümde aşakdaky mowzuklara has çuňňur öwreneris:
+Bu bölümde aşakdaky mowzuklary has çuňňur öwreneris:
 
 - [Duzlamak näme?] (# Duzlamak näme)
-- [Näme üçin duzlamak möhüm?] (# Näme üçin duzlamak möhüm)
-- [Duzlamak nähili işleýär?] (# Duzlamak nähili işleýär)
-- [Duzlamak üçin iň oňat tejribe] (# iň oňat tejribe-duzlamak üçin)
+- [Näme üçin duzlamak möhüm?] (#Näme üçin duzlamak möhüm)
+- [Duzlamak nähili işleýär?] (#Duzlamak nähili işleýär)
+- [Duzlamak üçin iň oňat tejribe] (#iň oňat tejribe-duzlamak üçin)
 
 ---
 
 ## Duzlamak näme?
 
-A _salt_, ýuwulmazdan ozal ulanyjynyň paroly (ýa-da başga bir duýgur maglumatlar) bilen döredilýän we birleşdirilen tötänleýin maglumatlar setiridir. Duzyň esasy maksady, iki ulanyjy şol bir paroly ulansa-da, parolyň ýuwulan çykyşyny üýtgeşik etmekdir. Duzlar adatça her ulanyjy üçin tötänleýin döredilýändigi sebäpli, iki ulanyjynyň bir duzuň bolmagy ähtimallygy gaty az.
+A _salt_, duzlanmazdan ozal ulanyjynyň paroly (ýa-da başga bir duýgur maglumatlar) bilen döredilýän we birleşdirilen tötänleýin maglumatlar setiridir. Duzyň esasy maksady, iki ulanyjy şol bir paroly ulansa-da, parolyň ýuwulan çykyşyny üýtgeşik etmekdir. Duzlar adatça her ulanyjy üçin tötänleýin döredilýändigi sebäpli, iki ulanyjynyň bir duzuň bolmagy ähtimallygy gaty az.
 
 ## Näme üçin duzlamak möhüm?
 

@@ -1,42 +1,42 @@
-# Packet Captures
+# Paketiň saklanmagy (Paket tutup almak)
 
-Packet captures, also known as _pcaps_, refer to the interception and logging of network traffic. In a cybersecurity context, analyzing packet captures can provide valuable insight into network activity, potential threats, and vulnerabilities. This section will introduce you to the essentials of packet captures and introduce some popular tools used for capturing and analyzing network traffic.
+Paket almak, _pcaps_ diýlip hem atlandyrylýar, tor trafiginiň saklanmagyny we hasaba alynmagyny aňladýar. Kiberhowpsuzlyk nukdaýnazaryndan, ele alnan paketleriň derňewi toruň işjeňligi, bolup biljek howplar we gowşak goralanlyklar barada gymmatly maglumatlary berip biler. Bu bölümde, paket almagyň esaslaryny öwrenersiňiz we tor trafigini ele almak we derňemek üçin ulanylýan käbir meşhur gurallar bilen tanyşarsyňyz.
 
-## Why are Packet Captures Important?
+## Paket almak näme üçin möhüm?
 
-Analyzing packet captures allows cybersecurity professionals to:
+Geçirilen paketleriň derňewi kiberhowpsuzlyk hünärmenlerine:
 
-- Monitor network activity for unusual or malicious behavior
-- Inspect and debug network performance issues
-- Investigate security incidents by tracing malicious activity
-- Ensure compliance with regulations by tracking sensitive data movement
+- Adaty bolmadyk ýa-da zyýanly hereketler üçin tor işjeňligine gözegçilik ediň.
+- Toruň öndürijilik meselelerini barlaň we çözüň.
+- Zyýanly işleri yzarlamak bilen howpsuzlyk hadysalaryny derňäň.
+- Duýgur maglumatlaryň hereketini yzarlamak arkaly berjaý edilmegini üpjün ediň.
 
-Being able to effectively analyze packet captures is a critical skill for anyone involved in network monitoring or incident response.
+Alnan paketleri netijeli seljermek ukyby, tor gözegçiligine ýa-da hadysalara jogap bermekde gatnaşýan her bir adam üçin möhüm ussatlykdyr.
 
-## Common Packet Capture Tools
+## Umumy paket almak gurallary
 
-There are several widely used packet capture tools worth familiarizing yourself with:
+Köplenç ulanylýan paket ýuwmak gurallary bar, olar bilen tanyşmaga mynasyp:
 
-- **Wireshark**: A popular, open-source network protocol analyzer that allows you to capture and interactively analyze network traffic. Wireshark supports filtering, decryption, and flexible analysis options.
+- **Wireshark**: Tor trafigini ele almaga we interaktiw derňemäge mümkinçilik berýän meşhur açyk çeşme tor protokol analizatory. Wireshark süzmek, şifrlemek we çeýe derňew mümkinçiliklerini goldaýar.
 
-- **Tcpdump**: A powerful command-line tool for capturing network traffic. Tcpdump is lightweight, versatile, and compatible with most Unix-based operating systems.
+- **Tcpdump**: Tor trafigini ele almak üçin güýçli buýruk setiri guraly. Tcpdump ýeňil, köptaraply we Unix esasly operasiýa ulgamlarynyň köpüsine laýyk gelýär.
 
-- **Tshark**: A command-line version of Wireshark, providing many of its powerful features in a lightweight and scriptable tool.
+- **Tshark**: weeňil, ýazyp boljak guralda köp güýçli aýratynlyklary üpjün edýän Wireshark-iň buýruk setiri wersiýasy.
 
-- **Nmap**: A flexible network discovery and security auditing tool. Not only can Nmap perform packet captures, but also host and port scanning, OS and service detection, and vulnerability assessments.
+- **Nmap**: Çeýe tor açyşy we howpsuzlyk barlag guraly. Nmap diňe bir paket düşürmek bilen çäklenmän, eýsem host we port skanerini, OS we hyzmat açyşyny, gowşak goralanlygy bahalandyryp bilýär.
 
-## Tips for Analyzing Packet Captures
+## Paketiň derňewi üçin maslahatlar
 
-When working with packet captures, consider the following best practices:
+Paket saklamak bilen işläniňizde, aşakdaky maslahatlary göz öňünde tutuň:
 
-- **Filtering**: Use capture filters to narrow down the displayed traffic based on specific criteria, such as IP addresses, protocols, or ports. This will enable you to focus on relevant data and reduce information overload.
+- **Filtrlemek**: IP salgylary, protokollary ýa-da portlary ýaly kesgitli kriteriýalara esaslanýan görýän traffigiňizi daraltmak üçin surata düşüriň. Bu size möhüm maglumatlara ünsi jemlemäge we maglumatlaryň artykmaç ýüklenmegini azaltmaga mümkinçilik berer.
 
-- **Organizing**: Maintain an organized folder structure and clear naming conventions for your pcap files. This simplifies the retrieval and analysis of historical data during investigations.
+- **Gurama**: Guramaçylykly bukjanyň gurluşyny we PCAP faýllaryňyz üçin at dakmak konwensiýalaryny saklaň. Derňew wagtynda taryhy maglumatlary tapmagy we derňemegi aňsatlaşdyrýar.
 
-- **Decryption**: Encrypted network traffic might hinder your analysis. Understanding how to decrypt protocols such as SSL/TLS or WPA/WPA2 will enable you to examine packet contents in detail.
+- **Şifrlemek**: Şifrlenen tor trafigi siziň derňewiňize päsgel berip biler. SSL / TLS ýa-da WPA / WPA2 ýaly protokollary nädip açyp biljekdigine düşünmek, paketiň mazmunyny jikme-jik öwrenmäge mümkinçilik berer.
 
-- **Correlation**: Combine packet capture analysis with other sources of information, such as logs, alerts, or threat intelligence, to obtain a comprehensive view of network activity.
+- **Korrelýasiýa**: Tor işjeňligi barada giňişleýin maglumat almak üçin paket almak derňewini gündelik maglumatlar, duýduryşlar ýa-da howp habarlary ýaly birleşdiriň.
 
-## Conclusion
+## Netije
 
-Packet captures are a vital component of cybersecurity, allowing professionals to monitor, detect, and respond to potential threats in a timely and effective manner. By understanding the various tools and techniques related to packet captures, you'll be well-equipped to take on this crucial aspect of your cybersecurity responsibilities.
+Paketiň saklanmagy, hünärmenlere bolup biljek howplara öz wagtynda we täsirli gözegçilik etmäge, ýüze çykarmaga we olara jogap bermäge mümkinçilik berýän kiberhowpsuzlygyň möhüm düzüm bölegi bolup durýar. Paketiň saklanmagy bilen baglanyşykly dürli gurallara we usullara düşünmek bilen, kiberhowpsuzlyk jogapkärçiligiňiziň bu möhüm tarapyny almaga taýyn bolarsyňyz.

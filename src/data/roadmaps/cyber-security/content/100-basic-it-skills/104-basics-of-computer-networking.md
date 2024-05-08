@@ -7,16 +7,16 @@ Kompýuter ulgamy, iki ýa-da has köp hasaplaýyş enjamyny birikdirmek, maglum
 Birnäçe enjam dürli enjamlaryň arasynda aragatnaşygy üpjün edýär we aňsatlaşdyrýar. Umumy ulgam enjamlary şulary öz içine alýar:
 
 - ** Hub **: Maglumat paketlerini tordaky ähli enjamlara iberýän dürli enjamlary birleşdirýän enjamlar.
-- ** Wyklýuçateller **: konsentratorlara meňzeýär, ýöne maglumat paketlerini hemmelere ýaýratmagyň ýerine diňe belli enjamlara iberiň.
+- ** Switchler **: konsentratorlara meňzeýär, ýöne maglumat paketlerini hemmelere ýaýratmagyň ýerine diňe belli enjamlara iberiň.
 - ** Marşrutizatorlar **: Maglumat paketlerini torlaryň arasynda ugrukdyrýan we maglumat paketleriniň barmaly ýerine ýetmek üçin iň oňat ýoly üpjün edýän enjamlar.
-- ** Gorag diwarlary **: Gelýän we çykýan tor trafigine gözegçilik edýän we süzýän enjamlar ýa-da programma üpjünçiligi, diňe ygtyýarly maglumatlaryň geçmegine mümkinçilik berýär.
+- ** Gorag diwarlary (Firewallar) **: Gelýän we çykýan tor trafigine gözegçilik edýän we süzýän enjamlar ýa-da programma üpjünçiligi, diňe ygtyýarly maglumatlaryň geçmegine mümkinçilik berýär.
 
 ## Tor görnüşleri
 
 Aralyk aralygyna we birikdirýän enjamlarynyň sanyna baglylykda dürli görnüşli torlar bar. Birnäçe umumy tor görnüşleri:
 
 - ** Şahsy meýdan tory (PAN) **: Enjamlary aýratyn iş meýdanynda, adatça 10 metr aralykda birleşdirýär.
-- ** Areaerli meýdan tory (LAN) **: Öý ýa-da ofis ýaly köp sanly kompýuter we beýleki enjamlary birleşdirýän kiçijik geografiki meýdany öz içine alýar.
+- ** Lokal meýdan tory (LAN) **: Öý ýa-da ofis ýaly köp sanly kompýuter we beýleki enjamlary birleşdirýän kiçijik geografiki meýdany öz içine alýar.
 - ** Giňişleýin tor (WAN) **: Dürli LAN-lary birleşdirip, köplenç kärendesine alnan telekommunikasiýa liniýalaryny ýa-da simsiz baglanyşyklary ulanyp, has uly geografiki meýdany öz içine alýar.
 - ** Wirtual Hususy Tor (VPN) **: Geçirilen maglumatlary şifrlemek we diňe ygtyýarly ulanyjylara girişi çäklendirmek üçin jemgyýetçilik internetinde döredilen ygtybarly ulgam.
 

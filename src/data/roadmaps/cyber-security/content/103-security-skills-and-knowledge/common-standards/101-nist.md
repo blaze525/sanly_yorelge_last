@@ -1,36 +1,36 @@
 # NIST
 
-[NIST](https://www.nist.gov/) is an agency under the U.S. Department of Commerce that develops and promotes measurement, standards, and technology. One of their primary responsibilities is the development of cyber security standards and guidelines, which help organizations improve their security posture by following the best practices and recommendations laid out by NIST.
+[NIST] (https://www.nist.gov/) ABŞ-nyň Söwda ministrliginiň çäginde ölçegi, standartlary we tehnologiýany ösdürýän we öňe sürýän edara. Esasy jogapkärçiliklerinden biri, NIST tarapyndan kesgitlenen iň oňat tejribelere we maslahatlara eýerip, guramalara howpsuzlyk ýagdaýyny gowulaşdyrmaga kömek edýän kiberhowpsuzlyk ülňülerini we görkezmelerini işläp düzmekdir.
 
-Some important NIST publications related to cyber security are:
+Kiberhowpsuzlygy bilen baglanyşykly käbir möhüm NIST neşirleri:
 
-## NIST Cybersecurity Framework
+## NIST Kiberhowpsuzlyk Freýmworky
 
-The [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) provides a structure for managing cyber risks and helps organizations understand, communicate, and manage their cyber risks. It outlines five core functions:
+[NIST kiberhowpsuzlyk Freýmworky] (https://www.nist.gov/cyberframework) kiber töwekgelçiliklerini dolandyrmak üçin bir gurluş döredýär we guramalara kiber töwekgelçiliklerine düşünmäge, aragatnaşyk saklamaga we dolandyrmaga kömek edýär. Bäş esasy funksiýany görkezýär:
 
-- Identify – Develop understanding of risks to systems, assets, data, and capabilities
-- Protect – Implement safeguards to ensure delivery of critical infrastructure services
-- Detect – Identify occurrence of a cybersecurity event in a timely manner
-- Respond – Take action on detected cybersecurity events to contain the impact
-- Recover – Maintain plans for resilience and restore capabilities or services impaired due to a cybersecurity event
+- Kesgitlemek - Ulgamlar, aktiwler, maglumatlar we mümkinçilikler üçin töwekgelçiliklere düşünmegi ösdüriň
+- Goramak - möhüm infrastruktura hyzmatlarynyň berilmegini üpjün etmek üçin kepillikleri durmuşa geçiriň
+- Detüze çykarmak - Kiberhowpsuzlyk hadysasynyň ýüze çykmagyny öz wagtynda kesgitläň
+- Jogap beriň - Täsirini saklamak üçin ýüze çykarylan kiberhowpsuzlyk hadysalaryna çäre görüň
+- Dikeltmek - Kiberhowpsuzlyk hadysasy sebäpli bozulan mümkinçilikleri ýa-da hyzmatlary dikeltmek meýilnamalaryny saklaň
 
-## NIST Special Publication 800-53 (SP 800-53)
+## NIST tarapyndan ýörite makala 800-53 (SP 800-53)
 
-[NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) provides guidelines for selecting security and privacy controls for federal information systems as well as for systems that process federal information. This publication defines specific security and privacy controls that can be applied to address various risk factors and offers guidance on tailoring these controls for the unique needs of an organization.
+[NIST SP 800-53] (https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) federal maglumat ulgamlary üçin, şeýle hem howpsuzlyk we gizlinlik gözegçiligini saýlamak üçin görkezmeler berýär. federal maglumatlary gaýtadan işleýän ulgamlar. Bu neşir dürli töwekgelçilik faktorlaryny çözmek üçin ulanylyp bilinjek anyk howpsuzlyk we gizlinlik gözegçiligini kesgitleýär we bu gözegçilikleri guramanyň üýtgeşik zerurlyklary üçin düzmek boýunça görkezmeleri hödürleýär.
 
-## NIST Special Publication 800-171 (SP 800-171)
+## NIST tarapyndan ýörite makala 800-171 (SP 800-171)
 
-[NIST SP 800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final) addresses security requirements for protecting controlled unclassified information (CUI) in non-federal information systems and organizations. It is particularly relevant for entities that work with federal agencies, as they must meet these requirements in order to manage and safeguard CUI effectively.
+[NIST SP 800-171] (https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final) federal däl maglumatlarda gözegçilik astynda saklanmadyk maglumatlary (CUI) goramak üçin howpsuzlyk talaplaryny çözýär ulgamlary we guramalary. Bu, esasanam federal agentlikler bilen işleýän guramalar üçin has möhümdir, sebäbi CUI-ni netijeli dolandyrmak we goramak üçin bu talaplary berjaý etmeli.
 
-## NIST Risk Management Framework (RMF)
+## NIST töwekgelçiliklerini dolandyrmagyň Freýmworky (RMF)
 
-The [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management/) provides a structured process for organizations to manage security and privacy risks using NIST guidelines and standards. This framework consists of six steps:
+**Bu Freýmwork alty ädimden ybarat:**
 
-- Categorize Information Systems
-- Select Security Controls
-- Implement Security Controls
-- Assess Security Controls
-- Authorize Information Systems
-- Monitor Security Controls
+- Maglumat ulgamlaryny toparlara bölüň
+- Howpsuzlyk Dolandyryşlaryny saýlaň
+- Howpsuzlyk dolandyryşlaryny ýerine ýetiriň
+- Howpsuzlyk dolandyryşlaryna baha beriň
+- Maglumat ulgamlaryna ygtyýar beriň
+- Howpsuzlyk gözegçiligine gözegçilik ediň
 
-By following NIST cyber security standards, organizations can reduce their vulnerability to cyber-attacks and enhance their overall security posture.
+NIST kiberhowpsuzlyk ugurlaryna eýerip, guramalar kiberhüjümleriň gowşaklygyny azaldyp, umumy howpsuzlyk ýagdaýyny ýokarlandyryp bilerler.
