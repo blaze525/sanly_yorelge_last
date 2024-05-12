@@ -33,7 +33,7 @@ const videos = await getAllVideos();
         .filter((roadmapItem) => !roadmapItem.frontmatter.isHidden)
         .map((roadmapItem) => ({
           text: roadmapItem.frontmatter.briefTitle,
-          url: `/${roadmapItem.id}`,
+          url: `http://localhost:3000/${roadmapItem.id}`,
           isNew: roadmapItem.frontmatter.isNew,
           isUpcoming: roadmapItem.frontmatter.isUpcoming,
         }))}
@@ -46,8 +46,8 @@ const videos = await getAllVideos();
         .filter((roadmapItem) => !roadmapItem.frontmatter.isHidden)
         .map((roadmapItem) => ({
           text:
-            roadmapItem.frontmatter.briefTitle === 'Go SanlyÝörelge'
-              ? 'Go SanlyÝörelge'
+            roadmapItem.frontmatter.briefTitle === 'SanlyÝörelge'
+              ? 'SanlyÝörelge'
               : roadmapItem.frontmatter.briefTitle,
           url: `/${roadmapItem.id}`,
           isNew: roadmapItem.frontmatter.isNew,

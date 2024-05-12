@@ -50,20 +50,23 @@ export type QuestionGroupType = RawQuestionGroupFileType & {
  */
 export async function getAllQuestionGroups(): Promise<QuestionGroupType[]> {
   const questionGroupFilesMap =
-    await import.meta.glob<RawQuestionGroupFileType>(
+    import.meta.glob<RawQuestionGroupFileType>(
       `/src/data/question-groups/*/*.md`,
       {
         eager: true,
-      },
+      }
     );
 
-  const answerFilesMap = await import.meta.glob<string>(
+  const answerFilesMap = import.meta.glob<string>(
     // get the files inside /src/data/question-groups/[ignore]/content/*.md
     `/src/data/question-groups/*/content/*.md`,
     {
       eager: true,
-      as: 'raw',
-    },
+    // Update `as: 'raw'` to `query: '?raw', import: 'default'`
+      query: '?raw',
+      import: 'default',
+
+    }
   );
 
   return Object.values(questionGroupFilesMap)

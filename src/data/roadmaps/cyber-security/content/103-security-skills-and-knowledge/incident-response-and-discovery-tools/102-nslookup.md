@@ -1,44 +1,44 @@
 # nslookup
 
-NSLookup, short for "Name Server Lookup", is a versatile network administration command-line tool used for querying the Domain Name System (DNS) to obtain information associated with domain names and IP addresses. This tool is available natively in most operating systems such as Windows, MacOS, and Linux distributions.
+NSLookup, "Name Server Lookup" üçin gysga, domen atlary we IP adresleri bilen baglanyşykly maglumatlary almak üçin Domain Name System (DNS) -ni soramak üçin ulanylýan köpugurly ulgam dolandyryş buýruk setiridir. Bu gural Windows, MacOS we Linux paýlamalary ýaly operasiýa ulgamlarynyň köpüsinde ýerli görnüşde elýeterlidir.
 
-## Using NSLookup
+## NSLookup ulanmak
 
-To use NSLookup, open the command prompt or terminal on your device and enter the command `nslookup`, followed by the domain name or IP address you want to query. For example:
+NSLookup ulanmak üçin enjamyňyzda buýruk buýrugyny ýa-da terminaly açyň we soramak isleýän domen adyňyz ýa-da IP adresiňiz bilen "nslookup" buýrugyny giriziň. Mysal üçin:
 
-```
+``
 nslookup example.com
-```
+``
 
-## Features of NSLookup
+## NSLookup-nyň aýratynlyklary
 
-- **DNS Record Types**: NSLookup supports various DNS record types like A (IPv4 address), AAAA (IPv6 address), MX (Mail Exchange), NS (Name Servers), and more.
+- **DNS ýazgy görnüşleriň gözlegi**: NSLookup A (IPv4 salgy), AAAA (IPv6 salgy), MX (poçta alyş-çalşygy), NS (at serwerleri) we başgalar ýaly dürli DNS ýazgy görnüşlerini goldaýar.
 
-- **Reverse DNS Lookup**: You can perform reverse DNS lookups to find the domain name associated with a specific IP address. For example:
+- ** Ters DNS gözlegi **: Belli bir IP adresi bilen baglanyşykly domen adyny tapmak üçin ters DNS gözleglerini amala aşyryp bilersiňiz. Mysal üçin:
 
-  ```
-  nslookup 192.0.2.1
-  ```
+   ``
+   nslookup 192.0.2.1
+   ``
 
-- **Non-interactive mode**: NSLookup can execute single queries without entering the interactive mode. To do this, simply execute the command as mentioned earlier.
+- **Interaktiw däl režim**: NSLookup interaktiw däl režim girmän ýekeje soragy ýerine ýetirip biler. Munuň üçin, ýokarda aýdylyşy ýaly buýrugy ýerine ýetiriň.
 
-- **Interactive mode**: Interactive mode allows you to carry out multiple queries during a single session. To enter the interactive mode, type nslookup without any arguments in your terminal.
+- **Interaktiw režim**: Interaktiw režim, bir buýrukda birnäçe soragy ýerine ýetirmäge mümkinçilik berýär. Interaktiw režime girmek üçin terminalyňyzda hiç hili argument bolmazdan nslookup ýazyň.
 
-## Limitations
+## Çäklendirmeler
 
-Despite being a useful tool, NSLookup has some limitations:
+Peýdaly gural bolandygyna garamazdan, NSLookup-yň käbir çäklendirmeleri bar:
 
-- No support for DNSSEC (Domain Name System Security Extensions).
-- Obsolete or not maintained in some Unix-based systems, replaced with more modern utilities like `dig`.
+- DNSSEC (Domain Name System Security Extensions) üçin goldaw ýok.
+- Käbir "Unix" esasly ulgamlarda köne ýa-da saklanmadyk, "dig" ýaly has döwrebap enjamlar bilen çalşylýar.
 
-## Alternatives
+## Başga alternatiwalar
 
-Some alternatives to NSLookup include:
+NSLookup-a käbir alternatiwalar:
 
-- **dig**: "Domain Information Groper" is a flexible DNS utility that supports a wide range of DNS record types and provides more detailed information than NSLookup.
+- **dig**: "Domain Information Groper" DNS ýazgy görnüşleriniň köpüsini goldaýan we NSLookup-dan has giňişleýin maglumat berýän çeýe DNS kömekçi.
 
-- **host**: Another common DNS lookup tool that provides host-related information for both forward and reverse lookups.
+- **host**: Öňe we tersine gözlemek üçin öý eýesi bilen baglanyşykly maglumatlary berýän başga bir umumy DNS gözleg guraly.
 
-## Conclusion
+## Netije
 
-In summary, NSLookup is a handy DNS query tool for network administrators and users alike. It offers the basic functionality for finding associated domain names, IP addresses, and other DNS data while being simple to use. However, for more advanced needs, you should consider using alternatives like dig or host.
+Gysgaça aýtsak, NSLookup tor dolandyryjylary we ulanyjylar üçin amatly DNS talap guralydyr. Ulanylyşy ýönekeý bolsa, baglanyşykly domen atlaryny, IP adreslerini we beýleki DNS maglumatlary tapmak üçin esasy funksiýany hödürleýär. Şeýle-de bolsa, has ösen zerurlyklar üçin gazmak ýa-da alyp barmak ýaly alternatiwalary ulanmagy göz öňünde tutuň.

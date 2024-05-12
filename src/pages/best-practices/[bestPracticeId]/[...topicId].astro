@@ -23,7 +23,7 @@ export async function getStaticPaths() {
 const { file } = Astro.props as BestPracticeTopicFileType;
 
 const fileWithoutBasePath = file.file?.replace(/.+?\/src\/data/, '/src/data');
-const gitHubUrl = `https://github.com/kamranahmedse/developer-roadmap/tree/master${fileWithoutBasePath}`;
+const gitHubUrl = `https://github.com/blaze525/sanly_yorelge_last.git`;
 ---
 
 <div data-github-url={gitHubUrl}></div>

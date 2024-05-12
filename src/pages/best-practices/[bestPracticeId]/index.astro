@@ -43,7 +43,7 @@ if (bestPracticeData.schema) {
   const bestPracticeSchema = bestPracticeData.schema;
   jsonLdSchema.push(
     generateArticleSchema({
-      url: `https://roadmap.sh/best-practices/${bestPracticeId}`,
+      url: `http://localhost:3000/${bestPracticeId}`,
       headline: bestPracticeSchema.headline,
       description: bestPracticeSchema.description,
       datePublished: bestPracticeSchema.datePublished,
@@ -86,7 +86,7 @@ if (bestPracticeData.schema) {
         <div class='container relative !max-w-[1000px]'>
           <ShareIcons
             description={bestPracticeData.briefDescription}
-            pageUrl={`https://roadmap.sh/best-practices/${bestPracticeId}`}
+            pageUrl={`https://github.com/blaze525/sanly_yorelge_last.git/${bestPracticeId}`}
           />
 
           <TopicDetail client:idle canSubmitContribution={true} />

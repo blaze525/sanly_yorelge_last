@@ -21,18 +21,18 @@ export function shouldIndexPage(pageUrl) {
 
 export async function serializeSitemap(item) {
   const highPriorityPages = [
-    'http://localhost',
-    'http://localhost/about',
-    'http://localhost/roadmaps',
-    'http://localhost/best-practices',
-    'http://localhost/guides',
-    'http://localhost/videos',
+    'http://localhost:3000',
+    'http://localhost:3000/about',
+    'http://localhost:3000/roadmaps',
+    'http://localhost:3000/best-practices',
+    'http://localhost:3000/guides',
+    'http://localhost:3000/videos',
     ...(await getRoadmapIds()).flatMap((id) => [
-      `http://localhost/${id}`,
-      `http://localhost/${id}/topics`,
+      `http://localhost:3000/${id}`,
+      `http://localhost:3000/${id}/topics`,
     ]),
     ...(await getBestPracticesIds()).map(
-      (id) => `#/${id}`
+      (id) => `http://localhost:3000/best-practices/${id}`
     ),
   ];
 

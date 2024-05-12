@@ -68,7 +68,7 @@ export function FlowRoadmapRenderer(props: FlowRoadmapRendererProps) {
     }
 
     const isCurrentStatusDone = target?.classList.contains('done');
-    updateTopicStatus(node.id, isCurrentStatusDone ? 'pending' : 'done');
+    updateTopicStatus(node.id, isCurrentStatusDone ? 'dowamynda' : 'ýerineýetirildi');
   }, []);
 
   const handleTopicShiftClick = useCallback((e: MouseEvent, node: Node) => {
@@ -80,7 +80,7 @@ export function FlowRoadmapRenderer(props: FlowRoadmapRendererProps) {
     const isCurrentStatusLearning = target?.classList.contains('learning');
     updateTopicStatus(
       node.id,
-      isCurrentStatusLearning ? 'pending' : 'learning',
+      isCurrentStatusLearning ? 'dowamynda' : 'öwrenilýär',
     );
   }, []);
 
@@ -91,7 +91,7 @@ export function FlowRoadmapRenderer(props: FlowRoadmapRendererProps) {
     }
 
     const isCurrentStatusSkipped = target?.classList.contains('skipped');
-    updateTopicStatus(node.id, isCurrentStatusSkipped ? 'pending' : 'skipped');
+    updateTopicStatus(node.id, isCurrentStatusSkipped ? 'dowamynda' : 'geçilen');
   }, []);
 
   const handleTopicClick = useCallback((e: MouseEvent, node: Node) => {

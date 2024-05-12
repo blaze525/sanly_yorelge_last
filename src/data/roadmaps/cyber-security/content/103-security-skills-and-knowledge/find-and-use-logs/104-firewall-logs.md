@@ -39,5 +39,3 @@ Firewall loglaryny netijeli ulanmak üçin yzygiderli we täsirli gündelik der�
 - **Döwürleýin barlaglary we synlary ýerine ýetiriň:** Toruňyzyň ygtybarly bolmagyny üpjün etmek we zerur konfigurasiýa üýtgeşmelerini ýa-da optimizasiýalary kesgitlemek üçin Firewall loglaryňyzy yzygiderli gözden geçiriň.
 
 - **laýyklyk talaplaryna laýyklykda loglary saklaň:** Guramaňyzyň maglumatlary saklamak syýasatlaryna we hukuk kadalaryna laýyklykda Firewall loglaryňyzy saklamagyňyzy we saklamagyňyzy üpjün ediň.
-
-Firewally loglaryny dolandyrmagy netijeli durmuşa geçirip, guramaňyzyň kiberhowpsuzlyk ýagdaýyny ep-esli ýokarlandyryp bilersiňiz we bolup biljek howplara garşy has gowy taýýar bolup bilersiňiz.

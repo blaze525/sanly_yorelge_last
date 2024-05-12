@@ -1,14 +1,14 @@
 # curl
 
-Curl is a versatile command-line tool primarily used for transferring data using various network protocols. It is widely used in cybersecurity and development for the purpose of testing and interacting with web services, APIs, and scrutinizing web application security. Curl supports various protocols such as HTTP, HTTPS, FTP, SCP, SFTP, and many more.
+Curl, esasan, dürli ulgam protokollaryny ulanyp maglumatlary geçirmek üçin ulanylýan köpugurly buýruk setiridir. Web hyzmatlary, API-ler bilen synag we özara täsirleşmek we web programma howpsuzlygyny barlamak maksady bilen kiberhowpsuzlykda we ösüşde giňden ulanylýar. Curl, HTTP, HTTPS, FTP, SCP, SFTP we başgalar ýaly dürli protokollary goldaýar.
 
 **Features of Curl:**
 
-- Provides support for numerous protocols.
-- Offers SSL/TLS certificates handling and authentication.
-- Customizable HTTP request headers and methods.
-- Proxies and redirections support.
-- IPv6 support.
+- Köp sanly protokollary goldaýar.
+- SSL / TLS şahadatnamalaryny işlemek we tassyklamak tekliplerini hödürleýär.
+- Düzülip bilinýän HTTP talap sözbaşylary we usullary.
+- Proksi we gönükdirme goldawy.
+- IPv6 goldawy.
 
 ## Common Curl Use Cases in Cybersecurity:
 

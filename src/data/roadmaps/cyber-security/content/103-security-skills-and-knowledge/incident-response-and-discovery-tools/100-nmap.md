@@ -2,36 +2,35 @@
 
 ## Nmap
 
-Nmap, short for "Network Mapper," is a powerful and widely used open-source tool for network discovery, scanning, and security auditing. Nmap was originally designed to rapidly scan large networks, but it also works well for scanning single hosts. Security professionals, network administrators, and cyber security enthusiasts alike use Nmap to identify available hosts and services on a network, reveal their version information, and explore network infrastructure.
+Nmap, "Network Mapper" üçin gysga, skanirlemek we howpsuzlyk barlagy üçin güýçli we giňden ulanylýan açyk çeşme guralydyr. Nmap ilkibaşda uly torlary çalt gözlemek üçin döredilipdi, ýöne ýeke öý eýelerini skanirlemek üçinem gowy işleýär. Howpsuzlyk hünärmenleri, tor dolandyryjylary we kiberhowpsuzlyk höwesjeňleri, torda bar bolan öý eýelerini we hyzmatlaryny kesgitlemek, wersiýa maglumatlaryny açmak we tor infrastrukturasyny öwrenmek üçin Nmap-dan peýdalanýarlar.
 
-## Key Features
+## Esasy aýratynlyklary
 
-Nmap offers a multitude of features that can help you gather information about your network:
+Nmap, ulgamyňyz hakda maglumat ýygnamaga kömek edip biljek köp sanly aýratynlygy hödürleýär:
 
-- **Host Discovery** - Locating active devices on a network.
-- **Port Scanning** - Identifying open network ports and associated services.
-- **Version Detection** - Determining the software and version running on network devices.
-- **Operating System Detection** - Identifying the operating systems of scanned devices.
-- **Scriptable Interaction with the Target** - Using Nmap Scripting Engine (NSE) to automate tasks and extend functionality.
+- **Host gözlegi** - Torda işjeň enjamlary tapmak.
+- **Port skaneri** - Açyk tor portlaryny we baglanyşykly hyzmatlary kesgitlemek.
+- **Wersiýany kesgitlemek** - Tor enjamlarynda işleýän programma üpjünçiligini we wersiýasyny kesgitlemek.
+- **Operasion ulgamy kesgitlemek** - Skanirlenen enjamlaryň operasiýa ulgamlaryny kesgitlemek.
 
-## How It Works
+## Bu nähili işleýär
 
-Nmap sends specially crafted packets to the target hosts and analyzes the received responses. Based on this information, it detects active hosts, their operating systems, and the services they are running. It can be used to scan for open ports, check for vulnerabilities, and gather valuable information about target devices.
+Nmap maksatly öý eýelerine ýörite ýasalan paketleri iberýär we alnan jogaplary seljerýär. Bu maglumatlara esaslanyp, işjeň öý eýelerini, operasiýa ulgamlaryny we işleýän hyzmatlaryny kesgitleýär. Açyk portlary gözlemek, gowşak ýerleri barlamak we maksatly enjamlar barada gymmatly maglumatlary ýygnamak üçin ulanylyp bilner.
 
-## Example Usage
+## Mysal ulanylyşy
 
-Nmap is a command-line tool with several command options. Here is an example of a basic scan:
+Nmap, birnäçe buýruk opsiýasy bolan buýruk setiridir. Ine esasy skaneriň mysaly:
 
-```
+``
 nmap -v -A 192.168.1.1
-```
+``
 
-This command performs a scan on the target IP address `192.168.1.1`, with `-v` for verbose output and `-A` for aggressive scan mode, which includes operating system and version detection, script scanning, and traceroute.
+Bu buýruk, maksatly IP adresi "192.168.1.1" -de, ses çykarmak üçin "-v" we operasiýa ulgamyny we wersiýany kesgitlemek, skript skanerini we yzarlamagy öz içine alýan agressiw skaner rejimi üçin "-A" skaner edýär.
 
-## Getting Started with Nmap
+## Nmap bilen başlamak
 
-Nmap is available for download on Windows, Linux, and macOS. You can download the appropriate binary or source package from the [official Nmap website](https://nmap.org/download.html). Extensive documentation, including installation instructions, usage guidelines, and specific features, can be found on the [Nmap reference guide](https://nmap.org/book/man.html).
+Nmap Windows, Linux we macOS-da göçürip alyp bolýar. Degişli ikilik ýa-da çeşme bukjasyny [resmi Nmap web sahypasyndan] göçürip alyp bilersiňiz (https://nmap.org/download.html). Gurnama görkezmeleri, ulanyş görkezmeleri we aýratyn aýratynlyklary goşmak bilen giň resminamalary [Nmap salgylanma gollanmasy] (https://nmap.org/book/man.html) tapyp bilersiňiz.
 
-## Conclusion
+## Jemleme
 
-Understanding and using Nmap is an essential skill for any cyber security professional or network administrator. With its wide range of features and capabilities, it provides invaluable information about your network infrastructure, enabling you to detect vulnerabilities and improve overall security. Regularly monitoring your network with Nmap and other incident response and discovery tools is a critical aspect of maintaining a strong cyber security posture.
+Nmap-a düşünmek we ulanmak islendik kiberhowpsuzlyk hünärmeni ýa-da tor dolandyryjysy üçin möhüm ussatlykdyr. Dürli aýratynlyklary we mümkinçilikleri bilen, gowşak goralanlyklary ýüze çykarmaga we umumy howpsuzlygy ýokarlandyrmaga mümkinçilik berýän ulgam infrastrukturasy barada bahasyna ýetip bolmajak maglumatlary berýär. Nmap we beýleki hadysalara jogap we açyş gurallary bilen toruňyza yzygiderli gözegçilik etmek, güýçli kiberhowpsuzlygy saklamagyň möhüm tarapydyr.

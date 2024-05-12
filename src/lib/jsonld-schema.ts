@@ -26,14 +26,14 @@ export function generateArticleSchema(article: ArticleSchemaProps) {
     author: {
       '@type': 'Person',
       name: 'B.B',
-      url: '#',
+      url: 'https://github.com/blaze525/sanly_yorelge_last',
     },
     publisher: {
       '@type': 'Organization',
       name: 'Sanly Ýörelge',
       logo: {
         '@type': 'ImageObject',
-        url: '#',
+        url: 'http://localhost:3000/public/images/Logo.png',
       },
     },
     datePublished: datePublished,

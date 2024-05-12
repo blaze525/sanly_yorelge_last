@@ -1,6 +1,6 @@
 # CISM
 
-[Certified Information Security Manager - Sertifikatly maglumat howpsuzlygy dolandyryjysy (CISM)] (https://www.isaca.org/credentialing/cism), ISACA tarapyndan maglumat howpsuzlygyny dolandyrmaga gönükdirilen ösen kiberhowpsuzlyk şahadatnamasydyr. Maglumat howpsuzlygyna berk düşünýän we bir guramanyň maglumat howpsuzlygy programmalaryna gözegçilik etmek, taslamak we dolandyrmak üçin jogapkär hünärmenler üçin döredildi.
+[Certified Information Security Manager -   Sertifikatly maglumat howpsuzlygy dolandyryjysy (CISM)] (https://www.isaca.org/credentialing/cism), ISACA tarapyndan maglumat howpsuzlygyny dolandyrmaga gönükdirilen ösen kiberhowpsuzlyk şahadatnamasydyr. Maglumat howpsuzlygyna berk düşünýän we bir guramanyň maglumat howpsuzlygy programmalaryna gözegçilik etmek, taslamak we dolandyrmak üçin jogapkär hünärmenler üçin döredildi.
 
 ## CISM şahadatnamasyny kim yzarlamaly?
 

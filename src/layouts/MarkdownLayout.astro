@@ -2,7 +2,6 @@
 import BaseLayout from './BaseLayout.astro';
 
 const { frontmatter = {} } = Astro.props;
-const { title, description, noIndex = false } = frontmatter;
 ---
 
 <BaseLayout {...frontmatter}>

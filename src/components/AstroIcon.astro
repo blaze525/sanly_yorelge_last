@@ -12,7 +12,9 @@ async function getSVG(name: string) {
 
   const files = import.meta.glob<string>('/src/icons/**/*.svg', {
     eager: true,
-    as: 'raw',
+    // Update `as: 'raw'` to `query: '?raw', import: 'default'`
+    query: '?raw',
+    import: 'default',
   });
 
   if (!(filepath in files)) {

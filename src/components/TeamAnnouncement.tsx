@@ -9,8 +9,8 @@ export function TeamAnnouncement(props: TeamAnnouncementProps) {
       <span className="relative -top-[0.5px] mr-4 text-xs font-semibold  text-white">
         Täzelik 
       </span>{' '}
-      <span className={'hidden sm:inline'}>Sanly Ýörelge - bilen utgaşdyrlan meýilnama döretmek. <span className='font-semibold'>Giňişleýin!</span></span>
-      <span className={'inline sm:hidden'}>Sanly Ýörelge - bilen utgaşdyrlan meýilnama döretmek!</span>
+      <span className={'hidden sm:inline'}>Sanly Ýörelge - bu gelejege barýan ýoly sanlylaşdyrmak. <span className='font-semibold'>Giňişleýin!</span></span>
+      <span className={'inline sm:hidden'}>Sanly Ýörelge - bu gelejege barýan ýoly sanlylaşdyrmak.</span>
     </a>
   );
 }

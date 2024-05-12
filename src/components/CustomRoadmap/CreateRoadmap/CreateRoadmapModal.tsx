@@ -90,11 +90,11 @@ export function CreateRoadmapModal(props: CreateRoadmapModalProps) {
 
     if (error) {
       setIsLoading(false);
-      toast.error(error?.message || 'Something went wrong, please try again');
+      toast.error(error?.message || 'Ýalňyşlyk ýüze çykdy, täzeden synanyşyň!');
       return;
     }
 
-    toast.success('Roadmap created successfully');
+    toast.success('Ýörelge üstünlikli döredildi');
     if (redirect) {
       window.location.href = `${
         import.meta.env.PUBLIC_EDITOR_APP_URL
@@ -125,9 +125,9 @@ export function CreateRoadmapModal(props: CreateRoadmapModalProps) {
       wrapperClassName={cn(teamId && 'max-w-lg')}
     >
       <div className="mb-4">
-        <h2 className="text-lg font-medium text-gray-900">Create Roadmap</h2>
+        <h2 className="text-lg font-medium text-gray-900">Ýörelge döretmek</h2>
         <p className="mt-1 text-sm text-gray-500">
-          Add a title and description to your roadmap.
+        Döredilen ýörelgä at we düşündiriş goýuň.
         </p>
       </div>
       <form onSubmit={handleSubmit}>
@@ -136,7 +136,7 @@ export function CreateRoadmapModal(props: CreateRoadmapModalProps) {
             htmlFor="title"
             className="block text-xs uppercase text-gray-400"
           >
-            Roadmap Title
+            Ýörelgäniň ady
           </label>
           <div className="mt-1">
             <input
@@ -146,7 +146,7 @@ export function CreateRoadmapModal(props: CreateRoadmapModalProps) {
               id="title"
               required
               className="block text-black w-full rounded-md border border-gray-300 px-2.5 py-2 outline-none focus:border-black sm:text-sm"
-              placeholder="Enter Title"
+              placeholder="Adyny giriziň"
               value={title}
               onChange={(e) => setTitle(e.target.value)}
             />
@@ -157,7 +157,7 @@ export function CreateRoadmapModal(props: CreateRoadmapModalProps) {
             htmlFor="description"
             className="block text-xs uppercase text-gray-400"
           >
-            Description
+            Düşündiriş
           </label>
           <div className="relative mt-1">
             <textarea
@@ -189,7 +189,7 @@ export function CreateRoadmapModal(props: CreateRoadmapModalProps) {
               !teamId && 'w-full',
             )}
           >
-            Cancel
+            Yza gaýtmak
           </button>
 
           <div className={cn('flex items-center gap-2', !teamId && 'w-full')}>
@@ -203,7 +203,7 @@ export function CreateRoadmapModal(props: CreateRoadmapModalProps) {
                 {isLoading ? (
                   <Loader2 size={16} className="animate-spin" />
                 ) : (
-                  'Save as Placeholder'
+                  'Ýatda saklamak'
                 )}
               </button>
             )}

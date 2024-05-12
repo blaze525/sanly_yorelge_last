@@ -13,15 +13,15 @@ CISA aşakdaky ýaly rollary bolan hünärmenler üçin has amatlydyr:
 - IT barlagçylary
 - IT howpsuzlygy hünärmenleri
 - IT töwekgelçilik analitikleri
-- IT laýyklyk analitikleri
-- Howpsuzlyk boýunça geňeşçiler
+- IT analitikleri
+- Howpsuzlyk boýunça hünärmenler
 
 ## Synag we şertler
 
 CISA şahadatnamasyny almak üçin dalaşgärler giňişleýin synagdan geçmeli. CISA kepilnamasy üçin zerur şertler:
 
 - Maglumat ulgamlaryny barlamak, gözegçilik, kepillik ýa-da howpsuzlyk işlerinde bäş ýyllyk hünär tejribesi. Käbir çalyşmalar we boýun gaçyrmalar bilim üçin edilip bilner, emma maglumat ulgamlaryny barlamak ýa-da gözegçilik etmekde azyndan iki ýyl tejribe gerek.
-- ISACA hünär etikasy kodeksine razy.
+- ISACA hünär etikasy düzgünine razy.
 - Her ýylda azyndan 20 CPE sagat we 3 ýyllyk döwürde 120 sagat CPE talap edýän CISA üznüksiz hünär bilimi (CPE) maksatnamasyna boýun bolmak.
 
 Ekzameniň özi dört sagat dowam edýär we 150 sany köp soragdan ybarat. Bäş domeni öz içine alýar:
